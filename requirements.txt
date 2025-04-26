@@ -6,3 +6,7 @@ sqlite3
 profit
 numpy
 werkzeug.security
+streamlit
+requests
+google-generativeai
+python-dateutil
