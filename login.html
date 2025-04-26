@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 0;
+            display: flex;
+            height: 100vh;
+            align-items: center;
+            justify-content: center;
+            background-image: url('{{ url_for('static', filename='back6.png') }}');
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+    
+        .left-panel {
+            width: 40%;
+            height: 100%;
+            display: flex;
+            overflow: hidden;
+            margin-right: 300px;
+            gap: 5px;
+        }
+    
+        .image-column {
+            width: 50%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+    
+        .image-cycle-column-1,
+        .image-cycle-column-2 {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 80%;
+        }
+    
+        .image-cycle-column-1 {
+            animation: cycle-repeat 10s linear infinite;
+        }
+    
+        .image-cycle-column-2 {
+            animation: cycle-repeat 10s linear infinite;
+        }
+    
+        .image-cycle-column-1 img,
+        .image-cycle-column-2 img {
+            width: 100%;
+            max-height: none;
+            margin-bottom: 20px;
+            opacity: 1;
+            border-radius: 8px;
+            box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+            object-fit: contain;
+        }
+    
+        @keyframes cycle-repeat {
+            0% { transform: translateY(0); }
+            100% { transform: translateY(calc(-1 * (30vh + 20px))); }
+        }
+    
+        .right-panel {
+            width: 20%;
+            padding: 40px;
+            background-color: rgba(255, 255, 255, 0.7);
+            border-radius: 8px;
+            box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.1);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            justify-content: center;
+        }
+    
+        .right-panel h1 {
+            text-align: center;
+            margin-bottom: 20px;
+            width: 100%;
+            font-size: 2em;
+        }
+    
+        .right-panel div {
+            margin-bottom: 15px;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+    
+        .right-panel label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+            font-size: 1.1em;
+            text-align: center;
+            width: 80%;
+        }
+    
+        .right-panel input[type="text"],
+        .right-panel input[type="password"] {
+            width: 80%;
+            padding: 12px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+            font-size: 1.1em;
+            text-align: center;
+        }
+    
+        .right-panel button[type="submit"] {
+            background-color: #007bff;
+            color: white;
+            padding: 15px 30px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 1.2em;
+            transition: background-color 0.3s ease;
+            width: 80%;
+        }
+    
+        .right-panel button[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+    
+        .right-panel p {
+            margin-top: 25px;
+            font-size: 1em;
+            color: #666;
+            text-align: center;
+            width: 100%;
+        }
+    
+        .right-panel p a {
+            color: #007bff;
+            text-decoration: none;
+            font-size: 1em;
+        }
+    
+        .right-panel p a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="left-panel">
+        <div class="image-column">
+            <div class="image-cycle-column-1">
+                <img src="{{ url_for('static', filename='graph1.png') }}" alt="Image 1">
+                <img src="{{ url_for('static', filename='graph2.png') }}" alt="Image 2">
+                <img src="{{ url_for('static', filename='graph3.png') }}" alt="Image 3">
+                <img src="{{ url_for('static', filename='graph1.png') }}" alt="Image 1 Repeat">
+                <img src="{{ url_for('static', filename='graph2.png') }}" alt="Image 2 Repeat">
+                <img src="{{ url_for('static', filename='graph3.png') }}" alt="Image 3 Repeat">
+            </div>
+        </div>
+        <div class="image-column">
+            <div class="image-cycle-column-2">
+                <img src="{{ url_for('static', filename='graph4.png') }}" alt="Image 4">
+                <img src="{{ url_for('static', filename='graph5.png') }}" alt="Image 5">
+                <img src="{{ url_for('static', filename='graph6.png') }}" alt="Image 6">
+                <img src="{{ url_for('static', filename='graph4.png') }}" alt="Image 4 Repeat">
+                <img src="{{ url_for('static', filename='graph5.png') }}" alt="Image 5 Repeat">
+                <img src="{{ url_for('static', filename='graph6.png') }}" alt="Image 6 Repeat">
+            </div>
+        </div>
+    </div>
+    <div class="right-panel">
+        <h1>Login</h1>
+        <form action="/login" method="POST">
+            <div>
+                <label for="username">Username:</label>
+                <input type="text" id="username" name="username" required>
+            </div>
+            <br>
+            <div>
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password" required>
+            </div>
+            <br>
+            <button type="submit">Login</button>
+            <p style="color: red;">{{ error }}</p>
+        </form>
+        <p>Don't have an account? <a href="/register">Register here</a></p>
+    </div>
+</body>
+</html>

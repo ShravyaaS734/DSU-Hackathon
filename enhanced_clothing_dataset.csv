@@ -1,0 +1,1001 @@
+Date,Product,Category,Quantity,Price,Review Rating (out of 5),Payment Method,Age,Gender,Discount Applied,Customer Segment
+2024-12-09,Shorts,Bottoms,15,56.79,4.2,Credit Card,34,Male,True,Loyal
+2024-08-16,Jacket,Outerwear,16,146.22,3.6,UPI,34,Prefer Not to Say,True,Occasional
+2024-08-14,Jeans,Bottoms,15,72.95,4.1,Debit Card,30,Male,True,Loyal
+2024-11-16,Blouse,Tops,2,143.36,4.6,Cash,24,Female,False,Loyal
+2024-05-01,Jeans,Bottoms,18,86.18,4.2,Debit Card,21,Female,False,Loyal
+2024-09-29,Sweater,Outerwear,19,144.54,1.6,Debit Card,33,Male,False,Loyal
+2024-08-10,Skirt,Bottoms,14,81.43,2.7,UPI,26,Female,True,First-time
+2024-12-04,Shorts,Bottoms,4,52.05,4.6,UPI,27,Prefer Not to Say,True,Regular
+2024-07-31,Skirt,Bottoms,17,109.08,1.1,Net Banking,29,Female,True,First-time
+2024-08-05,Jacket,Outerwear,18,38.3,3.7,UPI,24,Female,True,Regular
+2024-08-23,Jacket,Outerwear,1,32.13,1.8,UPI,40,Female,True,First-time
+2025-04-17,Jacket,Outerwear,20,48.49,2.9,Wallet,55,Female,True,Loyal
+2024-11-03,Jacket,Outerwear,12,117.45,4.5,Debit Card,53,Prefer Not to Say,True,Regular
+2024-12-05,T-Shirt,Tops,16,18.71,1.7,Wallet,57,Non-Binary,False,First-time
+2024-08-16,Blouse,Tops,7,59.85,3.3,Wallet,61,Male,False,First-time
+2024-05-25,Sweater,Outerwear,17,61.04,2.4,Credit Card,21,Non-Binary,False,Occasional
+2025-02-26,Tank Top,Tops,11,16.93,1.3,Credit Card,46,Prefer Not to Say,True,Occasional
+2024-10-10,Skirt,Bottoms,18,132.61,3.1,UPI,46,Male,False,Regular
+2024-09-04,Shorts,Bottoms,14,33.52,1.9,UPI,51,Non-Binary,False,Regular
+2025-01-25,Hoodie,Outerwear,6,22.89,3.8,UPI,45,Female,True,Occasional
+2024-06-08,Blouse,Tops,7,94.4,2.7,Net Banking,24,Male,True,Regular
+2024-11-08,Skirt,Bottoms,18,100.82,2.4,Wallet,23,Prefer Not to Say,False,First-time
+2025-02-28,Jeans,Bottoms,2,146.69,4.7,Wallet,37,Prefer Not to Say,True,Loyal
+2025-02-26,Dress,One-piece,17,92.62,1.9,Cash,24,Prefer Not to Say,False,Occasional
+2024-12-30,Jeans,Bottoms,11,125.4,1.1,Net Banking,52,Male,False,Loyal
+2024-07-28,Jeans,Bottoms,3,43.25,2.9,UPI,46,Female,False,Loyal
+2024-08-23,T-Shirt,Tops,4,33.14,1.1,Net Banking,27,Non-Binary,False,First-time
+2025-02-16,Hoodie,Outerwear,3,89.81,1.2,UPI,43,Female,True,Regular
+2024-07-22,Skirt,Bottoms,9,100.35,4.8,Credit Card,39,Male,False,Occasional
+2024-11-15,Shorts,Bottoms,11,96.3,4.4,Net Banking,57,Female,True,Occasional
+2024-09-28,Sweater,Outerwear,3,96.9,2.5,Net Banking,21,Prefer Not to Say,True,Regular
+2024-07-29,T-Shirt,Tops,20,60.08,1.1,Wallet,41,Male,False,Loyal
+2024-11-24,Shorts,Bottoms,17,39.38,4.6,Credit Card,41,Female,True,Loyal
+2025-03-09,Blouse,Tops,17,17.61,2.9,UPI,33,Prefer Not to Say,True,First-time
+2024-07-13,Jacket,Outerwear,5,113.13,4.6,Wallet,26,Female,False,Regular
+2024-12-30,Skirt,Bottoms,9,102.59,2.2,Cash,56,Male,True,Regular
+2025-03-31,Jeans,Bottoms,17,106.69,4.6,Debit Card,27,Prefer Not to Say,True,Regular
+2024-11-23,T-Shirt,Tops,14,98.83,4.5,Net Banking,46,Non-Binary,False,Regular
+2025-01-18,Jacket,Outerwear,10,35.74,4.3,UPI,60,Prefer Not to Say,True,Occasional
+2025-03-17,Jacket,Outerwear,19,28.26,1.9,UPI,50,Non-Binary,True,Regular
+2024-09-01,Hoodie,Outerwear,4,149.96,4.6,Credit Card,26,Prefer Not to Say,False,Loyal
+2025-03-31,Sweater,Outerwear,2,114.5,2.4,Credit Card,54,Male,False,Loyal
+2024-11-11,Sweater,Outerwear,6,98.19,3.3,Cash,60,Non-Binary,True,First-time
+2025-03-06,Jacket,Outerwear,9,139.97,2.4,Net Banking,34,Prefer Not to Say,False,Loyal
+2024-11-06,Shorts,Bottoms,7,110.04,4.4,Credit Card,54,Non-Binary,True,First-time
+2025-01-13,Blouse,Tops,13,92.32,3.2,Net Banking,65,Male,False,Loyal
+2025-03-15,Dress,One-piece,8,124.75,2.7,UPI,18,Prefer Not to Say,False,Loyal
+2024-10-28,Hoodie,Outerwear,1,64.18,4.3,Debit Card,48,Prefer Not to Say,False,Loyal
+2024-06-05,Jacket,Outerwear,9,99.35,3.2,Debit Card,20,Female,True,First-time
+2024-06-01,Tank Top,Tops,6,123.06,3.5,Wallet,46,Male,True,Loyal
+2024-09-06,Jeans,Bottoms,5,49.57,1.7,Net Banking,34,Female,False,Loyal
+2024-07-14,T-Shirt,Tops,5,139.54,3.8,Wallet,49,Non-Binary,True,Regular
+2025-02-23,Jeans,Bottoms,7,95.19,4.0,UPI,33,Male,False,First-time
+2025-01-27,Jacket,Outerwear,3,146.74,1.1,Credit Card,52,Male,True,Loyal
+2024-06-12,Jeans,Bottoms,15,36.22,1.9,Credit Card,22,Prefer Not to Say,True,Regular
+2024-10-16,Tank Top,Tops,13,95.59,3.0,Credit Card,38,Female,True,First-time
+2024-10-28,T-Shirt,Tops,8,96.24,4.9,UPI,25,Female,True,First-time
+2025-02-12,Hoodie,Outerwear,1,120.25,4.2,Net Banking,63,Non-Binary,True,Occasional
+2024-10-21,Jacket,Outerwear,9,144.22,3.9,Net Banking,40,Non-Binary,False,First-time
+2025-02-09,Shorts,Bottoms,5,46.43,3.9,Credit Card,43,Male,False,Occasional
+2024-08-15,Jeans,Bottoms,10,50.26,3.6,UPI,34,Female,True,Loyal
+2024-06-29,Jacket,Outerwear,8,98.13,3.3,Wallet,36,Female,True,Occasional
+2024-11-24,Dress,One-piece,13,52.72,3.7,Wallet,40,Prefer Not to Say,True,Occasional
+2025-03-22,Jacket,Outerwear,7,134.12,1.3,Credit Card,26,Non-Binary,True,Occasional
+2024-07-21,Blouse,Tops,12,26.88,4.7,UPI,55,Male,True,First-time
+2024-09-19,Jeans,Bottoms,2,94.54,3.2,Wallet,46,Prefer Not to Say,False,Occasional
+2024-08-18,Tank Top,Tops,11,15.2,3.5,Credit Card,61,Non-Binary,True,Regular
+2024-05-01,Shorts,Bottoms,19,120.26,1.1,UPI,40,Prefer Not to Say,True,Loyal
+2024-11-29,Shorts,Bottoms,7,17.47,1.5,Wallet,62,Prefer Not to Say,False,Regular
+2024-07-01,Hoodie,Outerwear,9,62.09,4.8,Wallet,23,Prefer Not to Say,True,Loyal
+2024-11-28,Tank Top,Tops,5,10.54,4.7,Net Banking,64,Non-Binary,True,Occasional
+2025-03-11,T-Shirt,Tops,4,56.77,3.3,UPI,52,Prefer Not to Say,True,First-time
+2024-07-14,Sweater,Outerwear,20,135.12,1.2,Credit Card,58,Prefer Not to Say,True,Regular
+2024-06-14,T-Shirt,Tops,10,96.43,4.3,Net Banking,39,Non-Binary,True,First-time
+2024-04-25,Tank Top,Tops,11,15.44,3.1,Wallet,26,Prefer Not to Say,True,Regular
+2024-12-08,Jacket,Outerwear,3,69.18,2.2,Cash,57,Male,True,First-time
+2024-07-06,Blouse,Tops,6,95.34,1.3,Net Banking,65,Non-Binary,False,First-time
+2024-08-16,Dress,One-piece,6,98.55,1.2,Cash,62,Male,False,Regular
+2025-04-05,Dress,One-piece,5,139.62,2.6,Net Banking,62,Non-Binary,False,Occasional
+2024-06-11,Shorts,Bottoms,2,38.92,2.1,Wallet,46,Non-Binary,True,Regular
+2024-08-16,T-Shirt,Tops,7,144.21,1.3,UPI,18,Prefer Not to Say,True,Loyal
+2024-07-26,Skirt,Bottoms,17,123.01,2.1,Credit Card,53,Male,True,Regular
+2024-08-10,T-Shirt,Tops,7,56.26,4.0,Debit Card,34,Male,False,Occasional
+2024-08-15,Skirt,Bottoms,3,76.93,4.6,Credit Card,31,Male,False,Occasional
+2025-03-14,Hoodie,Outerwear,11,52.75,2.0,Net Banking,33,Prefer Not to Say,False,First-time
+2024-07-24,T-Shirt,Tops,20,148.27,4.5,Cash,40,Female,True,Regular
+2025-01-30,Sweater,Outerwear,7,146.77,2.1,Cash,41,Non-Binary,True,Occasional
+2024-11-29,Skirt,Bottoms,1,25.46,1.8,Cash,52,Prefer Not to Say,True,Loyal
+2024-06-27,Sweater,Outerwear,14,13.35,2.1,Net Banking,63,Male,True,First-time
+2024-09-19,Shorts,Bottoms,13,78.86,1.5,Wallet,19,Male,True,First-time
+2024-08-01,Skirt,Bottoms,14,39.75,4.2,Cash,50,Non-Binary,False,Occasional
+2024-07-18,Skirt,Bottoms,4,29.85,3.4,Credit Card,51,Prefer Not to Say,False,First-time
+2024-06-05,Jeans,Bottoms,18,144.23,3.5,Net Banking,24,Prefer Not to Say,True,Loyal
+2024-06-24,Shorts,Bottoms,20,72.91,4.0,UPI,29,Female,False,Regular
+2025-02-21,Hoodie,Outerwear,15,45.15,3.1,Wallet,41,Female,False,Regular
+2024-07-13,Skirt,Bottoms,8,144.59,2.8,UPI,46,Male,True,Regular
+2024-12-10,Jeans,Bottoms,20,99.72,1.7,Wallet,44,Female,False,Occasional
+2024-07-31,Jacket,Outerwear,4,117.84,2.3,Credit Card,26,Non-Binary,False,Loyal
+2024-11-05,T-Shirt,Tops,3,59.61,4.7,UPI,51,Non-Binary,False,First-time
+2024-11-13,Shorts,Bottoms,20,17.14,3.9,Wallet,35,Non-Binary,True,Occasional
+2025-04-08,Shorts,Bottoms,12,89.33,1.5,Wallet,41,Male,False,Loyal
+2025-01-20,Dress,One-piece,3,121.8,2.7,Cash,57,Prefer Not to Say,True,Loyal
+2025-03-11,Jacket,Outerwear,6,134.91,4.7,Wallet,35,Male,False,First-time
+2024-06-29,Tank Top,Tops,19,71.32,2.6,Net Banking,48,Prefer Not to Say,True,Regular
+2025-01-16,Dress,One-piece,7,139.29,2.0,Net Banking,25,Non-Binary,False,First-time
+2024-12-11,Tank Top,Tops,19,97.18,3.3,Debit Card,30,Prefer Not to Say,True,First-time
+2024-10-15,T-Shirt,Tops,11,108.28,4.2,UPI,56,Female,True,Regular
+2024-11-05,Tank Top,Tops,2,24.62,4.8,Cash,50,Prefer Not to Say,False,Loyal
+2024-10-20,Sweater,Outerwear,6,141.63,3.4,Net Banking,45,Non-Binary,True,Regular
+2024-07-25,Skirt,Bottoms,6,129.71,4.7,UPI,40,Prefer Not to Say,True,Occasional
+2024-06-03,Skirt,Bottoms,16,34.91,2.0,Debit Card,18,Female,False,First-time
+2024-12-07,Blouse,Tops,5,131.44,2.9,Net Banking,43,Prefer Not to Say,False,First-time
+2024-07-15,Jacket,Outerwear,19,18.08,3.9,Credit Card,65,Non-Binary,True,First-time
+2024-07-20,Skirt,Bottoms,11,55.26,3.5,Debit Card,37,Prefer Not to Say,False,Regular
+2024-09-30,Sweater,Outerwear,17,57.84,4.6,Debit Card,55,Non-Binary,False,Occasional
+2024-04-28,Jeans,Bottoms,19,70.88,1.5,Wallet,28,Female,False,Loyal
+2025-02-11,Dress,One-piece,2,148.95,3.7,UPI,59,Male,True,First-time
+2025-04-07,Blouse,Tops,13,119.84,4.6,Cash,59,Prefer Not to Say,False,Occasional
+2025-04-05,Skirt,Bottoms,16,52.3,2.1,Cash,37,Male,False,First-time
+2024-06-16,T-Shirt,Tops,8,123.66,5.0,UPI,50,Prefer Not to Say,True,Occasional
+2024-08-27,Hoodie,Outerwear,1,41.86,3.5,Net Banking,61,Prefer Not to Say,True,Loyal
+2024-06-07,Jacket,Outerwear,2,112.39,4.8,Credit Card,38,Female,False,First-time
+2024-11-28,Dress,One-piece,3,141.97,2.6,Wallet,45,Non-Binary,False,Occasional
+2024-11-08,Skirt,Bottoms,17,23.28,1.2,Debit Card,25,Prefer Not to Say,False,Loyal
+2024-06-30,Hoodie,Outerwear,11,120.2,1.3,Cash,33,Prefer Not to Say,True,Loyal
+2024-11-11,Jeans,Bottoms,18,133.87,2.8,Credit Card,27,Non-Binary,True,First-time
+2025-04-06,Hoodie,Outerwear,15,93.65,1.5,Net Banking,18,Prefer Not to Say,False,Loyal
+2024-10-22,Tank Top,Tops,6,41.53,2.4,Net Banking,22,Prefer Not to Say,True,Regular
+2024-07-22,Hoodie,Outerwear,12,54.53,4.3,Cash,30,Male,True,Regular
+2025-02-25,Sweater,Outerwear,5,149.88,1.5,Wallet,40,Non-Binary,True,Regular
+2025-04-12,Tank Top,Tops,16,85.31,4.5,Credit Card,45,Prefer Not to Say,True,Regular
+2024-11-23,Dress,One-piece,3,25.0,4.9,Credit Card,51,Female,False,Regular
+2024-09-13,Jeans,Bottoms,6,137.62,2.9,Net Banking,62,Prefer Not to Say,True,Loyal
+2025-03-05,Jacket,Outerwear,3,73.51,4.4,Wallet,18,Prefer Not to Say,False,First-time
+2024-05-25,Jeans,Bottoms,10,49.32,5.0,Cash,23,Female,True,Regular
+2024-09-14,Jacket,Outerwear,15,122.91,1.5,Credit Card,26,Male,True,First-time
+2024-09-09,Blouse,Tops,1,135.08,4.2,UPI,18,Male,True,Loyal
+2024-05-19,Jeans,Bottoms,10,79.82,2.8,Net Banking,60,Female,False,Regular
+2024-07-04,Blouse,Tops,18,147.04,4.9,Cash,49,Male,False,First-time
+2025-04-05,Tank Top,Tops,7,114.41,4.9,UPI,34,Female,False,Regular
+2024-12-27,Skirt,Bottoms,13,20.82,4.5,Debit Card,56,Non-Binary,True,First-time
+2025-03-22,T-Shirt,Tops,5,103.28,2.0,UPI,34,Non-Binary,True,Loyal
+2025-02-24,Jacket,Outerwear,4,111.37,3.3,Cash,32,Non-Binary,False,First-time
+2024-07-19,Dress,One-piece,1,98.98,5.0,Cash,49,Female,False,First-time
+2024-07-14,Hoodie,Outerwear,7,89.94,3.1,Debit Card,31,Non-Binary,False,Occasional
+2024-11-03,Hoodie,Outerwear,17,73.95,2.7,Credit Card,27,Prefer Not to Say,False,Occasional
+2025-02-06,Skirt,Bottoms,8,102.86,1.5,Debit Card,30,Non-Binary,False,First-time
+2024-07-04,Blouse,Tops,11,120.31,3.5,Net Banking,28,Prefer Not to Say,False,Regular
+2024-07-25,Hoodie,Outerwear,4,77.91,3.4,Wallet,32,Prefer Not to Say,False,Regular
+2025-04-08,Skirt,Bottoms,11,123.09,2.1,Wallet,28,Female,True,Occasional
+2024-12-27,T-Shirt,Tops,5,86.53,2.2,Net Banking,57,Female,False,First-time
+2025-02-05,Skirt,Bottoms,1,85.78,3.7,Net Banking,33,Female,True,Occasional
+2025-03-12,Jacket,Outerwear,15,133.99,1.9,Wallet,35,Prefer Not to Say,True,Occasional
+2025-02-26,T-Shirt,Tops,12,130.08,4.4,Credit Card,42,Non-Binary,True,First-time
+2024-11-28,T-Shirt,Tops,11,69.35,4.0,Cash,42,Non-Binary,True,Regular
+2024-04-28,Shorts,Bottoms,18,32.14,3.0,Net Banking,33,Non-Binary,False,First-time
+2025-03-13,Dress,One-piece,15,39.58,1.1,Net Banking,34,Prefer Not to Say,True,Loyal
+2025-01-08,Sweater,Outerwear,12,100.78,3.8,Credit Card,31,Prefer Not to Say,True,Regular
+2025-04-24,Skirt,Bottoms,19,64.66,4.8,UPI,37,Prefer Not to Say,True,Loyal
+2024-12-07,Jacket,Outerwear,4,81.41,3.7,Net Banking,27,Female,True,Regular
+2025-01-12,Hoodie,Outerwear,18,32.6,4.0,Wallet,40,Male,False,Loyal
+2024-08-15,Dress,One-piece,3,33.56,3.7,UPI,25,Prefer Not to Say,True,Regular
+2024-05-10,Skirt,Bottoms,2,65.74,4.7,Wallet,52,Male,True,Regular
+2024-06-20,Hoodie,Outerwear,9,122.15,2.5,Cash,56,Prefer Not to Say,False,Regular
+2024-10-20,Tank Top,Tops,4,127.68,1.6,Wallet,43,Prefer Not to Say,True,Occasional
+2024-10-11,Shorts,Bottoms,3,49.06,1.2,Debit Card,26,Male,True,Loyal
+2024-12-21,T-Shirt,Tops,8,55.38,1.9,Credit Card,35,Male,False,Loyal
+2025-01-09,Tank Top,Tops,14,141.65,2.6,Credit Card,29,Non-Binary,False,Loyal
+2024-12-29,T-Shirt,Tops,16,28.9,1.3,Wallet,38,Female,True,Regular
+2024-05-24,Blouse,Tops,20,98.7,1.4,Wallet,61,Non-Binary,False,Occasional
+2024-07-13,Shorts,Bottoms,15,26.61,1.9,Net Banking,41,Prefer Not to Say,True,Regular
+2024-10-29,Shorts,Bottoms,18,123.73,1.2,Credit Card,47,Non-Binary,False,Loyal
+2024-10-31,Jacket,Outerwear,8,102.35,3.7,Debit Card,38,Male,False,Occasional
+2025-03-11,Jeans,Bottoms,9,41.38,3.5,Cash,32,Non-Binary,False,Regular
+2024-08-01,Blouse,Tops,12,30.53,1.0,Cash,60,Male,True,Regular
+2024-07-23,Jeans,Bottoms,9,86.68,3.3,Cash,22,Female,False,Occasional
+2024-07-25,Blouse,Tops,8,95.22,3.9,Debit Card,50,Male,True,First-time
+2024-08-07,Tank Top,Tops,13,38.04,2.7,Debit Card,54,Female,True,Regular
+2024-05-02,Tank Top,Tops,20,135.79,2.3,Credit Card,64,Non-Binary,True,Occasional
+2024-05-01,Blouse,Tops,14,13.6,4.7,Debit Card,57,Female,True,Regular
+2024-11-01,Skirt,Bottoms,9,127.54,3.5,Debit Card,41,Prefer Not to Say,True,Occasional
+2025-03-21,Tank Top,Tops,6,26.81,3.2,UPI,34,Male,True,First-time
+2024-06-09,Jeans,Bottoms,14,131.64,4.8,Wallet,28,Male,True,First-time
+2024-09-12,Tank Top,Tops,18,104.13,1.2,Debit Card,45,Male,False,First-time
+2025-04-16,Skirt,Bottoms,6,21.98,2.4,Cash,32,Non-Binary,False,Loyal
+2024-07-23,Sweater,Outerwear,5,147.02,1.2,Cash,50,Non-Binary,True,Loyal
+2024-05-18,T-Shirt,Tops,19,56.02,1.3,UPI,56,Male,False,Loyal
+2024-05-09,Skirt,Bottoms,1,128.55,4.0,Debit Card,31,Male,False,Occasional
+2024-05-29,Jacket,Outerwear,5,100.22,1.1,Credit Card,22,Female,False,Occasional
+2024-12-20,T-Shirt,Tops,10,125.7,2.6,Wallet,52,Non-Binary,False,Loyal
+2024-08-04,Jeans,Bottoms,12,10.31,3.5,Debit Card,58,Male,False,First-time
+2025-03-22,T-Shirt,Tops,13,70.13,2.1,Net Banking,62,Female,True,Loyal
+2024-10-03,Tank Top,Tops,19,140.16,4.0,Credit Card,59,Female,True,First-time
+2024-08-03,Shorts,Bottoms,15,28.67,3.4,Net Banking,33,Female,False,Occasional
+2024-11-12,Jacket,Outerwear,11,141.38,4.1,Cash,21,Female,True,First-time
+2024-10-24,Dress,One-piece,8,75.53,2.6,Wallet,53,Female,True,Loyal
+2024-06-12,Dress,One-piece,10,137.4,2.6,Credit Card,37,Male,False,Regular
+2025-03-03,Jacket,Outerwear,12,65.56,1.3,Credit Card,61,Non-Binary,True,Occasional
+2024-10-11,Jeans,Bottoms,4,92.77,2.1,UPI,41,Male,True,First-time
+2024-04-28,Skirt,Bottoms,9,62.91,2.0,Credit Card,43,Non-Binary,True,First-time
+2024-09-28,Skirt,Bottoms,17,113.05,4.6,Wallet,54,Female,False,Occasional
+2024-11-10,Shorts,Bottoms,6,50.52,4.7,Net Banking,53,Female,True,First-time
+2024-09-10,Skirt,Bottoms,3,108.75,1.9,Credit Card,64,Female,False,Loyal
+2024-10-01,Shorts,Bottoms,19,82.15,4.1,Debit Card,63,Male,True,Occasional
+2024-06-12,Skirt,Bottoms,11,145.45,4.7,Wallet,50,Female,True,First-time
+2024-10-27,Jeans,Bottoms,19,94.8,3.9,Cash,54,Male,False,Loyal
+2025-03-24,Jacket,Outerwear,11,131.31,1.9,Net Banking,51,Non-Binary,True,Occasional
+2024-08-02,Jeans,Bottoms,19,78.55,1.2,Wallet,23,Prefer Not to Say,False,Loyal
+2024-10-10,Skirt,Bottoms,7,52.55,2.2,Cash,34,Female,True,Regular
+2024-08-30,Dress,One-piece,18,67.67,3.8,Net Banking,30,Prefer Not to Say,False,Loyal
+2025-02-16,T-Shirt,Tops,13,44.54,4.8,UPI,35,Prefer Not to Say,False,Regular
+2024-10-18,Jacket,Outerwear,3,55.91,2.2,Net Banking,52,Non-Binary,False,First-time
+2025-04-08,Jeans,Bottoms,2,12.03,3.7,Debit Card,23,Non-Binary,False,Occasional
+2024-11-14,Skirt,Bottoms,9,44.72,1.8,Wallet,52,Male,True,First-time
+2024-08-09,Jacket,Outerwear,12,125.25,1.6,UPI,51,Prefer Not to Say,False,First-time
+2024-07-18,Jeans,Bottoms,6,16.53,2.0,Wallet,19,Male,False,First-time
+2024-11-20,Skirt,Bottoms,3,68.87,2.0,Net Banking,33,Male,True,First-time
+2024-09-20,T-Shirt,Tops,10,118.76,1.9,Wallet,34,Female,False,Loyal
+2024-07-05,Tank Top,Tops,16,116.69,3.2,Debit Card,62,Male,False,Loyal
+2024-12-17,Hoodie,Outerwear,3,115.29,2.2,Wallet,52,Male,True,Occasional
+2024-08-31,Jacket,Outerwear,11,67.25,2.1,UPI,20,Non-Binary,True,Loyal
+2025-04-14,Jeans,Bottoms,8,117.3,2.8,Debit Card,45,Male,False,Occasional
+2024-12-08,Jacket,Outerwear,8,72.57,3.1,UPI,18,Prefer Not to Say,False,First-time
+2024-10-01,Tank Top,Tops,8,96.62,1.3,Debit Card,43,Male,False,Loyal
+2025-04-21,T-Shirt,Tops,14,12.35,1.2,Debit Card,41,Non-Binary,True,First-time
+2024-05-16,Dress,One-piece,5,72.92,2.6,Wallet,33,Male,False,Regular
+2024-08-02,Jacket,Outerwear,4,59.9,1.9,Credit Card,35,Prefer Not to Say,True,First-time
+2025-02-21,Sweater,Outerwear,11,121.32,3.1,Credit Card,47,Female,True,Loyal
+2024-10-07,Hoodie,Outerwear,15,11.57,1.1,Cash,48,Prefer Not to Say,False,Regular
+2024-07-04,Shorts,Bottoms,3,12.27,4.4,UPI,32,Female,True,Occasional
+2025-04-10,Shorts,Bottoms,13,118.36,4.5,Net Banking,22,Non-Binary,False,Occasional
+2025-03-10,T-Shirt,Tops,2,77.47,4.4,Wallet,43,Prefer Not to Say,False,First-time
+2024-11-08,Skirt,Bottoms,13,144.92,3.0,UPI,52,Male,False,Regular
+2024-11-08,Sweater,Outerwear,20,62.64,1.4,Cash,20,Non-Binary,False,Occasional
+2025-04-15,Jacket,Outerwear,13,139.37,3.4,Credit Card,20,Non-Binary,True,First-time
+2025-02-15,Jeans,Bottoms,1,95.79,4.1,UPI,41,Prefer Not to Say,False,Loyal
+2024-11-19,Shorts,Bottoms,4,52.62,1.6,Credit Card,50,Female,False,First-time
+2025-01-18,Skirt,Bottoms,3,83.09,2.1,Net Banking,19,Female,True,Loyal
+2025-04-02,Shorts,Bottoms,12,26.99,4.4,Cash,30,Male,True,Regular
+2024-04-30,Skirt,Bottoms,14,96.02,3.6,Credit Card,40,Female,True,Loyal
+2024-05-03,Skirt,Bottoms,12,20.23,1.6,Debit Card,35,Non-Binary,True,Loyal
+2025-01-03,T-Shirt,Tops,3,26.19,4.2,Debit Card,37,Prefer Not to Say,False,Regular
+2024-12-08,Hoodie,Outerwear,6,99.49,4.1,Debit Card,31,Prefer Not to Say,False,Loyal
+2025-04-04,T-Shirt,Tops,10,57.8,1.7,Wallet,53,Non-Binary,False,Occasional
+2025-01-30,Jeans,Bottoms,13,49.55,2.5,Wallet,41,Female,False,Loyal
+2025-01-07,Skirt,Bottoms,9,147.77,3.3,Credit Card,48,Female,False,Regular
+2024-07-29,Blouse,Tops,18,25.14,1.7,Credit Card,31,Female,True,Regular
+2024-12-27,Jeans,Bottoms,18,137.28,3.7,Cash,40,Non-Binary,False,Loyal
+2024-09-28,Jeans,Bottoms,18,29.44,1.7,Cash,42,Non-Binary,True,Regular
+2024-09-15,Sweater,Outerwear,13,71.5,4.8,Debit Card,38,Female,True,Loyal
+2024-08-28,Dress,One-piece,7,37.59,2.9,Debit Card,62,Non-Binary,True,First-time
+2024-12-09,Jacket,Outerwear,18,102.92,4.6,Net Banking,20,Prefer Not to Say,False,First-time
+2024-12-18,Dress,One-piece,20,52.73,3.4,Cash,53,Male,False,First-time
+2024-06-16,Blouse,Tops,20,96.77,3.5,UPI,50,Prefer Not to Say,False,Regular
+2025-04-17,Tank Top,Tops,8,94.46,3.2,Debit Card,60,Prefer Not to Say,False,Regular
+2025-02-12,Jacket,Outerwear,6,134.25,2.4,Net Banking,44,Non-Binary,False,Regular
+2025-04-18,Jeans,Bottoms,4,88.84,4.1,Net Banking,48,Female,False,Loyal
+2024-09-03,Blouse,Tops,5,139.73,3.9,Net Banking,64,Prefer Not to Say,True,Loyal
+2024-09-25,Jacket,Outerwear,2,124.93,4.1,Net Banking,41,Non-Binary,False,First-time
+2024-08-04,Jeans,Bottoms,7,98.44,3.8,UPI,28,Non-Binary,True,Occasional
+2025-01-19,Dress,One-piece,5,96.99,3.5,Wallet,46,Male,False,Regular
+2024-08-16,Tank Top,Tops,12,19.93,4.5,Wallet,44,Non-Binary,True,Loyal
+2024-07-12,T-Shirt,Tops,11,48.99,3.4,Cash,23,Male,True,Loyal
+2024-07-12,Jacket,Outerwear,8,114.23,2.3,Cash,45,Female,True,Occasional
+2024-12-15,Shorts,Bottoms,3,14.05,4.4,Net Banking,43,Prefer Not to Say,False,First-time
+2025-01-04,Jeans,Bottoms,4,64.18,1.7,Wallet,27,Female,False,Occasional
+2025-01-05,Sweater,Outerwear,8,50.31,3.2,Debit Card,19,Female,False,First-time
+2024-12-22,T-Shirt,Tops,17,115.08,4.8,Wallet,20,Male,True,Regular
+2025-01-15,T-Shirt,Tops,20,53.73,3.3,Cash,64,Male,False,Occasional
+2024-10-09,Shorts,Bottoms,5,32.25,1.5,Cash,47,Non-Binary,True,First-time
+2024-06-17,T-Shirt,Tops,17,30.7,3.6,UPI,39,Female,True,Loyal
+2025-01-08,Shorts,Bottoms,2,98.44,1.8,Cash,59,Female,True,Loyal
+2024-09-25,T-Shirt,Tops,12,124.41,4.0,Credit Card,61,Non-Binary,True,Occasional
+2024-09-11,Dress,One-piece,15,103.7,4.0,Debit Card,53,Non-Binary,True,Loyal
+2024-09-15,Skirt,Bottoms,15,73.45,2.9,Credit Card,27,Male,False,Regular
+2024-09-04,Shorts,Bottoms,13,54.08,1.7,Debit Card,50,Non-Binary,True,Occasional
+2024-10-04,Sweater,Outerwear,9,61.32,1.4,Cash,63,Prefer Not to Say,False,Occasional
+2024-05-08,Jacket,Outerwear,14,48.99,1.1,Debit Card,65,Female,False,Regular
+2025-02-04,Jeans,Bottoms,19,76.27,3.9,UPI,28,Female,False,Occasional
+2025-01-09,Dress,One-piece,14,24.3,2.6,UPI,28,Male,True,Occasional
+2024-12-14,Jeans,Bottoms,15,40.91,1.7,Debit Card,28,Prefer Not to Say,False,Occasional
+2025-01-11,Jacket,Outerwear,4,18.5,3.2,Debit Card,32,Female,False,Regular
+2024-06-09,Sweater,Outerwear,5,141.78,2.5,Net Banking,30,Non-Binary,True,Occasional
+2024-10-18,Skirt,Bottoms,9,11.62,4.4,Cash,55,Female,True,Occasional
+2024-12-10,Jeans,Bottoms,17,63.63,2.5,Wallet,51,Female,True,Occasional
+2025-03-05,Skirt,Bottoms,18,74.15,4.8,Wallet,48,Male,False,First-time
+2024-09-02,Blouse,Tops,2,58.45,3.4,Net Banking,51,Female,True,Regular
+2025-01-12,Dress,One-piece,5,135.09,4.6,Wallet,53,Male,False,Loyal
+2025-04-15,Sweater,Outerwear,19,67.95,1.3,Wallet,30,Female,False,Regular
+2024-08-06,Hoodie,Outerwear,6,93.36,3.7,Credit Card,52,Female,True,Occasional
+2025-02-22,Jeans,Bottoms,1,15.07,4.1,Wallet,45,Male,True,Regular
+2024-08-19,Sweater,Outerwear,9,109.11,4.4,Net Banking,35,Female,False,First-time
+2024-04-25,Tank Top,Tops,10,87.55,1.4,Cash,24,Non-Binary,False,First-time
+2024-07-24,Shorts,Bottoms,9,74.07,4.9,Cash,50,Non-Binary,True,First-time
+2024-05-20,Tank Top,Tops,7,131.56,3.2,Net Banking,33,Female,False,First-time
+2024-09-02,Jeans,Bottoms,15,25.56,4.5,Net Banking,38,Non-Binary,True,Regular
+2024-12-21,Jeans,Bottoms,13,94.35,2.2,Debit Card,19,Male,True,Occasional
+2025-02-05,T-Shirt,Tops,5,84.12,4.6,Net Banking,63,Male,True,First-time
+2024-04-29,Sweater,Outerwear,5,55.67,1.1,UPI,33,Prefer Not to Say,False,Loyal
+2024-09-10,T-Shirt,Tops,19,50.93,4.2,UPI,27,Male,False,Loyal
+2024-04-30,Blouse,Tops,9,12.55,1.7,Wallet,33,Prefer Not to Say,False,Loyal
+2024-05-14,Sweater,Outerwear,5,24.41,3.0,Wallet,48,Male,True,Loyal
+2024-06-30,Shorts,Bottoms,11,52.03,1.6,Credit Card,34,Prefer Not to Say,False,First-time
+2024-11-24,Jeans,Bottoms,11,148.33,4.9,Cash,43,Female,True,Regular
+2024-12-18,Hoodie,Outerwear,7,53.7,1.4,Wallet,42,Prefer Not to Say,False,First-time
+2024-12-12,T-Shirt,Tops,11,100.2,3.6,Wallet,61,Non-Binary,True,Regular
+2025-01-02,Sweater,Outerwear,10,46.48,2.3,Wallet,49,Male,False,Loyal
+2025-02-05,Sweater,Outerwear,10,73.14,2.0,Debit Card,58,Female,False,Loyal
+2024-12-24,Jacket,Outerwear,16,37.78,2.1,Net Banking,37,Female,False,First-time
+2024-06-09,Blouse,Tops,5,28.75,3.4,Debit Card,30,Female,True,Occasional
+2025-03-15,Tank Top,Tops,3,124.99,1.5,Net Banking,30,Prefer Not to Say,True,Regular
+2024-12-24,Skirt,Bottoms,13,35.25,3.0,Cash,28,Female,False,Occasional
+2024-06-01,Sweater,Outerwear,16,93.02,1.7,Credit Card,27,Non-Binary,True,First-time
+2024-11-25,Sweater,Outerwear,20,149.21,1.1,Debit Card,26,Non-Binary,True,Occasional
+2024-08-02,Dress,One-piece,12,20.57,1.8,Cash,51,Prefer Not to Say,True,Occasional
+2024-11-11,Shorts,Bottoms,16,135.09,2.0,Debit Card,41,Female,True,Regular
+2024-12-04,Jeans,Bottoms,9,129.86,2.5,Wallet,54,Male,True,Regular
+2024-08-31,Tank Top,Tops,3,128.99,2.0,Debit Card,22,Male,False,Loyal
+2025-04-14,Shorts,Bottoms,6,95.71,1.2,Cash,55,Female,True,Regular
+2024-09-08,Jacket,Outerwear,7,132.35,1.1,Debit Card,55,Prefer Not to Say,False,First-time
+2024-12-16,Sweater,Outerwear,20,99.15,3.2,Cash,53,Female,False,Occasional
+2024-11-06,Dress,One-piece,8,57.97,2.9,Credit Card,61,Male,True,Regular
+2024-05-09,Jacket,Outerwear,17,119.27,4.1,Wallet,21,Male,True,Occasional
+2025-04-07,Tank Top,Tops,5,111.14,4.6,Debit Card,24,Non-Binary,False,Loyal
+2024-11-26,Hoodie,Outerwear,20,39.73,1.1,Cash,29,Non-Binary,False,Occasional
+2024-08-15,Jacket,Outerwear,17,117.99,4.3,Wallet,60,Male,False,Occasional
+2025-01-31,Tank Top,Tops,17,16.02,3.9,Debit Card,29,Male,True,First-time
+2024-12-26,Tank Top,Tops,18,34.69,1.5,Cash,38,Prefer Not to Say,False,Occasional
+2024-10-19,Jacket,Outerwear,12,18.61,2.9,UPI,54,Prefer Not to Say,False,Occasional
+2025-04-16,T-Shirt,Tops,13,132.58,2.7,UPI,19,Male,False,Loyal
+2024-05-30,Blouse,Tops,10,55.5,3.9,Wallet,22,Male,False,Occasional
+2024-12-16,Hoodie,Outerwear,17,108.18,2.3,Wallet,53,Female,False,Occasional
+2024-06-24,Hoodie,Outerwear,20,100.14,1.7,Wallet,38,Non-Binary,False,Regular
+2024-06-07,Jeans,Bottoms,10,133.37,2.9,UPI,37,Female,False,First-time
+2024-09-04,Jeans,Bottoms,1,112.78,3.1,Wallet,48,Prefer Not to Say,True,First-time
+2024-05-16,Dress,One-piece,19,129.12,2.3,Debit Card,39,Male,True,First-time
+2025-03-04,T-Shirt,Tops,8,122.4,1.3,Cash,50,Female,True,Regular
+2024-07-06,Dress,One-piece,4,61.66,3.6,Wallet,46,Female,False,Regular
+2024-06-23,Dress,One-piece,12,83.68,4.9,Credit Card,22,Non-Binary,True,Regular
+2025-04-16,Jeans,Bottoms,3,114.73,2.3,Cash,36,Non-Binary,True,Occasional
+2024-11-08,Skirt,Bottoms,18,114.6,2.7,Debit Card,21,Female,True,First-time
+2024-08-07,Dress,One-piece,3,105.31,2.7,Wallet,26,Prefer Not to Say,True,Occasional
+2025-04-03,Jeans,Bottoms,8,129.01,3.9,UPI,44,Male,True,Occasional
+2024-05-18,Jacket,Outerwear,16,19.84,2.2,Cash,30,Female,False,Regular
+2024-06-17,Skirt,Bottoms,20,73.01,1.4,Credit Card,30,Non-Binary,False,First-time
+2024-07-30,Jeans,Bottoms,2,117.92,3.9,Wallet,51,Female,True,Regular
+2025-04-17,Dress,One-piece,2,143.69,1.5,Debit Card,54,Male,True,Regular
+2024-09-26,Shorts,Bottoms,9,86.95,4.4,Debit Card,59,Non-Binary,True,Regular
+2024-10-24,Tank Top,Tops,6,28.22,2.6,Debit Card,34,Female,True,Loyal
+2024-06-22,Jacket,Outerwear,5,144.68,4.3,UPI,40,Prefer Not to Say,False,First-time
+2024-09-09,Shorts,Bottoms,6,46.18,3.0,Net Banking,38,Non-Binary,False,Loyal
+2024-10-27,Skirt,Bottoms,6,126.99,3.9,Credit Card,61,Male,True,Regular
+2024-08-26,Blouse,Tops,16,68.6,1.3,Cash,63,Female,True,Loyal
+2024-11-11,Sweater,Outerwear,6,129.31,4.2,Cash,23,Female,False,First-time
+2024-05-13,Tank Top,Tops,10,31.52,2.2,Net Banking,21,Prefer Not to Say,True,Loyal
+2025-03-07,Jacket,Outerwear,4,112.36,3.1,UPI,22,Male,True,Loyal
+2024-05-17,Jeans,Bottoms,10,30.68,3.1,Debit Card,46,Male,False,First-time
+2024-06-06,Shorts,Bottoms,15,66.4,3.5,Cash,29,Non-Binary,True,Regular
+2024-09-20,Skirt,Bottoms,3,114.14,3.8,Credit Card,43,Non-Binary,False,Loyal
+2025-01-10,Shorts,Bottoms,12,124.44,1.5,Cash,52,Female,True,Regular
+2024-11-21,Shorts,Bottoms,3,26.38,1.2,UPI,36,Non-Binary,False,Occasional
+2025-01-23,Jacket,Outerwear,14,133.99,1.0,Net Banking,43,Non-Binary,False,Occasional
+2024-06-19,Jeans,Bottoms,16,49.14,1.4,UPI,64,Prefer Not to Say,False,First-time
+2024-12-21,Blouse,Tops,19,14.12,1.2,Credit Card,24,Male,False,Occasional
+2024-12-30,Sweater,Outerwear,5,114.04,2.2,Cash,25,Female,False,Regular
+2025-01-16,Hoodie,Outerwear,13,90.58,1.5,Wallet,49,Prefer Not to Say,False,Loyal
+2025-01-05,Jacket,Outerwear,17,34.36,3.5,Net Banking,52,Male,False,Loyal
+2024-05-19,Jeans,Bottoms,3,100.06,1.1,Debit Card,23,Prefer Not to Say,True,First-time
+2024-11-13,Blouse,Tops,10,98.43,1.7,Debit Card,64,Prefer Not to Say,True,Occasional
+2024-06-12,Skirt,Bottoms,1,61.2,4.5,Credit Card,65,Male,True,Regular
+2025-01-14,Tank Top,Tops,18,132.71,3.1,Net Banking,40,Prefer Not to Say,True,Occasional
+2024-07-18,Sweater,Outerwear,20,71.44,1.1,Credit Card,54,Non-Binary,False,Regular
+2025-03-05,Shorts,Bottoms,5,14.76,2.7,UPI,61,Female,True,Regular
+2025-01-25,Hoodie,Outerwear,12,40.15,3.1,Credit Card,51,Female,False,Loyal
+2025-01-29,T-Shirt,Tops,9,148.57,2.3,Credit Card,18,Non-Binary,False,First-time
+2024-12-19,Skirt,Bottoms,9,133.73,4.1,Net Banking,26,Female,True,Occasional
+2024-05-26,Blouse,Tops,4,145.97,3.8,Wallet,59,Prefer Not to Say,False,Regular
+2024-05-26,Hoodie,Outerwear,15,146.0,1.8,Credit Card,26,Non-Binary,False,Occasional
+2025-01-30,Skirt,Bottoms,2,92.59,4.9,Debit Card,27,Female,True,Loyal
+2024-07-01,Hoodie,Outerwear,20,66.8,3.3,UPI,21,Non-Binary,True,Loyal
+2025-04-12,Jacket,Outerwear,13,32.51,4.3,Cash,53,Non-Binary,True,First-time
+2024-06-12,Hoodie,Outerwear,13,43.79,2.1,Credit Card,61,Female,False,Regular
+2025-03-26,Dress,One-piece,4,78.87,1.8,Credit Card,42,Non-Binary,True,Regular
+2024-09-24,T-Shirt,Tops,13,111.72,1.9,Net Banking,61,Prefer Not to Say,False,Loyal
+2025-01-03,T-Shirt,Tops,6,90.27,4.7,Wallet,30,Female,True,First-time
+2025-01-06,Jacket,Outerwear,12,107.37,1.3,Wallet,56,Prefer Not to Say,True,Occasional
+2025-03-01,T-Shirt,Tops,11,39.36,1.8,UPI,18,Prefer Not to Say,False,Occasional
+2024-09-25,Jacket,Outerwear,15,21.66,2.0,UPI,39,Male,True,Regular
+2025-01-28,Blouse,Tops,19,84.04,3.6,Debit Card,21,Female,False,Regular
+2024-04-30,Jeans,Bottoms,1,61.84,3.2,Credit Card,42,Female,False,Loyal
+2024-11-19,Hoodie,Outerwear,4,60.6,1.1,Cash,29,Male,True,Regular
+2024-04-28,Dress,One-piece,14,128.5,4.4,UPI,63,Male,True,First-time
+2025-03-11,Skirt,Bottoms,4,108.54,2.7,Cash,32,Non-Binary,True,Occasional
+2024-07-05,T-Shirt,Tops,15,146.81,2.4,Credit Card,25,Non-Binary,False,First-time
+2025-03-13,Skirt,Bottoms,15,76.67,4.8,Debit Card,29,Non-Binary,True,Occasional
+2024-09-06,Jacket,Outerwear,9,141.63,3.8,Net Banking,26,Male,False,Occasional
+2024-05-23,Sweater,Outerwear,11,100.01,1.6,Net Banking,34,Male,False,Occasional
+2024-10-26,Skirt,Bottoms,20,90.23,2.0,UPI,20,Male,True,Occasional
+2024-11-27,Tank Top,Tops,20,54.65,4.0,UPI,42,Non-Binary,True,Loyal
+2025-04-25,Jacket,Outerwear,17,131.69,4.7,Credit Card,36,Male,True,Loyal
+2024-11-21,T-Shirt,Tops,10,29.35,1.9,Net Banking,35,Female,True,Loyal
+2024-11-26,Hoodie,Outerwear,8,30.78,2.8,Credit Card,56,Male,True,First-time
+2025-02-04,Hoodie,Outerwear,8,29.93,1.7,Net Banking,57,Non-Binary,False,Regular
+2024-06-02,Jeans,Bottoms,6,86.71,3.1,Net Banking,48,Female,True,Occasional
+2024-12-31,T-Shirt,Tops,3,27.17,4.8,Cash,27,Male,False,Loyal
+2024-08-28,Shorts,Bottoms,3,112.83,3.3,UPI,53,Prefer Not to Say,True,Occasional
+2024-12-20,Dress,One-piece,16,105.11,4.1,Cash,27,Prefer Not to Say,False,Regular
+2025-02-07,Jacket,Outerwear,16,107.8,2.1,UPI,35,Non-Binary,False,Loyal
+2024-08-25,Sweater,Outerwear,4,113.32,2.5,Net Banking,27,Prefer Not to Say,False,Loyal
+2024-06-14,Shorts,Bottoms,18,56.56,3.5,Wallet,54,Female,False,Occasional
+2024-08-13,Tank Top,Tops,18,49.93,4.5,Debit Card,34,Non-Binary,False,First-time
+2025-01-21,Jeans,Bottoms,4,105.88,3.5,Debit Card,58,Male,False,Regular
+2024-06-23,Tank Top,Tops,20,59.4,4.3,Wallet,37,Prefer Not to Say,False,Loyal
+2024-08-22,Jacket,Outerwear,11,89.0,3.0,Wallet,23,Female,False,First-time
+2024-06-11,T-Shirt,Tops,13,112.15,4.0,UPI,58,Female,True,First-time
+2024-11-08,Blouse,Tops,7,89.19,4.0,Net Banking,33,Male,False,First-time
+2024-08-07,Tank Top,Tops,6,146.41,3.0,Credit Card,54,Non-Binary,False,Loyal
+2024-12-29,T-Shirt,Tops,8,125.97,1.2,Debit Card,38,Female,True,First-time
+2025-04-10,Sweater,Outerwear,8,59.72,4.4,Net Banking,37,Male,True,First-time
+2024-10-15,Jacket,Outerwear,3,23.21,3.4,Cash,28,Prefer Not to Say,True,First-time
+2025-03-02,Hoodie,Outerwear,9,32.19,3.7,UPI,63,Non-Binary,False,First-time
+2024-06-24,Sweater,Outerwear,9,67.03,3.2,Cash,26,Prefer Not to Say,True,First-time
+2024-09-15,Jeans,Bottoms,18,19.01,2.7,Net Banking,42,Non-Binary,True,Loyal
+2024-07-14,T-Shirt,Tops,10,95.97,2.8,Wallet,61,Non-Binary,False,Regular
+2024-11-06,Jeans,Bottoms,14,56.05,4.3,UPI,48,Male,False,Occasional
+2025-02-15,Jeans,Bottoms,8,105.82,1.9,UPI,51,Non-Binary,True,Loyal
+2025-02-03,Tank Top,Tops,19,58.12,1.6,Cash,34,Female,False,Occasional
+2024-12-05,T-Shirt,Tops,15,47.85,1.0,Cash,57,Non-Binary,False,Occasional
+2024-11-23,Dress,One-piece,12,52.9,3.9,Debit Card,48,Female,True,Loyal
+2024-09-17,Tank Top,Tops,1,89.76,2.9,UPI,30,Female,True,Regular
+2025-01-21,Tank Top,Tops,15,106.95,3.6,UPI,40,Prefer Not to Say,False,Occasional
+2025-01-06,Tank Top,Tops,17,37.29,3.6,Wallet,38,Prefer Not to Say,False,Occasional
+2024-11-29,Hoodie,Outerwear,20,139.03,4.1,Wallet,30,Non-Binary,True,Occasional
+2024-05-30,Blouse,Tops,5,130.42,3.7,Debit Card,18,Male,True,Regular
+2024-09-01,Jacket,Outerwear,20,15.11,1.2,UPI,44,Female,True,First-time
+2024-06-13,Hoodie,Outerwear,11,112.44,4.2,Net Banking,22,Female,False,Regular
+2024-07-28,Dress,One-piece,19,68.66,3.5,Debit Card,23,Female,True,Occasional
+2025-02-01,Hoodie,Outerwear,12,112.98,3.1,Wallet,19,Prefer Not to Say,True,First-time
+2025-02-18,T-Shirt,Tops,9,39.92,3.3,Cash,53,Male,True,Loyal
+2025-02-20,Jeans,Bottoms,12,116.86,3.6,UPI,32,Prefer Not to Say,True,Occasional
+2024-07-13,Blouse,Tops,10,123.74,4.3,UPI,46,Male,False,First-time
+2024-11-18,Tank Top,Tops,16,20.47,4.5,Wallet,26,Female,True,Regular
+2024-05-03,Tank Top,Tops,14,40.22,2.6,Net Banking,37,Non-Binary,False,Loyal
+2024-12-02,Tank Top,Tops,16,31.47,3.3,Wallet,45,Male,False,First-time
+2024-06-15,Jeans,Bottoms,1,36.88,3.5,Wallet,55,Prefer Not to Say,False,Occasional
+2024-12-28,Jeans,Bottoms,9,142.85,4.0,Net Banking,53,Male,False,First-time
+2025-04-17,T-Shirt,Tops,9,81.74,4.4,Cash,19,Female,False,Regular
+2024-09-14,Sweater,Outerwear,3,119.53,2.6,Wallet,47,Prefer Not to Say,False,Loyal
+2025-04-14,Hoodie,Outerwear,9,98.82,2.1,UPI,56,Female,False,First-time
+2024-07-31,T-Shirt,Tops,17,109.21,4.1,Debit Card,49,Male,False,First-time
+2025-02-11,Jeans,Bottoms,2,84.24,3.6,Cash,28,Non-Binary,True,Occasional
+2024-08-08,Sweater,Outerwear,10,95.75,1.7,Wallet,18,Non-Binary,False,First-time
+2024-12-28,Jacket,Outerwear,7,26.97,2.4,Cash,28,Male,False,Occasional
+2024-06-16,Dress,One-piece,3,42.55,2.6,Cash,42,Female,True,Occasional
+2024-11-01,Hoodie,Outerwear,14,26.2,3.3,UPI,61,Prefer Not to Say,False,Occasional
+2024-07-02,Tank Top,Tops,2,37.36,4.7,Net Banking,45,Female,True,Regular
+2024-07-22,T-Shirt,Tops,7,111.91,2.2,Credit Card,47,Non-Binary,False,Regular
+2025-02-13,Tank Top,Tops,18,61.95,2.4,Cash,64,Prefer Not to Say,False,Loyal
+2025-04-13,Tank Top,Tops,16,26.68,3.8,Debit Card,32,Male,True,Loyal
+2024-09-10,T-Shirt,Tops,10,16.9,1.7,Net Banking,41,Non-Binary,False,Occasional
+2025-03-07,Blouse,Tops,14,84.36,1.1,Debit Card,63,Female,False,Regular
+2025-04-17,T-Shirt,Tops,9,42.7,4.6,Net Banking,42,Non-Binary,False,Regular
+2025-02-25,Hoodie,Outerwear,6,86.3,1.9,Wallet,27,Male,True,Regular
+2025-03-22,Skirt,Bottoms,1,49.89,3.1,UPI,58,Female,False,Regular
+2025-02-19,Shorts,Bottoms,10,112.53,4.6,Wallet,50,Non-Binary,False,Occasional
+2024-05-08,Tank Top,Tops,9,70.78,4.1,Net Banking,35,Prefer Not to Say,True,First-time
+2024-10-18,Skirt,Bottoms,4,36.86,2.8,Debit Card,23,Non-Binary,True,First-time
+2024-09-23,Tank Top,Tops,6,23.77,3.5,Cash,28,Prefer Not to Say,False,Loyal
+2024-10-18,Blouse,Tops,6,127.09,3.8,Net Banking,35,Male,False,Occasional
+2024-07-27,Jeans,Bottoms,1,85.87,3.7,UPI,34,Prefer Not to Say,False,Loyal
+2025-03-04,Skirt,Bottoms,12,120.55,2.1,Debit Card,40,Male,False,Occasional
+2024-07-18,Jeans,Bottoms,1,50.21,4.1,Wallet,55,Male,False,First-time
+2024-05-12,Jacket,Outerwear,12,98.86,3.1,Cash,50,Non-Binary,False,Occasional
+2025-03-07,T-Shirt,Tops,4,34.96,2.3,Credit Card,26,Male,False,First-time
+2024-10-24,Skirt,Bottoms,3,138.98,3.8,Credit Card,49,Prefer Not to Say,True,Loyal
+2024-08-08,Tank Top,Tops,4,117.61,3.1,Net Banking,59,Female,True,Loyal
+2024-05-16,Hoodie,Outerwear,4,76.56,2.0,Debit Card,28,Female,True,Loyal
+2025-04-05,Tank Top,Tops,3,37.12,2.6,Debit Card,52,Female,True,First-time
+2024-11-06,T-Shirt,Tops,20,105.82,2.7,Credit Card,65,Female,False,Loyal
+2024-10-10,Jacket,Outerwear,14,87.25,3.1,Debit Card,53,Female,False,Loyal
+2024-05-13,Jacket,Outerwear,19,91.01,1.7,Cash,65,Non-Binary,True,Occasional
+2025-02-07,Dress,One-piece,18,51.66,2.7,UPI,56,Non-Binary,True,Regular
+2024-09-16,Shorts,Bottoms,1,121.04,1.7,Wallet,19,Female,True,Regular
+2024-10-03,Jacket,Outerwear,12,25.36,4.8,Net Banking,26,Non-Binary,False,First-time
+2024-05-22,Hoodie,Outerwear,19,34.01,1.7,Net Banking,34,Non-Binary,False,Loyal
+2025-02-17,Tank Top,Tops,1,18.68,1.5,UPI,52,Female,False,Regular
+2025-01-20,Jacket,Outerwear,17,99.58,1.6,Credit Card,55,Female,True,Occasional
+2025-04-12,Sweater,Outerwear,3,121.75,1.2,Cash,28,Non-Binary,True,Occasional
+2024-09-07,Hoodie,Outerwear,20,88.77,1.5,Cash,60,Prefer Not to Say,True,Regular
+2025-04-17,T-Shirt,Tops,9,76.0,4.9,Debit Card,51,Female,False,Occasional
+2024-05-10,Jacket,Outerwear,2,42.57,1.4,Debit Card,19,Male,False,Loyal
+2024-08-11,Jacket,Outerwear,1,18.77,4.0,Wallet,58,Prefer Not to Say,True,First-time
+2024-08-27,Hoodie,Outerwear,17,65.0,3.3,Net Banking,54,Male,True,Loyal
+2024-12-13,Blouse,Tops,14,77.85,3.0,Cash,58,Male,False,Loyal
+2024-09-10,T-Shirt,Tops,1,126.91,3.4,Credit Card,21,Non-Binary,True,First-time
+2024-09-06,T-Shirt,Tops,16,23.9,2.5,Credit Card,55,Female,True,First-time
+2025-03-03,Jeans,Bottoms,8,109.23,2.5,Cash,39,Male,False,Regular
+2025-01-10,Jacket,Outerwear,10,66.09,2.6,Debit Card,44,Prefer Not to Say,False,Occasional
+2025-03-17,Jacket,Outerwear,8,17.93,1.7,UPI,33,Female,True,Occasional
+2024-07-05,Sweater,Outerwear,13,32.05,2.1,Cash,42,Female,False,Loyal
+2024-05-29,Shorts,Bottoms,9,25.84,1.7,Credit Card,24,Non-Binary,True,First-time
+2025-02-24,Blouse,Tops,8,83.28,4.6,UPI,24,Female,True,Occasional
+2024-07-13,Sweater,Outerwear,20,25.24,3.8,UPI,47,Female,True,Regular
+2024-07-13,Shorts,Bottoms,16,112.13,1.6,Wallet,38,Non-Binary,True,Loyal
+2025-04-02,Dress,One-piece,7,134.34,4.3,Net Banking,32,Female,True,Regular
+2025-01-18,T-Shirt,Tops,19,79.58,4.0,Cash,55,Female,True,First-time
+2025-03-07,Jacket,Outerwear,17,67.7,2.3,Wallet,42,Female,False,Regular
+2024-07-16,Jeans,Bottoms,18,75.47,1.8,Credit Card,63,Prefer Not to Say,True,Regular
+2024-10-14,Dress,One-piece,6,99.85,1.9,Credit Card,45,Female,True,Regular
+2025-01-30,Shorts,Bottoms,10,149.0,3.1,Wallet,42,Male,False,First-time
+2024-06-17,Shorts,Bottoms,2,111.61,1.6,Cash,35,Prefer Not to Say,True,Occasional
+2024-07-06,T-Shirt,Tops,16,34.03,1.1,Debit Card,23,Non-Binary,False,Occasional
+2025-01-30,Dress,One-piece,17,16.21,1.9,UPI,50,Non-Binary,False,Loyal
+2025-04-14,Jeans,Bottoms,7,71.32,2.9,UPI,39,Female,False,Loyal
+2024-05-23,Skirt,Bottoms,2,17.76,3.6,UPI,39,Non-Binary,True,Loyal
+2025-01-29,Blouse,Tops,16,134.89,3.3,Cash,58,Male,True,Loyal
+2024-06-17,Jeans,Bottoms,16,17.26,1.9,Credit Card,36,Prefer Not to Say,False,First-time
+2024-10-05,Jacket,Outerwear,7,85.16,1.6,Cash,27,Prefer Not to Say,True,Occasional
+2025-03-30,Tank Top,Tops,17,64.59,3.5,UPI,29,Prefer Not to Say,True,Loyal
+2024-08-14,Tank Top,Tops,20,66.78,3.9,Credit Card,21,Female,False,Regular
+2024-10-18,Dress,One-piece,20,39.73,4.8,Cash,42,Prefer Not to Say,True,First-time
+2024-05-10,Dress,One-piece,12,79.27,1.2,Debit Card,41,Female,False,First-time
+2024-08-14,Blouse,Tops,20,99.61,4.8,Debit Card,29,Female,False,Loyal
+2024-12-24,Sweater,Outerwear,12,11.85,3.0,Wallet,43,Female,True,Regular
+2024-09-26,Hoodie,Outerwear,3,122.59,4.6,Debit Card,31,Non-Binary,True,Occasional
+2024-11-01,Hoodie,Outerwear,19,44.78,2.7,UPI,47,Non-Binary,True,First-time
+2025-04-25,Blouse,Tops,20,112.44,2.3,Debit Card,46,Prefer Not to Say,False,Regular
+2024-12-14,Jeans,Bottoms,20,43.1,2.7,Debit Card,36,Non-Binary,False,Occasional
+2024-08-01,Sweater,Outerwear,10,128.33,3.0,Net Banking,56,Prefer Not to Say,True,Occasional
+2024-09-11,Jeans,Bottoms,3,58.83,1.9,UPI,44,Prefer Not to Say,False,First-time
+2025-03-16,Jacket,Outerwear,20,111.73,3.8,UPI,58,Prefer Not to Say,False,Loyal
+2025-01-22,Shorts,Bottoms,10,20.3,2.2,UPI,55,Non-Binary,False,Occasional
+2024-12-26,Skirt,Bottoms,9,75.63,1.7,Wallet,38,Male,False,First-time
+2024-08-02,Jacket,Outerwear,9,86.67,3.0,UPI,61,Prefer Not to Say,True,First-time
+2024-12-24,T-Shirt,Tops,11,30.67,1.7,UPI,40,Female,True,Loyal
+2025-03-05,Hoodie,Outerwear,13,74.81,4.3,Debit Card,24,Female,True,Regular
+2024-06-07,Shorts,Bottoms,5,64.5,1.3,Credit Card,52,Prefer Not to Say,False,Loyal
+2024-08-19,Shorts,Bottoms,10,109.52,4.5,Debit Card,55,Prefer Not to Say,False,Regular
+2024-10-31,Shorts,Bottoms,8,17.57,2.0,Wallet,55,Male,True,Regular
+2025-03-27,Sweater,Outerwear,7,71.19,4.7,Wallet,49,Male,True,First-time
+2024-05-16,Jeans,Bottoms,14,62.63,3.6,Net Banking,38,Female,False,Occasional
+2024-07-12,Jacket,Outerwear,20,29.65,4.3,Debit Card,20,Prefer Not to Say,True,Regular
+2024-12-21,Hoodie,Outerwear,2,62.03,2.0,Cash,18,Prefer Not to Say,False,Loyal
+2024-08-30,Jacket,Outerwear,20,49.32,4.2,Cash,31,Male,False,Occasional
+2025-04-21,Tank Top,Tops,1,51.68,1.1,Debit Card,63,Prefer Not to Say,True,Loyal
+2024-05-07,Jeans,Bottoms,7,89.26,1.9,Credit Card,61,Male,False,Loyal
+2024-10-13,Tank Top,Tops,6,84.55,2.7,Cash,65,Non-Binary,False,Regular
+2025-04-14,Blouse,Tops,15,41.11,1.9,Wallet,52,Prefer Not to Say,False,Loyal
+2024-12-18,Sweater,Outerwear,3,141.1,4.3,Cash,40,Male,True,Regular
+2024-11-22,Blouse,Tops,12,138.08,2.5,Net Banking,41,Male,True,Occasional
+2025-04-04,Skirt,Bottoms,3,19.58,4.9,Cash,40,Prefer Not to Say,True,Loyal
+2024-09-09,Blouse,Tops,20,26.35,3.6,Wallet,49,Prefer Not to Say,False,Regular
+2024-10-04,Skirt,Bottoms,9,77.39,1.3,Cash,40,Male,True,First-time
+2024-08-03,Tank Top,Tops,1,73.97,1.1,Credit Card,57,Prefer Not to Say,False,Occasional
+2024-08-05,Sweater,Outerwear,5,133.68,2.8,Net Banking,61,Male,False,First-time
+2025-01-27,Dress,One-piece,11,45.29,2.3,Wallet,30,Female,True,Loyal
+2024-10-10,Jacket,Outerwear,4,101.65,2.7,Net Banking,52,Female,True,Regular
+2024-08-08,Shorts,Bottoms,12,42.27,3.1,Net Banking,59,Non-Binary,True,Loyal
+2024-06-26,Hoodie,Outerwear,7,14.17,3.1,Wallet,65,Male,False,Regular
+2024-08-15,Blouse,Tops,4,54.54,2.9,UPI,30,Male,True,Regular
+2025-03-27,T-Shirt,Tops,16,64.33,3.5,Cash,18,Prefer Not to Say,False,Regular
+2024-12-09,Jacket,Outerwear,3,71.53,2.9,Wallet,39,Non-Binary,False,Loyal
+2025-02-09,Sweater,Outerwear,16,50.43,1.2,UPI,40,Non-Binary,True,Occasional
+2024-12-25,Dress,One-piece,5,25.37,2.7,UPI,42,Non-Binary,True,First-time
+2025-03-01,Blouse,Tops,3,39.17,3.5,Wallet,63,Prefer Not to Say,True,Regular
+2024-06-13,Jeans,Bottoms,7,123.9,1.9,Debit Card,60,Prefer Not to Say,False,Occasional
+2024-06-08,Blouse,Tops,5,77.79,4.8,Wallet,32,Non-Binary,True,Occasional
+2024-07-06,Dress,One-piece,8,117.85,2.5,Wallet,50,Male,False,Loyal
+2024-11-20,Sweater,Outerwear,6,39.17,4.1,UPI,21,Male,False,First-time
+2024-11-03,Tank Top,Tops,19,138.61,1.6,Credit Card,20,Male,False,Regular
+2024-10-18,Blouse,Tops,11,49.02,4.5,Net Banking,43,Female,False,Regular
+2025-02-13,Jacket,Outerwear,4,124.95,3.4,Debit Card,31,Male,False,Occasional
+2025-03-02,T-Shirt,Tops,3,90.86,4.2,Wallet,18,Prefer Not to Say,True,First-time
+2024-12-11,Tank Top,Tops,20,28.73,1.9,UPI,56,Female,True,First-time
+2024-07-12,Jeans,Bottoms,8,38.71,1.5,Wallet,59,Female,False,First-time
+2025-01-11,T-Shirt,Tops,5,124.27,2.1,Credit Card,18,Prefer Not to Say,True,Occasional
+2024-10-11,Skirt,Bottoms,13,58.86,4.1,Wallet,20,Male,True,Loyal
+2024-08-10,Skirt,Bottoms,3,103.3,4.8,Credit Card,42,Male,False,Loyal
+2025-01-30,Jacket,Outerwear,11,24.94,3.8,Net Banking,31,Female,False,First-time
+2024-07-18,T-Shirt,Tops,17,147.68,1.7,UPI,56,Male,True,Regular
+2024-08-08,Hoodie,Outerwear,16,79.48,1.8,Cash,21,Prefer Not to Say,True,Regular
+2024-06-23,Jacket,Outerwear,9,148.78,1.0,Debit Card,31,Prefer Not to Say,False,Occasional
+2024-10-21,Skirt,Bottoms,7,103.08,4.2,UPI,56,Prefer Not to Say,True,Occasional
+2024-08-10,Jacket,Outerwear,6,147.8,4.2,Debit Card,37,Male,False,Occasional
+2024-06-11,T-Shirt,Tops,10,81.13,4.4,UPI,39,Non-Binary,True,Loyal
+2024-12-17,Jeans,Bottoms,8,124.72,4.2,UPI,59,Non-Binary,False,Loyal
+2024-12-07,Dress,One-piece,1,90.87,1.0,Debit Card,46,Male,False,Loyal
+2024-11-09,Dress,One-piece,2,43.27,3.9,Net Banking,38,Female,True,Regular
+2024-09-11,Jacket,Outerwear,17,67.29,4.2,Net Banking,65,Non-Binary,True,Regular
+2025-03-15,Tank Top,Tops,14,134.75,2.6,Net Banking,48,Female,True,Regular
+2024-12-29,T-Shirt,Tops,1,74.45,1.5,Wallet,18,Male,True,Loyal
+2024-12-12,Blouse,Tops,19,140.33,2.7,Cash,51,Non-Binary,False,Occasional
+2025-02-26,Jacket,Outerwear,15,43.94,2.5,UPI,51,Prefer Not to Say,False,Loyal
+2024-05-26,Shorts,Bottoms,15,20.81,1.7,Net Banking,22,Female,True,Occasional
+2024-07-12,Dress,One-piece,5,78.43,3.4,Credit Card,48,Female,True,First-time
+2024-10-10,Hoodie,Outerwear,2,28.11,1.5,Credit Card,38,Prefer Not to Say,False,First-time
+2024-06-06,Sweater,Outerwear,15,146.26,4.4,Debit Card,29,Non-Binary,True,First-time
+2025-04-09,Hoodie,Outerwear,2,93.99,1.6,Cash,42,Prefer Not to Say,False,First-time
+2024-07-10,Skirt,Bottoms,17,93.68,1.6,Wallet,56,Female,True,Regular
+2025-04-17,Skirt,Bottoms,13,108.44,1.8,Debit Card,25,Male,True,Occasional
+2025-01-27,Hoodie,Outerwear,15,52.49,2.3,Credit Card,30,Male,True,Regular
+2024-05-04,Jacket,Outerwear,5,132.71,1.9,Wallet,64,Prefer Not to Say,True,First-time
+2024-06-12,Sweater,Outerwear,10,97.0,1.6,Credit Card,57,Female,True,Regular
+2025-04-03,Jeans,Bottoms,1,148.03,4.8,Wallet,60,Prefer Not to Say,False,Regular
+2024-08-10,Shorts,Bottoms,1,41.23,4.6,Cash,50,Non-Binary,True,Loyal
+2025-01-17,Jeans,Bottoms,17,17.35,1.4,Cash,28,Male,True,Regular
+2024-10-20,Tank Top,Tops,3,54.32,4.1,Net Banking,31,Male,True,Regular
+2024-07-22,Tank Top,Tops,16,125.87,1.2,Credit Card,38,Female,True,Loyal
+2024-06-06,Hoodie,Outerwear,9,51.52,4.5,Credit Card,32,Prefer Not to Say,False,Occasional
+2024-09-06,T-Shirt,Tops,3,31.49,2.9,Cash,62,Female,False,Occasional
+2024-06-16,Hoodie,Outerwear,5,37.0,3.2,Debit Card,22,Non-Binary,False,Occasional
+2025-04-04,Sweater,Outerwear,17,124.99,4.7,Debit Card,41,Non-Binary,True,Regular
+2024-10-24,Jeans,Bottoms,12,75.28,2.2,Wallet,57,Female,False,Loyal
+2024-08-02,Sweater,Outerwear,9,54.53,1.4,Credit Card,61,Prefer Not to Say,True,First-time
+2024-05-31,Jacket,Outerwear,16,30.29,3.0,Cash,21,Non-Binary,True,Occasional
+2025-03-05,Dress,One-piece,4,49.28,4.3,Credit Card,37,Prefer Not to Say,True,Loyal
+2024-12-25,Dress,One-piece,10,145.67,1.1,UPI,59,Non-Binary,False,Regular
+2024-12-11,Tank Top,Tops,3,129.97,2.9,Wallet,41,Non-Binary,True,Loyal
+2024-07-08,Sweater,Outerwear,8,47.1,2.5,Cash,49,Prefer Not to Say,False,Occasional
+2024-08-29,Jeans,Bottoms,9,101.43,4.9,Wallet,53,Male,False,First-time
+2024-12-14,Jacket,Outerwear,4,127.83,1.9,UPI,43,Non-Binary,False,First-time
+2025-03-25,Blouse,Tops,5,104.45,3.7,Credit Card,50,Female,True,First-time
+2024-05-31,Skirt,Bottoms,11,116.44,2.8,Net Banking,50,Non-Binary,False,First-time
+2024-10-21,Skirt,Bottoms,13,55.01,3.5,Net Banking,19,Male,True,Loyal
+2024-10-13,T-Shirt,Tops,9,86.74,1.4,Credit Card,41,Prefer Not to Say,False,Occasional
+2024-10-25,Blouse,Tops,11,82.57,4.5,Debit Card,22,Non-Binary,True,Regular
+2025-04-21,Skirt,Bottoms,14,56.87,3.8,Wallet,29,Female,True,Regular
+2024-10-30,Blouse,Tops,1,130.51,2.5,Cash,29,Prefer Not to Say,True,Loyal
+2024-10-22,Jacket,Outerwear,8,69.19,2.5,Credit Card,41,Non-Binary,False,Occasional
+2025-02-24,Shorts,Bottoms,12,45.96,3.1,Wallet,22,Non-Binary,True,First-time
+2024-05-31,Jacket,Outerwear,9,135.92,2.4,Net Banking,53,Female,False,First-time
+2024-08-22,Tank Top,Tops,7,119.27,3.6,Debit Card,29,Prefer Not to Say,False,Loyal
+2025-02-13,Jeans,Bottoms,13,79.23,2.8,UPI,64,Male,True,First-time
+2024-04-27,Blouse,Tops,7,28.33,4.9,Cash,51,Male,True,Regular
+2024-06-25,Shorts,Bottoms,7,68.22,4.7,Wallet,30,Prefer Not to Say,True,Occasional
+2024-10-23,Jacket,Outerwear,2,16.67,4.8,UPI,18,Prefer Not to Say,False,Regular
+2024-10-03,T-Shirt,Tops,6,122.85,1.9,UPI,36,Male,True,Loyal
+2024-12-31,Shorts,Bottoms,8,125.12,1.9,Debit Card,48,Non-Binary,False,Regular
+2024-05-03,Tank Top,Tops,12,81.49,4.0,Debit Card,41,Non-Binary,True,Loyal
+2025-03-20,T-Shirt,Tops,3,114.02,1.3,Cash,39,Non-Binary,True,First-time
+2025-03-07,Jacket,Outerwear,2,103.52,4.7,Net Banking,44,Prefer Not to Say,True,Occasional
+2025-02-23,Tank Top,Tops,11,113.67,4.0,Net Banking,47,Female,True,Loyal
+2024-05-22,Jeans,Bottoms,2,56.97,1.5,Cash,63,Non-Binary,False,Occasional
+2024-06-16,Blouse,Tops,5,85.16,1.6,Credit Card,29,Prefer Not to Say,False,Regular
+2024-09-03,T-Shirt,Tops,2,29.48,3.9,Credit Card,48,Male,True,Regular
+2024-12-08,Tank Top,Tops,12,110.44,2.1,Wallet,59,Non-Binary,True,Loyal
+2024-10-05,Blouse,Tops,2,58.17,3.6,Net Banking,29,Male,False,Loyal
+2024-06-14,Shorts,Bottoms,18,116.12,3.5,Wallet,62,Female,False,Occasional
+2024-08-12,Jeans,Bottoms,6,111.35,1.5,Credit Card,50,Non-Binary,False,Regular
+2024-06-21,T-Shirt,Tops,18,60.75,3.6,Credit Card,39,Non-Binary,True,Occasional
+2025-04-05,Hoodie,Outerwear,15,114.93,2.9,Debit Card,39,Male,False,Regular
+2024-10-13,Skirt,Bottoms,2,147.78,3.8,Net Banking,60,Prefer Not to Say,True,First-time
+2025-04-05,Jacket,Outerwear,11,63.25,1.1,Wallet,64,Female,True,Regular
+2024-09-08,Skirt,Bottoms,11,24.83,3.9,Cash,23,Male,True,Regular
+2024-10-19,Sweater,Outerwear,10,132.9,3.9,UPI,56,Non-Binary,False,Loyal
+2024-05-02,Jeans,Bottoms,4,53.44,1.2,Debit Card,56,Male,True,Regular
+2024-07-08,T-Shirt,Tops,1,141.21,3.1,UPI,25,Prefer Not to Say,False,Loyal
+2024-12-17,Skirt,Bottoms,6,17.62,3.1,Credit Card,30,Prefer Not to Say,True,Occasional
+2024-12-01,Sweater,Outerwear,18,136.42,3.0,Cash,46,Male,True,First-time
+2024-08-30,Jacket,Outerwear,10,64.47,3.8,Credit Card,49,Female,True,Occasional
+2024-12-21,Shorts,Bottoms,18,104.56,1.4,Wallet,55,Female,False,Loyal
+2024-11-14,Sweater,Outerwear,9,141.47,1.2,Credit Card,57,Non-Binary,False,Regular
+2024-06-07,Tank Top,Tops,14,35.92,4.2,Cash,47,Female,False,Regular
+2024-08-30,Jacket,Outerwear,17,52.09,3.9,Debit Card,41,Female,False,First-time
+2024-09-26,T-Shirt,Tops,17,42.47,3.0,UPI,23,Non-Binary,False,First-time
+2024-12-21,Blouse,Tops,5,11.77,2.8,Debit Card,61,Prefer Not to Say,False,Occasional
+2025-04-11,Sweater,Outerwear,10,38.37,4.2,Net Banking,63,Non-Binary,True,Regular
+2025-04-18,Dress,One-piece,5,120.71,2.7,UPI,41,Non-Binary,False,Loyal
+2024-05-12,Jacket,Outerwear,19,74.65,3.7,UPI,39,Male,False,Occasional
+2024-09-29,Blouse,Tops,4,119.04,4.4,Credit Card,46,Female,False,Regular
+2025-03-11,Hoodie,Outerwear,16,110.87,2.3,Net Banking,25,Female,True,Regular
+2024-07-02,T-Shirt,Tops,1,86.04,1.3,Wallet,60,Male,False,Loyal
+2025-03-23,Hoodie,Outerwear,9,70.88,1.0,Debit Card,31,Male,False,Regular
+2024-05-07,Sweater,Outerwear,3,135.86,1.8,Wallet,22,Female,True,First-time
+2024-10-24,T-Shirt,Tops,10,66.83,4.7,Net Banking,49,Prefer Not to Say,False,First-time
+2024-07-02,Tank Top,Tops,11,57.32,4.4,Credit Card,18,Prefer Not to Say,True,Regular
+2024-06-22,Tank Top,Tops,17,94.83,1.5,Debit Card,25,Prefer Not to Say,False,Occasional
+2024-07-31,Dress,One-piece,6,79.25,4.0,Cash,35,Female,False,Occasional
+2024-10-20,Dress,One-piece,12,38.84,2.6,Credit Card,41,Female,True,Regular
+2025-04-02,Dress,One-piece,7,17.56,3.7,Credit Card,61,Prefer Not to Say,True,First-time
+2024-12-20,Jeans,Bottoms,10,138.57,4.5,Credit Card,22,Female,True,Occasional
+2024-06-06,Shorts,Bottoms,20,66.26,3.0,Wallet,29,Prefer Not to Say,False,Regular
+2024-06-04,Hoodie,Outerwear,2,147.73,3.6,Wallet,23,Female,True,Occasional
+2024-10-22,Jacket,Outerwear,16,136.41,4.1,UPI,34,Male,True,Loyal
+2024-07-31,Tank Top,Tops,6,29.32,3.1,Debit Card,41,Non-Binary,False,First-time
+2024-04-26,Hoodie,Outerwear,15,40.77,3.8,Cash,65,Prefer Not to Say,False,Regular
+2024-05-03,Jeans,Bottoms,1,73.44,1.5,Wallet,32,Non-Binary,True,Regular
+2024-11-02,Skirt,Bottoms,8,15.07,2.8,Credit Card,22,Male,False,Loyal
+2025-03-12,Shorts,Bottoms,17,104.39,3.4,Net Banking,27,Female,False,First-time
+2025-04-20,Shorts,Bottoms,10,65.19,1.6,Credit Card,61,Female,False,Loyal
+2025-02-20,Skirt,Bottoms,3,41.25,1.7,Net Banking,22,Prefer Not to Say,False,Occasional
+2025-04-14,Tank Top,Tops,11,124.92,2.5,Debit Card,46,Prefer Not to Say,True,Regular
+2024-10-24,Dress,One-piece,2,69.84,2.0,Net Banking,18,Non-Binary,True,First-time
+2024-12-06,Skirt,Bottoms,10,32.12,2.6,Net Banking,46,Prefer Not to Say,False,Regular
+2024-06-30,Jeans,Bottoms,8,76.92,3.4,Net Banking,36,Male,True,First-time
+2025-01-01,Jeans,Bottoms,9,46.41,1.3,Net Banking,25,Non-Binary,False,First-time
+2025-03-30,Dress,One-piece,7,130.45,1.1,Debit Card,59,Prefer Not to Say,True,Regular
+2024-09-06,Hoodie,Outerwear,10,105.43,4.6,Net Banking,22,Prefer Not to Say,True,Regular
+2024-07-29,Tank Top,Tops,13,76.98,1.2,Net Banking,32,Female,False,Loyal
+2024-11-10,Dress,One-piece,6,107.4,4.6,Wallet,18,Female,True,Loyal
+2024-10-02,Jacket,Outerwear,6,38.35,1.9,Debit Card,20,Male,False,Loyal
+2024-08-09,T-Shirt,Tops,15,83.67,2.9,Credit Card,43,Female,True,First-time
+2024-06-16,Jeans,Bottoms,6,40.36,3.0,Cash,29,Female,False,Regular
+2024-04-27,Jacket,Outerwear,12,94.47,2.4,Wallet,50,Prefer Not to Say,False,Occasional
+2024-08-16,Tank Top,Tops,10,81.23,1.7,Net Banking,62,Non-Binary,False,Occasional
+2025-03-07,T-Shirt,Tops,11,93.16,1.4,Credit Card,53,Female,False,Occasional
+2024-10-08,Jeans,Bottoms,14,128.95,3.5,Net Banking,24,Non-Binary,False,Regular
+2025-01-13,Dress,One-piece,19,100.01,3.1,UPI,20,Prefer Not to Say,False,Regular
+2025-04-21,Skirt,Bottoms,15,12.51,3.8,Credit Card,21,Male,True,Regular
+2024-07-29,Skirt,Bottoms,4,147.09,4.9,Wallet,56,Non-Binary,False,Loyal
+2024-09-22,Tank Top,Tops,8,75.78,3.9,Net Banking,28,Male,True,First-time
+2024-10-16,Jeans,Bottoms,12,29.79,2.1,Debit Card,65,Female,False,Loyal
+2024-06-29,Dress,One-piece,5,102.79,1.0,Net Banking,33,Female,False,Loyal
+2024-06-10,Blouse,Tops,20,142.76,2.3,Net Banking,55,Male,True,Occasional
+2024-09-25,Jeans,Bottoms,16,107.09,3.0,Debit Card,52,Non-Binary,False,Regular
+2025-03-17,T-Shirt,Tops,20,122.88,3.2,Net Banking,33,Non-Binary,False,First-time
+2025-03-12,Skirt,Bottoms,11,32.5,2.8,Credit Card,38,Male,False,First-time
+2024-11-22,Dress,One-piece,8,10.39,1.7,Wallet,36,Female,True,First-time
+2024-11-04,Dress,One-piece,10,104.53,1.7,Credit Card,55,Male,False,Regular
+2024-10-14,Skirt,Bottoms,19,112.8,3.9,Wallet,22,Non-Binary,False,Regular
+2024-12-11,Sweater,Outerwear,6,73.67,4.7,UPI,19,Prefer Not to Say,True,Occasional
+2024-10-10,T-Shirt,Tops,4,148.19,3.4,Wallet,38,Non-Binary,True,Regular
+2025-02-07,Skirt,Bottoms,18,20.78,2.1,Credit Card,37,Male,True,First-time
+2024-07-01,Jacket,Outerwear,8,86.33,1.0,Credit Card,57,Prefer Not to Say,True,Occasional
+2024-08-11,Blouse,Tops,16,114.9,3.4,Debit Card,19,Non-Binary,False,Regular
+2025-01-12,Jacket,Outerwear,3,63.28,1.2,Wallet,22,Female,False,Loyal
+2025-01-29,Blouse,Tops,11,120.0,1.2,UPI,54,Non-Binary,False,First-time
+2024-07-28,T-Shirt,Tops,19,94.74,2.1,Debit Card,35,Male,True,Regular
+2025-02-27,Jacket,Outerwear,3,126.87,1.6,Cash,32,Non-Binary,True,Loyal
+2024-11-27,Hoodie,Outerwear,2,97.49,1.2,Cash,39,Male,True,Regular
+2024-06-04,T-Shirt,Tops,5,120.62,3.4,UPI,41,Prefer Not to Say,True,Regular
+2024-12-03,Shorts,Bottoms,5,140.18,2.9,Net Banking,57,Male,False,First-time
+2025-01-12,Skirt,Bottoms,5,42.63,2.8,Debit Card,25,Female,True,Regular
+2025-04-15,Skirt,Bottoms,10,142.27,3.0,UPI,52,Female,True,First-time
+2024-08-16,Jeans,Bottoms,16,16.77,4.3,Net Banking,46,Female,True,Regular
+2024-08-09,Blouse,Tops,10,99.68,3.6,Cash,30,Female,False,First-time
+2024-11-25,Dress,One-piece,5,118.19,2.7,Cash,25,Male,True,First-time
+2024-06-28,Jeans,Bottoms,15,32.92,4.3,Net Banking,41,Male,False,Occasional
+2025-02-14,Shorts,Bottoms,16,63.99,2.5,Debit Card,37,Non-Binary,False,Regular
+2025-04-08,Skirt,Bottoms,9,148.62,3.9,Credit Card,63,Non-Binary,True,Occasional
+2024-08-02,Jeans,Bottoms,10,128.84,1.5,UPI,50,Female,True,Loyal
+2024-08-15,Skirt,Bottoms,9,86.95,3.6,UPI,48,Prefer Not to Say,True,Occasional
+2025-04-24,Jacket,Outerwear,6,41.39,4.5,UPI,30,Male,True,Regular
+2024-10-02,T-Shirt,Tops,18,74.6,4.2,Credit Card,27,Female,True,Regular
+2024-08-08,Hoodie,Outerwear,15,42.83,4.9,Cash,45,Prefer Not to Say,True,First-time
+2024-10-30,T-Shirt,Tops,13,56.27,2.7,Wallet,53,Male,False,Occasional
+2024-06-22,Skirt,Bottoms,2,44.83,4.8,UPI,24,Female,True,First-time
+2024-08-04,T-Shirt,Tops,16,145.15,2.6,Credit Card,40,Male,False,Regular
+2025-01-05,Tank Top,Tops,17,57.91,2.4,Wallet,65,Male,False,First-time
+2024-07-23,Jeans,Bottoms,20,146.23,1.9,Credit Card,36,Prefer Not to Say,False,Occasional
+2025-03-07,Jacket,Outerwear,1,114.89,4.8,UPI,53,Prefer Not to Say,False,Occasional
+2025-01-14,Shorts,Bottoms,9,110.95,2.2,Wallet,54,Non-Binary,False,Loyal
+2024-05-06,Skirt,Bottoms,3,44.61,3.6,Cash,19,Non-Binary,True,Regular
+2024-12-05,Blouse,Tops,11,103.47,2.8,UPI,36,Non-Binary,False,Loyal
+2024-09-30,Jeans,Bottoms,1,105.65,1.6,UPI,19,Female,False,Regular
+2025-04-09,Sweater,Outerwear,18,41.99,3.8,Net Banking,48,Non-Binary,True,Loyal
+2024-09-16,Hoodie,Outerwear,12,94.67,4.9,UPI,56,Non-Binary,False,Regular
+2024-12-15,Jeans,Bottoms,3,36.31,1.5,Credit Card,47,Non-Binary,True,Occasional
+2024-06-05,Tank Top,Tops,14,43.56,3.1,Net Banking,31,Prefer Not to Say,False,Occasional
+2024-09-01,Tank Top,Tops,11,18.02,3.1,Credit Card,22,Male,False,First-time
+2024-08-15,Tank Top,Tops,17,72.44,2.0,Net Banking,35,Non-Binary,False,First-time
+2024-11-14,Blouse,Tops,6,92.61,1.2,Cash,59,Prefer Not to Say,False,First-time
+2024-09-11,T-Shirt,Tops,2,86.07,4.0,Wallet,37,Male,True,Loyal
+2024-12-28,Jacket,Outerwear,3,32.55,3.6,Net Banking,29,Male,True,Loyal
+2025-04-16,T-Shirt,Tops,11,74.74,1.4,Credit Card,55,Prefer Not to Say,True,Occasional
+2024-10-21,Jeans,Bottoms,16,143.82,1.4,Cash,56,Prefer Not to Say,True,Regular
+2024-11-14,Sweater,Outerwear,5,82.04,4.6,Debit Card,33,Prefer Not to Say,False,Loyal
+2024-11-08,Dress,One-piece,1,149.86,1.9,Net Banking,57,Non-Binary,False,Occasional
+2024-08-08,Dress,One-piece,4,81.4,4.6,Credit Card,32,Female,True,Occasional
+2024-11-29,Sweater,Outerwear,8,47.88,3.5,Wallet,61,Female,False,First-time
+2024-12-08,Jacket,Outerwear,16,22.71,4.9,Cash,31,Male,False,Occasional
+2024-10-21,Tank Top,Tops,3,57.07,2.6,UPI,39,Female,False,Occasional
+2024-06-12,Skirt,Bottoms,7,32.87,3.3,Cash,25,Female,False,Loyal
+2025-04-04,Jacket,Outerwear,5,92.37,2.6,Credit Card,53,Prefer Not to Say,True,Occasional
+2024-07-24,Sweater,Outerwear,7,123.19,4.1,Debit Card,60,Male,True,Regular
+2024-12-09,Dress,One-piece,20,10.53,3.7,Credit Card,35,Prefer Not to Say,True,Loyal
+2024-08-14,Jeans,Bottoms,1,36.45,4.6,Cash,49,Non-Binary,False,Occasional
+2025-03-25,Jacket,Outerwear,19,59.49,2.2,Net Banking,29,Female,True,Regular
+2024-06-21,Jeans,Bottoms,7,127.38,4.3,Cash,45,Prefer Not to Say,True,Occasional
+2025-04-05,Jeans,Bottoms,13,64.58,2.6,Cash,54,Female,True,Regular
+2024-05-12,Blouse,Tops,2,90.46,2.4,Net Banking,38,Male,False,Loyal
+2024-05-11,T-Shirt,Tops,6,124.02,4.6,Credit Card,34,Male,True,Regular
+2024-09-03,Hoodie,Outerwear,11,48.16,2.4,Cash,49,Female,True,Loyal
+2024-09-17,Hoodie,Outerwear,19,92.87,4.9,Net Banking,42,Female,False,Loyal
+2024-12-24,Hoodie,Outerwear,2,99.61,2.2,Credit Card,57,Male,False,Regular
+2025-02-05,Sweater,Outerwear,8,137.94,1.5,Net Banking,35,Prefer Not to Say,True,Loyal
+2024-06-12,Shorts,Bottoms,3,122.4,4.9,Credit Card,39,Prefer Not to Say,False,First-time
+2024-04-25,Dress,One-piece,12,92.06,3.6,Cash,61,Female,True,Occasional
+2025-04-13,Sweater,Outerwear,13,30.87,3.6,Credit Card,45,Non-Binary,False,Loyal
+2025-03-31,T-Shirt,Tops,5,72.3,1.8,Net Banking,35,Non-Binary,True,Regular
+2025-03-22,Tank Top,Tops,13,107.6,3.5,Debit Card,49,Non-Binary,False,Occasional
+2024-05-16,Hoodie,Outerwear,18,36.08,2.8,Cash,49,Prefer Not to Say,True,Loyal
+2024-10-27,Dress,One-piece,5,73.65,1.7,Credit Card,35,Prefer Not to Say,False,Loyal
+2025-02-15,Hoodie,Outerwear,18,129.57,3.8,Credit Card,44,Non-Binary,False,Regular
+2024-07-09,Jacket,Outerwear,11,40.97,4.2,UPI,30,Female,False,First-time
+2025-04-18,Tank Top,Tops,9,17.31,2.2,UPI,37,Non-Binary,True,First-time
+2024-08-18,Tank Top,Tops,11,65.78,1.7,Credit Card,57,Prefer Not to Say,True,Loyal
+2025-03-27,Skirt,Bottoms,9,51.87,1.8,Debit Card,54,Non-Binary,False,Loyal
+2024-12-15,Tank Top,Tops,11,72.47,1.5,Debit Card,47,Non-Binary,True,Regular
+2025-01-20,Hoodie,Outerwear,15,106.12,4.7,UPI,18,Female,True,Occasional
+2024-09-08,Jeans,Bottoms,11,60.32,2.3,Wallet,30,Prefer Not to Say,False,Occasional
+2025-04-09,Tank Top,Tops,17,57.51,3.3,Net Banking,45,Male,True,Occasional
+2025-01-19,Jeans,Bottoms,20,87.84,3.7,Wallet,38,Non-Binary,False,First-time
+2024-12-08,Dress,One-piece,16,126.98,4.1,Cash,58,Non-Binary,True,Regular
+2025-01-24,Hoodie,Outerwear,14,65.42,1.7,Cash,51,Non-Binary,True,Regular
+2024-09-10,Tank Top,Tops,7,98.51,4.7,Cash,27,Female,True,Regular
+2025-02-09,Tank Top,Tops,4,107.67,4.7,Cash,52,Male,False,First-time
+2024-06-13,Sweater,Outerwear,12,73.44,4.2,Wallet,32,Non-Binary,False,Loyal
+2024-10-03,Shorts,Bottoms,19,59.69,2.0,Cash,33,Prefer Not to Say,True,First-time
+2024-10-04,Hoodie,Outerwear,17,43.21,4.7,Wallet,42,Female,True,Loyal
+2024-06-30,T-Shirt,Tops,12,55.06,4.1,Net Banking,22,Prefer Not to Say,True,First-time
+2024-09-08,Jacket,Outerwear,12,122.39,4.3,Wallet,45,Male,False,Regular
+2025-04-24,Sweater,Outerwear,5,104.1,2.0,Cash,56,Prefer Not to Say,False,Regular
+2025-03-18,Tank Top,Tops,9,93.97,3.1,Wallet,30,Non-Binary,True,First-time
+2024-04-25,T-Shirt,Tops,12,92.57,2.2,Debit Card,33,Female,True,Loyal
+2024-08-24,Sweater,Outerwear,2,43.7,3.4,Cash,40,Female,True,Loyal
+2024-04-26,T-Shirt,Tops,1,35.5,3.1,UPI,54,Male,False,Regular
+2024-09-30,Skirt,Bottoms,17,116.42,2.0,Cash,46,Prefer Not to Say,False,First-time
+2024-10-09,Jacket,Outerwear,14,66.67,3.1,UPI,28,Non-Binary,False,Regular
+2024-06-30,Skirt,Bottoms,14,69.23,4.4,Wallet,38,Female,False,Loyal
+2024-10-26,Tank Top,Tops,17,57.91,1.8,Wallet,44,Female,False,Regular
+2024-10-28,Tank Top,Tops,14,28.29,4.2,Net Banking,44,Male,True,Occasional
+2024-12-29,T-Shirt,Tops,19,12.36,2.3,Wallet,24,Prefer Not to Say,True,Occasional
+2025-04-13,Tank Top,Tops,5,54.51,4.5,Net Banking,41,Female,False,Occasional
+2024-09-19,Tank Top,Tops,8,73.48,4.5,Debit Card,65,Female,True,First-time
+2025-02-28,Jeans,Bottoms,18,91.5,3.5,UPI,30,Male,False,Loyal
+2024-11-29,Blouse,Tops,19,62.44,3.3,Net Banking,24,Female,False,First-time
+2024-12-21,Jacket,Outerwear,6,37.52,3.7,Debit Card,59,Prefer Not to Say,False,Loyal
+2025-03-31,Jacket,Outerwear,16,29.92,4.5,Cash,27,Female,True,Occasional
+2024-11-01,Jeans,Bottoms,14,22.18,2.0,Debit Card,19,Female,False,Regular
+2024-06-29,Jeans,Bottoms,18,66.43,1.1,UPI,43,Prefer Not to Say,True,Regular
+2025-01-19,Hoodie,Outerwear,17,48.46,1.1,Debit Card,39,Female,False,Loyal
+2024-10-15,Jeans,Bottoms,4,63.68,3.0,UPI,20,Male,True,Occasional
+2025-03-29,Skirt,Bottoms,17,126.55,3.4,Debit Card,59,Prefer Not to Say,False,First-time
+2025-01-05,Blouse,Tops,17,38.35,2.8,Wallet,50,Non-Binary,True,Occasional
+2024-07-01,Hoodie,Outerwear,18,27.09,3.8,UPI,62,Female,False,Loyal
+2025-04-15,Jacket,Outerwear,12,44.66,3.8,Credit Card,37,Non-Binary,True,Occasional
+2024-06-09,Dress,One-piece,8,16.0,2.7,Credit Card,30,Prefer Not to Say,True,Loyal
+2024-11-23,Dress,One-piece,12,84.88,3.2,Credit Card,43,Prefer Not to Say,True,Regular
+2024-06-28,Dress,One-piece,11,116.64,2.6,Net Banking,61,Non-Binary,False,First-time
+2025-03-16,Shorts,Bottoms,1,44.19,1.8,Credit Card,30,Non-Binary,False,Occasional
+2024-07-23,Skirt,Bottoms,9,35.06,2.1,Debit Card,60,Non-Binary,True,Occasional
+2024-06-30,Dress,One-piece,4,132.04,4.9,Cash,65,Male,True,Regular
+2024-07-26,Hoodie,Outerwear,19,94.27,1.0,Net Banking,55,Prefer Not to Say,True,Occasional
+2024-10-09,Jeans,Bottoms,4,86.8,1.2,Wallet,38,Prefer Not to Say,True,First-time
+2024-08-20,Jeans,Bottoms,5,39.76,3.3,Cash,33,Male,True,Loyal
+2025-02-20,Tank Top,Tops,5,35.54,4.8,UPI,30,Male,True,First-time
+2024-10-10,Sweater,Outerwear,11,90.99,2.0,UPI,33,Prefer Not to Say,False,Occasional
+2024-05-16,Shorts,Bottoms,16,105.77,4.4,Net Banking,48,Female,True,Loyal
+2024-09-28,Tank Top,Tops,5,46.41,2.2,Cash,62,Prefer Not to Say,False,Regular
+2025-03-09,T-Shirt,Tops,20,44.87,1.1,UPI,33,Male,False,First-time
+2024-07-29,Skirt,Bottoms,19,45.41,2.9,Debit Card,45,Female,False,First-time
+2025-02-25,Hoodie,Outerwear,10,95.72,1.8,Wallet,59,Prefer Not to Say,False,Occasional
+2025-04-16,Jacket,Outerwear,1,145.8,1.3,Wallet,32,Prefer Not to Say,True,Loyal
+2024-06-28,Jacket,Outerwear,1,56.36,4.0,Debit Card,53,Non-Binary,False,Regular
+2025-04-06,Sweater,Outerwear,17,50.63,3.8,Wallet,63,Male,True,Regular
+2024-12-21,Skirt,Bottoms,14,53.89,3.4,Wallet,41,Non-Binary,True,Occasional
+2024-11-23,Dress,One-piece,17,26.72,4.6,Cash,26,Male,True,Occasional
+2025-02-25,Skirt,Bottoms,10,109.41,3.9,UPI,20,Male,False,Occasional
+2024-08-18,Jacket,Outerwear,20,141.82,1.4,Debit Card,19,Male,False,Occasional
+2024-06-12,Jacket,Outerwear,10,64.57,3.5,Net Banking,18,Female,True,Regular
+2024-05-09,T-Shirt,Tops,5,94.73,4.5,Cash,64,Female,True,Regular
+2025-02-24,Tank Top,Tops,3,22.22,3.5,Wallet,64,Female,True,Regular
+2024-12-21,Shorts,Bottoms,8,35.37,4.0,Debit Card,33,Non-Binary,True,Regular
+2024-11-04,Tank Top,Tops,2,96.96,4.4,UPI,40,Non-Binary,True,First-time
+2024-11-09,Skirt,Bottoms,5,28.67,2.6,Wallet,61,Prefer Not to Say,True,First-time
+2024-04-30,Skirt,Bottoms,4,129.51,1.3,Cash,50,Male,True,First-time
+2024-10-27,Blouse,Tops,4,23.81,1.8,Debit Card,46,Non-Binary,False,Regular
+2024-06-01,Shorts,Bottoms,3,70.8,4.9,Cash,49,Male,True,Regular
+2025-03-11,Jacket,Outerwear,18,86.21,3.9,Cash,60,Non-Binary,True,Regular
+2024-08-31,Jeans,Bottoms,19,53.35,3.6,Cash,50,Prefer Not to Say,True,Regular
+2024-06-08,Jacket,Outerwear,10,89.0,3.1,Cash,44,Female,False,Regular
+2025-04-07,Skirt,Bottoms,11,68.51,3.7,Debit Card,46,Female,False,First-time
+2024-06-23,Sweater,Outerwear,12,114.68,2.9,UPI,35,Male,False,Loyal
+2024-05-26,Jeans,Bottoms,20,97.19,1.1,Debit Card,51,Non-Binary,True,Regular
+2025-01-31,Shorts,Bottoms,13,22.82,1.3,Cash,65,Male,True,First-time
+2025-04-04,Shorts,Bottoms,1,20.69,1.0,Wallet,42,Non-Binary,False,First-time
+2024-05-17,Jeans,Bottoms,9,21.04,3.9,Debit Card,59,Non-Binary,False,Regular
+2024-07-28,Hoodie,Outerwear,9,82.43,2.8,Net Banking,29,Non-Binary,False,Loyal
+2025-04-25,Shorts,Bottoms,12,13.3,3.4,Credit Card,47,Non-Binary,False,First-time
+2024-12-19,Jeans,Bottoms,5,42.63,3.4,Debit Card,65,Female,True,First-time
+2024-06-13,Jeans,Bottoms,20,125.17,4.3,Wallet,65,Prefer Not to Say,False,Loyal
+2024-10-29,Sweater,Outerwear,13,119.7,4.5,UPI,18,Male,False,Occasional
+2025-04-22,Jeans,Bottoms,16,96.34,2.9,Wallet,42,Prefer Not to Say,True,Loyal
+2024-07-15,Shorts,Bottoms,11,135.6,1.5,Cash,63,Non-Binary,False,Occasional
+2024-12-09,Tank Top,Tops,7,84.0,3.0,Wallet,50,Prefer Not to Say,True,Regular
+2024-07-01,T-Shirt,Tops,20,22.1,4.6,Wallet,37,Prefer Not to Say,True,Regular
+2025-01-21,Blouse,Tops,9,21.14,2.2,UPI,44,Non-Binary,False,First-time
+2024-07-09,T-Shirt,Tops,2,107.61,1.2,Wallet,61,Prefer Not to Say,True,Regular
+2024-05-17,Sweater,Outerwear,12,29.36,1.4,Wallet,58,Male,False,Regular
+2025-04-10,Blouse,Tops,10,118.04,2.0,Cash,20,Non-Binary,False,First-time
+2025-01-01,Jeans,Bottoms,15,90.47,4.7,Cash,31,Non-Binary,True,Loyal
+2024-08-08,Blouse,Tops,13,81.51,4.7,Credit Card,48,Male,True,Loyal
+2024-06-02,Hoodie,Outerwear,14,139.01,4.9,Wallet,37,Prefer Not to Say,False,Loyal
+2024-12-08,Sweater,Outerwear,13,21.07,4.5,Cash,56,Non-Binary,False,Occasional
+2024-05-02,Hoodie,Outerwear,6,32.54,3.5,Net Banking,55,Prefer Not to Say,True,Occasional
+2025-04-17,Dress,One-piece,20,66.87,2.2,UPI,31,Non-Binary,False,Regular
+2024-10-25,T-Shirt,Tops,20,11.19,4.3,Wallet,45,Prefer Not to Say,False,Loyal
+2024-10-14,Blouse,Tops,18,66.12,5.0,Credit Card,24,Female,False,Regular
+2024-07-16,Jeans,Bottoms,6,109.62,1.4,Debit Card,47,Prefer Not to Say,False,Loyal
+2024-12-04,Hoodie,Outerwear,20,50.99,1.2,Wallet,55,Non-Binary,False,Regular
+2025-04-22,Blouse,Tops,3,64.76,3.9,Wallet,50,Male,True,First-time
+2024-10-12,Tank Top,Tops,4,143.46,3.4,Net Banking,65,Non-Binary,False,Occasional
+2024-07-23,Shorts,Bottoms,5,46.81,2.5,Net Banking,56,Prefer Not to Say,True,Loyal
+2025-04-25,Hoodie,Outerwear,1,17.48,2.9,Cash,63,Non-Binary,True,Loyal
+2024-08-19,Blouse,Tops,5,137.16,3.6,Cash,29,Female,True,Loyal
+2024-05-08,Blouse,Tops,6,46.46,4.7,Debit Card,30,Prefer Not to Say,True,Occasional
+2024-09-16,Hoodie,Outerwear,7,16.66,3.1,Net Banking,49,Female,True,Loyal
+2024-10-28,Sweater,Outerwear,20,127.22,1.6,Net Banking,49,Male,False,Occasional
+2024-05-31,T-Shirt,Tops,20,147.07,4.5,Wallet,61,Prefer Not to Say,False,Loyal
+2025-04-16,Blouse,Tops,3,45.34,2.8,Wallet,64,Non-Binary,True,Regular
+2024-06-02,Hoodie,Outerwear,9,64.65,4.9,Cash,30,Male,True,Regular
+2024-08-25,Sweater,Outerwear,15,135.72,3.8,UPI,58,Male,False,Loyal
+2025-04-16,Hoodie,Outerwear,5,78.99,1.5,Cash,45,Male,True,Occasional
+2024-09-07,Skirt,Bottoms,6,128.99,2.1,Net Banking,47,Female,False,Occasional
+2024-07-01,Hoodie,Outerwear,17,57.54,3.1,UPI,65,Non-Binary,True,First-time
+2024-06-30,Sweater,Outerwear,17,58.57,3.5,Wallet,35,Non-Binary,True,Occasional
+2024-09-16,Tank Top,Tops,19,111.67,1.2,Debit Card,32,Non-Binary,True,Regular
+2025-04-22,T-Shirt,Tops,17,116.51,2.4,Wallet,22,Female,True,Loyal
+2024-05-18,Sweater,Outerwear,3,43.32,1.4,Cash,47,Prefer Not to Say,True,Regular
+2024-11-01,Jeans,Bottoms,12,147.84,3.5,Wallet,24,Prefer Not to Say,True,Loyal
+2024-07-01,Sweater,Outerwear,2,54.66,1.7,Cash,38,Male,False,Occasional
+2024-10-26,Tank Top,Tops,10,120.18,4.9,Net Banking,33,Female,False,First-time
+2025-03-06,Dress,One-piece,17,43.9,4.5,Cash,60,Female,True,First-time
+2024-05-20,Hoodie,Outerwear,9,94.38,3.1,Net Banking,26,Male,True,Regular
+2024-12-01,Sweater,Outerwear,2,65.97,3.9,Credit Card,38,Prefer Not to Say,False,First-time
+2024-11-19,Jeans,Bottoms,10,47.24,4.8,Cash,31,Prefer Not to Say,False,First-time
+2025-04-01,Hoodie,Outerwear,3,136.78,4.7,UPI,27,Prefer Not to Say,False,Loyal
+2024-08-18,Tank Top,Tops,5,130.35,2.9,Credit Card,43,Male,False,First-time
+2024-07-27,Shorts,Bottoms,6,48.03,3.2,Cash,31,Male,False,Occasional
+2025-03-03,T-Shirt,Tops,6,40.33,1.5,Wallet,51,Female,False,Loyal
+2025-01-07,Jacket,Outerwear,4,54.96,4.3,Credit Card,46,Prefer Not to Say,True,Occasional
+2025-04-17,Blouse,Tops,16,32.25,3.9,Debit Card,31,Non-Binary,True,First-time
+2024-09-28,Hoodie,Outerwear,6,72.67,4.3,Credit Card,40,Prefer Not to Say,False,First-time
+2024-09-02,Shorts,Bottoms,3,34.12,2.6,Debit Card,25,Prefer Not to Say,True,Occasional
+2024-11-03,Blouse,Tops,11,34.52,3.1,UPI,18,Prefer Not to Say,True,Loyal
+2024-05-09,Hoodie,Outerwear,3,67.64,3.2,Wallet,25,Prefer Not to Say,False,Regular
+2025-04-21,Dress,One-piece,2,31.37,3.8,Credit Card,38,Prefer Not to Say,False,First-time
+2024-10-21,Dress,One-piece,14,117.28,4.7,Debit Card,55,Female,True,Occasional
+2024-09-16,Jacket,Outerwear,6,110.26,2.1,Wallet,30,Female,False,Occasional
+2025-03-22,Hoodie,Outerwear,15,96.11,3.1,Wallet,19,Female,True,First-time
+2024-09-04,Sweater,Outerwear,13,18.72,4.9,Credit Card,27,Non-Binary,False,Loyal
+2024-08-04,Shorts,Bottoms,6,58.76,2.2,Credit Card,63,Male,False,First-time
+2025-04-24,Blouse,Tops,5,30.0,1.6,Net Banking,52,Non-Binary,False,Regular
+2025-03-31,Sweater,Outerwear,18,129.95,2.3,Cash,59,Prefer Not to Say,True,Regular
+2024-06-22,Shorts,Bottoms,10,77.54,1.5,Wallet,64,Non-Binary,False,Regular
+2024-08-23,Jeans,Bottoms,10,87.32,4.1,Debit Card,60,Prefer Not to Say,False,Regular
+2024-12-22,Dress,One-piece,15,75.07,3.2,UPI,44,Non-Binary,True,Loyal
+2024-05-07,Hoodie,Outerwear,10,77.42,4.6,Cash,64,Non-Binary,True,Loyal
+2025-03-03,Shorts,Bottoms,2,15.24,1.9,UPI,48,Male,True,Loyal
+2024-08-18,Dress,One-piece,4,122.43,1.3,UPI,19,Non-Binary,False,Occasional
+2024-10-30,Shorts,Bottoms,1,132.74,2.7,Net Banking,35,Prefer Not to Say,False,First-time
+2024-07-13,Shorts,Bottoms,8,14.91,4.7,Credit Card,56,Male,True,Loyal
+2024-05-06,Sweater,Outerwear,13,142.19,4.4,Wallet,63,Non-Binary,True,Occasional
+2024-09-19,Sweater,Outerwear,13,110.73,3.4,Credit Card,63,Male,True,Occasional
+2025-04-03,Hoodie,Outerwear,15,105.3,1.2,Credit Card,29,Prefer Not to Say,False,Loyal
+2024-12-16,Blouse,Tops,10,138.95,5.0,Net Banking,46,Prefer Not to Say,True,First-time
+2024-11-10,Hoodie,Outerwear,5,124.75,3.2,Debit Card,56,Non-Binary,True,Loyal
+2025-03-02,Jacket,Outerwear,16,61.69,2.9,Cash,21,Male,False,Occasional
+2024-11-07,Skirt,Bottoms,18,99.75,3.7,Debit Card,42,Female,False,Regular
+2024-07-31,Tank Top,Tops,18,83.74,2.1,UPI,54,Female,False,First-time
+2024-06-21,Blouse,Tops,19,148.82,2.1,Net Banking,20,Male,True,Regular
+2024-10-16,Hoodie,Outerwear,8,12.83,4.5,Net Banking,47,Prefer Not to Say,True,Occasional
+2024-08-06,Blouse,Tops,3,58.51,4.6,Net Banking,52,Non-Binary,False,First-time
+2025-01-27,Jacket,Outerwear,17,23.74,1.1,Credit Card,58,Prefer Not to Say,True,Loyal
+2024-10-09,T-Shirt,Tops,2,148.73,2.3,Credit Card,23,Non-Binary,True,Regular
+2025-03-22,Hoodie,Outerwear,1,99.38,3.2,Cash,52,Non-Binary,False,Regular
+2025-03-07,Sweater,Outerwear,4,118.28,1.8,Net Banking,25,Prefer Not to Say,True,Loyal
+2024-11-22,Skirt,Bottoms,10,138.0,1.5,UPI,49,Non-Binary,False,First-time
+2024-10-27,Jeans,Bottoms,1,34.45,2.0,Credit Card,31,Male,True,Loyal
+2024-09-10,Jeans,Bottoms,9,88.79,1.1,Wallet,23,Female,True,Occasional
+2024-09-01,Jacket,Outerwear,7,50.83,4.8,Net Banking,29,Prefer Not to Say,False,First-time
+2024-12-21,T-Shirt,Tops,3,88.16,1.9,Debit Card,47,Prefer Not to Say,False,First-time
+2024-05-06,Jeans,Bottoms,14,46.21,2.7,UPI,30,Female,True,First-time
+2024-04-29,Jacket,Outerwear,4,79.33,3.1,Debit Card,43,Prefer Not to Say,False,Regular
+2025-03-27,Jacket,Outerwear,15,124.41,1.4,UPI,42,Non-Binary,True,First-time
+2024-10-27,Hoodie,Outerwear,9,79.29,2.1,Credit Card,35,Female,True,Regular
+2024-09-14,Hoodie,Outerwear,14,20.8,2.2,UPI,53,Prefer Not to Say,True,Loyal
+2024-05-07,Shorts,Bottoms,1,83.94,3.0,Credit Card,50,Female,False,First-time
+2025-01-30,T-Shirt,Tops,6,106.11,3.4,Net Banking,28,Prefer Not to Say,False,Regular
+2025-01-07,Jeans,Bottoms,2,41.99,2.4,Debit Card,65,Non-Binary,True,Loyal
+2024-07-10,Tank Top,Tops,1,108.61,2.5,Credit Card,52,Prefer Not to Say,True,First-time
+2025-01-01,Blouse,Tops,19,54.51,4.1,UPI,65,Non-Binary,False,First-time
+2024-11-28,Skirt,Bottoms,5,45.01,3.6,UPI,19,Non-Binary,True,First-time
+2024-06-28,Dress,One-piece,5,27.72,1.1,Wallet,55,Male,False,Occasional
+2024-07-29,Shorts,Bottoms,13,34.49,2.9,Net Banking,61,Non-Binary,False,First-time
+2024-11-29,Skirt,Bottoms,8,148.2,2.1,Net Banking,21,Non-Binary,False,Occasional
+2024-05-02,T-Shirt,Tops,4,54.41,4.7,Debit Card,37,Prefer Not to Say,True,Occasional
+2025-01-22,Tank Top,Tops,10,33.27,2.9,Net Banking,28,Female,False,Loyal
+2024-06-01,Hoodie,Outerwear,6,15.77,1.9,UPI,27,Non-Binary,False,Regular
+2024-08-11,Blouse,Tops,15,33.6,1.5,UPI,45,Male,True,Regular
+2024-09-08,Blouse,Tops,20,49.48,1.2,Credit Card,47,Prefer Not to Say,False,Regular
+2025-02-06,Shorts,Bottoms,18,77.19,3.7,Net Banking,28,Prefer Not to Say,False,First-time
+2024-07-08,Jacket,Outerwear,3,109.72,1.8,Cash,65,Prefer Not to Say,False,First-time
+2024-05-04,Shorts,Bottoms,7,143.28,3.0,Wallet,20,Non-Binary,False,Regular
+2025-02-21,Blouse,Tops,18,118.96,4.2,Cash,35,Prefer Not to Say,True,Loyal
+2025-02-03,Blouse,Tops,5,60.75,2.0,Cash,20,Non-Binary,True,First-time
+2024-11-18,Sweater,Outerwear,8,120.81,4.3,Net Banking,43,Female,False,Loyal
+2024-12-30,Skirt,Bottoms,20,54.7,2.4,Net Banking,38,Non-Binary,False,Occasional
+2025-03-12,Skirt,Bottoms,5,143.95,1.7,Wallet,40,Prefer Not to Say,False,Regular

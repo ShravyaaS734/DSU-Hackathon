@@ -1,0 +1,1001 @@
+Order ID,Order Date,Quantity Sold,Product Name,Price,Customer ID,Customer Age,Customer Gender,Customer Segment,Payment Method,Discount Applied,Product Category,Review Rating,Shipping Cost,Shipping Time,Return Rate,CAC,CLTV,Repeat Purchase Rate
+1849,2025-03-04,3,Photo Album,427,53ee84f6-d925-4b97-ad0b-11713d715953,57,Female,New,Cash on Delivery,True,Jewelry,5,115,3,4.47,183,732,1.77
+2518,2025-01-11,3,Engraved Jewelry,282,985f782b-7edc-45e0-aa3d-d8b575222795,47,Male,Returning,Credit Card,False,Jewelry,4,83,8,8.28,999,4469,89.77
+8228,2025-03-02,2,Custom Phone Case,125,d3e9ea97-1702-41e9-bc4c-7081849e1991,40,Other,VIP,Debit Card,False,Accessories,2,55,5,9.58,444,2029,74.58
+4566,2025-01-25,3,Engraved Jewelry,460,1927d739-529d-4da0-bc04-7cd1b1e1c533,52,Other,Returning,Credit Card,False,Mugs,4,73,5,2.54,850,2224,90.93
+4937,2025-03-27,4,Personalized T-shirt,159,2523aee6-1f15-4439-98fd-e3e31d19bd32,53,Male,VIP,Cash on Delivery,True,Jewelry,1,38,9,5.56,463,3633,55.76
+5280,2025-01-04,8,Custom Mug,288,23fc4977-bb6f-4ae0-a678-2d351cd305b3,31,Female,Returning,Credit Card,False,T-shirts,3,142,9,0.47,912,3707,28.81
+2253,2025-03-31,3,Engraved Jewelry,475,ec34eaff-411a-450c-b1a6-4fddd6330dfb,40,Female,VIP,Credit Card,True,Mugs,4,35,2,4.18,829,2821,49.81
+7900,2025-02-26,7,Personalized T-shirt,399,957f9d35-53f0-47b4-a7c8-8df76ef7ce96,27,Other,New,Cash on Delivery,False,Jewelry,1,77,6,7.32,788,4851,82.24
+3407,2025-04-09,10,Personalized T-shirt,159,8ed8a658-d8d6-46a1-b829-305b3ba69438,47,Female,New,Credit Card,True,Accessories,4,107,6,9.37,585,3524,81.0
+6078,2025-03-10,3,Personalized T-shirt,202,8991eee0-7a9e-4739-96f7-80095bebefc3,64,Female,Returning,Cash on Delivery,False,Jewelry,2,35,2,3.12,651,822,61.8
+2373,2025-01-07,8,Custom Mug,218,3006e85c-4ce9-4a8d-b13c-52af04a8c35b,23,Male,VIP,UPI,True,T-shirts,5,115,10,4.39,239,2005,14.57
+9229,2025-04-19,10,Photo Album,237,9a2db9b6-398e-44b7-bf85-4f23eb87ba2b,42,Other,Returning,UPI,False,Mugs,5,116,10,7.33,181,903,1.07
+3184,2025-04-08,9,Custom Mug,425,fd789e42-8ea2-4b20-b862-e828452170c7,29,Male,VIP,Debit Card,True,Jewelry,2,146,6,4.07,784,2325,77.76
+2381,2025-01-06,10,Personalized T-shirt,169,4b56237b-07c1-47ec-ac93-0e3411be4d96,57,Other,New,Debit Card,True,Accessories,1,63,10,1.62,572,1449,34.57
+1654,2025-03-10,7,Custom Phone Case,256,e5e27e7c-ac0c-45bc-8161-3ce5519d1c82,18,Female,New,Debit Card,False,Jewelry,2,47,10,6.76,578,4609,52.54
+4066,2025-03-23,4,Engraved Jewelry,235,4a4ff1fc-5034-4eaf-8701-027b79322df5,30,Male,VIP,Debit Card,False,Jewelry,3,121,9,3.68,885,885,52.67
+5794,2025-02-20,9,Custom Phone Case,374,951547f4-0b0e-4281-b555-bc5698403dc2,39,Female,New,Cash on Delivery,True,Jewelry,2,87,6,9.16,613,2755,48.76
+7665,2025-03-25,9,Custom Phone Case,319,4f46a074-713e-40eb-9b00-2fc6bba30212,65,Female,Returning,Cash on Delivery,True,T-shirts,2,76,5,8.35,353,4753,20.23
+8282,2025-01-07,8,Engraved Jewelry,212,5adcc71c-a406-4165-89db-cb3986a821a7,34,Other,Returning,Debit Card,False,Jewelry,2,63,10,0.58,978,2979,61.05
+9687,2025-01-15,3,Custom Phone Case,330,06d7c812-357b-4bd8-93f6-53426d7e03a1,53,Other,Returning,Credit Card,False,Accessories,4,38,10,4.92,618,3327,58.47
+6195,2025-02-04,2,Custom Mug,489,3eecf218-cb54-43cf-b817-4c8683ce7060,40,Female,Returning,UPI,False,T-shirts,4,72,5,7.51,877,2563,53.71
+1077,2025-01-14,8,Photo Album,284,465f70f2-8778-429a-9da5-97eec8881488,55,Male,Returning,Credit Card,False,Mugs,4,94,5,6.04,190,3000,82.39
+9847,2025-04-04,7,Personalized T-shirt,130,8b288c3a-f972-43b2-8536-531e12ea69a6,57,Male,New,Credit Card,False,T-shirts,1,40,9,6.36,375,2463,95.02
+3248,2025-04-07,6,Custom Phone Case,334,511de6ee-37a4-4d93-afad-b2dd8a9c6bd3,22,Female,Returning,Cash on Delivery,False,Mugs,2,140,6,9.85,635,2036,65.69
+2697,2025-01-20,7,Custom Phone Case,341,cae8b0a1-d64d-4f62-9bc2-af9b4011c85b,43,Male,Returning,Cash on Delivery,False,Mugs,3,146,5,6.46,279,2554,74.72
+4663,2025-01-22,9,Custom Mug,474,501353ab-1c0d-4df3-b0ba-18bf47433d17,25,Male,VIP,UPI,True,Mugs,2,84,4,5.06,544,4497,98.0
+8794,2025-02-13,10,Custom Phone Case,273,fcda3079-11bc-42fd-8440-7ad06da03c80,64,Other,Returning,Cash on Delivery,True,T-shirts,3,113,5,3.94,483,2468,53.55
+1407,2025-01-26,10,Engraved Jewelry,412,e14a7005-b368-45aa-bd66-fc64b6c985a4,33,Male,New,Credit Card,False,T-shirts,5,30,2,8.85,114,1047,43.93
+3554,2025-04-19,2,Custom Phone Case,486,323a53d9-1d26-4049-a6b9-b38c8df721dd,52,Male,VIP,Cash on Delivery,True,Jewelry,1,78,2,3.23,628,3098,88.14
+8235,2025-03-30,3,Personalized T-shirt,120,faece88b-0772-4317-8909-77599b9fc51b,35,Male,New,UPI,True,Mugs,1,128,3,0.98,596,2371,43.13
+7802,2025-04-05,4,Engraved Jewelry,409,65467f47-2f08-40e1-bd95-a3c7a6bb8e77,19,Female,Returning,Cash on Delivery,False,Accessories,3,70,6,7.91,513,4946,66.9
+3674,2025-02-07,5,Custom Phone Case,371,2333cae0-61cc-428d-93d2-96d07fa4f4bc,63,Other,New,Credit Card,True,Accessories,2,143,4,4.66,170,2654,27.4
+8876,2025-04-17,4,Personalized T-shirt,420,ff6b4d13-d10b-4695-b07a-68b6fb6d6d8f,25,Female,VIP,Cash on Delivery,True,Accessories,2,87,5,8.34,708,4372,11.97
+6021,2025-03-23,5,Custom Mug,105,2af5d263-35f7-483c-b16a-3a4fc7ed483a,30,Female,New,UPI,False,Jewelry,2,43,2,2.51,184,1316,12.24
+6496,2025-02-11,8,Custom Mug,238,7303cf1e-807a-4768-9aae-ee4ebd5bbd73,21,Other,Returning,Debit Card,True,T-shirts,4,100,2,0.79,456,4366,41.49
+7237,2025-04-22,8,Photo Album,416,e27e0367-d7db-4b70-a159-85f620111751,31,Female,Returning,Debit Card,False,Accessories,4,96,6,9.3,931,1725,93.26
+8356,2025-03-14,2,Engraved Jewelry,262,48e3bef9-82f7-48fe-9505-e96741da4d9e,48,Female,VIP,UPI,True,Jewelry,3,78,5,3.0,537,818,34.73
+2130,2025-03-23,7,Photo Album,459,6e71e3a6-f7ce-4cd3-bd34-157886396dae,53,Female,New,Debit Card,True,Accessories,3,140,10,8.32,538,2016,38.2
+3160,2025-01-19,3,Personalized T-shirt,442,3d9ca28f-0498-4490-a179-31d849c17ec3,55,Other,New,Credit Card,False,Jewelry,1,102,7,5.0,414,1621,2.49
+5381,2025-04-17,1,Photo Album,129,af9dee83-7346-4b68-b789-dcbef50bd6a2,57,Male,New,Cash on Delivery,True,Mugs,1,83,3,3.18,613,4730,42.75
+1668,2025-02-24,10,Custom Phone Case,463,7b912f46-7968-40c2-ad5e-01c081780c5a,28,Male,VIP,Debit Card,False,T-shirts,1,138,10,5.15,277,3285,31.59
+4442,2025-01-30,4,Personalized T-shirt,364,e650ffcc-a1a2-4905-a1c4-dfbee48a8c8e,19,Male,VIP,Credit Card,True,T-shirts,4,45,6,7.39,796,4315,35.94
+3958,2025-04-18,6,Photo Album,157,ef649444-5f5d-444d-a130-def7cdd97232,29,Male,New,UPI,False,T-shirts,4,43,9,7.53,373,2028,52.88
+7616,2025-03-24,7,Custom Phone Case,219,cc9d2060-a242-4cc5-b82f-c2cc98a7682b,48,Female,VIP,UPI,False,Mugs,5,123,2,7.22,348,2450,22.81
+1862,2025-04-14,2,Personalized T-shirt,192,8c5a5862-2fa1-42ce-b3e7-118cc2220452,51,Male,Returning,Credit Card,False,T-shirts,5,84,7,2.42,599,3207,14.51
+6890,2025-03-19,4,Custom Phone Case,262,50b50164-df4c-4c53-b372-c1c0ee08c82e,34,Male,Returning,Cash on Delivery,False,Mugs,3,115,4,9.68,620,2709,60.74
+4350,2025-03-22,7,Custom Mug,194,53b931a6-1a83-409d-97c1-50a894c47120,30,Other,New,UPI,True,Accessories,5,126,10,2.8,692,4212,94.94
+9837,2025-04-10,6,Photo Album,375,3331eeb1-0bde-4c07-8ee8-79a3731fb05d,46,Female,VIP,Cash on Delivery,False,Jewelry,4,60,4,9.52,743,1945,82.94
+7633,2025-03-08,1,Custom Phone Case,405,46ec706f-97e0-407e-8ebc-a20b99c7d1a0,57,Other,New,Cash on Delivery,True,Mugs,3,84,4,9.47,667,1165,10.23
+4746,2025-03-25,9,Custom Phone Case,187,18394b49-3ad2-40b8-9fd8-2253d955219a,32,Other,Returning,Cash on Delivery,True,Accessories,5,79,4,4.5,395,1042,20.69
+8389,2025-02-20,2,Custom Mug,483,9be1fdd3-ddd5-4932-b19b-2b906c15888b,18,Female,VIP,UPI,False,T-shirts,4,114,7,4.16,219,4000,6.32
+9666,2025-03-02,9,Personalized T-shirt,479,61279b1a-dee4-448c-8b27-88919037fb9f,59,Female,Returning,Cash on Delivery,True,Accessories,4,117,6,4.84,397,4924,31.15
+2411,2025-03-09,2,Personalized T-shirt,148,0fdaeff0-2fdd-484d-afe1-22758d1f4538,18,Other,VIP,Debit Card,True,T-shirts,5,76,8,1.81,447,695,38.4
+7436,2025-04-21,10,Photo Album,308,1772b0ca-dff0-4f76-b260-2cbb948263f1,62,Other,Returning,Credit Card,True,Accessories,5,62,5,9.22,602,2537,50.78
+9726,2025-03-09,6,Photo Album,341,6ccfe01b-3494-4c62-bc55-290e8e2f6227,60,Other,VIP,Debit Card,False,Mugs,2,65,3,1.35,162,957,95.56
+1002,2025-01-25,10,Photo Album,494,963d2405-2605-4ad8-8f8e-734b69264882,54,Female,VIP,UPI,True,T-shirts,1,97,3,7.27,427,2952,7.65
+5800,2025-01-18,1,Custom Phone Case,374,7e1c83fc-b004-4750-b231-5ae4a4548dd1,36,Other,Returning,Credit Card,True,Accessories,2,46,2,4.85,797,3650,77.38
+1425,2025-03-03,9,Custom Phone Case,456,40646b06-28d2-4552-8944-c792a551577f,43,Male,VIP,Debit Card,False,Jewelry,3,38,9,7.6,679,1092,73.3
+7864,2025-03-02,7,Engraved Jewelry,477,4ed07fc6-6307-49c3-8ad8-c12cf815fccb,30,Female,VIP,Cash on Delivery,True,T-shirts,1,91,8,0.59,785,1817,75.38
+9766,2025-01-16,6,Engraved Jewelry,466,42dca831-fd29-4e87-9a3e-40914f47bb6b,24,Male,New,UPI,False,Jewelry,1,123,2,2.84,271,1839,3.88
+4954,2025-03-27,2,Custom Mug,361,235f3d5a-e6db-4ce7-afff-ae263d1dfc0a,31,Female,VIP,Credit Card,True,T-shirts,1,132,2,7.65,182,1454,51.16
+5384,2025-02-18,7,Personalized T-shirt,213,3571bf29-5f6e-438d-baf2-108ef9b45e1a,39,Male,VIP,Credit Card,True,Accessories,2,128,8,5.43,897,2307,74.25
+9867,2025-03-01,10,Engraved Jewelry,492,b592d2b2-0fd1-413b-bafc-f65783ebc057,56,Male,VIP,Credit Card,False,Accessories,2,137,6,4.73,139,4447,16.12
+1167,2025-03-28,10,Custom Mug,382,d01843e3-2a2c-4a16-9ce2-d8ca17a1a8ce,39,Other,Returning,Debit Card,True,T-shirts,4,128,9,0.14,651,3785,77.91
+2427,2025-04-19,10,Personalized T-shirt,378,aa7e7c57-59aa-4724-8ad0-878de880a53a,28,Other,New,Cash on Delivery,False,Mugs,4,119,10,1.07,730,2005,9.23
+5654,2025-04-13,2,Custom Mug,187,5469f4d0-c229-4652-b9d7-8357ffd7ad8b,35,Male,Returning,Credit Card,True,Accessories,2,37,7,5.03,363,595,13.37
+6005,2025-01-04,5,Custom Phone Case,405,3e73f3d2-26c2-429b-8b66-782bb861220c,33,Male,VIP,Debit Card,False,Mugs,3,111,8,5.14,946,3487,65.28
+4429,2025-02-11,3,Personalized T-shirt,215,2faa3743-c8d5-4fff-b4a9-392aad78bc85,47,Male,Returning,Cash on Delivery,True,Accessories,4,102,8,0.54,517,1589,21.45
+8263,2025-02-23,10,Personalized T-shirt,211,9224bda7-013a-4b43-ba06-e143dacfa7c9,19,Other,Returning,Credit Card,True,Accessories,3,45,2,0.08,506,2454,13.2
+5299,2025-01-30,2,Custom Mug,302,f804fd38-2df5-4839-9c70-84a2f35be167,45,Male,Returning,UPI,False,Accessories,3,93,8,2.84,415,1057,91.66
+5883,2025-04-18,9,Custom Mug,252,8d58e217-903a-407a-aaf8-a032e4c84278,32,Other,VIP,Debit Card,False,Mugs,1,135,4,3.66,419,2184,5.72
+2935,2025-01-10,6,Custom Mug,361,f4c0bb0e-7a8f-4c3d-b991-b3bcc854a462,33,Other,VIP,Debit Card,False,T-shirts,1,71,9,7.57,620,2362,86.6
+9124,2025-02-09,8,Personalized T-shirt,271,b82a9666-7d67-46a1-81e1-1abc06f05abb,48,Female,Returning,Debit Card,True,T-shirts,4,73,5,8.8,399,1746,47.36
+6419,2025-04-18,2,Photo Album,149,883db9d8-61f3-4b31-a5c5-7054447776e9,38,Male,VIP,UPI,True,Accessories,3,126,2,0.93,751,4336,44.74
+3197,2025-02-21,1,Photo Album,226,0af661c4-25d3-41bc-85c1-4789565157d0,41,Other,Returning,Cash on Delivery,False,Mugs,1,103,2,6.54,876,3996,22.49
+5751,2025-02-01,7,Photo Album,112,dc414842-345e-4c44-8583-ca1fa7b7919f,51,Female,Returning,UPI,True,T-shirts,2,85,7,6.98,803,3199,61.85
+2664,2025-04-16,7,Engraved Jewelry,181,4e7357af-1c4c-4e97-8057-e9fc688b9aa5,33,Other,Returning,UPI,False,Jewelry,5,115,7,5.51,938,3662,61.12
+7058,2025-01-30,2,Personalized T-shirt,233,228dd555-e458-42a3-b8c0-df2634af33ea,61,Male,New,UPI,True,Mugs,2,65,3,5.85,922,4163,24.08
+1399,2025-04-06,3,Photo Album,449,a08842fe-3968-4860-b6a0-662ffe8f796b,52,Other,Returning,Cash on Delivery,True,Accessories,3,123,4,9.13,176,3398,50.98
+8853,2025-03-10,8,Custom Phone Case,412,13c99f90-ab9a-4896-995d-b84355715b29,43,Other,VIP,Credit Card,False,Mugs,3,43,10,6.35,103,4879,57.59
+2856,2025-03-10,1,Personalized T-shirt,144,de74573b-1c73-4ae7-b386-818afd51a69f,53,Male,VIP,Debit Card,False,T-shirts,2,41,8,4.23,254,2613,18.42
+6121,2025-04-23,10,Personalized T-shirt,117,88574656-d092-4c0e-8e1d-c8c3aca774fe,64,Other,New,Cash on Delivery,True,Jewelry,4,77,6,7.91,689,3756,69.92
+4355,2025-02-06,5,Engraved Jewelry,488,4c53cdc3-d30c-4a9c-8f47-0489761e893e,18,Other,New,Credit Card,False,Accessories,1,94,2,2.05,645,1406,58.18
+1321,2025-04-05,7,Custom Mug,137,4cc7c6df-cc63-4e84-9616-2e2a556d1714,53,Female,VIP,Debit Card,False,Accessories,2,86,10,7.17,267,3022,4.65
+8537,2025-03-17,1,Custom Phone Case,414,75287a3c-1879-4455-a2b6-4effec6f1eba,28,Female,New,UPI,True,Accessories,3,128,9,1.29,728,1690,79.23
+4368,2025-01-20,4,Personalized T-shirt,409,d7dacee4-69d6-4cb6-9e52-4cb9705793db,36,Other,Returning,UPI,True,T-shirts,5,61,9,3.04,469,4108,33.07
+9277,2025-03-20,7,Personalized T-shirt,346,a186e0c3-f74a-44a1-bf66-a5c2effac756,50,Female,New,Credit Card,False,Mugs,4,141,4,0.35,576,1795,62.11
+3606,2025-03-15,8,Engraved Jewelry,231,9bbaa788-0d0f-4c23-88e9-9f0f2eb3e9f2,32,Male,VIP,Cash on Delivery,True,Jewelry,5,90,8,1.34,334,1917,69.49
+2177,2025-04-05,6,Photo Album,466,ed7ff6ce-0249-4d03-afcd-0f25ba0c114d,48,Female,Returning,Credit Card,True,T-shirts,2,131,10,7.28,965,2461,93.22
+3260,2025-02-26,1,Photo Album,275,8341ed06-6578-4707-be1e-8034694a7e45,20,Female,Returning,Credit Card,False,Accessories,4,95,3,7.47,285,2658,70.36
+6119,2025-02-26,8,Photo Album,274,9682eb27-8548-482c-8306-c8454cc10821,38,Male,Returning,Credit Card,False,Accessories,4,138,7,9.38,903,993,24.33
+1589,2025-02-26,2,Personalized T-shirt,414,f220d133-d361-4580-b68f-10c8eb9caea5,28,Other,New,Debit Card,True,T-shirts,5,111,7,4.69,921,3505,45.85
+5837,2025-04-14,9,Personalized T-shirt,263,249ee073-2d6a-4afd-bdbd-c96d7aeb8963,54,Female,New,Cash on Delivery,False,T-shirts,4,134,6,1.34,784,2337,74.05
+9224,2025-04-09,7,Custom Mug,238,440ac0e6-366b-4741-9740-ccc3e5743e0d,37,Male,VIP,Debit Card,True,Accessories,2,83,9,2.58,799,2157,28.36
+6221,2025-03-20,5,Engraved Jewelry,166,98a36b44-28f8-4540-bf08-03e278e66ea9,55,Other,VIP,Credit Card,True,Accessories,5,114,9,9.32,594,1946,78.08
+8912,2025-01-07,9,Photo Album,429,7e7e4c0b-b7b8-471e-82b6-2c28e7b3fa12,38,Female,New,Cash on Delivery,True,Jewelry,1,75,4,6.14,332,2057,35.24
+2739,2025-01-12,8,Personalized T-shirt,249,bdd220aa-1e45-4023-b092-eda738618ffb,57,Other,New,Cash on Delivery,True,Mugs,2,79,5,4.34,507,4974,79.7
+2633,2025-01-29,7,Photo Album,188,2427565e-da51-4b87-8231-ea3022d1f2a0,64,Female,New,Debit Card,False,Mugs,1,43,2,0.88,737,1544,36.18
+3477,2025-03-31,6,Engraved Jewelry,361,95aa18bb-423a-4460-a6a3-f368dae316cc,54,Female,Returning,UPI,True,Accessories,5,50,6,0.93,390,1414,68.17
+7651,2025-04-13,7,Custom Mug,309,d34d2268-f6aa-4541-9309-d23efe99e9c8,57,Male,Returning,UPI,False,Accessories,4,69,4,5.91,211,1484,1.92
+7192,2025-02-17,5,Engraved Jewelry,407,0c7d9b1a-2e85-4038-ba5a-03be7122c8d2,45,Other,Returning,Credit Card,True,Accessories,5,99,4,9.86,587,1148,69.37
+1764,2025-01-31,8,Photo Album,335,89d04771-1325-45a1-b589-c2d101e280ff,64,Female,New,Debit Card,False,Jewelry,1,87,6,6.37,906,3982,15.2
+2081,2025-04-03,7,Custom Phone Case,486,39975ed3-54a3-42c6-aa57-e72cd91daf4e,27,Other,Returning,Cash on Delivery,False,T-shirts,3,43,10,6.06,448,1986,73.04
+2450,2025-03-26,2,Custom Phone Case,171,9eb93a50-3ab7-4adb-9597-5ee3d56bcc62,31,Other,VIP,Cash on Delivery,True,Accessories,2,146,8,8.06,939,3956,82.04
+5042,2025-01-14,10,Custom Phone Case,140,5c824398-833d-45c7-a71f-49833635fea6,64,Other,Returning,UPI,True,Mugs,2,102,4,3.75,321,4972,29.97
+6784,2025-04-10,3,Custom Phone Case,275,1949a8cc-e21a-4631-8943-ba38f5c3eced,37,Other,Returning,Cash on Delivery,False,Accessories,4,118,2,3.09,525,4140,71.34
+4278,2025-03-27,9,Custom Phone Case,225,fd3405ab-8f6c-49ca-b1bc-a07f6cd97af4,46,Other,VIP,UPI,True,T-shirts,3,116,7,5.99,710,4631,44.19
+5033,2025-03-03,2,Custom Phone Case,418,dec42c3d-0f2b-444b-a8e8-b43dddc93c6d,65,Female,VIP,UPI,True,Jewelry,4,36,9,3.69,593,2177,76.93
+7228,2025-03-25,10,Engraved Jewelry,298,a8ea8562-9a8f-48fc-8102-bd839a8b2bc0,58,Other,VIP,Debit Card,False,Accessories,3,145,5,7.98,462,2180,43.14
+8072,2025-02-07,2,Custom Mug,414,6e32da93-5316-423f-abf4-1ebe99524450,55,Male,New,Debit Card,False,Accessories,4,90,8,4.22,150,2039,62.47
+6896,2025-01-25,2,Personalized T-shirt,467,cd9984cb-5beb-4fa6-b62a-1657c200b3d7,63,Male,New,Debit Card,False,Mugs,2,32,8,8.22,629,4167,31.25
+3511,2025-02-14,1,Personalized T-shirt,473,eba75330-5568-4a38-9ba4-d1494a1020e3,18,Other,New,Credit Card,False,Accessories,1,148,6,9.24,682,1492,2.57
+6793,2025-02-16,2,Engraved Jewelry,204,6631aa8b-e4c3-413e-9a1d-eb0570c3d9a1,34,Other,VIP,Debit Card,False,Mugs,5,141,9,2.77,561,1011,61.66
+7859,2025-01-19,3,Custom Mug,401,b171b627-998a-4e72-a8f6-8a21676d7d7e,56,Male,VIP,Cash on Delivery,True,Mugs,1,91,3,0.06,756,638,39.36
+5547,2025-01-11,3,Custom Mug,282,3d725613-3a4a-4886-9777-dd4230e3caa1,34,Other,VIP,UPI,True,Jewelry,2,35,9,6.77,421,3058,80.13
+3580,2025-01-16,5,Photo Album,459,a95490fa-caac-4d83-b630-be537ef58303,54,Other,Returning,Cash on Delivery,False,T-shirts,5,137,10,9.55,276,973,64.83
+4484,2025-03-12,10,Photo Album,266,1b5c80d6-dd86-4d7a-bab3-3cd2f2b2f57a,27,Male,Returning,Cash on Delivery,False,Jewelry,5,107,9,1.38,567,2765,74.38
+9400,2025-01-11,2,Custom Mug,313,3392b7de-9e93-4d91-99f8-4749e19070f8,36,Other,VIP,Credit Card,False,T-shirts,3,69,2,2.28,449,3298,31.57
+4733,2025-04-24,2,Photo Album,141,dd7c47ac-f283-4bcd-a185-c24c7d191133,57,Female,New,Credit Card,True,Mugs,5,103,3,7.01,921,1611,80.74
+4236,2025-01-21,8,Personalized T-shirt,369,4c58978e-0d91-4f50-b4e2-50c3daf928e7,47,Other,VIP,Debit Card,False,Mugs,3,53,7,2.23,103,1915,80.93
+7084,2025-01-21,10,Custom Phone Case,314,f677c3e2-0be5-4136-9543-abaeee95a4bc,53,Female,Returning,UPI,False,Accessories,4,49,8,3.97,987,627,20.05
+4058,2025-01-28,10,Personalized T-shirt,126,2f0a9761-7c72-4f29-a26f-a255e24a8b77,51,Other,Returning,Debit Card,True,Jewelry,5,140,10,9.52,108,2235,85.84
+6461,2025-04-17,6,Personalized T-shirt,345,26cfa3cb-5489-4708-ba6e-64ab3e2f39f7,43,Female,New,UPI,True,Accessories,3,125,4,7.15,511,3216,89.48
+4891,2025-04-07,2,Personalized T-shirt,114,6bc3d6af-6262-4e99-b9b2-0a6c97c3cd8b,18,Female,VIP,Cash on Delivery,True,Accessories,5,116,10,2.34,679,3124,87.74
+6395,2025-03-15,6,Custom Phone Case,407,56347cb1-80aa-4e99-9c13-2733cc9d30bd,47,Female,Returning,Debit Card,True,Jewelry,3,72,10,2.73,336,3128,97.39
+6116,2025-04-13,3,Engraved Jewelry,407,e6ccf132-5914-4ed1-802d-62805d7273ea,41,Female,VIP,Cash on Delivery,True,Mugs,4,64,7,2.95,610,658,59.44
+8266,2025-04-06,6,Custom Mug,268,bf3c2e5e-fbfd-4816-b284-cb0e2c0ddf75,26,Male,Returning,UPI,False,Mugs,4,79,4,2.25,133,600,61.82
+6142,2025-02-23,9,Photo Album,360,5ec1a524-a5d7-45b7-a2de-da531d38e4af,21,Female,VIP,Credit Card,False,Jewelry,4,63,5,8.27,835,4744,73.9
+1006,2025-04-13,10,Photo Album,241,4497ec33-668a-42e8-a248-e0d4288a139a,52,Female,VIP,UPI,False,T-shirts,4,86,4,8.28,594,4140,84.32
+7370,2025-04-10,4,Custom Phone Case,322,40008c59-3dd8-48da-8b79-8afed67e0efc,47,Male,New,Cash on Delivery,True,Mugs,5,135,6,1.83,187,3781,90.51
+9181,2025-01-27,8,Custom Mug,401,b35a946f-5eb7-4dd7-805f-ab30982870a1,20,Male,VIP,Debit Card,True,T-shirts,3,33,8,6.44,520,3947,47.81
+8830,2025-03-09,7,Custom Phone Case,147,36bf156d-83ff-45b9-94f1-e75f2f56d618,40,Male,New,Credit Card,True,Accessories,1,147,6,2.46,846,4188,30.22
+3371,2025-04-16,4,Custom Phone Case,454,8677d21e-fa79-4999-89cb-968cbba11a10,53,Male,Returning,UPI,False,Mugs,5,30,10,7.84,683,3060,90.36
+1379,2025-01-01,3,Engraved Jewelry,232,1c111477-fca3-4eed-8b5e-cccb0fe9347b,18,Other,VIP,Credit Card,False,Jewelry,2,145,4,6.35,501,3458,94.01
+6754,2025-02-02,2,Custom Mug,436,fb1dfdf8-fa3b-4292-b4ab-e7c9d20223d2,23,Other,New,Credit Card,False,Mugs,5,98,2,8.95,764,4122,29.64
+7378,2025-04-06,4,Photo Album,435,be433ccb-a20f-4fc2-816f-c8fe0be6651e,54,Other,Returning,Cash on Delivery,True,Accessories,5,40,5,6.31,193,937,78.29
+6320,2025-02-12,4,Custom Phone Case,308,03d81c27-0138-41f2-be7a-efdb4136f8d9,56,Female,Returning,Cash on Delivery,False,Mugs,3,76,2,1.56,941,3205,82.02
+4502,2025-03-04,9,Custom Phone Case,135,91216c9e-25ef-4366-9be1-94f33729dd7c,23,Other,Returning,UPI,False,T-shirts,2,58,4,4.94,478,2290,75.11
+3196,2025-04-21,5,Custom Mug,340,e4756b91-26a6-488a-a2ca-9859a301b593,52,Male,New,Cash on Delivery,False,Mugs,2,138,5,6.92,931,3795,82.63
+2913,2025-04-15,9,Custom Mug,200,6abb3c8a-67ce-4843-99bc-c48dd4a8b900,36,Male,New,Cash on Delivery,True,Mugs,3,46,4,6.4,386,1647,26.25
+6202,2025-03-11,10,Personalized T-shirt,293,b72266b5-1864-408f-a985-5427e631e6ef,20,Other,VIP,UPI,False,Jewelry,2,129,3,1.1,707,1818,2.77
+2008,2025-04-06,2,Custom Mug,492,c725be7c-27ff-449c-9677-2c32e7124a18,48,Male,Returning,Cash on Delivery,True,Accessories,3,59,4,9.32,414,2813,8.69
+2060,2025-04-08,8,Engraved Jewelry,111,912caad9-b756-4799-819b-3f7c2447615f,35,Female,New,Credit Card,False,Accessories,5,94,5,2.68,910,4866,92.9
+4735,2025-03-03,4,Engraved Jewelry,463,f323d4bc-b7be-48c3-9592-010607b21c2a,33,Other,VIP,Cash on Delivery,True,T-shirts,2,108,2,8.11,189,2117,79.0
+6657,2025-01-12,5,Engraved Jewelry,431,3f9f767e-c213-4f7a-8771-45c801fcb4e4,64,Female,VIP,UPI,False,Jewelry,5,138,2,4.31,129,3241,27.34
+7007,2025-03-20,1,Personalized T-shirt,470,cf039553-184f-4ffa-8ad4-b98bbccc7e5a,44,Male,New,UPI,True,T-shirts,4,107,9,6.74,868,3728,48.59
+6468,2025-03-28,3,Engraved Jewelry,452,3c458ddc-705f-41c1-9f7d-14cdf8ceec6d,53,Female,New,Cash on Delivery,True,Accessories,4,95,3,9.56,110,3512,97.51
+5864,2025-02-04,7,Personalized T-shirt,115,f881761a-1bb2-4ad9-9c8a-a6b28baf2442,20,Male,VIP,Cash on Delivery,True,T-shirts,4,30,2,3.98,836,735,74.14
+6201,2025-01-07,5,Custom Phone Case,420,9b620fc0-aa23-4d9f-8df7-727bc1d90518,55,Other,New,Credit Card,False,T-shirts,2,128,8,3.17,830,1192,20.42
+8670,2025-01-10,2,Photo Album,361,2492dd63-977a-43aa-b053-8bff2caaff04,27,Other,Returning,Debit Card,True,Accessories,2,85,2,0.38,374,2795,94.49
+1918,2025-02-20,2,Engraved Jewelry,211,cd402bd3-2ce5-4a9a-9280-37b98276f6fa,32,Other,VIP,UPI,False,Jewelry,1,104,10,7.95,948,3315,93.71
+3653,2025-02-09,6,Custom Mug,254,33e69dd2-475b-429a-aa4c-64b2b51b595f,53,Other,Returning,Credit Card,False,Jewelry,2,150,5,6.13,127,948,47.82
+2256,2025-01-30,2,Custom Mug,107,6bf89126-6f29-476f-87d3-bca37da7036d,53,Male,VIP,Debit Card,True,T-shirts,4,102,8,6.12,283,1635,32.5
+1332,2025-03-20,3,Photo Album,445,d7a74623-9a03-4b4c-9756-7cfba36a25de,49,Other,Returning,Debit Card,False,T-shirts,3,62,6,5.56,158,4473,85.9
+2162,2025-03-04,3,Engraved Jewelry,473,ed3acfff-4851-4409-9fa0-d6592a1413c9,26,Male,Returning,UPI,True,Mugs,1,96,6,9.39,928,3812,96.63
+8175,2025-03-07,5,Custom Mug,225,4657e0e1-526a-4f80-92ec-8a54695a6f04,40,Other,New,UPI,False,Mugs,4,146,9,1.83,927,991,44.24
+6942,2025-04-20,1,Personalized T-shirt,148,dc3919db-916a-432a-8731-7bfcf4561abe,63,Male,New,UPI,True,Jewelry,5,49,8,7.97,851,2643,63.14
+8545,2025-01-30,8,Photo Album,279,83476456-8593-4fbe-8ebc-6617778258ca,64,Other,Returning,Credit Card,True,T-shirts,1,47,3,1.87,260,3679,55.6
+2217,2025-04-11,6,Photo Album,276,1f617bf4-6faa-4001-8869-cdff11352d7e,51,Other,New,UPI,True,Accessories,4,75,3,0.49,419,1032,46.36
+2166,2025-04-20,1,Custom Phone Case,355,dae19d17-28f3-4393-afcb-5b62bf9f5834,30,Female,New,UPI,False,Accessories,3,61,4,8.18,487,1339,89.72
+8515,2025-02-02,2,Engraved Jewelry,258,73416373-14b7-4da8-bea5-8c6bdc66c61d,62,Female,New,Debit Card,False,Jewelry,4,80,4,0.09,943,1656,51.97
+9544,2025-02-28,5,Engraved Jewelry,312,e587db5b-5821-4751-8be8-62c89cdffc5f,24,Female,Returning,Credit Card,True,Mugs,4,30,3,2.74,671,1793,93.04
+5182,2025-02-01,8,Personalized T-shirt,197,b1ed5a69-300a-4f87-96c1-430202331df6,52,Male,New,Debit Card,True,Accessories,5,123,8,8.12,785,3339,95.14
+8576,2025-02-01,3,Personalized T-shirt,122,669996c5-3566-4d52-8eb1-929e91e7407d,53,Other,VIP,Debit Card,True,Jewelry,5,149,9,7.29,829,1914,34.82
+5546,2025-01-12,4,Engraved Jewelry,148,15022a0b-7ca5-4077-be04-478033688890,23,Female,VIP,Cash on Delivery,False,Mugs,3,70,6,4.68,774,3712,14.65
+1108,2025-01-18,1,Custom Mug,485,ca4d959a-d64c-437d-b92a-c06a4e69eae7,31,Male,New,UPI,False,T-shirts,5,71,2,3.64,278,843,53.6
+7652,2025-01-27,9,Personalized T-shirt,308,c49409f4-fb99-499b-94b4-938930a37d53,54,Male,New,UPI,True,T-shirts,5,142,4,5.66,845,4947,48.86
+5231,2025-04-22,7,Photo Album,190,0f3305f4-0e35-4d66-a4db-7b9422516e84,42,Male,New,UPI,False,Jewelry,1,52,7,6.76,953,733,44.11
+5720,2025-01-23,7,Photo Album,417,d6d47eda-7ec5-4c6c-87b3-32b15203897b,45,Female,New,Cash on Delivery,True,Mugs,2,40,3,3.53,656,927,45.59
+1342,2025-02-06,8,Custom Mug,436,7ce1af62-2fc3-4357-9578-023dbaf072ce,61,Other,VIP,Debit Card,False,Jewelry,5,47,3,2.97,449,2904,29.63
+7566,2025-01-23,9,Engraved Jewelry,110,2f93de25-dfbd-4bcb-b36d-cbc08a017ace,26,Other,VIP,UPI,True,Jewelry,2,137,3,7.36,406,2390,16.99
+2771,2025-01-08,2,Photo Album,227,86ef60cd-6bf9-4ad0-832c-f2229902725c,52,Other,Returning,Credit Card,False,Mugs,2,36,9,1.57,816,2522,46.2
+9861,2025-04-03,3,Custom Mug,431,1b630acf-29fb-491f-8825-9ad36f6ade58,54,Other,Returning,UPI,True,T-shirts,3,104,10,9.9,998,4894,62.94
+6217,2025-01-12,2,Photo Album,344,44151902-48f2-49f2-a373-ba764802cefa,18,Other,Returning,Credit Card,True,Jewelry,5,115,3,8.49,120,2869,5.57
+9170,2025-02-20,1,Custom Mug,148,9076e8e5-6b5c-46e6-8d88-35e4b18a6528,57,Other,VIP,Debit Card,True,Jewelry,3,49,9,9.66,926,512,37.45
+7875,2025-01-28,10,Custom Phone Case,112,4af4c17a-44bb-422e-bee2-3423113f14a8,48,Male,New,Cash on Delivery,True,Mugs,2,112,8,3.51,433,1139,78.68
+5630,2025-04-17,10,Photo Album,120,f3fb7565-405c-42e4-9d2c-d3dd179efc27,19,Other,Returning,UPI,True,Mugs,5,134,5,0.13,173,1520,72.52
+4560,2025-03-27,10,Custom Mug,134,3d28d446-2e7d-40d9-a2a6-39fff3cad68b,33,Male,VIP,Credit Card,True,Jewelry,1,90,7,3.44,996,4509,47.23
+3874,2025-04-24,7,Engraved Jewelry,455,c264e3fe-d2dd-4236-a298-871de6c63582,43,Male,Returning,Credit Card,False,Accessories,3,82,5,6.45,823,1999,96.2
+2582,2025-01-21,7,Custom Phone Case,184,c736ba7d-485b-468a-9c3c-de058e59aa46,50,Female,VIP,UPI,True,Accessories,2,131,6,3.8,877,3120,42.23
+6056,2025-04-06,1,Photo Album,130,7da047ac-36d9-4dfd-bfcc-dd349c22aca6,21,Other,VIP,UPI,False,Mugs,2,45,10,8.93,454,2332,82.86
+9639,2025-04-02,6,Personalized T-shirt,199,53cabbcd-4a2a-4985-a295-0513b510f964,28,Male,New,Credit Card,True,T-shirts,5,56,3,0.92,952,4823,16.34
+2190,2025-01-25,6,Engraved Jewelry,311,77a41ac5-abfc-4308-af6c-def129cdd72d,24,Other,VIP,Credit Card,True,Jewelry,4,54,9,2.57,434,4339,54.61
+2081,2025-04-09,8,Custom Mug,165,35ff8f26-3d8d-4cc1-850e-bd92d0556521,65,Other,New,Debit Card,False,Accessories,2,137,2,7.58,676,1827,13.84
+5318,2025-01-28,6,Custom Phone Case,449,ab8ca56e-0c16-481b-9888-79c9cf4416b6,42,Other,Returning,Debit Card,False,Accessories,3,38,2,0.51,666,4122,72.48
+3319,2025-01-21,6,Engraved Jewelry,255,f8d4bee3-b96a-4481-97be-0006bd20f733,56,Female,Returning,Cash on Delivery,True,Accessories,4,150,9,0.24,753,1968,41.02
+9475,2025-02-19,8,Personalized T-shirt,111,54971133-649c-4a94-8cda-becec64f7270,28,Male,New,UPI,False,Accessories,5,51,4,2.66,334,2259,27.26
+1259,2025-04-14,9,Personalized T-shirt,135,e9432178-fa38-49be-b953-2ea77e2c113e,45,Female,Returning,Credit Card,True,T-shirts,3,33,3,6.48,887,2579,77.01
+3135,2025-04-21,4,Custom Mug,431,ac8f04fd-c581-47d8-bfa1-8fae900720b1,60,Male,New,UPI,True,Jewelry,3,132,3,8.85,454,1141,50.89
+2642,2025-02-14,1,Engraved Jewelry,474,bf7bccab-77fd-45dd-94f7-1099b979e9e0,41,Male,New,UPI,False,Mugs,3,39,4,3.15,389,4373,7.1
+3355,2025-03-13,2,Custom Mug,111,33216aa1-bdf9-4877-87fd-e86a1f093611,27,Female,Returning,UPI,False,T-shirts,3,70,8,7.76,511,4805,92.37
+5961,2025-03-03,2,Custom Phone Case,303,7fb4cb8c-769b-475f-9aa9-119f14823a9d,64,Other,VIP,UPI,False,T-shirts,4,118,6,5.71,297,565,68.9
+8801,2025-04-07,10,Photo Album,483,29c8f605-ef1b-4dff-ba43-2205a3334696,61,Male,Returning,Cash on Delivery,True,T-shirts,4,75,7,4.74,806,1119,66.39
+2143,2025-02-03,1,Custom Phone Case,109,1bd83dd2-4227-47df-827f-6da08dba43d1,47,Female,New,Credit Card,True,Jewelry,4,49,9,5.03,446,2060,37.77
+9343,2025-04-07,1,Custom Phone Case,326,220ab405-6c34-4612-b399-6aa9ac390c7c,30,Male,Returning,UPI,True,T-shirts,2,122,6,1.69,355,2384,88.75
+1747,2025-03-18,4,Personalized T-shirt,329,eeb5ea93-289e-41f4-b9a0-51579429bec7,37,Female,New,Credit Card,False,Mugs,4,149,9,2.36,494,3398,71.57
+3174,2025-01-29,3,Custom Mug,414,97bacf23-870e-490c-b179-c3efe7c70d95,28,Female,Returning,Debit Card,True,Accessories,4,108,9,6.28,429,2507,62.73
+8177,2025-04-24,7,Photo Album,444,22c2518d-6cfa-442a-ab10-52c61b9a8b76,18,Male,VIP,Cash on Delivery,True,Jewelry,3,90,7,7.47,742,3294,2.11
+3575,2025-03-28,10,Personalized T-shirt,352,1d9d34d2-7f14-4a99-beac-cd11f4b46db6,51,Male,New,UPI,False,T-shirts,5,51,4,2.59,801,3688,48.51
+7715,2025-03-26,8,Custom Phone Case,296,aba0acfc-291d-44b7-8ad3-62956c8f995a,21,Other,New,Cash on Delivery,True,T-shirts,4,138,10,7.0,511,4648,57.98
+7640,2025-01-29,3,Custom Phone Case,387,43e0166f-ff6c-4eef-8c64-c7c526504f27,36,Other,VIP,Debit Card,True,Accessories,3,150,8,8.26,525,1549,65.12
+3844,2025-02-10,9,Custom Phone Case,289,20d57e14-8c4d-461b-899f-556c83a64985,62,Male,New,UPI,False,Accessories,1,145,10,2.53,625,2650,83.38
+6096,2025-04-12,1,Custom Mug,385,bd85048c-d6e6-4513-b0de-c5d76ad79fd4,33,Other,New,Credit Card,False,Accessories,5,50,2,6.08,127,1376,19.86
+8852,2025-04-07,3,Custom Mug,166,dce589e9-5918-439b-8964-854b6d3cde58,65,Other,Returning,Credit Card,False,Accessories,1,43,8,4.77,993,804,59.36
+4983,2025-01-29,5,Custom Phone Case,457,2e00db91-ec0e-4bd9-b17a-ffe65713e5f4,64,Female,Returning,Debit Card,True,T-shirts,2,107,3,8.95,260,3081,71.29
+7922,2025-01-19,2,Custom Mug,414,6c1d43b7-27da-4c0c-a38f-46bc6bde0605,59,Other,Returning,Debit Card,True,T-shirts,1,96,6,6.8,438,730,74.72
+3017,2025-02-27,9,Engraved Jewelry,376,8c5b666d-736d-4726-9dfa-8b9dc90ea382,37,Male,VIP,Cash on Delivery,False,Jewelry,3,90,5,8.74,135,2755,53.6
+9535,2025-02-24,1,Custom Mug,220,b5537db1-cfca-40d7-a565-76451b58d5f6,28,Other,New,Cash on Delivery,False,Jewelry,4,140,10,9.85,949,767,84.12
+7251,2025-01-26,10,Personalized T-shirt,287,891a8044-b8e1-48ec-ba0b-b822fb7348e5,29,Other,Returning,Cash on Delivery,False,Mugs,2,45,7,3.67,421,2369,57.51
+5118,2025-02-26,10,Engraved Jewelry,114,a731a23a-3c83-49d0-b5ac-7a9713271214,61,Other,Returning,UPI,False,T-shirts,1,147,10,5.33,592,1317,8.12
+6935,2025-02-18,6,Custom Mug,295,69283c88-f58a-4586-82ec-afdbc442168b,31,Female,New,Cash on Delivery,True,Accessories,1,110,6,2.77,388,2151,65.21
+7540,2025-01-14,5,Engraved Jewelry,342,ed2d2045-b2db-4d3e-a7df-19b914e33c18,24,Other,VIP,Debit Card,True,Accessories,2,125,7,9.81,812,3329,79.13
+9421,2025-02-17,5,Custom Mug,430,2f6fe175-f4ad-427f-a3ec-e625665ccc79,42,Male,Returning,Credit Card,False,Jewelry,1,132,5,0.1,834,4576,73.96
+4026,2025-03-26,4,Photo Album,207,f7e870d2-7497-4ee4-9b6b-5f6e7c480e68,34,Male,New,Cash on Delivery,True,T-shirts,1,54,3,1.5,151,4072,16.47
+5239,2025-04-17,5,Engraved Jewelry,387,9e9be00b-ae36-4080-8b3e-199220095973,57,Other,Returning,Cash on Delivery,False,Mugs,1,125,6,6.76,315,1183,59.14
+4666,2025-04-01,7,Custom Phone Case,268,f29a02ac-95d2-4b9d-ab9b-3691d6e3da77,36,Other,Returning,Debit Card,False,T-shirts,3,64,8,1.17,608,3438,57.79
+8314,2025-04-22,4,Photo Album,198,91613e70-619a-460b-a667-929f63d4090f,47,Female,VIP,Credit Card,True,Mugs,1,58,10,2.81,180,4652,16.11
+5156,2025-03-21,9,Custom Phone Case,306,58ebb010-3b67-41dd-b1a7-f5b46c7d7252,38,Male,Returning,Credit Card,True,T-shirts,5,122,3,6.53,468,4576,71.5
+1668,2025-03-11,7,Photo Album,308,787f9cbd-f74d-4d39-97de-9eff0fa800a2,56,Other,New,Debit Card,False,Accessories,2,36,3,8.33,417,3078,1.5
+1417,2025-02-17,2,Engraved Jewelry,372,31f09ac3-ca2b-4922-aaf9-e36c44c010a9,23,Other,Returning,Credit Card,True,Jewelry,2,54,8,8.72,195,934,54.31
+8940,2025-02-18,9,Personalized T-shirt,257,dbe2417b-693a-4e22-8ec1-0b8a13f07d69,37,Other,New,Debit Card,True,Mugs,4,63,9,6.62,524,2381,99.95
+2757,2025-02-22,8,Personalized T-shirt,281,a6c41799-bc4f-491e-af6b-c02285bfd8e5,57,Other,Returning,UPI,False,T-shirts,2,92,9,8.23,688,1570,90.69
+7957,2025-01-05,10,Custom Mug,446,f428b349-2ad1-44c9-b661-e139d3699767,52,Female,New,Cash on Delivery,True,T-shirts,1,114,3,4.33,533,4443,20.5
+9958,2025-03-22,6,Photo Album,367,c6363a72-1be4-4063-9802-e2887f39781a,18,Other,New,Cash on Delivery,True,Mugs,3,108,5,2.37,366,3567,33.68
+3612,2025-04-19,4,Personalized T-shirt,244,97085731-d2dc-4717-af80-dd3d12338ec2,51,Other,Returning,Debit Card,False,Accessories,4,99,2,2.42,711,3831,68.11
+8726,2025-02-27,8,Custom Mug,499,ce53cd85-9793-4d14-9294-56cfd5281417,55,Male,New,Cash on Delivery,False,T-shirts,2,103,7,7.0,675,853,7.36
+8460,2025-03-21,6,Custom Phone Case,472,30e40c68-ec4e-4df1-acad-8c062008a15c,30,Other,Returning,Cash on Delivery,True,Jewelry,4,126,5,5.58,297,4700,84.27
+1369,2025-01-18,10,Personalized T-shirt,314,d68c1b94-3eea-4a69-8044-8373e6ae060f,30,Male,Returning,Cash on Delivery,False,Mugs,3,57,3,1.64,986,4297,42.33
+2287,2025-01-05,1,Personalized T-shirt,301,640994f0-9bb3-4c52-8aed-736237beace8,54,Other,VIP,Debit Card,True,Accessories,4,119,9,7.81,263,2241,27.87
+6300,2025-04-16,7,Custom Phone Case,296,5dd186c8-dac8-46d3-9c3e-4cbc7acfb003,56,Male,VIP,Cash on Delivery,True,Mugs,5,36,5,8.42,792,3957,79.98
+8832,2025-01-02,6,Personalized T-shirt,452,39b27e16-8772-4923-a87a-525ac55027d6,57,Other,VIP,Debit Card,False,T-shirts,3,63,7,1.51,762,3761,47.06
+6022,2025-01-21,10,Custom Mug,171,1a1560dc-78ad-4945-aca1-f7d6c4990c6b,34,Female,New,Credit Card,False,T-shirts,5,139,4,8.14,633,1545,96.28
+5895,2025-03-23,7,Engraved Jewelry,347,583f1c38-0221-424d-8704-7cb261c61b9d,24,Female,Returning,Debit Card,True,T-shirts,2,69,3,1.97,883,1003,93.26
+9278,2025-02-09,4,Engraved Jewelry,408,2064a85c-028b-4bf0-9343-d5d56136ab62,43,Other,Returning,Cash on Delivery,False,Accessories,1,70,6,8.24,943,4734,9.45
+2122,2025-01-02,4,Personalized T-shirt,132,89f7334f-c299-4a77-8f1c-e7fc513a8ae5,59,Female,New,Credit Card,False,Jewelry,2,70,7,6.37,293,3953,42.44
+6064,2025-04-24,9,Photo Album,472,9a163d07-2567-4c85-aa53-4bea0d088ab1,59,Female,Returning,UPI,True,Mugs,2,44,4,0.05,232,1337,34.29
+2937,2025-01-21,1,Photo Album,174,db4ec3ad-9be9-4907-b279-9381b39419a0,42,Female,New,Debit Card,True,Mugs,5,75,3,7.72,598,3225,82.39
+6701,2025-01-31,10,Personalized T-shirt,408,1538d1b7-356b-4b7e-b7d5-12a78ac3109f,43,Female,Returning,Credit Card,True,T-shirts,1,82,2,4.21,898,4244,56.92
+9505,2025-04-05,2,Custom Mug,175,8c76319e-f294-4324-a459-ee65617cf47b,62,Female,Returning,Debit Card,True,T-shirts,2,122,6,7.11,534,832,54.42
+1802,2025-03-27,2,Personalized T-shirt,381,b0ba52ef-4620-4ac4-866d-1a3ab3bbbef7,50,Other,Returning,Debit Card,False,Jewelry,3,69,6,8.77,396,4502,67.21
+8073,2025-04-15,10,Engraved Jewelry,346,db9b9862-b347-4d14-8fc8-0bcf0b42b252,54,Other,Returning,Debit Card,False,Accessories,2,106,2,9.44,730,1080,70.16
+6472,2025-03-15,3,Custom Phone Case,346,18f7d853-5b1a-49fd-a2e7-b063dbe4582e,52,Male,VIP,Debit Card,True,Jewelry,4,111,3,7.73,308,3680,44.83
+3485,2025-01-30,2,Personalized T-shirt,265,7ad9a20b-8a13-4ad3-b42a-c8c851485216,63,Female,VIP,Credit Card,True,Jewelry,3,139,8,3.98,134,872,15.59
+8068,2025-04-07,5,Custom Phone Case,421,5fd5a419-15c9-47d0-a5b1-484e768ef744,63,Female,New,Debit Card,True,Mugs,2,140,3,9.58,469,4239,73.74
+5494,2025-01-29,10,Photo Album,399,a9106c78-2f45-4654-ba02-7bb6a5f4ce74,50,Female,Returning,Credit Card,True,Mugs,5,128,4,9.12,167,2283,66.7
+5539,2025-04-21,4,Custom Mug,214,ad673dd6-dc51-4822-8240-288dafb591e6,35,Female,VIP,Credit Card,False,Accessories,1,114,6,7.42,209,3647,26.89
+8462,2025-04-19,4,Personalized T-shirt,356,e7bd6737-51da-45bd-a4d9-23c46a978241,64,Other,VIP,Cash on Delivery,False,Jewelry,5,51,9,2.23,209,2441,52.97
+7991,2025-01-20,8,Custom Phone Case,495,f038c1d4-b180-4be5-85d5-3413b9ad6326,41,Other,VIP,UPI,True,Mugs,2,52,10,9.77,464,2769,87.48
+2433,2025-02-27,6,Custom Phone Case,458,938e313f-a3ce-43f4-ae7c-f10453d6d1d6,44,Female,Returning,UPI,False,Jewelry,2,49,3,2.4,940,3899,68.11
+1412,2025-04-19,8,Custom Phone Case,385,b3bd5a08-1468-499d-9d7e-3263d5d20525,55,Male,VIP,Credit Card,True,Mugs,4,57,9,6.45,717,1582,63.47
+8073,2025-03-07,6,Photo Album,191,4dcae145-47db-4e37-90ca-95442589fffc,39,Female,New,UPI,True,T-shirts,2,114,10,9.41,919,1668,3.01
+6371,2025-04-07,1,Custom Mug,230,dc4c77c6-2561-49a4-a4e1-51a33125bc7c,31,Other,VIP,UPI,True,T-shirts,1,80,9,8.46,120,1733,91.88
+3459,2025-02-22,10,Engraved Jewelry,139,a83bbac3-e9a4-4d48-b555-9d5a548b0235,25,Female,VIP,Credit Card,True,Jewelry,1,48,10,0.46,600,4765,61.54
+3634,2025-02-27,4,Custom Mug,491,32d3dbc3-c0ad-408b-ae6d-0e0126ed5bb0,32,Other,VIP,Debit Card,True,Jewelry,4,148,6,7.56,800,982,51.15
+6383,2025-02-24,6,Custom Phone Case,488,cd867693-f0ab-4a83-b407-b6349ea42c2a,45,Other,VIP,Credit Card,True,Accessories,1,141,8,7.05,741,1542,5.37
+8063,2025-03-07,9,Custom Mug,229,1b023cea-31e0-4a07-99f4-ec96bc1414c1,50,Other,VIP,Debit Card,False,Accessories,3,41,2,1.06,979,2132,9.24
+1764,2025-01-21,5,Photo Album,354,a2586706-5f0a-41c5-a96d-a8ea175fd0fd,18,Other,VIP,Credit Card,True,T-shirts,4,132,2,9.31,750,4005,42.95
+2827,2025-04-05,4,Custom Phone Case,368,4503ead7-8254-4a06-a781-15ae4481ade5,22,Female,Returning,Credit Card,False,T-shirts,4,146,7,0.09,261,710,29.37
+9437,2025-03-10,5,Personalized T-shirt,417,e2c7b59b-a1e3-49e3-8c37-b92fe7051563,58,Male,Returning,Credit Card,False,T-shirts,1,109,6,6.08,841,2370,30.01
+6972,2025-01-30,9,Photo Album,336,d78a2325-98cd-48e8-b384-53e1275eac98,65,Female,VIP,Debit Card,False,Accessories,2,79,7,5.67,896,2722,82.12
+1885,2025-02-07,4,Custom Phone Case,271,16633813-758c-4443-a67f-dd1394709dec,32,Male,Returning,Credit Card,True,Jewelry,2,83,8,4.53,810,3076,83.39
+2718,2025-04-23,9,Custom Mug,244,440971eb-28f3-4709-97c3-6087ede75c64,27,Male,VIP,Cash on Delivery,False,Accessories,4,104,10,2.61,247,1776,57.72
+6037,2025-01-30,6,Custom Phone Case,280,ff80f724-14a3-40cd-b76c-a607b0af7c44,20,Female,VIP,UPI,False,Mugs,3,65,9,6.16,214,2930,77.04
+1624,2025-04-14,6,Personalized T-shirt,330,4c13405f-c960-405e-ad21-3eafd7d5dbd7,63,Other,New,Debit Card,True,T-shirts,3,53,2,6.13,217,2600,86.23
+8015,2025-03-04,6,Photo Album,292,900e5173-343e-4a4f-9e19-c92f9230ff89,46,Male,VIP,UPI,True,Accessories,4,115,9,7.08,676,2710,25.14
+4102,2025-01-27,8,Photo Album,314,50a51e7d-78b3-4d86-9361-c0aefd7365ee,41,Other,New,Credit Card,True,Jewelry,5,113,5,3.37,822,4308,49.91
+8157,2025-04-24,5,Custom Phone Case,429,acc052b6-0d3c-447d-a107-927d3be9f8fa,50,Other,VIP,Cash on Delivery,True,Accessories,4,48,4,0.99,530,3466,37.59
+1122,2025-01-19,9,Custom Phone Case,323,7376804c-03ef-4e36-88b3-b2883102f3ea,35,Male,New,Cash on Delivery,True,Jewelry,2,87,3,9.23,473,810,29.94
+3155,2025-02-22,8,Custom Mug,309,93c78105-53e9-43e5-a8f8-b5a7a37264d8,27,Other,Returning,Debit Card,True,Mugs,3,55,2,7.63,669,2042,84.35
+5798,2025-02-13,3,Custom Phone Case,316,85536091-050b-44df-8dea-f6e33d1971e1,39,Male,VIP,Cash on Delivery,False,Accessories,1,86,4,6.15,657,3573,91.4
+2480,2025-02-06,9,Custom Phone Case,198,c9165499-d4cc-4265-b457-9c6708d8e05e,42,Other,Returning,UPI,False,T-shirts,3,109,7,0.51,629,3839,50.46
+4617,2025-04-22,9,Custom Mug,194,f1c93802-e279-47c7-ba54-a73b9bce7627,27,Other,VIP,UPI,False,Accessories,5,146,4,2.76,388,2861,62.02
+2623,2025-04-05,1,Custom Phone Case,361,ab49ecb2-3349-44de-a161-e36e35c7d8ed,25,Female,New,Credit Card,False,Mugs,1,137,5,8.25,872,1383,47.65
+7162,2025-04-19,3,Custom Phone Case,248,ac9b82fa-0f95-4183-b745-1d9e7ab70ca2,32,Female,New,Credit Card,True,Jewelry,2,62,7,3.5,903,985,5.16
+4064,2025-03-07,1,Personalized T-shirt,338,7a89ddde-221f-4759-88ab-3f8c8bab1ab8,29,Other,Returning,Credit Card,False,Jewelry,4,143,6,6.75,712,567,74.73
+1957,2025-04-11,6,Custom Phone Case,427,a9723921-4305-4c4a-b971-aca6fc5b4170,62,Female,Returning,UPI,True,Accessories,1,61,2,3.18,950,3666,74.91
+8360,2025-01-04,8,Engraved Jewelry,174,08e6ef06-2c87-4f20-98f9-a84f1315135b,24,Male,VIP,Cash on Delivery,False,Mugs,5,150,5,0.56,879,4446,44.71
+9764,2025-03-14,4,Personalized T-shirt,186,f0de26fd-16eb-4eb8-a40d-7361d204fef5,41,Male,New,Cash on Delivery,False,T-shirts,2,120,2,5.05,274,1338,95.63
+7093,2025-01-27,8,Custom Mug,357,4caaae6b-74b9-4c9f-aa60-d44c01e2dfcf,41,Other,New,Cash on Delivery,True,Jewelry,4,79,7,6.53,129,3060,42.81
+9515,2025-01-29,10,Custom Mug,185,a374b6b0-bc43-4c14-8dff-a5c4d578e489,57,Other,Returning,Credit Card,False,T-shirts,2,66,4,0.87,725,4987,50.39
+3520,2025-01-02,10,Custom Phone Case,268,d75095da-77da-4146-8ff6-e35a876e6e9b,50,Male,Returning,Credit Card,False,Accessories,3,33,2,7.72,456,1431,38.33
+6117,2025-04-16,6,Engraved Jewelry,293,96b2c525-4fe5-49da-a4a4-3fa8d52f2942,26,Other,Returning,UPI,True,T-shirts,1,121,10,7.66,447,1275,14.09
+8025,2025-02-04,8,Custom Mug,492,df6e05a7-e543-4f1f-bb9c-752be7979287,30,Other,VIP,UPI,True,Accessories,5,99,7,0.95,644,3431,10.3
+2784,2025-02-03,5,Custom Phone Case,383,630df804-fe62-40cf-a1d1-800c2dbbf23f,61,Male,New,Cash on Delivery,False,T-shirts,3,88,6,3.24,180,1462,93.79
+7692,2025-01-06,10,Custom Phone Case,382,b3829667-1646-462b-95ee-5455d4f1a224,34,Female,New,Debit Card,False,T-shirts,4,120,3,4.52,197,2444,95.5
+7658,2025-02-11,4,Photo Album,163,680dbc1a-5dbd-45a3-a856-e1d782e8e687,65,Other,VIP,Debit Card,False,Jewelry,4,80,4,2.58,890,2421,72.42
+1283,2025-01-30,5,Engraved Jewelry,486,1385c1c9-4e5d-4cdd-8647-4bad2d2d368c,18,Other,Returning,Debit Card,True,Accessories,4,140,3,5.17,145,4131,76.19
+9410,2025-04-03,10,Personalized T-shirt,174,2a92b3b4-35fe-4ef4-8f49-cb4d95e88727,61,Other,New,Debit Card,False,Accessories,5,96,6,6.17,613,4357,59.74
+7520,2025-01-03,5,Personalized T-shirt,372,c7aac02c-5190-459c-9ea0-052f84632212,54,Other,Returning,Debit Card,True,Accessories,1,98,4,3.61,847,2846,91.97
+3469,2025-03-15,6,Engraved Jewelry,412,076c9959-6b73-4fe2-a102-6911939e26c8,51,Female,New,Credit Card,False,T-shirts,5,128,3,6.37,159,3730,3.4
+3994,2025-02-15,8,Engraved Jewelry,267,dfdfa33b-01b5-472b-bebe-9d978f395c74,52,Female,VIP,Credit Card,True,Jewelry,2,118,4,4.81,943,4682,74.1
+7372,2025-01-08,6,Engraved Jewelry,280,6f51b139-f6f8-4f5d-8ba5-edd122b74cc7,53,Other,Returning,UPI,False,Jewelry,2,80,6,3.39,929,3689,40.28
+7966,2025-01-24,4,Personalized T-shirt,208,c0f1ef49-2e36-4c10-a7d8-7d4aa3b6627b,43,Male,VIP,UPI,False,Accessories,3,42,7,8.87,798,2257,53.12
+5928,2025-01-19,5,Custom Mug,135,677e428e-e212-4e54-9674-6f73983e3736,61,Female,VIP,Debit Card,False,Accessories,5,69,10,3.78,413,1930,46.51
+9295,2025-02-23,2,Custom Phone Case,229,df52676e-165f-443a-a2d6-cd76f884151a,30,Male,VIP,UPI,False,Mugs,3,41,5,8.33,527,1590,92.58
+5312,2025-02-02,6,Photo Album,412,64a59058-d96e-4af5-8130-e6aad2573348,47,Male,VIP,Cash on Delivery,False,T-shirts,4,115,10,8.17,320,1784,64.56
+1003,2025-03-27,10,Custom Phone Case,381,9d2a8231-49d3-49ec-bd7d-6cd178b92f06,61,Other,Returning,Credit Card,True,Mugs,2,85,4,5.94,561,2619,5.02
+8979,2025-04-16,4,Photo Album,439,4e66cf99-e165-4a0c-9c3b-e7fe45eb786c,54,Female,New,Debit Card,False,Jewelry,2,32,8,0.9,517,2214,91.5
+2350,2025-02-18,8,Engraved Jewelry,404,cfb8ad9c-a432-4e4d-a6e9-ebd5d66596bb,42,Other,VIP,UPI,False,Jewelry,1,51,10,5.15,973,2061,59.68
+4223,2025-01-26,10,Engraved Jewelry,141,d694fb07-012e-45bd-b2e5-b5ec575c3aff,36,Male,VIP,UPI,False,T-shirts,1,70,8,7.85,275,3981,65.93
+7014,2025-01-28,1,Personalized T-shirt,159,061edda4-8c59-4abd-b270-5997f6c635f5,18,Other,VIP,Debit Card,False,T-shirts,5,105,2,8.2,104,1665,65.1
+6230,2025-01-11,7,Photo Album,177,d72a69c9-416a-4796-9682-152cd164d876,54,Male,VIP,Cash on Delivery,False,T-shirts,5,47,6,5.68,684,1382,34.92
+4688,2025-01-07,10,Custom Phone Case,382,4e89a665-63ed-4911-b7a9-b504799c585a,61,Other,VIP,Cash on Delivery,True,T-shirts,2,48,8,4.25,301,4814,34.54
+7197,2025-01-15,10,Custom Phone Case,104,f20c299c-8358-4c88-ba23-065ab2884884,29,Female,VIP,UPI,True,Accessories,2,108,6,2.22,288,907,62.06
+1316,2025-01-27,4,Personalized T-shirt,328,2072789c-b1c2-4634-a928-3dabbd30d21e,64,Female,Returning,UPI,False,Jewelry,1,139,5,8.53,691,2118,47.29
+2849,2025-03-11,4,Personalized T-shirt,262,c5958771-ae14-4444-9f46-06d1ec2b9da2,21,Female,Returning,UPI,False,Accessories,5,93,4,3.58,755,2539,36.85
+1204,2025-01-24,4,Custom Mug,362,88f0005a-80b1-4c27-b442-7ada588a7802,42,Other,Returning,Cash on Delivery,True,Mugs,1,139,7,2.25,480,3154,41.42
+3931,2025-01-26,7,Engraved Jewelry,424,7f63fc3e-91a0-4b8c-8a9a-f895e6ab3673,57,Female,New,Cash on Delivery,True,Mugs,3,140,3,3.86,337,2922,19.2
+6929,2025-01-27,6,Personalized T-shirt,110,9b2cb444-b0a5-43f4-84a8-17d8bf66a377,32,Male,New,UPI,False,Mugs,3,91,9,0.61,529,1779,5.35
+7596,2025-02-11,7,Custom Phone Case,129,05db19c4-87e9-45d2-8c70-6a38985c3556,26,Female,Returning,Cash on Delivery,False,Accessories,1,143,6,7.91,619,3810,76.98
+6635,2025-01-16,4,Custom Phone Case,351,7f347b14-c6a8-49b7-a7d8-51444456ac92,43,Female,VIP,Debit Card,True,Jewelry,5,146,10,8.15,220,2969,13.24
+1976,2025-02-05,7,Personalized T-shirt,403,23bd48d5-5414-48a2-88f9-688a8ce8f9fb,36,Male,New,Credit Card,False,T-shirts,4,68,5,0.6,645,1725,39.53
+1866,2025-01-18,8,Custom Phone Case,159,de36253f-f4ec-4fc6-b45a-e4a2b9a115d7,50,Male,Returning,Cash on Delivery,True,T-shirts,2,96,10,7.75,775,4353,57.17
+9313,2025-02-28,10,Custom Mug,180,401d7b71-87bd-4ae9-a377-9e67571d0c8a,33,Female,Returning,Debit Card,False,T-shirts,5,130,5,1.16,319,2967,0.63
+2429,2025-03-30,5,Custom Phone Case,281,f1f88a6f-509d-4fb0-87f1-588f6da5baa8,55,Female,Returning,Debit Card,False,T-shirts,4,47,10,9.45,752,1540,89.22
+2411,2025-03-18,9,Custom Mug,435,4146d379-999c-45e3-a61e-6a41ddb421e1,53,Female,Returning,Cash on Delivery,True,T-shirts,1,116,10,5.22,671,3166,56.8
+4963,2025-01-25,10,Custom Phone Case,100,6885f3c6-7c49-4bcd-8c47-6543544e4c61,29,Male,Returning,UPI,True,Mugs,4,34,2,9.85,388,618,37.83
+1655,2025-03-17,10,Personalized T-shirt,396,1ff4701b-f89a-4edf-bba0-fc4c8b7ab0f6,47,Other,Returning,Cash on Delivery,True,T-shirts,1,82,4,6.87,830,2935,77.42
+1827,2025-01-29,9,Custom Mug,322,8b510656-b984-44f9-976a-75ac8bf6b2b4,43,Other,Returning,Cash on Delivery,True,Mugs,2,130,6,7.7,731,4169,58.39
+7048,2025-03-16,1,Custom Mug,294,8b3957d7-ddaa-4d2f-979e-20f07cbe8a55,22,Other,VIP,Credit Card,False,T-shirts,3,51,5,0.83,600,2585,5.05
+6862,2025-04-21,9,Photo Album,156,f2ea4964-83dc-479f-973d-35f67044c3de,57,Male,VIP,UPI,False,Accessories,5,85,7,3.78,302,4371,12.25
+2717,2025-01-09,6,Personalized T-shirt,452,403d4c11-ac07-451a-9f72-8e09c40add9d,29,Male,Returning,UPI,False,Mugs,3,123,2,7.86,549,1531,27.52
+9161,2025-01-16,2,Custom Mug,350,1dd2fc78-0a6d-41cd-b7a8-aea5a7ab4540,29,Other,Returning,Credit Card,True,Accessories,3,90,2,8.99,310,4102,65.13
+3612,2025-02-10,5,Photo Album,494,286a1072-8d2f-4684-9622-829018fba0dc,27,Other,New,Cash on Delivery,False,Mugs,4,98,9,9.78,531,4509,44.31
+6978,2025-04-03,1,Custom Mug,320,8482bfb9-3e13-44e4-af59-5faa5169f6fb,51,Other,VIP,Debit Card,False,T-shirts,1,57,5,9.6,851,2583,80.56
+4127,2025-03-19,2,Engraved Jewelry,300,3a201e08-60f2-4638-a958-2b9b14edb111,59,Other,Returning,Cash on Delivery,False,Jewelry,4,112,9,2.33,866,635,54.52
+3415,2025-02-14,7,Engraved Jewelry,245,841f78db-32c4-4a96-b868-68d5f48ae9b5,55,Other,VIP,Cash on Delivery,True,Accessories,3,34,10,3.33,278,3469,9.99
+7992,2025-03-14,6,Custom Mug,176,55bc9f66-6707-4c35-b8c5-6cc25e14d1d9,31,Male,VIP,Cash on Delivery,False,Mugs,5,130,5,8.42,145,1668,96.49
+9201,2025-03-14,3,Custom Phone Case,464,23787307-542f-447e-8feb-556c0a63d68e,31,Female,New,UPI,True,Mugs,4,46,4,8.76,162,1278,4.92
+7905,2025-01-29,2,Custom Phone Case,430,709770a3-7f41-4b3c-a0a7-c2b230bffaa2,52,Male,New,Credit Card,True,T-shirts,2,130,5,1.67,263,1127,77.09
+9338,2025-04-18,7,Custom Mug,468,4ec2f2c2-879f-4afa-89d1-ee1845282269,22,Other,VIP,Debit Card,True,Mugs,1,75,8,3.9,112,4809,49.39
+1652,2025-04-18,6,Engraved Jewelry,112,782388fc-8267-4113-b724-68791fa9817c,56,Other,New,Debit Card,False,T-shirts,5,106,10,4.47,902,4528,76.35
+1230,2025-03-03,9,Custom Phone Case,467,7d3c8f2d-1608-4f41-9b49-ffa0c90be664,23,Female,VIP,Debit Card,True,Accessories,1,119,9,4.74,804,4618,77.58
+3201,2025-02-07,6,Engraved Jewelry,222,b3459bf2-ed58-47f9-a232-14525f464d67,30,Male,Returning,Cash on Delivery,False,Mugs,4,98,3,8.79,488,1600,92.24
+5053,2025-04-12,1,Photo Album,299,9f2d9718-162f-444d-8ca5-690e86db471a,20,Other,Returning,UPI,False,Accessories,4,83,9,1.11,465,2472,48.9
+4847,2025-03-05,3,Custom Mug,114,1c6483a3-abff-44da-a142-c032a62c3284,60,Other,Returning,Credit Card,True,Accessories,3,139,2,1.76,948,4046,98.49
+6929,2025-03-07,9,Custom Phone Case,221,2c5d8da3-e178-4ef7-ab3b-75ad792db65d,29,Female,VIP,Cash on Delivery,True,Jewelry,5,147,3,0.56,387,1425,14.06
+3848,2025-02-25,9,Personalized T-shirt,116,051823ec-179f-4a27-9b1a-b750bbe5066e,56,Other,New,Credit Card,False,Mugs,2,96,5,3.11,236,4452,62.0
+3158,2025-01-17,7,Photo Album,171,e94b0d1d-4fbe-4e9c-808c-55e9d505fbde,57,Female,VIP,Cash on Delivery,True,Jewelry,2,129,2,2.11,107,2124,75.55
+6233,2025-03-10,1,Custom Phone Case,242,a7f2cf50-ecdb-4a74-a154-68775ce93fc0,55,Male,VIP,Credit Card,True,Mugs,2,64,2,3.8,739,4147,28.08
+8535,2025-03-27,9,Engraved Jewelry,338,57c1e2b6-fd4c-48e2-9626-76ddae75cc75,64,Male,New,Debit Card,True,Accessories,4,38,6,8.63,256,3371,3.49
+5354,2025-04-10,1,Custom Phone Case,489,fdef5616-3584-4e42-bbd3-7df1fb8fd518,30,Male,Returning,Debit Card,False,Mugs,1,110,5,5.32,330,3744,10.77
+7174,2025-01-31,3,Engraved Jewelry,366,9dbc8762-5f36-4b85-942d-05867f688f42,55,Male,Returning,Debit Card,False,T-shirts,5,113,9,3.74,592,4685,98.02
+6466,2025-01-19,5,Custom Mug,238,5d2c5329-26ed-45c6-9fb8-c9c0d05af886,18,Male,Returning,UPI,False,T-shirts,3,90,7,7.09,718,2493,37.27
+4067,2025-01-20,7,Engraved Jewelry,494,3bc2e714-baae-4a8f-842c-91eb9726ae14,43,Other,VIP,Credit Card,False,T-shirts,2,97,8,7.02,807,1297,28.86
+3559,2025-04-16,1,Custom Phone Case,389,f1b73863-fae3-4be9-92f3-10058aa0fd3f,43,Male,VIP,Cash on Delivery,False,Mugs,3,51,4,5.23,518,2085,33.44
+4918,2025-01-13,5,Custom Phone Case,445,c4aba51b-6a4f-4b02-a863-6c2e28eaf3e0,29,Female,Returning,Debit Card,False,Accessories,5,138,3,6.04,309,1322,22.72
+3635,2025-01-20,3,Personalized T-shirt,347,02878737-0a20-4acc-9d45-7aa84ef08a89,24,Female,VIP,Credit Card,True,Accessories,1,142,5,7.37,404,797,41.48
+3605,2025-04-15,10,Custom Phone Case,273,3b1a5534-3aa1-446f-b721-da57000c3faa,49,Female,New,Debit Card,False,Mugs,2,94,5,0.23,868,2776,36.26
+5419,2025-04-12,1,Personalized T-shirt,358,dde1babf-0978-4daa-8f7b-04624759a765,54,Female,VIP,Debit Card,False,T-shirts,5,137,5,8.1,991,2408,94.11
+2413,2025-04-18,9,Engraved Jewelry,262,504b45ec-a6ce-406d-9946-51c09bd7a3f1,41,Male,Returning,Credit Card,True,T-shirts,2,79,5,5.24,288,3143,86.06
+1670,2025-03-21,6,Custom Mug,178,4211f618-de47-468a-a17c-89db4c4babd2,61,Other,VIP,Debit Card,True,Accessories,1,81,6,8.42,292,965,11.34
+1025,2025-04-20,5,Photo Album,466,7aa5652d-7815-42b3-8936-a8d0c3991018,35,Other,VIP,Debit Card,True,Jewelry,5,76,4,1.81,836,3384,97.74
+7862,2025-04-06,10,Photo Album,405,fd6665f5-dfe1-4663-80fb-54392abbebbf,24,Female,VIP,Credit Card,False,Mugs,5,132,7,9.63,318,1225,1.88
+6308,2025-04-07,9,Custom Phone Case,434,c905dd5f-428d-4d9f-a836-29724a5084b4,38,Other,Returning,Credit Card,False,Accessories,5,122,9,2.46,758,4852,65.39
+1715,2025-03-05,2,Personalized T-shirt,135,c0d733c4-1278-431b-ad17-4ec279a65440,21,Other,New,UPI,True,Accessories,3,34,5,8.63,463,1735,47.83
+5538,2025-01-11,10,Photo Album,386,0affc53e-82c5-4d15-96f1-d9bd79b9afdf,33,Other,New,UPI,False,T-shirts,2,134,2,8.4,763,2319,51.51
+7635,2025-01-14,2,Photo Album,426,c5db5794-fcb5-4c4f-987b-094264d4da6f,48,Male,VIP,Cash on Delivery,False,Mugs,1,50,9,1.71,461,3171,3.45
+5008,2025-03-30,3,Custom Phone Case,331,e9588166-0352-4e3a-a821-1e746f818b03,65,Male,Returning,Debit Card,False,Jewelry,1,83,9,2.97,374,1360,4.11
+2931,2025-03-16,5,Photo Album,298,04011600-ffe1-433a-ad8a-bb86c0daf456,62,Female,Returning,Debit Card,True,T-shirts,3,44,3,4.11,991,3957,67.5
+8958,2025-01-15,7,Custom Phone Case,345,5f4e849e-c34f-4d5e-81b6-a4b11e858cbf,51,Other,Returning,Cash on Delivery,True,T-shirts,2,103,5,3.17,230,2321,3.67
+4342,2025-03-17,5,Custom Mug,401,921021f7-99ab-4140-8e43-77d6393ed3b9,43,Male,New,Cash on Delivery,True,T-shirts,2,86,4,4.99,649,2378,55.13
+3308,2025-04-15,9,Personalized T-shirt,244,73927457-460b-410e-b799-67c2f93f42eb,57,Female,Returning,Cash on Delivery,False,Jewelry,3,84,4,2.3,572,882,38.26
+6158,2025-02-22,3,Personalized T-shirt,325,1acbc1a2-4904-4862-b5e2-20d11617a681,44,Female,New,Credit Card,False,Jewelry,1,40,4,7.12,384,2676,10.1
+4619,2025-02-03,6,Photo Album,473,b377c469-21cc-4faa-84af-46d577d6b07c,43,Other,Returning,Debit Card,False,T-shirts,2,144,4,4.11,883,2672,63.69
+8135,2025-02-19,2,Engraved Jewelry,454,a6bf28c5-7280-4e9d-a66e-0afc75e9b8f2,62,Male,Returning,Credit Card,False,Accessories,3,130,7,9.0,559,2139,53.29
+7681,2025-01-04,3,Photo Album,143,7910fe21-55bb-4bd5-b0ef-36fc6ddd9046,23,Male,Returning,UPI,False,Accessories,3,76,5,5.18,753,4473,45.38
+8726,2025-01-17,9,Engraved Jewelry,201,0ebb7032-55c5-41d3-ad3f-4a69ca560b3d,19,Female,New,UPI,True,Jewelry,2,142,4,4.86,210,4724,16.2
+8673,2025-01-18,8,Personalized T-shirt,470,d5f4309b-7359-4b1c-ac38-ebb3da50e8a5,53,Other,New,UPI,True,Accessories,3,106,5,4.84,946,4452,41.21
+7740,2025-03-14,4,Personalized T-shirt,193,73a45c83-24e1-4aaf-a161-1dcec0764f5f,48,Female,Returning,Cash on Delivery,False,Accessories,5,46,7,2.78,494,3399,91.42
+8445,2025-02-20,3,Custom Mug,396,35c56b86-2ea0-43c0-afea-fe205cfac31b,42,Female,New,Credit Card,False,Jewelry,3,142,10,0.86,286,1560,50.78
+4445,2025-04-03,1,Engraved Jewelry,461,1ba3a71c-4e70-4eb7-af04-9148e665095c,51,Female,New,Cash on Delivery,True,Accessories,1,32,5,6.14,884,1501,48.74
+5648,2025-03-31,10,Engraved Jewelry,351,9048257f-f75b-42ff-8886-4da876df5c1c,45,Male,Returning,Debit Card,False,Accessories,1,134,6,5.45,193,2686,51.64
+6550,2025-02-24,9,Photo Album,213,2a96bf98-9ce3-4769-8ee7-22122ebc0808,53,Other,Returning,Credit Card,True,Accessories,3,31,10,1.64,984,1610,18.95
+8058,2025-03-25,2,Photo Album,353,52057054-34ec-48a8-9af4-db76966b2389,29,Female,New,Debit Card,True,T-shirts,3,115,5,4.0,436,4019,43.04
+8138,2025-02-19,3,Personalized T-shirt,461,2aef3550-5d6f-4e80-ac22-b26d7df47ef5,58,Other,Returning,UPI,False,Mugs,5,143,6,7.29,241,4757,88.72
+1037,2025-02-06,3,Engraved Jewelry,267,e4254e60-0a40-4ba6-8231-00f93d43d281,20,Female,VIP,Cash on Delivery,True,T-shirts,2,140,6,5.73,494,659,8.48
+4023,2025-02-27,3,Custom Mug,384,3fa28d78-c120-470a-a450-80e5caafd36e,29,Female,Returning,UPI,True,T-shirts,3,117,9,4.81,569,1981,64.29
+6559,2025-02-12,7,Custom Phone Case,327,ff7b7dad-11b8-4f96-85a4-b4b74780ade7,24,Male,Returning,Cash on Delivery,True,Jewelry,4,62,6,7.71,249,743,24.13
+9556,2025-01-22,7,Photo Album,301,04facd2e-d2cb-4921-a1cb-609dcc3785f5,45,Other,VIP,Debit Card,False,Jewelry,1,102,7,0.75,264,4128,47.95
+2593,2025-04-13,3,Custom Mug,436,82e9d590-cab7-4cb6-ae6a-d0db71f832c2,57,Other,Returning,UPI,False,Accessories,3,60,5,3.01,269,4368,77.35
+8698,2025-04-07,4,Personalized T-shirt,152,2151ddec-5226-4847-8c6a-e266cf7b9508,27,Male,New,Credit Card,True,Accessories,5,123,3,3.14,544,4654,87.39
+5895,2025-04-20,2,Engraved Jewelry,463,69ed9e6d-7c2d-480f-bad6-3609948c02e0,41,Male,VIP,Debit Card,True,Mugs,3,117,7,3.65,425,2676,23.8
+2691,2025-01-25,4,Engraved Jewelry,191,c3c4fe53-c7a1-46d9-a0dc-10adac5f357a,46,Female,VIP,Debit Card,True,Mugs,2,149,6,2.53,642,3440,47.9
+8220,2025-02-12,3,Custom Phone Case,294,b9ab0417-0cf5-43c2-be9b-892668ded8db,30,Other,VIP,Credit Card,True,Jewelry,4,86,3,0.44,221,2940,14.18
+2066,2025-01-23,8,Custom Phone Case,116,aeb306bf-444e-4681-9507-f59d72374274,37,Male,VIP,UPI,True,Accessories,5,68,10,3.15,198,3530,58.22
+3979,2025-01-01,8,Custom Mug,187,8e5f5dca-7abf-442a-83c1-e0d065c49a08,50,Female,VIP,Cash on Delivery,False,Mugs,2,91,8,1.93,120,2878,51.57
+5942,2025-02-18,4,Custom Phone Case,139,8dbaa733-ab36-46a9-b901-9e9625bddeef,58,Female,New,Cash on Delivery,False,Accessories,1,52,9,2.27,752,4260,51.69
+8823,2025-04-14,5,Photo Album,343,6814252b-28de-4203-9909-e2c107f7d232,39,Female,New,Debit Card,False,Accessories,1,136,8,4.4,295,3197,80.74
+2658,2025-03-04,3,Personalized T-shirt,129,b0c648eb-40bc-44b6-963f-39bbff025e6c,48,Male,Returning,Cash on Delivery,True,Accessories,1,133,4,0.94,876,731,7.69
+2376,2025-02-24,9,Engraved Jewelry,284,da97b99e-0557-4045-b261-ff0b878a3361,53,Other,Returning,Debit Card,True,T-shirts,1,110,7,6.75,527,2828,62.09
+3380,2025-04-04,6,Custom Phone Case,269,f600a1fe-7f16-48a8-9d41-92879f00b248,27,Other,New,UPI,False,Mugs,5,115,2,6.23,452,589,41.64
+9428,2025-01-31,7,Custom Mug,430,4439d01b-f086-4f15-a1ee-3cf2d9073dbd,42,Male,New,Credit Card,False,Mugs,3,130,5,5.31,858,3800,36.72
+4384,2025-01-22,8,Custom Mug,376,8f79fc5e-b9ac-4412-a293-ad777985ca47,28,Other,New,Debit Card,False,T-shirts,5,101,6,3.41,214,656,48.61
+8747,2025-02-05,4,Custom Mug,405,825b8507-6989-4685-ad56-0cd2810a895f,34,Female,Returning,Cash on Delivery,True,Mugs,3,127,2,1.43,780,2528,30.56
+7897,2025-03-20,1,Engraved Jewelry,389,2c12eed9-b478-47ca-b73e-0a55b408548b,46,Other,VIP,UPI,True,T-shirts,2,147,2,6.43,648,851,54.35
+5730,2025-03-24,1,Engraved Jewelry,253,dbe658ea-1c98-4ba5-aec4-f3d16ee82898,27,Male,New,Cash on Delivery,False,Jewelry,3,149,6,8.57,177,2479,24.49
+2000,2025-04-21,5,Photo Album,429,b40000f7-a3af-434a-a0e3-1edb614c4909,59,Male,Returning,Cash on Delivery,True,Accessories,1,32,4,5.33,659,2797,78.69
+4802,2025-03-02,5,Engraved Jewelry,450,813cccfd-2703-4e50-945e-4c459f924450,33,Other,VIP,Cash on Delivery,True,Mugs,4,147,4,6.59,279,2013,79.99
+9341,2025-01-21,7,Personalized T-shirt,225,c5ff69d8-c87c-4f94-9068-91ae9405c6fd,50,Other,New,UPI,False,T-shirts,5,60,6,0.28,358,949,96.5
+1489,2025-02-26,8,Custom Phone Case,200,3462e886-a064-4b9e-b8cb-223bf9468c32,55,Male,Returning,Cash on Delivery,True,T-shirts,3,140,4,7.97,381,1782,54.58
+6474,2025-04-06,1,Photo Album,299,3d0d58b0-ff4a-46c2-b2b3-a2e5cfe42761,30,Other,Returning,Cash on Delivery,False,T-shirts,5,56,6,4.44,982,1240,76.42
+4162,2025-04-04,10,Personalized T-shirt,458,2c2cc6a1-275a-4792-affa-528ef0b28b25,28,Female,New,Debit Card,True,Mugs,5,68,5,7.99,704,1963,28.53
+8466,2025-02-02,5,Custom Mug,338,dd1a13e7-cfbf-4d54-a74d-e1dcd3b45329,26,Female,VIP,Debit Card,False,Mugs,4,144,6,4.59,614,825,5.2
+6747,2025-04-17,10,Personalized T-shirt,446,787980d6-e8f5-4c89-aded-d1d5ac9f63a5,21,Female,Returning,UPI,False,Accessories,1,33,8,4.18,530,3912,94.08
+3278,2025-04-16,6,Photo Album,127,ea9451ab-b0e4-4164-8ef1-45f80f50befd,45,Female,New,Cash on Delivery,True,T-shirts,4,127,8,7.49,746,3401,6.28
+3106,2025-04-07,9,Custom Phone Case,189,ab7ca50e-02f9-4e7b-a6f7-06028fb71ea7,51,Female,Returning,Credit Card,False,Accessories,1,74,3,4.37,188,2968,16.14
+3597,2025-03-12,2,Personalized T-shirt,230,9e61664d-5268-4ef6-ad1a-db7ec986af1e,43,Other,VIP,Debit Card,False,Mugs,5,45,3,4.65,459,2878,67.45
+9189,2025-03-24,3,Custom Mug,303,6b7a4ff5-ff54-4162-a7ea-45b00156863f,26,Female,VIP,Credit Card,True,Jewelry,3,50,6,5.64,331,585,8.97
+8190,2025-02-12,6,Custom Phone Case,124,a08fc6e4-744c-42ed-9fcf-58310db0342c,60,Female,New,Credit Card,True,Jewelry,4,88,10,1.62,962,931,4.59
+8640,2025-01-12,8,Photo Album,409,e1e9b2d5-f8e6-42ae-bd79-eeb2834f0c3f,26,Male,VIP,UPI,False,Mugs,2,67,6,0.35,148,3260,43.51
+4202,2025-01-17,1,Photo Album,256,31192e0d-e7e6-44b7-b118-cae5164475e3,51,Male,Returning,UPI,False,T-shirts,5,127,6,6.92,295,3921,37.54
+8160,2025-03-25,1,Engraved Jewelry,406,2bd2ea3d-4fd2-4fa6-b336-06b9724b33e9,26,Female,VIP,Debit Card,True,T-shirts,1,150,7,3.88,167,516,74.56
+8845,2025-04-16,4,Custom Mug,211,f28b33b1-5363-4ea3-b52c-5bcd2309e435,33,Female,VIP,Credit Card,False,T-shirts,2,56,4,7.81,925,826,37.96
+8620,2025-02-03,3,Photo Album,127,ea56bb15-dd8b-4627-af0b-2bba5c24caec,44,Other,Returning,Debit Card,True,Mugs,3,46,7,1.0,784,1519,10.69
+5106,2025-02-08,5,Engraved Jewelry,309,afb10327-bc20-4105-b7e6-b0e1899cd685,29,Other,New,Credit Card,True,Mugs,1,110,8,9.92,508,4156,87.71
+9191,2025-02-26,2,Engraved Jewelry,149,71b4808a-7903-4ca3-9d54-ddda38995f6b,28,Other,VIP,Debit Card,True,Mugs,1,46,2,8.45,707,4537,37.64
+4609,2025-03-02,9,Custom Mug,383,eef7a241-6c3c-4a6d-85e9-5da31cacb019,30,Other,New,UPI,True,Jewelry,4,75,8,9.9,353,4572,63.26
+2457,2025-02-13,10,Personalized T-shirt,234,af6ccc09-6029-4268-aa01-49d9de43d1e1,58,Female,New,UPI,True,Accessories,1,52,9,8.76,386,5000,32.14
+3464,2025-01-26,2,Custom Mug,112,05ce1057-5ddd-4e12-9746-0c94461365d2,65,Other,VIP,Cash on Delivery,False,T-shirts,1,57,7,8.83,567,3031,79.22
+8953,2025-04-16,9,Engraved Jewelry,245,03439e64-4563-4d34-bfd3-e2160dbe6933,24,Male,VIP,Credit Card,True,T-shirts,4,33,10,1.75,345,4296,20.65
+6519,2025-02-08,5,Custom Mug,414,bd23d851-7d5f-4386-ba78-cd93e99aafe7,25,Other,Returning,UPI,True,Mugs,4,150,8,1.51,917,3714,29.59
+6747,2025-01-24,6,Personalized T-shirt,269,2f887c6d-b47b-45a2-8709-3071436466ab,31,Male,VIP,Cash on Delivery,False,Accessories,5,133,8,0.68,895,1901,94.79
+4737,2025-04-20,3,Personalized T-shirt,491,bd850997-6eb4-4d3b-a900-d9b0c98270be,28,Male,Returning,Debit Card,False,Accessories,1,77,5,0.46,379,696,12.4
+6579,2025-03-30,6,Custom Phone Case,244,38355e66-c4c7-4003-b7e6-7181fad48f80,55,Male,New,Credit Card,True,T-shirts,1,98,5,0.43,500,4970,99.92
+2497,2025-03-16,7,Custom Mug,178,d993d7f3-0064-4a82-a6db-861f113fa533,39,Female,VIP,Cash on Delivery,True,T-shirts,5,147,2,7.06,952,2986,78.97
+6522,2025-01-11,8,Engraved Jewelry,394,b4dd43d5-084e-41bb-bc22-de5e753b34e3,31,Male,Returning,Debit Card,False,Accessories,5,129,8,0.61,439,3392,81.82
+5701,2025-01-04,6,Engraved Jewelry,188,d2b634f4-7e79-4e70-b2ca-230c3a820518,25,Female,Returning,Cash on Delivery,False,Mugs,1,134,4,9.0,588,2446,58.71
+2337,2025-03-25,7,Custom Mug,463,5ca8bad0-76c7-4ccf-975b-cc3f1a4f9777,40,Other,New,Credit Card,True,Accessories,2,33,3,8.56,373,929,70.02
+9011,2025-04-20,1,Custom Mug,296,a6848556-c3bf-4198-96c4-e4de9c5b162e,23,Female,Returning,Debit Card,True,Mugs,2,81,2,3.13,585,1967,42.71
+2230,2025-04-10,9,Custom Phone Case,498,d177f215-2d91-439f-be95-4642763ce6e8,43,Other,Returning,Debit Card,False,Jewelry,2,71,7,6.71,923,2117,28.11
+6765,2025-03-26,3,Personalized T-shirt,448,ea55aaf5-a695-4361-8b0d-9a09551af865,35,Female,New,Cash on Delivery,True,Mugs,3,72,4,3.04,476,2690,13.66
+5563,2025-01-07,6,Engraved Jewelry,312,2d24fac1-65d1-4549-9cbc-7b7bb446945d,22,Other,Returning,Credit Card,False,T-shirts,1,84,7,5.8,361,4429,12.35
+5216,2025-01-15,4,Personalized T-shirt,323,f685dc28-9cb2-4532-88c9-5390922427d7,22,Other,New,Cash on Delivery,True,Accessories,5,128,5,0.83,638,3721,25.19
+9898,2025-02-09,1,Personalized T-shirt,364,cd3451fb-22e4-4fda-a2f0-44f1281f0d51,54,Other,VIP,Cash on Delivery,True,Jewelry,2,134,7,8.57,136,4557,11.12
+2672,2025-02-07,1,Personalized T-shirt,209,6f691730-ec1b-45c2-9e7c-7c7b20c2b542,47,Other,Returning,Debit Card,True,T-shirts,3,75,8,4.04,974,4937,0.19
+3260,2025-01-31,9,Custom Phone Case,329,b57f432b-f0c2-4033-91ca-230a748cd448,57,Male,VIP,Cash on Delivery,False,Accessories,5,30,10,3.45,626,4722,76.77
+8314,2025-03-24,7,Custom Phone Case,226,ed29942b-e52d-42bd-b6b3-9fb09986a83a,59,Male,Returning,Debit Card,True,Jewelry,4,86,10,9.4,285,2064,44.73
+3361,2025-04-15,5,Personalized T-shirt,233,4ed4d79b-a8b8-4319-aa3d-dd228ed28b6e,25,Male,New,Credit Card,True,Mugs,1,47,6,3.69,417,1400,12.22
+3689,2025-03-27,9,Engraved Jewelry,458,65bc6822-b76b-44f4-8499-932d07e8fb02,50,Other,VIP,Credit Card,False,Mugs,4,117,2,2.23,132,2976,22.65
+9808,2025-01-23,5,Custom Phone Case,471,09af5a24-3d17-4cb5-a659-a18f27a5afe8,41,Male,New,Cash on Delivery,False,Jewelry,2,82,8,0.74,667,3549,1.79
+6202,2025-02-21,7,Custom Mug,362,60180f72-3c79-4723-b6ea-e4e1668209ad,45,Male,VIP,Debit Card,False,T-shirts,5,72,4,5.23,419,4153,37.41
+7062,2025-04-11,3,Engraved Jewelry,496,edc11ce1-bd05-4bee-b5c4-b1bc115449d7,18,Female,VIP,Cash on Delivery,True,Mugs,5,85,9,6.54,690,3845,97.2
+6612,2025-02-27,7,Custom Phone Case,441,7fbf69e5-a6e4-48e1-8cde-430263949379,61,Male,New,Credit Card,True,Mugs,1,101,9,4.51,305,3542,64.05
+3935,2025-02-20,3,Photo Album,212,f97182db-d87a-46a5-b1f4-28695079470b,31,Male,VIP,Credit Card,False,Jewelry,5,115,6,0.19,805,4355,9.12
+1870,2025-01-27,4,Engraved Jewelry,104,5429aa03-3f82-468a-8975-5429747a3de4,39,Male,New,Cash on Delivery,True,Jewelry,4,42,5,3.06,440,3430,59.68
+5902,2025-02-14,6,Custom Mug,243,fee905dc-1502-4464-aff2-c626d9d5e339,64,Other,VIP,Credit Card,True,Jewelry,3,101,2,0.51,868,4995,17.79
+9238,2025-01-25,10,Custom Mug,365,3a2cbb0f-1741-41a6-92a2-3561fefffba3,18,Male,Returning,Cash on Delivery,False,Accessories,1,40,10,2.82,280,2370,58.11
+4334,2025-03-13,5,Engraved Jewelry,207,a6166bbc-f514-4f51-b200-9305b4e071ed,25,Male,Returning,Cash on Delivery,True,T-shirts,1,76,3,9.19,924,868,61.92
+5908,2025-03-03,10,Personalized T-shirt,433,9450ba2d-8903-438c-a60b-ca24e75a8420,52,Female,VIP,Debit Card,False,T-shirts,4,35,4,1.9,752,3088,65.27
+3435,2025-01-08,5,Photo Album,431,9c10e8d6-b7ac-4e33-b5d6-20e6d14575f7,23,Male,VIP,Credit Card,False,Accessories,2,122,3,7.27,203,2716,5.2
+1588,2025-03-31,10,Custom Phone Case,196,0637d639-3a82-42b1-abcf-e8e326b88594,55,Male,Returning,UPI,True,T-shirts,4,68,3,4.68,291,1340,32.88
+4973,2025-03-17,1,Photo Album,164,403f17fa-9a3d-4676-b337-2c62d1c6aa06,64,Female,New,Debit Card,True,T-shirts,2,85,6,4.84,117,3544,45.44
+5374,2025-01-12,1,Custom Phone Case,266,9b38a48c-ac0a-44ea-ab3c-837117ee563d,53,Other,New,Credit Card,False,Accessories,5,84,9,1.7,664,4587,91.89
+1508,2025-02-04,10,Personalized T-shirt,133,fbf93f90-6474-4085-b92c-588ed2d454fb,59,Male,New,UPI,False,Jewelry,1,35,9,2.91,812,2060,87.09
+7568,2025-01-16,6,Photo Album,164,b85c375a-ba65-4462-a9d3-3f5b9846430a,48,Other,Returning,Debit Card,True,Accessories,3,87,9,1.92,982,3490,36.82
+6705,2025-02-24,9,Custom Mug,216,1e8cfe35-fc1d-4417-8a54-2b2c0b82f4fe,61,Female,Returning,UPI,True,Accessories,1,37,6,0.5,371,4684,93.7
+9628,2025-03-01,7,Photo Album,390,bfaf0d66-9049-4429-b3ce-14d2bdf2a5fa,21,Other,New,UPI,True,Mugs,2,52,10,6.54,396,2566,23.12
+8259,2025-01-23,5,Personalized T-shirt,455,39d8c4fc-a621-407a-b79d-a75c5f826b34,43,Other,VIP,UPI,True,Jewelry,5,104,7,3.93,328,4262,15.33
+7936,2025-01-07,9,Personalized T-shirt,371,ea78abaa-8e7b-4c76-aaf5-59a7ab0a02cc,23,Female,New,UPI,False,Accessories,2,78,8,1.73,543,2197,88.58
+5556,2025-03-16,9,Personalized T-shirt,122,24570f3b-67f0-48ba-b38d-f6c4b9cc14c9,19,Other,VIP,UPI,True,Mugs,4,103,5,2.9,228,1049,0.22
+7968,2025-01-28,10,Custom Phone Case,168,417f3c88-8b80-4fe7-a39e-874099b22732,65,Other,New,Debit Card,True,Jewelry,3,126,10,5.62,370,3070,15.93
+5194,2025-04-17,5,Custom Mug,391,1edc2a9a-35bf-4c9c-ab3a-b842e0f3e37a,28,Other,New,Debit Card,False,Mugs,5,82,7,0.3,461,4260,74.93
+7886,2025-03-06,7,Custom Mug,470,00eb937f-7d9b-4571-8e59-f2a510181f94,35,Female,New,Cash on Delivery,True,Jewelry,1,54,4,0.74,606,3588,47.65
+1592,2025-01-23,10,Custom Phone Case,223,79663a61-67c3-4ff4-965a-e1b8bef374cd,31,Female,Returning,Cash on Delivery,False,Accessories,1,103,2,7.57,650,2887,47.11
+3197,2025-03-11,1,Custom Phone Case,100,98b5ec4a-497d-4936-8d74-91a649a5633d,31,Other,VIP,Credit Card,True,T-shirts,5,76,6,4.1,659,2714,31.73
+9960,2025-02-08,2,Custom Mug,348,b995baa0-d200-44aa-beec-72ca49139af6,34,Female,New,Debit Card,True,Jewelry,4,50,8,9.11,169,1710,24.79
+2290,2025-03-09,2,Personalized T-shirt,161,d81eb09e-b1ca-4244-a567-65ff8c9fa4dc,54,Other,VIP,Cash on Delivery,False,T-shirts,1,78,6,8.16,713,3901,27.25
+2064,2025-01-22,1,Personalized T-shirt,175,7a39308d-eedc-41ec-afec-d1e542b05a7d,41,Other,Returning,Cash on Delivery,True,T-shirts,5,145,5,8.79,929,4124,10.55
+4011,2025-03-04,6,Engraved Jewelry,145,2a49e392-91c2-4c25-a857-59c683e3c841,45,Male,VIP,UPI,False,Jewelry,1,125,4,2.38,862,4844,28.64
+5297,2025-01-16,7,Engraved Jewelry,192,16d19722-7912-43f7-ab7d-a836ee28e37d,20,Other,VIP,Debit Card,True,Jewelry,4,134,7,5.16,564,2299,89.74
+8777,2025-03-22,3,Custom Phone Case,143,aebbfd8a-e4e2-4136-a938-f2812b87a250,21,Male,Returning,Cash on Delivery,False,Mugs,3,80,8,7.73,331,2231,34.28
+4574,2025-03-16,7,Custom Phone Case,100,3977db2c-88bf-4bea-b410-390233f90dad,29,Male,New,Credit Card,True,T-shirts,5,97,7,7.33,539,2823,55.15
+4858,2025-02-25,6,Photo Album,170,53fbd848-88eb-4665-b4a1-4aaee2b98c01,46,Other,New,Credit Card,True,Mugs,5,104,9,5.4,109,598,61.44
+6141,2025-03-14,3,Personalized T-shirt,328,30c92c90-0477-449b-910f-493db9f31769,63,Male,New,Credit Card,False,Accessories,4,82,9,2.53,157,3865,38.36
+6506,2025-01-22,10,Personalized T-shirt,494,32a285c3-eaf2-4d6e-94e0-3dd2e6ac1bfa,65,Male,VIP,Credit Card,False,T-shirts,4,30,5,0.51,702,2205,72.92
+1624,2025-04-08,7,Custom Phone Case,314,137ddae7-bfe9-4222-9b10-2d6e7d5b4a36,27,Male,VIP,Debit Card,True,Accessories,2,135,10,0.91,584,1213,6.78
+1068,2025-02-19,2,Personalized T-shirt,368,74b5bb4a-e4d5-4aef-afae-c6ad9395bbb2,19,Male,VIP,Credit Card,True,T-shirts,4,82,10,6.71,974,3185,86.35
+9468,2025-01-31,8,Photo Album,190,7e3a8580-e390-4781-aa82-821010719220,41,Male,Returning,UPI,True,Accessories,2,58,10,8.25,835,4184,90.96
+8211,2025-01-31,9,Photo Album,148,de02098d-d285-44e0-a330-00dc4d48cffb,23,Other,Returning,Credit Card,True,T-shirts,4,66,6,2.54,323,2301,18.77
+4296,2025-02-05,1,Engraved Jewelry,137,d0d6f235-954c-447f-8b6a-176ec256e46b,37,Other,Returning,Cash on Delivery,True,Mugs,2,83,2,8.76,204,2964,29.72
+2559,2025-01-03,4,Photo Album,486,e8282966-cc6d-4510-be24-5df0bff04771,23,Male,New,UPI,False,Jewelry,3,80,4,7.99,935,2218,92.49
+8384,2025-01-26,9,Engraved Jewelry,303,35afc17f-8c00-427e-ba88-87e5b1ecf249,35,Other,New,Cash on Delivery,True,Mugs,2,132,10,8.6,841,1026,47.23
+9169,2025-02-13,2,Photo Album,208,7a711b29-17e2-48f9-b501-be23c16bfb99,30,Male,VIP,Cash on Delivery,True,Accessories,5,112,3,4.32,890,3099,85.75
+6001,2025-01-29,3,Personalized T-shirt,398,58e32d90-6e72-46a6-af9f-490e05fa3c0d,42,Male,New,Debit Card,True,Jewelry,5,110,6,6.9,276,3342,82.81
+1107,2025-03-17,3,Engraved Jewelry,480,62412350-dd80-4438-af89-b873cdbdfa51,62,Female,VIP,Cash on Delivery,True,Accessories,2,54,10,3.87,232,2919,21.39
+4089,2025-02-04,3,Custom Phone Case,247,00ad751d-7d12-4fbf-b833-ce9af0437f82,60,Other,Returning,Debit Card,False,T-shirts,4,51,3,6.53,495,1287,43.54
+3333,2025-02-15,5,Personalized T-shirt,363,78fba553-596f-43fa-b878-c5438f8c1dc1,62,Male,New,Credit Card,False,Accessories,4,105,7,0.38,419,654,18.35
+5238,2025-02-08,1,Custom Mug,120,7740da0c-c65a-463a-852c-a265a49c0abd,52,Male,VIP,Credit Card,False,Mugs,3,91,5,8.1,351,4661,44.72
+9613,2025-01-18,1,Custom Phone Case,272,bd4e6887-feb8-4a53-a369-6b82395ecc60,40,Other,Returning,UPI,False,Accessories,2,103,9,0.42,548,3407,72.3
+8811,2025-03-19,10,Custom Mug,371,14b3ef23-fe00-4752-8f7e-f26d6c781ee8,34,Female,New,UPI,True,Jewelry,4,145,5,1.08,502,592,87.3
+7915,2025-03-18,9,Personalized T-shirt,123,48ee5e82-eac7-4ad4-919d-51f47f7ea6c3,25,Male,VIP,Debit Card,True,Accessories,1,77,9,1.35,139,3830,26.09
+2172,2025-01-09,1,Engraved Jewelry,236,8e36752d-1c2f-453b-b0a4-24abb7f899ba,36,Male,New,Debit Card,True,T-shirts,4,72,5,8.89,660,1318,71.52
+5703,2025-04-06,9,Photo Album,337,8a0c0755-b2d3-4314-9a2f-fa7cfadc45cb,50,Other,New,Cash on Delivery,False,T-shirts,2,95,4,9.89,677,1916,70.35
+7849,2025-02-02,5,Engraved Jewelry,165,a9dc26c7-9239-4645-a59d-7bb637af4412,60,Male,New,Cash on Delivery,False,Jewelry,4,135,9,8.04,320,4465,20.51
+5594,2025-02-19,5,Custom Phone Case,495,c608d56a-f45f-496c-bde4-38fde3b46aae,36,Male,Returning,Credit Card,True,Mugs,4,146,4,5.36,190,4420,4.87
+5061,2025-02-17,4,Personalized T-shirt,483,30cbaa79-1576-4f54-b5e7-9011bf554223,54,Male,Returning,Credit Card,False,T-shirts,1,122,8,0.28,521,4085,62.96
+4911,2025-01-14,9,Custom Mug,466,67c47666-2659-422b-9793-ab70a378e5ed,29,Male,VIP,Credit Card,True,Mugs,2,106,10,9.82,274,4036,69.56
+4841,2025-03-25,4,Personalized T-shirt,441,ab8f5738-7361-4937-bac8-7d0ef65060f9,53,Female,VIP,Credit Card,False,T-shirts,3,30,10,8.22,721,695,78.93
+8205,2025-04-16,8,Personalized T-shirt,314,612f21d5-b0e3-4741-aa3c-22ab3a62233b,62,Male,New,UPI,False,Mugs,2,72,7,1.63,421,1739,1.07
+7702,2025-01-06,7,Custom Mug,219,9eea7717-4776-4a70-8c3e-f9349e6ae926,63,Other,Returning,Cash on Delivery,True,Mugs,3,118,9,9.29,386,4725,95.32
+8881,2025-02-13,2,Engraved Jewelry,378,f528b630-951b-4871-a051-42da425f9f5c,19,Other,Returning,Credit Card,False,Jewelry,1,69,8,4.85,579,4535,35.78
+2272,2025-04-17,3,Custom Mug,172,1e32c115-f7b6-430c-ba41-32159aa3baaf,27,Other,New,Credit Card,False,Mugs,3,43,3,4.12,149,4944,34.97
+5625,2025-04-23,3,Custom Phone Case,394,abfc17fd-acb9-44da-8001-856c695daf76,29,Other,Returning,Credit Card,True,T-shirts,5,81,9,1.5,561,2643,52.25
+3227,2025-01-16,1,Custom Mug,122,08acaeaf-5c61-4492-9bec-bb9bc6843fdd,23,Female,VIP,Debit Card,False,T-shirts,4,113,6,5.96,894,2990,99.53
+6062,2025-01-12,1,Custom Mug,397,e12200ed-6bec-4b5b-b3c9-e24c568ca661,46,Male,Returning,Credit Card,True,T-shirts,4,140,6,3.7,370,4289,68.37
+4632,2025-01-07,9,Custom Phone Case,459,caee56a2-c96d-420d-bae2-c2c15d8fadc5,32,Other,VIP,Cash on Delivery,False,Jewelry,4,68,3,8.71,796,3222,98.22
+2425,2025-03-10,10,Custom Mug,446,543fcaf8-586c-450b-8f7c-055e8a0571dc,64,Other,New,Credit Card,False,Mugs,4,99,7,7.73,138,4095,88.19
+5586,2025-01-06,2,Custom Mug,266,ac60cfe4-1c68-4fa1-8075-93f4d057a762,34,Female,VIP,Cash on Delivery,True,Accessories,4,83,6,6.34,101,1355,68.86
+8048,2025-02-01,1,Custom Mug,438,b33f08ba-5835-4167-a308-7e6b36c69a15,22,Male,New,Credit Card,False,Mugs,1,68,8,9.86,390,4165,10.4
+5495,2025-01-28,9,Personalized T-shirt,426,04a53f70-44cf-47ea-82c0-cf570e8cfdba,21,Other,New,Cash on Delivery,False,Mugs,1,94,4,5.38,275,4398,45.44
+9259,2025-03-16,5,Engraved Jewelry,225,4439101d-dc61-4b4d-a3ec-689259981dfc,34,Male,New,Credit Card,False,Jewelry,4,112,3,3.23,306,1385,52.29
+5718,2025-03-26,7,Custom Phone Case,380,d3edd160-a2b4-4a5a-a5a2-0e752e204853,24,Other,New,Credit Card,False,Accessories,4,147,8,8.32,415,632,36.95
+8020,2025-01-15,2,Custom Phone Case,197,d1797932-1aa1-4c29-9f24-572d5172269e,57,Other,VIP,Credit Card,True,Accessories,3,91,3,2.94,942,4688,75.92
+1148,2025-03-09,2,Custom Mug,262,a4582f89-a7ca-4b5d-934d-c28070a58e75,41,Female,Returning,Credit Card,True,Mugs,2,71,6,3.34,482,2803,99.96
+5584,2025-03-31,5,Photo Album,314,cd621deb-d5fe-47b4-a0e5-f4c4ff72990b,34,Female,VIP,Debit Card,False,T-shirts,3,51,2,8.59,815,2314,2.1
+7678,2025-01-31,7,Custom Mug,257,afb8ea9c-84dc-4e54-93bf-f92349015783,32,Female,Returning,Debit Card,False,Mugs,1,90,3,9.61,619,1001,93.38
+5023,2025-03-26,6,Engraved Jewelry,122,93907ea6-0691-4ce0-8965-8eac0a50e50e,59,Female,VIP,Debit Card,True,T-shirts,1,99,5,6.45,845,2787,41.2
+1120,2025-02-09,2,Custom Phone Case,325,33063844-8065-46d9-bd9f-22e0b9639fd0,19,Other,New,Cash on Delivery,True,Mugs,5,64,6,5.68,362,715,86.53
+5128,2025-03-15,9,Engraved Jewelry,494,e6a73f30-910d-46c3-9e6e-c7d6dc796feb,25,Other,VIP,UPI,True,Jewelry,3,68,10,1.37,648,3457,7.26
+3371,2025-01-25,7,Engraved Jewelry,415,1582d2d4-efa1-4506-a041-e8df0179cd9e,42,Other,New,Credit Card,False,T-shirts,2,30,7,8.94,310,4694,62.43
+8391,2025-04-06,10,Custom Mug,375,9ea9feb3-5c0a-4600-9684-f89129cb233d,22,Female,Returning,Credit Card,False,Jewelry,1,90,8,0.99,279,990,86.24
+8460,2025-04-10,3,Photo Album,127,d42d4817-7a11-4245-a99b-7fa4910c5e0f,22,Female,VIP,Cash on Delivery,True,T-shirts,1,134,4,6.71,343,579,31.85
+6554,2025-04-14,2,Engraved Jewelry,323,f94f7121-e9b0-4577-b9e2-259b002e1b31,61,Other,Returning,Credit Card,False,Jewelry,4,37,5,2.76,585,4307,38.86
+1467,2025-02-23,4,Engraved Jewelry,231,0b8d59db-bc04-4d24-9b18-910bc48f828d,28,Female,Returning,Cash on Delivery,True,Accessories,3,87,6,0.57,461,3923,70.87
+2176,2025-03-13,10,Engraved Jewelry,273,ec28d8c9-a151-49bc-ab4e-dd5a426ddb00,62,Other,New,Debit Card,False,Jewelry,5,134,5,3.51,632,3543,9.08
+4910,2025-01-26,3,Photo Album,469,65e0a13a-cdf5-4ea6-a667-4a223ac44986,18,Other,VIP,Credit Card,True,Accessories,4,32,7,4.78,314,645,5.33
+5441,2025-04-04,1,Personalized T-shirt,219,4cce6da5-0c6e-4f7d-ac08-ed7da3728b35,61,Male,VIP,Debit Card,False,Mugs,1,127,4,8.29,312,2029,79.45
+1445,2025-04-05,7,Personalized T-shirt,263,f928a44e-ea7e-452c-9d38-7ecc5f13e44a,28,Male,Returning,Credit Card,False,Accessories,3,32,9,0.86,406,2542,44.38
+6794,2025-02-24,7,Custom Phone Case,124,a9514599-4efa-4a0c-b7a3-64008c7af119,52,Female,New,Debit Card,False,T-shirts,2,144,5,2.52,386,4059,91.94
+5101,2025-01-28,5,Engraved Jewelry,167,75f09f7d-baad-42b3-b8b0-d5c81a400339,45,Male,Returning,Cash on Delivery,True,Accessories,4,58,4,9.29,499,4598,2.32
+8797,2025-02-13,2,Custom Phone Case,294,260b123f-5754-4126-ba86-e076db2a752b,58,Other,VIP,Credit Card,False,Accessories,3,44,4,5.7,233,1135,89.18
+5439,2025-04-15,1,Custom Phone Case,383,446c284a-75de-4bba-ad00-79fddea2d9cd,32,Male,VIP,Cash on Delivery,True,Mugs,5,89,3,5.79,390,3571,80.1
+2806,2025-03-18,4,Engraved Jewelry,221,98c80ba0-fb9a-44fc-98d2-8a7d1cef39c8,52,Other,Returning,UPI,True,Accessories,2,87,6,1.18,141,2393,55.28
+8749,2025-01-24,10,Photo Album,173,3477ca4f-aa5f-4ab1-a34f-f72e58499b00,39,Male,New,Credit Card,False,Mugs,1,45,5,7.08,511,4162,26.2
+9877,2025-01-20,9,Personalized T-shirt,201,da7b9ca8-7159-46b8-a708-3e1d0b4760a0,42,Male,Returning,Cash on Delivery,True,Mugs,1,57,7,7.58,605,3026,2.58
+9933,2025-01-28,8,Engraved Jewelry,365,2612172d-2982-4a36-bf31-6434361eb858,54,Female,Returning,UPI,False,T-shirts,2,130,10,7.83,175,2667,33.24
+2577,2025-03-11,9,Photo Album,156,102dcf9e-b275-4587-a36f-0f2dfa38eefb,25,Female,Returning,Debit Card,False,Accessories,1,70,10,3.6,613,767,6.84
+6760,2025-03-27,8,Personalized T-shirt,494,7b8a8790-8f82-4adf-af7c-c30323da30e2,44,Male,New,Cash on Delivery,True,T-shirts,4,74,9,0.95,214,1145,52.33
+2513,2025-01-03,6,Photo Album,475,5d095a45-3471-4dda-b8a5-b57c4ddbe003,20,Male,New,Debit Card,True,T-shirts,3,60,3,1.69,980,2595,26.42
+5831,2025-04-11,1,Personalized T-shirt,355,a95f6cae-c212-4c27-aeb2-cec5bfb7999d,27,Male,Returning,UPI,False,Accessories,2,97,9,3.32,522,1568,61.69
+9526,2025-03-12,10,Custom Mug,128,6adb1b9a-3c5a-4de4-b860-e99734fd6c5d,56,Other,VIP,Debit Card,True,Accessories,1,47,7,6.21,590,1057,73.65
+5524,2025-02-11,2,Photo Album,152,4a709f37-5328-4690-a762-c30960eb37cc,19,Female,Returning,Credit Card,True,Accessories,5,47,7,0.56,895,942,16.6
+1076,2025-04-17,1,Personalized T-shirt,389,ec43a206-d96a-4250-8a9a-86110e62f1aa,51,Female,New,Credit Card,True,Mugs,1,135,5,6.12,957,2639,84.93
+8429,2025-04-14,9,Custom Phone Case,432,dc10028a-97fa-4c00-98c5-3ed6cf67faa5,46,Male,Returning,Debit Card,True,Mugs,4,74,10,9.63,728,1754,25.15
+1614,2025-01-27,5,Engraved Jewelry,151,70c9e900-4836-4b40-bae8-e1bd0e78e03b,58,Other,New,Credit Card,False,T-shirts,4,116,7,1.32,989,2207,19.69
+9523,2025-03-29,4,Custom Phone Case,280,081f641e-8e3b-45b3-8e93-18885d94cbaa,54,Other,Returning,Credit Card,True,Accessories,5,72,6,2.8,830,2237,37.07
+8849,2025-03-04,7,Photo Album,175,b048db94-1030-4bfc-85dc-fff86aea7149,52,Male,Returning,Credit Card,True,Jewelry,5,62,10,2.02,865,4646,87.9
+8451,2025-02-24,6,Custom Phone Case,500,06b7e4e2-7356-4d0f-8bb9-65e399a823ce,52,Other,VIP,Debit Card,False,T-shirts,3,58,10,7.76,744,4748,86.6
+1564,2025-03-12,2,Personalized T-shirt,306,b1885382-8617-4f52-85ed-5c521edc24ad,64,Female,VIP,UPI,True,Accessories,1,68,2,4.25,998,3978,2.8
+1620,2025-02-02,10,Photo Album,109,8d50c2a6-ffda-4ede-948c-6646fa0acebb,36,Other,New,UPI,True,Accessories,3,113,8,5.35,945,1972,56.01
+3070,2025-01-28,8,Custom Phone Case,178,39b18496-cbe1-411f-a1e3-800b61d51035,58,Female,VIP,UPI,True,Jewelry,2,114,10,2.16,868,4541,80.24
+2639,2025-02-22,8,Photo Album,488,f2169dd6-5948-48d8-885d-2cb20bd91f6e,39,Female,VIP,Credit Card,False,Jewelry,4,116,10,5.83,698,4744,67.61
+4046,2025-01-23,7,Custom Phone Case,325,9a7b68ce-cbe3-4ade-9a79-b0faa9b6ab8a,58,Female,VIP,Debit Card,True,Mugs,5,100,6,4.09,324,4751,39.4
+6556,2025-04-03,8,Photo Album,264,f1f1d53b-4efe-41a4-8b99-c5200dbab4ab,23,Female,VIP,Debit Card,False,Jewelry,1,99,9,9.54,981,2963,21.42
+2328,2025-03-25,5,Custom Mug,457,59cf8ae9-4d91-4ab5-825e-f79bc5a995de,21,Female,VIP,Cash on Delivery,False,T-shirts,1,97,7,0.76,102,2117,21.38
+6891,2025-03-27,4,Photo Album,199,d9c10f6b-ecbc-4110-816f-02a7dce59b29,60,Female,Returning,Cash on Delivery,False,Jewelry,5,93,10,5.89,445,4101,20.0
+8760,2025-01-28,8,Engraved Jewelry,204,ae2cf5ce-215b-4f6e-b59a-4812fca7e63b,22,Male,New,UPI,False,Jewelry,5,129,3,4.31,824,4319,11.51
+7065,2025-01-23,9,Custom Phone Case,133,dd538258-aba8-4120-9422-ce6331eed696,54,Other,New,Credit Card,False,Accessories,4,59,9,8.18,753,793,48.81
+7961,2025-03-31,5,Photo Album,372,7015ceba-810b-41f4-8a76-9222ddb4310a,38,Other,New,Debit Card,False,Accessories,3,52,2,5.73,475,1558,18.11
+3701,2025-01-05,2,Custom Mug,220,94fb5394-b124-481e-948e-0523019f0d39,53,Female,New,UPI,True,Accessories,2,129,5,8.33,124,3584,6.05
+2798,2025-02-03,10,Personalized T-shirt,136,524c9dda-3c31-4078-a6f0-4a7a2e08f978,46,Male,New,UPI,False,Mugs,1,66,10,8.61,476,661,37.75
+7640,2025-04-14,3,Custom Mug,382,febfdb81-fbb4-4559-8c52-c148c30f83da,59,Male,VIP,UPI,False,T-shirts,3,127,5,4.79,923,2164,8.79
+3054,2025-01-30,5,Custom Phone Case,155,2db8a3a8-13a6-47f9-ae71-88c920f7e7f0,54,Male,New,Credit Card,False,Accessories,3,30,3,4.63,878,900,32.41
+7800,2025-01-30,6,Custom Phone Case,498,b2c44d5c-5f9d-407b-bcd3-268569c28d18,57,Male,New,UPI,True,Accessories,3,134,9,2.19,130,4391,31.22
+8946,2025-01-28,6,Engraved Jewelry,252,1ce82239-e896-4718-a4dd-2212779300c1,65,Other,New,Debit Card,False,Mugs,5,33,2,4.1,236,1748,80.2
+9683,2025-04-24,3,Custom Phone Case,173,22efbc2f-f5ca-4de9-9b5d-555d89a3dee5,55,Male,Returning,UPI,False,Jewelry,3,58,4,1.77,908,1833,3.37
+9517,2025-02-26,10,Custom Mug,276,061607f5-959d-4248-bde0-460150e3c989,22,Male,New,Cash on Delivery,True,Accessories,3,56,3,3.89,807,2503,46.86
+7912,2025-04-12,4,Engraved Jewelry,331,0a2d9fe9-ef50-4280-b142-7f0322f34586,24,Other,VIP,Credit Card,True,Jewelry,4,55,3,5.1,334,3013,93.1
+4765,2025-03-11,4,Custom Mug,129,75432d37-b03a-4b40-bc4f-835d6ae74c9a,23,Female,New,UPI,True,Jewelry,2,66,8,7.54,987,1903,77.7
+3100,2025-01-31,5,Engraved Jewelry,386,91ffaf63-47af-4398-8f86-3db90ee7ceb5,49,Female,New,Debit Card,True,Jewelry,4,30,8,4.39,626,2876,49.36
+9613,2025-02-10,8,Photo Album,219,158303c7-e443-438e-a688-1123e61ddf54,28,Other,New,Cash on Delivery,True,Mugs,4,82,9,2.24,589,1034,47.91
+4249,2025-01-22,7,Engraved Jewelry,419,e3777564-4231-401f-aec8-2f30f7ce8a81,60,Male,VIP,Debit Card,True,Jewelry,4,72,7,5.87,428,908,12.24
+9640,2025-01-05,10,Custom Phone Case,343,29b7a433-206d-46ad-88a0-9ce5704813ad,39,Male,New,UPI,False,Accessories,5,62,8,2.66,838,4705,82.29
+1715,2025-01-25,7,Custom Mug,456,c133037c-6927-482b-8662-2e9ed8186183,20,Other,VIP,UPI,True,Mugs,4,40,7,4.72,391,2020,21.9
+4181,2025-04-23,5,Personalized T-shirt,499,92246eab-11c1-4df7-8cf7-dfa0ef37bcd5,48,Female,New,Cash on Delivery,False,T-shirts,5,65,7,2.55,596,3779,42.37
+2043,2025-03-31,5,Engraved Jewelry,394,347d04c5-0c9d-4cad-89e1-83ac5935dd12,54,Male,VIP,UPI,False,Jewelry,2,121,10,1.11,274,1606,64.08
+3382,2025-03-23,4,Custom Phone Case,471,c1b9c7d3-dda4-44fc-a3d9-77dfd20380df,61,Other,New,Debit Card,False,Accessories,5,53,8,4.4,162,568,40.65
+7341,2025-01-13,9,Personalized T-shirt,493,5f04f69e-bd43-4178-a3d8-9f160d7de040,18,Male,New,UPI,True,Mugs,2,30,6,7.74,886,569,38.76
+7639,2025-01-22,2,Engraved Jewelry,417,432b68e2-1d78-4a07-b5ef-a0e0eafd248c,32,Female,VIP,Credit Card,False,T-shirts,2,45,7,7.53,969,2473,4.55
+5873,2025-01-18,1,Personalized T-shirt,367,b2c88c59-46f8-4f09-9055-49ea3e989022,30,Other,Returning,UPI,False,Jewelry,2,92,4,2.97,799,814,97.25
+8735,2025-01-11,3,Custom Phone Case,411,86bc01c9-2ff7-4d51-8354-29b23b294017,22,Female,New,Credit Card,True,Jewelry,1,116,6,8.28,950,2775,59.93
+3642,2025-04-17,5,Photo Album,176,427b61d3-9971-4a1c-9711-eac8fa12463b,62,Other,New,Cash on Delivery,False,T-shirts,1,31,6,2.46,708,3937,84.75
+4480,2025-01-09,4,Photo Album,222,368456aa-5553-4e20-84c3-95541ae12cfe,53,Female,VIP,UPI,True,Accessories,2,76,2,5.28,962,3463,40.15
+2380,2025-03-12,8,Personalized T-shirt,391,98e3f5e4-9f53-4784-800b-52e023937412,60,Male,Returning,UPI,True,Accessories,2,147,6,8.09,459,1110,15.34
+8925,2025-02-25,8,Personalized T-shirt,113,22673d24-6b5d-4de7-b466-712c585d30ad,25,Female,New,Cash on Delivery,False,Accessories,5,119,7,6.91,341,4339,21.22
+3885,2025-03-01,6,Custom Mug,415,9d04278a-3240-4f9c-901b-98e3718e5e0d,64,Male,Returning,Cash on Delivery,True,T-shirts,5,90,5,2.3,953,4681,90.71
+2242,2025-03-03,7,Personalized T-shirt,227,8ed13dba-9602-40b3-90d3-516a89820b71,28,Male,VIP,Cash on Delivery,False,T-shirts,1,148,10,4.59,404,614,62.29
+3617,2025-04-08,6,Custom Phone Case,291,09cc3c77-f30c-4dac-ae35-08b883f3daad,33,Other,Returning,Cash on Delivery,False,T-shirts,1,88,10,2.47,703,3998,70.68
+2639,2025-04-17,6,Custom Mug,427,f2a3f986-5134-461e-842d-cf40882327f3,63,Other,VIP,Cash on Delivery,False,Jewelry,4,63,2,4.43,504,3078,43.23
+9693,2025-01-04,9,Engraved Jewelry,247,25032797-8f1d-458f-a835-d03ac21e06a0,45,Other,Returning,Debit Card,True,T-shirts,2,110,3,8.19,858,4795,94.43
+8722,2025-03-15,8,Photo Album,311,a317f51a-6a22-4567-b86b-d9e554fd76fc,27,Male,VIP,Debit Card,False,Mugs,5,124,8,0.75,196,691,77.92
+6625,2025-02-20,7,Custom Mug,407,037bed79-755c-42fe-907a-9cd30f6ee40a,64,Female,New,Credit Card,True,T-shirts,4,86,2,1.28,889,1481,6.54
+5548,2025-01-30,1,Custom Mug,298,9a5acb47-fac5-44c1-81e8-6615c869c5f3,50,Other,New,Cash on Delivery,False,Mugs,4,98,9,2.0,336,4728,25.84
+5991,2025-02-15,1,Custom Phone Case,324,7ba32d6b-cf7b-4e02-9ada-f46011141ae0,40,Other,Returning,Credit Card,True,T-shirts,4,121,2,0.2,507,2901,35.69
+2192,2025-01-21,4,Photo Album,409,e4fed3df-99e5-4220-83a1-cea238288d77,50,Male,Returning,Debit Card,False,T-shirts,4,58,3,6.76,421,3811,0.72
+6046,2025-02-02,1,Photo Album,114,b130819c-e17f-4b4a-a613-0f561002ebaa,35,Male,Returning,Cash on Delivery,False,Mugs,3,60,6,4.86,426,551,63.77
+7126,2025-04-18,1,Engraved Jewelry,139,71cced70-3af9-4e23-874f-72fc7d299907,20,Other,New,UPI,True,T-shirts,3,118,3,6.17,669,770,61.87
+2779,2025-04-18,1,Personalized T-shirt,428,2707d862-bcbc-4694-b540-c0a2eb7cbff7,30,Female,New,UPI,True,Jewelry,1,119,3,2.51,933,2469,88.17
+2319,2025-03-20,8,Personalized T-shirt,334,a0416a37-cad7-44c1-90e2-35b1f13b2d4a,59,Other,Returning,Credit Card,True,Jewelry,2,47,10,8.58,397,1753,31.06
+7299,2025-02-17,3,Photo Album,322,d45c6e78-f522-4a83-9822-55b1410b5caa,59,Other,VIP,Cash on Delivery,True,Accessories,4,64,7,9.38,563,601,89.2
+2534,2025-03-11,6,Engraved Jewelry,196,1355594d-e425-43c4-b295-872bd42f7c14,38,Male,New,Credit Card,False,Jewelry,1,137,4,6.91,806,3506,59.58
+1145,2025-04-11,5,Personalized T-shirt,271,05a81da0-fe62-4111-a7cb-c010509a6949,21,Female,VIP,Credit Card,False,Jewelry,4,115,8,9.01,889,1132,58.15
+7811,2025-03-19,5,Custom Mug,189,bd32af23-5780-49ac-b2e6-ed312d5fd029,24,Other,New,Cash on Delivery,False,T-shirts,5,82,5,9.8,388,3537,33.61
+3699,2025-03-17,5,Personalized T-shirt,451,1fbd23bd-40b4-40e6-a9ea-1677a2ac22fc,58,Other,VIP,Cash on Delivery,True,Mugs,2,46,4,6.66,687,1590,4.2
+8300,2025-01-18,2,Engraved Jewelry,140,7a780451-ac73-4118-bccf-2347653c0998,38,Female,New,Credit Card,False,Mugs,1,54,4,6.7,623,4582,15.84
+2603,2025-03-23,7,Personalized T-shirt,278,a9dc583a-86a0-4bc6-aea6-9084c549d503,22,Female,VIP,Debit Card,False,T-shirts,2,44,7,7.97,184,4649,70.74
+4237,2025-03-04,10,Photo Album,149,3d77cb13-58f7-485b-8541-2ce4bd6e10a3,19,Female,VIP,Debit Card,False,T-shirts,1,120,4,7.67,489,747,65.8
+5519,2025-04-11,8,Engraved Jewelry,319,3150c5cc-8bba-4eb0-88cf-4105b85a36fe,30,Male,Returning,UPI,False,Accessories,4,53,9,7.97,446,3711,36.79
+5744,2025-02-10,8,Custom Mug,251,60ab5eb2-8226-4675-ae9d-31e957bc12f8,42,Male,New,Cash on Delivery,False,Accessories,5,103,10,7.31,353,4391,5.99
+4790,2025-04-05,9,Engraved Jewelry,425,1eb9fc02-4e8c-4856-895d-32268d88b8d5,45,Female,VIP,Credit Card,False,Accessories,3,49,7,7.76,574,4213,15.08
+8460,2025-04-17,6,Photo Album,314,eb7e4fb0-55e0-4c54-99f0-d00b1ca967ae,34,Female,Returning,Credit Card,True,T-shirts,2,137,10,4.43,512,1626,22.56
+4604,2025-04-13,6,Engraved Jewelry,297,9b97f1a4-c20e-4ccd-ab5d-b82810c75fca,25,Female,VIP,UPI,True,Mugs,5,97,3,7.31,500,2375,54.97
+4900,2025-01-11,5,Custom Mug,239,ded23b23-36b9-4dbf-8983-f8d2d643fa19,55,Other,Returning,Cash on Delivery,True,T-shirts,2,84,10,9.41,688,1361,84.85
+8842,2025-02-09,9,Custom Mug,291,4a8c03e8-b339-4e78-8cf1-0ed3b3da8311,51,Male,New,Credit Card,True,T-shirts,2,114,7,6.73,932,2548,22.1
+1888,2025-04-19,3,Engraved Jewelry,101,bae4e43a-3d66-49e4-8a24-573f5c2f4856,59,Male,New,Credit Card,False,Accessories,3,105,7,0.09,959,2080,81.38
+1349,2025-02-10,5,Engraved Jewelry,312,f0a4e4b7-b039-4e15-a964-e8ca64033d67,57,Other,Returning,UPI,False,Jewelry,3,52,10,0.56,379,2956,58.52
+8879,2025-03-18,10,Personalized T-shirt,492,6c940801-0784-467f-b5b5-387d2fc34a50,21,Female,Returning,Credit Card,False,Mugs,4,91,10,1.8,848,3486,40.6
+5871,2025-03-01,10,Photo Album,150,27dab5b5-1f16-44e8-ac6b-a073b2979eb3,22,Female,VIP,UPI,True,Jewelry,4,115,6,9.18,762,3940,40.83
+8094,2025-03-14,4,Photo Album,266,817d1d5e-ade3-4087-a747-0391cc31d955,36,Male,New,Debit Card,True,Jewelry,1,65,4,1.71,188,3223,23.89
+4871,2025-03-18,10,Photo Album,276,4121ed49-ebd3-4780-91d2-220c3f457f3b,54,Male,Returning,Debit Card,False,Mugs,1,100,10,7.26,959,3862,23.82
+3108,2025-01-31,9,Engraved Jewelry,271,0d66fe3f-5e81-4443-97b7-a4726e764cc3,54,Female,Returning,Credit Card,False,Mugs,2,31,9,6.17,622,3015,90.07
+9929,2025-03-02,1,Custom Phone Case,227,aa85ef9b-dac9-4e6c-8a61-01a8f8b85686,18,Female,Returning,Cash on Delivery,True,Accessories,2,38,7,3.37,416,1362,87.98
+5054,2025-02-10,8,Personalized T-shirt,118,1ce7ccd7-c390-4255-9a64-d5a05bf803ad,28,Other,New,UPI,True,Accessories,5,105,4,1.73,634,1922,89.21
+3346,2025-03-22,9,Engraved Jewelry,371,b3ba80aa-8bdf-41af-8ffb-7e05eff5a3f6,20,Male,New,UPI,True,Accessories,1,139,7,0.69,627,1074,49.39
+5500,2025-01-10,3,Photo Album,372,a010621a-37ab-4b28-86d7-14871b388441,23,Female,VIP,UPI,True,Accessories,1,128,6,2.0,411,611,90.25
+8426,2025-01-19,6,Personalized T-shirt,236,84ccbb4d-e652-4957-a7b1-83eaac8f273e,26,Other,VIP,Cash on Delivery,True,Jewelry,2,90,6,2.57,624,4322,95.41
+1955,2025-01-09,3,Engraved Jewelry,339,81e49ff1-e0d2-4623-8b9a-b3f8373ebeb5,51,Female,VIP,Debit Card,True,Jewelry,4,114,3,6.46,824,4975,49.59
+1092,2025-04-10,8,Personalized T-shirt,174,0c877348-6b44-40d3-bc81-b47310b8e4bf,63,Other,VIP,Credit Card,True,T-shirts,2,52,10,8.82,519,3183,93.74
+5207,2025-01-11,6,Photo Album,476,b5918e56-f353-402a-8f82-acfb27c330c2,39,Female,VIP,Debit Card,True,T-shirts,4,110,9,3.16,632,1800,71.32
+1077,2025-02-06,9,Custom Mug,428,3a1671b3-62e1-49be-b2e8-493eef228351,39,Male,New,Credit Card,False,Mugs,3,81,6,6.65,494,3892,74.13
+1828,2025-02-06,3,Photo Album,389,d1ffc1bf-dc4d-4540-ae31-c64f7216d15c,33,Other,New,Credit Card,True,T-shirts,2,101,6,8.09,163,3840,88.83
+3364,2025-02-23,10,Custom Phone Case,423,8207b3eb-7c8b-45ea-9082-e2e5712ca2dc,52,Other,New,UPI,True,T-shirts,3,33,4,3.24,165,1735,52.05
+1736,2025-03-25,8,Personalized T-shirt,279,06d8fd97-c06d-4c5d-b9c9-2f3b94d20f8a,19,Other,Returning,Cash on Delivery,True,Jewelry,3,107,8,5.08,414,2957,12.04
+3690,2025-01-21,1,Photo Album,221,38f6c5c1-9bf8-4a6e-87b0-35bcf9482472,39,Female,Returning,Debit Card,False,Mugs,5,131,8,3.53,326,2625,25.27
+9308,2025-01-31,6,Personalized T-shirt,365,9b77fbe1-2cf1-4fe8-b698-f6cb0c4cefde,65,Other,Returning,Credit Card,False,Jewelry,5,119,5,9.05,778,3174,71.79
+9048,2025-04-07,6,Custom Mug,307,089f4e02-c9b8-4e6c-ba6d-604fe4f5c0d1,40,Female,New,Credit Card,True,Jewelry,4,75,5,7.78,801,2169,65.95
+9310,2025-01-25,8,Custom Mug,485,7447240c-ffc4-4ad6-9353-fe6494aeaf8f,31,Other,VIP,Credit Card,True,Accessories,2,62,7,2.94,900,3705,7.57
+4084,2025-02-11,1,Custom Mug,324,4cc024ae-5f0c-4ecc-8b7b-29cfb01aed01,41,Male,New,UPI,True,Jewelry,3,111,6,3.46,517,807,32.88
+2877,2025-01-21,5,Personalized T-shirt,149,a96bf4ca-e58f-4c60-b27d-afecf474e0bc,24,Female,New,Cash on Delivery,True,Jewelry,1,42,4,2.67,901,1858,66.94
+7877,2025-01-20,1,Engraved Jewelry,135,7d0d52a2-389c-40b0-ae46-28b3f6752583,53,Female,Returning,Credit Card,False,T-shirts,4,110,6,0.45,581,3995,18.25
+1096,2025-02-01,8,Custom Mug,152,cee10f92-afac-4e47-bddc-7336a6ac1e58,19,Male,VIP,Debit Card,True,Accessories,3,138,5,8.06,833,2365,1.02
+2279,2025-03-20,9,Engraved Jewelry,319,80c140c8-f109-4d60-a182-59f4ffccbfd9,37,Other,VIP,Debit Card,True,Mugs,1,31,9,8.31,506,2447,30.6
+8064,2025-04-22,3,Custom Mug,461,e9c08e08-23b7-4561-a20a-0365c0a2a4b6,44,Female,Returning,UPI,True,Mugs,1,75,4,0.25,546,3427,28.66
+7577,2025-03-05,1,Custom Phone Case,425,7be1f385-1958-4e6e-92cc-35059ac85a22,28,Other,Returning,Credit Card,True,Mugs,3,114,10,9.63,354,2313,71.91
+6473,2025-02-16,8,Custom Phone Case,346,63185657-0704-4950-8a0e-291c1ab7ec57,39,Other,VIP,Cash on Delivery,True,Jewelry,4,76,6,5.68,293,3079,94.54
+5627,2025-02-22,7,Custom Phone Case,348,0215a6b8-322a-4b07-a96a-eba92ae020a6,61,Other,New,Debit Card,True,Accessories,1,36,6,7.84,767,2371,42.72
+5279,2025-03-30,5,Engraved Jewelry,141,2fc840fe-6365-474a-8bec-43cb31156990,44,Male,Returning,Debit Card,False,Jewelry,2,43,5,9.86,626,801,2.68
+6775,2025-02-26,9,Custom Mug,136,2db7221e-f55f-48f5-8b21-9d0bc95c8795,61,Male,Returning,Credit Card,True,Accessories,5,63,7,3.12,634,2528,6.34
+4043,2025-03-14,5,Photo Album,215,89e339cd-c5f9-4741-9848-ead8d1780123,29,Male,New,Debit Card,False,Jewelry,1,149,3,7.36,930,3640,8.38
+4092,2025-02-20,9,Personalized T-shirt,389,0a83f667-7983-4b24-a021-6f515400ae20,52,Other,New,Cash on Delivery,True,T-shirts,3,141,2,4.92,391,2567,90.8
+7518,2025-04-14,8,Photo Album,253,4e5e7ee8-bebf-497b-81b7-3384f43e813a,49,Male,New,Cash on Delivery,False,T-shirts,3,133,3,0.65,665,4026,15.74
+3122,2025-02-20,4,Engraved Jewelry,185,26575fb8-c3a1-478d-b85e-88ccc8bb184e,57,Male,VIP,Credit Card,True,T-shirts,5,110,10,2.65,920,3527,51.79
+9709,2025-04-16,6,Engraved Jewelry,209,3aad7b98-450a-4c31-943d-fc50374f53f8,50,Other,VIP,Credit Card,True,Jewelry,5,113,9,7.38,580,3979,68.26
+6096,2025-01-15,4,Personalized T-shirt,496,fa6a1d0d-8648-4575-9cdb-28f086bc7687,41,Male,Returning,Debit Card,True,Mugs,5,55,2,8.93,716,4452,36.66
+4866,2025-02-10,5,Engraved Jewelry,488,4177b9d4-6c1a-41df-baaa-e44e202d18ab,43,Other,New,Cash on Delivery,True,T-shirts,1,33,5,1.87,545,2792,19.61
+9838,2025-01-04,1,Custom Mug,248,f85ec2cb-c3ba-4d8d-996f-effa02662de2,46,Other,Returning,UPI,False,Jewelry,1,89,9,1.99,958,4696,88.04
+6844,2025-01-12,5,Custom Phone Case,395,a9d58fe9-01de-4e5e-8de1-dd1424cd1c08,62,Female,Returning,Cash on Delivery,False,Jewelry,2,140,7,3.49,116,916,77.8
+8962,2025-01-29,1,Personalized T-shirt,488,bd44f9b0-6625-44a2-8a40-2229ccc87260,43,Female,Returning,Credit Card,True,Jewelry,4,32,8,6.73,511,2703,7.61
+6244,2025-04-04,6,Custom Mug,195,3ca15f7b-98c8-44d0-bdf8-897ceabe6cff,33,Other,New,Cash on Delivery,True,T-shirts,2,119,9,6.17,324,4349,22.32
+2284,2025-03-29,10,Personalized T-shirt,396,f80790d5-40ac-4815-b3f8-9cff226bafd4,61,Other,VIP,Credit Card,False,T-shirts,2,34,2,7.43,725,1867,88.84
+5913,2025-01-26,1,Custom Phone Case,478,abc9cd2e-97da-407a-883e-926b723c800c,39,Female,Returning,Credit Card,False,Accessories,2,102,10,9.02,559,514,85.26
+1259,2025-01-03,2,Personalized T-shirt,123,7052ea89-d82d-4480-b241-c2ad59084ecc,32,Female,New,Credit Card,False,T-shirts,3,115,8,7.66,995,2532,71.25
+2665,2025-04-04,9,Engraved Jewelry,160,f6549d0d-1e4f-4912-a554-af8577be880b,45,Male,New,Debit Card,True,Mugs,5,150,2,8.02,569,4519,58.66
+2940,2025-02-10,6,Personalized T-shirt,454,090963e5-9551-4cff-9712-c7a5c47eb319,33,Other,Returning,Cash on Delivery,True,Jewelry,1,98,7,4.01,251,2106,84.92
+4022,2025-02-26,3,Custom Mug,326,fa628c21-a96f-447e-bf6a-563ea88beb5f,59,Other,Returning,Credit Card,True,Accessories,5,78,3,0.61,564,4805,8.58
+7870,2025-03-31,7,Custom Mug,278,5b2271e2-6f21-4036-b691-1f7c4f8a39d6,47,Male,VIP,Credit Card,True,Accessories,1,120,9,0.54,859,704,11.36
+8410,2025-03-11,3,Custom Mug,404,b682d93f-741e-4bd6-9704-94b72a871150,20,Male,New,Cash on Delivery,False,T-shirts,2,90,4,4.33,817,1542,96.09
+8656,2025-04-03,2,Photo Album,442,a7a42585-ebda-493f-9bb5-f46c6727bcd5,50,Other,New,Cash on Delivery,False,Jewelry,4,71,9,4.07,290,4397,69.09
+4554,2025-04-06,8,Engraved Jewelry,173,9918f805-21db-4ff7-93a1-256536dbf9ee,56,Other,New,UPI,False,Accessories,2,144,9,4.25,788,1988,92.5
+5085,2025-03-21,7,Custom Phone Case,259,88756e8d-98ed-4a1b-b315-7fc9ed4c04d3,42,Male,New,Credit Card,False,Jewelry,3,82,6,3.21,283,4451,76.88
+9223,2025-03-12,6,Custom Mug,442,ca866790-cc5f-400e-8255-5bcdb1a09094,57,Other,New,Credit Card,False,Mugs,3,123,10,3.86,101,2011,99.95
+3223,2025-03-05,1,Custom Mug,103,0ab1372c-ed15-43c1-8747-8cebbbd557cc,63,Other,Returning,Credit Card,False,Jewelry,3,107,2,9.39,171,1068,92.17
+7513,2025-04-05,4,Custom Mug,140,a64f4a95-f50f-418c-8f1d-f5345d5c139d,23,Male,VIP,Debit Card,True,T-shirts,2,148,4,8.02,572,4197,21.51
+9691,2025-01-16,8,Custom Phone Case,403,472444f5-71c7-40da-8314-6477ecb7a39c,53,Male,New,Debit Card,True,T-shirts,1,129,3,9.65,565,4174,67.03
+9740,2025-01-05,5,Engraved Jewelry,165,37ca0ec8-e867-4997-ad95-bbc42baa2913,18,Other,New,Debit Card,False,T-shirts,4,131,10,2.25,528,1050,11.27
+7350,2025-03-18,2,Custom Mug,418,3521ff05-ccc5-4e33-b668-b81cda670f49,43,Male,Returning,Credit Card,True,T-shirts,1,143,3,2.53,337,1652,4.16
+9506,2025-03-20,9,Custom Mug,118,94be57e6-c0c8-4944-8f59-f1477cb90f32,58,Male,New,Credit Card,False,Accessories,4,30,8,3.43,458,2703,99.75
+2313,2025-04-19,6,Custom Phone Case,362,da8b484f-b710-45bd-99f7-195bbabc738e,36,Male,New,Credit Card,True,T-shirts,4,71,3,7.5,397,1871,86.54
+7252,2025-02-22,7,Custom Phone Case,103,def17ffa-eb3e-4e3d-8a2f-32242630aec3,39,Other,VIP,Credit Card,False,Jewelry,3,78,10,3.79,129,3797,59.69
+4745,2025-03-13,3,Custom Phone Case,482,0c92b0a9-0916-4799-803d-1668296fd625,50,Female,New,Debit Card,False,Jewelry,2,92,4,0.68,474,1064,34.21
+1513,2025-02-08,1,Photo Album,107,452a48f9-a009-4ae4-ac50-9a1289733326,51,Other,New,UPI,True,Mugs,5,72,3,8.17,683,1762,70.41
+8403,2025-03-28,4,Engraved Jewelry,399,90fb3641-dc91-4a7f-8f4b-fcfe8f30098a,25,Female,VIP,Debit Card,True,Mugs,1,44,3,7.7,620,2137,94.16
+1287,2025-04-17,3,Personalized T-shirt,218,b2f74ba7-a280-476c-8139-777af537a4df,38,Female,New,Cash on Delivery,False,Jewelry,5,78,4,6.21,503,3000,91.86
+1242,2025-01-28,6,Custom Mug,370,766ce557-64a6-42e8-8a21-cf9e50371ec1,26,Female,Returning,Credit Card,True,Accessories,2,50,9,9.21,982,1854,90.51
+9688,2025-02-14,3,Custom Phone Case,269,b6e1ba22-6dd7-49ca-ba07-2b44ec8ada28,49,Female,Returning,Credit Card,False,Mugs,1,81,10,1.37,361,589,19.63
+4569,2025-02-18,1,Custom Mug,323,572b4d6d-ad03-4bd5-acc5-98b3200dec0f,48,Other,Returning,Credit Card,False,Jewelry,1,94,4,0.94,363,1966,63.6
+2749,2025-04-08,10,Photo Album,135,b1ef3ce2-61e3-4e88-82e7-9e3c1a1ff436,39,Other,Returning,Cash on Delivery,True,Jewelry,2,63,7,9.75,389,592,10.66
+6858,2025-03-17,10,Photo Album,403,f31b9083-7b7f-46f6-8009-8c277a5b3577,28,Male,New,Debit Card,True,Mugs,5,109,4,4.05,422,1545,17.13
+3888,2025-02-20,9,Custom Phone Case,450,550283cb-8f57-4c7d-8aaa-4eafa79cfc1d,25,Male,VIP,Credit Card,False,Mugs,5,64,4,4.45,632,537,32.69
+9734,2025-04-19,3,Custom Phone Case,407,1aca999e-30b5-4aa5-8727-bb63bb4f9273,45,Other,New,Credit Card,False,Mugs,3,116,2,2.7,943,887,62.96
+5600,2025-03-31,1,Personalized T-shirt,109,7b40501d-ef86-4055-8c50-0577e516d27c,44,Other,New,Cash on Delivery,True,Jewelry,4,46,8,7.24,902,3251,57.43
+6224,2025-04-01,3,Custom Mug,205,1276ac9b-a687-4434-bd38-1797d0432245,46,Female,Returning,UPI,True,Accessories,5,125,7,7.45,459,3317,0.11
+4600,2025-04-03,8,Personalized T-shirt,465,22dd014d-0fd7-416b-bf63-6da16bd607f4,65,Other,New,Cash on Delivery,True,T-shirts,2,41,9,8.58,369,4095,8.98
+1617,2025-03-25,6,Photo Album,266,41f52e99-c3af-4bd5-9c24-d14ef11a0d3c,32,Female,New,Cash on Delivery,False,Mugs,4,35,6,6.34,446,2137,81.58
+5107,2025-02-14,4,Custom Phone Case,485,eb46a172-6f1e-403d-babb-23f93096b93f,25,Female,Returning,Credit Card,False,Jewelry,1,130,7,3.19,409,4229,94.97
+9802,2025-04-07,10,Custom Mug,475,3fad0953-c122-49ba-a391-a25becf66ea2,29,Female,New,Debit Card,False,T-shirts,2,89,4,0.09,710,1896,38.65
+1070,2025-04-08,3,Personalized T-shirt,234,a9c78781-c41a-43fd-ad94-20bfb44581e4,50,Female,Returning,Credit Card,False,T-shirts,2,86,10,4.58,346,4017,95.67
+8274,2025-04-02,1,Photo Album,142,23e84840-fb36-4918-a909-94dbec58e7fc,53,Male,Returning,Cash on Delivery,True,Jewelry,4,131,9,9.51,148,1149,73.87
+5402,2025-04-01,5,Custom Phone Case,278,9cf465b2-b3ab-430f-9f0c-4c23c5038bc8,57,Male,New,Debit Card,False,Jewelry,3,113,7,8.47,987,3450,50.77
+9895,2025-01-09,2,Custom Mug,174,45b4fd9e-dbd4-4280-8517-07042323ac55,50,Female,Returning,Cash on Delivery,False,Accessories,3,145,5,3.09,432,4295,99.89
+5851,2025-03-19,8,Engraved Jewelry,396,353a3d1a-e3d2-402d-a499-e7e02232560b,31,Other,VIP,Credit Card,True,Mugs,2,134,10,8.57,905,965,97.15
+2227,2025-04-02,2,Custom Mug,204,e21ff54a-3f5a-4e60-82de-d448686b1f4b,38,Male,Returning,Debit Card,False,T-shirts,1,102,4,8.1,834,4194,5.06
+5797,2025-04-09,7,Engraved Jewelry,402,fbe21882-680b-4068-ad16-06132224dca0,37,Male,VIP,Credit Card,False,Accessories,3,83,4,7.98,825,2943,34.99
+2383,2025-01-19,8,Photo Album,281,b59b51c2-24d0-4f20-a858-d2cdd53c520b,55,Male,Returning,Debit Card,False,T-shirts,2,95,7,0.3,463,3083,52.04
+2386,2025-03-14,5,Photo Album,159,028a7cbc-3099-473c-b780-e25e99152b74,61,Male,New,Credit Card,False,Jewelry,1,95,7,4.3,276,4286,79.42
+8647,2025-02-17,6,Custom Phone Case,313,bb197732-7d02-4dc9-8659-ed5bcf0d987a,53,Female,VIP,Debit Card,True,Accessories,1,55,5,3.0,487,4566,10.76
+1096,2025-01-23,8,Personalized T-shirt,284,8e6831bf-76e7-4f44-aebf-36411c5a3e5f,19,Male,VIP,Cash on Delivery,False,Accessories,3,106,8,3.13,196,3643,12.56
+5823,2025-03-16,1,Custom Mug,487,7e06efcb-c6e7-4b80-b4cf-61b66be48bfa,63,Female,VIP,UPI,True,Jewelry,5,62,3,5.64,964,4603,70.17
+6095,2025-02-01,6,Custom Mug,368,71ae8240-bbd1-4762-9bd5-31eeecb5e34f,47,Female,Returning,UPI,False,Jewelry,5,121,4,9.85,944,1865,95.15
+5684,2025-04-13,4,Personalized T-shirt,309,fb04c489-da5e-4b71-80a1-395239a78785,22,Female,New,Credit Card,False,Accessories,4,68,2,1.45,423,4472,95.18
+6276,2025-02-28,5,Custom Phone Case,224,49c7acf6-8e92-464c-9faf-d597161dede7,44,Male,New,Credit Card,False,Mugs,3,64,5,4.61,232,4482,66.92
+2446,2025-04-24,7,Engraved Jewelry,482,48b2fd95-9715-457c-9872-5451de317a6c,50,Female,VIP,Credit Card,False,Accessories,5,119,9,4.46,417,4100,56.71
+6297,2025-02-28,9,Photo Album,401,abdc14e5-bca4-4e16-9f6e-2f628507d80e,47,Other,New,Debit Card,True,Accessories,1,40,6,3.75,478,3909,68.07
+2443,2025-02-05,8,Photo Album,304,375c1bd9-507e-4284-b923-76b985da0888,33,Female,Returning,Debit Card,True,T-shirts,4,55,4,2.03,101,3546,97.91
+8461,2025-02-11,8,Engraved Jewelry,401,89ea8a9a-87c8-404c-8c0b-f7e205ccb519,40,Female,VIP,Debit Card,True,Jewelry,2,101,4,4.78,755,4736,93.91
+2271,2025-01-06,10,Photo Album,332,fc1ced65-9277-44d9-bd53-7dc3108b32f2,25,Male,Returning,Cash on Delivery,True,Jewelry,4,86,7,1.35,580,4304,62.53
+1103,2025-04-24,4,Engraved Jewelry,474,7dded361-b27f-4752-84e9-8cc9af20c2be,24,Other,New,Credit Card,False,Jewelry,1,58,6,5.79,330,1714,2.12
+1548,2025-01-28,8,Personalized T-shirt,344,4a7feaeb-3b1b-4067-b040-505e602ed15b,33,Male,VIP,Cash on Delivery,False,Accessories,4,57,8,8.7,336,2095,59.39
+5378,2025-02-16,7,Custom Phone Case,204,693340b6-c80a-4e30-90b0-9d9dd6b81eba,48,Male,New,Credit Card,False,Jewelry,4,52,2,9.66,913,2118,67.05
+1166,2025-03-17,9,Personalized T-shirt,254,bf793502-6de6-40c9-bb6e-0304d43a62e2,42,Male,VIP,Debit Card,True,Accessories,5,118,8,5.72,125,3075,85.5
+6747,2025-04-14,9,Photo Album,457,3eb23a65-65b4-4ee5-a988-e6a8f6e78405,30,Female,VIP,Debit Card,True,Jewelry,3,144,6,9.47,247,2144,12.37
+2625,2025-03-07,6,Personalized T-shirt,138,0be43eb7-0aec-41df-ad3b-a510b439a0a5,60,Female,Returning,UPI,True,T-shirts,5,68,9,4.33,209,2016,5.79
+5521,2025-02-23,4,Personalized T-shirt,445,961b2320-b4da-4125-9dc9-85f2752ebdae,43,Other,New,Credit Card,True,T-shirts,3,45,6,7.87,763,2365,52.32
+9144,2025-03-16,10,Custom Mug,234,e0365400-c899-4441-b175-2772e53f68b8,61,Male,Returning,Credit Card,True,Jewelry,5,93,5,2.04,286,655,76.5
+4846,2025-01-22,10,Custom Phone Case,475,883f5ebb-17af-4241-baeb-f97b77f92674,36,Female,VIP,UPI,True,T-shirts,5,78,10,9.89,108,2333,23.43
+1975,2025-01-28,1,Custom Mug,400,a6433d60-d625-47d1-b4c3-51bfa9a2869c,44,Male,New,Cash on Delivery,False,Jewelry,5,141,9,9.69,756,3143,0.19
+4369,2025-04-12,7,Personalized T-shirt,187,6b25e97b-9e2d-483e-b49b-3796adbc62b6,63,Female,VIP,Cash on Delivery,True,Accessories,4,110,7,1.59,912,3363,19.89
+6891,2025-03-18,10,Photo Album,203,60c8fcb0-ba23-43cf-a571-07319a24661e,59,Male,New,UPI,False,Jewelry,3,108,4,3.81,134,4810,10.51
+1294,2025-03-08,4,Engraved Jewelry,173,aa4d3243-0380-4beb-9214-e199426005ab,21,Female,New,Cash on Delivery,True,Mugs,2,132,8,9.6,502,3192,83.46
+2727,2025-01-04,8,Personalized T-shirt,174,66bf5807-897f-4ae6-a1d9-e80bb3142dd6,21,Other,New,Credit Card,True,Mugs,4,46,10,1.49,390,4549,13.37
+9952,2025-03-18,3,Engraved Jewelry,101,1c7ef058-73aa-4f9d-98f6-fb213f4358a6,31,Female,New,Debit Card,True,Mugs,2,130,9,0.39,772,4740,3.43
+1778,2025-04-02,1,Custom Phone Case,212,f0e98278-6da9-40b3-a047-aeaecd1a7468,57,Other,New,UPI,False,Mugs,2,122,8,9.67,176,2723,66.04
+9649,2025-03-08,1,Engraved Jewelry,464,fe48aa64-d9ea-40c0-beef-f2f735842b7b,57,Other,VIP,Credit Card,False,Jewelry,5,132,10,6.3,446,3605,51.55
+1434,2025-04-17,1,Personalized T-shirt,269,bc7d1f3b-e6e6-4853-b6ac-301326c4c8cc,36,Female,VIP,Debit Card,True,Jewelry,4,90,9,2.32,364,1207,58.85
+5455,2025-04-10,1,Custom Phone Case,201,13cab359-b4b8-4a3e-bb60-e9caad4973e0,39,Other,Returning,Credit Card,True,Accessories,1,138,9,8.02,330,4684,88.4
+5893,2025-02-24,6,Custom Phone Case,202,91129436-0a03-430f-97e9-874b43d1c44f,53,Other,Returning,UPI,False,Jewelry,2,120,9,8.11,170,921,1.53
+1526,2025-04-01,3,Custom Mug,351,edf5bb46-2a2d-4b1d-8dd6-db3312f0b7b8,52,Female,Returning,Credit Card,False,Mugs,5,50,4,1.46,156,3675,59.3
+5537,2025-02-20,3,Personalized T-shirt,126,07eea7cb-9ed7-46f1-bdb1-5c1886c319d9,25,Female,VIP,Credit Card,False,Jewelry,4,89,3,4.43,318,1531,59.62
+8863,2025-02-25,3,Engraved Jewelry,164,88f45764-5b3e-4505-a3af-4758e3f6eacd,43,Female,New,Credit Card,True,T-shirts,3,121,6,8.82,897,4686,83.14
+8037,2025-04-21,2,Engraved Jewelry,180,26057307-36db-4f29-be4b-3dec5f508c08,48,Male,New,Credit Card,False,Mugs,2,47,2,1.04,101,1796,71.18
+7595,2025-01-28,10,Custom Phone Case,315,540addb3-06c9-4b4f-bc88-1e1bc5a6282e,65,Male,New,Credit Card,False,Jewelry,3,130,2,1.94,658,1310,27.73
+8478,2025-03-22,7,Custom Phone Case,318,5c6a3c56-ba86-4c4a-a605-82d2c0e4d463,30,Other,VIP,Credit Card,True,Jewelry,1,122,4,4.94,983,3063,3.06
+8031,2025-03-11,1,Engraved Jewelry,147,8c72d28e-bf26-4dd6-9b31-aade91ca76b5,45,Male,New,Credit Card,True,Mugs,2,118,2,6.63,462,2801,57.42
+8472,2025-02-26,10,Engraved Jewelry,260,a0db9d5e-973a-47c3-9b84-b3aaba2d561e,30,Female,Returning,Credit Card,True,Mugs,1,106,8,7.87,774,2423,63.07
+6607,2025-03-29,1,Personalized T-shirt,399,65a3d351-b15a-48e6-b5a7-b90b06c4e776,58,Other,Returning,UPI,True,Jewelry,5,34,9,0.87,322,3721,1.91
+8562,2025-03-12,7,Engraved Jewelry,366,ff06d936-6f42-47e6-8613-53ac1034d80b,33,Other,New,Debit Card,True,Mugs,1,143,7,3.78,821,1548,39.42
+3805,2025-04-22,5,Personalized T-shirt,123,617bdf36-2cf5-4663-8d81-e530c9a4bc08,63,Male,New,Credit Card,True,Jewelry,2,145,7,9.4,443,1830,44.77
+8890,2025-01-07,3,Personalized T-shirt,428,02badf01-9c4c-43ec-86fc-0c4568ba460f,47,Other,New,Debit Card,True,T-shirts,3,65,6,9.45,919,3232,38.03
+1961,2025-01-29,6,Custom Phone Case,294,2e7bed4b-c3e2-483e-b799-c54f33d043ce,23,Male,New,UPI,False,T-shirts,4,106,5,3.39,254,1704,50.87
+9937,2025-04-17,6,Custom Mug,292,d324ddb4-3b12-4a6a-a999-8859c48cba1e,46,Female,VIP,Debit Card,True,Jewelry,3,119,4,6.56,208,2318,6.69
+9124,2025-02-05,10,Custom Phone Case,140,5d686226-de2b-4d1e-bf40-dde6431b91ae,63,Female,New,Cash on Delivery,True,T-shirts,2,75,8,8.52,499,4167,42.33
+4797,2025-03-27,1,Photo Album,464,16447bfb-c151-4e23-9939-b2849f6e1d42,53,Other,VIP,UPI,True,T-shirts,3,128,6,1.92,485,725,41.19
+3180,2025-03-15,10,Engraved Jewelry,285,e079c610-aeb4-43d7-b469-aa7b4afa6df2,46,Other,VIP,UPI,False,Jewelry,5,104,5,2.02,156,928,32.96
+8226,2025-01-30,3,Custom Mug,463,9d5e3bf2-bf8c-4622-8417-bae306d07986,63,Male,New,Credit Card,True,Accessories,1,56,6,7.36,274,4802,32.98
+5758,2025-02-24,10,Photo Album,104,1db1ccf4-c7a1-43c8-8802-32ee1a9272e3,50,Female,New,Debit Card,False,Jewelry,1,149,6,1.83,587,1083,50.13
+3036,2025-03-16,5,Custom Phone Case,257,1b02b448-59dd-4c55-9a5d-078d163cfb25,29,Female,New,UPI,False,Jewelry,1,148,5,8.71,936,4134,39.34
+2911,2025-02-12,4,Custom Mug,246,59eb37e8-f3b6-4507-8171-261765c139ae,18,Other,New,Cash on Delivery,True,Jewelry,3,87,3,1.93,237,1500,14.76
+1097,2025-04-22,2,Custom Mug,197,ac3db764-d436-4e93-8e04-fecb286f34ee,54,Male,VIP,Credit Card,False,Jewelry,2,79,8,3.39,186,2089,73.77
+4956,2025-03-17,8,Personalized T-shirt,340,05666dd8-f38b-4daf-adb0-98811f568f6d,54,Female,VIP,Debit Card,False,T-shirts,1,109,5,0.45,317,4554,59.27
+4896,2025-01-08,2,Custom Phone Case,301,ae6de879-1ad3-44dd-96f3-28a9dd16358b,28,Male,New,Debit Card,False,Mugs,5,108,6,7.36,438,1492,20.87
+3970,2025-04-09,2,Engraved Jewelry,156,c13d5a9b-ace4-4a51-9b18-10c813027076,38,Female,VIP,UPI,True,T-shirts,1,104,10,6.28,415,2038,27.88
+8291,2025-01-04,6,Custom Mug,487,3145f7d5-dd13-4d30-94f1-4d0ecfe6f183,31,Male,VIP,Credit Card,False,Jewelry,4,143,2,1.69,864,622,27.76
+7274,2025-04-22,3,Custom Phone Case,429,fda70e91-34b4-4839-8383-7ebba2e871b3,37,Female,Returning,UPI,False,Accessories,3,148,5,8.19,591,2148,86.8
+6717,2025-04-08,9,Engraved Jewelry,283,4350c450-08df-44ad-979b-9b6879071a8e,61,Other,VIP,Debit Card,True,Mugs,2,145,6,1.53,140,3387,62.1
+4604,2025-02-08,6,Photo Album,375,1c434fc5-8bc4-47ad-b451-d9671d2564cb,56,Other,Returning,Credit Card,False,Mugs,5,58,4,4.79,397,1215,43.53
+1052,2025-04-14,9,Custom Mug,215,ca11d943-7feb-403f-9c6d-dbd982e911c0,65,Other,Returning,Credit Card,True,Jewelry,4,47,10,0.32,963,3069,41.21
+3920,2025-03-15,1,Photo Album,475,1eb598fd-5b7b-4a42-862d-4d8029aaa01e,34,Other,New,UPI,False,Mugs,4,69,9,9.37,703,4863,77.35
+7022,2025-03-07,2,Photo Album,422,abc74cc0-ce42-4b2b-a5b5-1dc18e6f5fdf,45,Male,Returning,Debit Card,True,Jewelry,2,97,5,6.12,771,4589,63.31
+6515,2025-01-27,2,Custom Mug,332,47943a98-d45c-4205-9b01-b6ac027f6d38,52,Female,New,Credit Card,True,Mugs,3,141,6,6.06,551,3838,83.06
+9599,2025-04-24,10,Personalized T-shirt,391,3dd8aed0-66a8-4cfd-a66e-da3d1cacc9b1,45,Male,VIP,Debit Card,True,Jewelry,2,90,2,9.51,938,3818,99.6
+9336,2025-01-21,5,Engraved Jewelry,142,7f2e4b1d-e8dc-404e-ae79-5a0cf000ec77,49,Female,New,Credit Card,False,Accessories,2,108,10,7.52,155,2869,64.75
+7526,2025-02-07,9,Custom Mug,101,d600289c-da33-4cd7-9204-51869666f921,64,Female,New,Debit Card,True,T-shirts,4,138,10,8.7,685,2248,35.16
+1418,2025-01-20,2,Custom Phone Case,177,0b443eeb-822c-48c1-bc4a-6ecbad9125f0,46,Other,Returning,Debit Card,True,Accessories,3,60,8,4.1,720,587,75.64
+2387,2025-03-24,8,Personalized T-shirt,182,274f49d0-b999-4915-8a6f-5d04527276ab,45,Other,Returning,Cash on Delivery,True,Mugs,3,33,3,8.01,886,4665,11.44
+4394,2025-04-12,1,Custom Mug,315,24ff98eb-81a5-43c3-a4ae-6d7161e20992,45,Female,New,UPI,True,Accessories,1,61,6,8.89,535,4120,78.41
+6306,2025-02-12,9,Custom Phone Case,421,6de3ccac-8211-493d-b84e-da15e5f4e814,18,Male,New,Cash on Delivery,True,Jewelry,3,104,8,6.42,635,3508,56.73
+3371,2025-03-15,1,Custom Phone Case,148,b771b2a8-ce9d-43b4-9add-ff93ed7db355,29,Female,New,Debit Card,True,Accessories,2,130,6,4.03,725,2998,45.67
+7931,2025-04-19,7,Personalized T-shirt,121,5c7df693-f78a-40fa-99ea-aa70ee3ada60,26,Other,New,UPI,False,Jewelry,3,40,8,9.93,460,3687,91.71
+6695,2025-02-24,5,Photo Album,477,22aaa496-c6bc-414a-9c2b-a5b0d142cd79,50,Other,Returning,UPI,False,T-shirts,4,90,8,8.59,811,1797,50.88
+9233,2025-04-19,7,Engraved Jewelry,438,b4195003-6b44-4cb2-be96-b34fbb6896ca,53,Female,New,UPI,True,Jewelry,2,47,10,8.37,158,1205,48.15
+3985,2025-03-17,3,Personalized T-shirt,362,cdb2946c-029d-4811-b43d-462bfc1e8b54,52,Other,VIP,Cash on Delivery,False,Jewelry,5,125,6,3.12,632,4179,82.09
+1517,2025-03-14,2,Custom Phone Case,120,87dc12d9-31ba-4a79-8284-02d04dbc4837,48,Other,Returning,Debit Card,False,Jewelry,3,78,4,6.95,107,4984,12.6
+8096,2025-01-12,2,Engraved Jewelry,190,2bbcef5f-4388-4f78-b596-2265c8511fe1,48,Male,Returning,Credit Card,True,Mugs,3,126,3,9.18,612,3144,82.41
+4248,2025-02-24,10,Engraved Jewelry,441,2a69f6bc-82c6-4ec0-bffb-e16f11c319e2,35,Female,Returning,Debit Card,False,T-shirts,3,107,3,8.3,235,562,47.61
+8404,2025-04-19,8,Custom Mug,436,fa82b024-188f-441b-9e17-6761df573dcf,29,Other,New,Cash on Delivery,False,Jewelry,4,74,6,7.91,607,4703,21.73
+7711,2025-02-07,5,Photo Album,336,9201286b-531a-4f96-9652-4b0689eaa116,55,Male,VIP,Debit Card,True,Accessories,5,120,5,4.0,599,4970,45.17
+5631,2025-02-18,1,Photo Album,495,0a2862c1-6743-4d41-a691-3784a9182c75,22,Other,VIP,Cash on Delivery,True,Jewelry,4,103,7,3.35,126,3407,25.93
+1657,2025-03-06,5,Photo Album,213,db4eedfa-0386-41b3-8174-5c1a8f69efa7,40,Male,New,UPI,False,Jewelry,2,70,3,9.56,846,2008,37.22
+6884,2025-03-10,1,Custom Phone Case,289,ef10af41-674c-43e2-82a2-23eaf5e204ec,39,Other,Returning,Cash on Delivery,False,Jewelry,1,130,7,1.47,693,3019,65.23
+3595,2025-03-20,3,Custom Mug,374,d8755ba2-40bd-4e9f-9945-2d2c2c0b0689,42,Female,New,Cash on Delivery,False,T-shirts,2,137,10,8.92,813,2439,54.33
+5857,2025-01-27,6,Engraved Jewelry,292,4ed65f65-c4bd-4664-84e9-de38dd917607,19,Male,VIP,Credit Card,False,Mugs,5,143,8,0.39,723,1576,6.08
+9459,2025-01-04,6,Custom Mug,256,c4c6abca-a768-421d-b12e-6c976b28467e,26,Other,VIP,Debit Card,False,Mugs,1,86,7,2.44,625,3873,44.97
+9116,2025-04-22,10,Personalized T-shirt,337,c025e20f-64f0-4921-853f-69f27cd43099,65,Female,New,Debit Card,True,Accessories,3,139,5,4.75,568,3810,43.31
+2304,2025-04-20,9,Photo Album,147,d4141792-24cc-4d2d-bf30-33e30414e5ca,22,Male,Returning,Debit Card,False,T-shirts,5,89,8,7.4,171,2536,35.55
+9910,2025-04-20,5,Photo Album,286,0503caf3-bc78-48aa-aafa-438e1d013afa,49,Female,Returning,UPI,True,Mugs,4,36,8,8.31,428,704,82.72
+1980,2025-01-29,7,Photo Album,445,df07e362-3ded-4693-8545-940cb4291d25,64,Male,Returning,Credit Card,True,Accessories,1,87,10,8.84,906,1722,59.46
+4101,2025-01-11,1,Custom Mug,312,8a245a3e-45e9-40cf-b695-1827598d10f2,27,Female,Returning,UPI,True,Accessories,4,116,4,0.49,107,3312,76.43
+8878,2025-01-18,10,Custom Phone Case,333,45aaad4e-343b-4dd7-ae74-f4a2751f9ff8,58,Female,VIP,Debit Card,True,Mugs,3,147,4,3.31,695,1340,3.4
+2784,2025-01-31,6,Photo Album,297,63def9de-9454-4ad0-b0a5-843c499aef03,60,Male,New,UPI,True,Accessories,5,86,7,4.64,244,2102,39.52
+3437,2025-04-11,2,Personalized T-shirt,405,f09dc42f-c630-401d-986c-84160de96e9e,19,Female,VIP,Debit Card,True,T-shirts,3,94,5,3.34,464,2706,93.57
+2117,2025-04-12,6,Photo Album,122,da44ee3a-3745-4398-974d-357a003f0739,64,Other,Returning,UPI,True,T-shirts,2,77,10,7.44,509,2844,82.45
+9695,2025-01-13,9,Engraved Jewelry,338,14490742-85c0-4929-90f1-9c0ca38e8828,63,Female,Returning,Cash on Delivery,True,T-shirts,2,41,8,2.73,463,2585,3.0
+3800,2025-01-26,4,Photo Album,231,075f1a77-78d7-432e-8b3d-446871fdbdfc,65,Other,VIP,Cash on Delivery,True,T-shirts,3,81,8,0.88,175,4765,39.01
+5204,2025-02-16,4,Personalized T-shirt,198,8ae20974-d202-40b7-9d24-3ff607e18313,60,Female,VIP,Credit Card,True,T-shirts,5,92,2,5.65,665,4018,14.33
+1123,2025-04-06,6,Photo Album,286,fb848d5d-46a5-43d3-ae14-3f359b2a9c22,21,Female,New,Credit Card,True,Accessories,4,64,3,0.4,819,644,70.83
+2488,2025-04-21,4,Personalized T-shirt,395,557b4f5b-4bc4-462f-a322-ad28469887fc,57,Female,New,Credit Card,False,Mugs,1,32,6,8.94,495,4000,24.38
+6628,2025-02-22,1,Personalized T-shirt,154,fea28a54-5536-44c4-9804-01ef7fd221fa,51,Other,Returning,Credit Card,False,Accessories,5,128,3,1.58,573,1814,0.81
+4989,2025-03-05,5,Custom Phone Case,336,b9060455-ecb6-4dd9-806a-460e2814a10e,46,Male,VIP,Cash on Delivery,True,T-shirts,2,132,7,7.54,548,917,49.16
+4838,2025-01-08,1,Custom Mug,398,3eb40ac6-9a23-4c98-b271-82a159f67db0,56,Other,New,Cash on Delivery,True,T-shirts,2,45,4,0.56,439,4903,7.96
+1080,2025-03-19,6,Personalized T-shirt,280,1b0190b0-e2a3-444e-bb12-fd9b833382ed,37,Male,New,UPI,True,T-shirts,2,105,9,4.95,804,4966,73.11
+8189,2025-03-31,6,Custom Phone Case,401,23af1ac1-1e69-4bf2-957d-ac627eee8115,43,Male,VIP,UPI,True,T-shirts,1,44,9,3.58,665,4989,37.01
+1137,2025-02-11,5,Engraved Jewelry,378,33904b5f-0ebc-4b09-a1db-f31064b3d9b1,46,Male,VIP,Cash on Delivery,True,Jewelry,1,69,4,7.1,300,4539,22.62
+7788,2025-02-13,6,Custom Mug,367,14c115c7-1fd2-41f5-91bd-03c7bb109dd3,46,Other,VIP,Credit Card,True,Jewelry,1,134,8,2.1,856,4932,96.54
+1604,2025-04-17,6,Engraved Jewelry,355,931f29d7-7dcc-40ca-b752-3657e4cfe841,43,Other,New,Credit Card,False,Accessories,4,78,6,2.5,410,4416,97.67
+3988,2025-01-28,1,Custom Phone Case,347,0ad51b48-5d51-46a3-9ceb-e894c9bf2f75,56,Female,New,Debit Card,True,Accessories,4,130,3,2.0,973,4059,17.71
+4274,2025-02-16,5,Custom Mug,379,19a1b420-ee25-44d0-ac0c-da07165aa1fa,53,Other,New,UPI,False,Jewelry,2,105,2,0.26,687,580,15.71
+4750,2025-03-09,1,Personalized T-shirt,229,c220c9ea-2902-4df5-903c-e4fc3a3aac28,42,Female,VIP,Credit Card,False,Mugs,5,64,4,7.32,842,3379,75.78
+5655,2025-01-14,7,Personalized T-shirt,322,80a9d3e9-c569-4391-a118-ece15f26ce52,25,Other,New,Cash on Delivery,True,Mugs,5,38,5,8.1,315,3710,46.28
+4447,2025-02-19,7,Personalized T-shirt,186,f2362544-f24a-42ab-a80c-a7eaac2f6f16,23,Female,Returning,Debit Card,False,T-shirts,5,143,3,9.79,406,1461,18.41
+6868,2025-01-15,4,Engraved Jewelry,112,e515fa0e-a6a2-4b37-9197-8e19d84755a2,22,Other,Returning,Cash on Delivery,False,Mugs,1,96,10,7.52,100,2623,52.79
+1171,2025-03-04,10,Custom Phone Case,486,04826bdb-d5a4-4352-a50c-a27f14a48010,48,Other,New,UPI,True,Jewelry,1,84,8,4.99,657,644,50.87
+3080,2025-01-05,10,Custom Phone Case,305,520a0122-cfe1-4ee4-b67e-81b70388d9d4,60,Male,VIP,Credit Card,True,T-shirts,5,34,7,7.89,473,1137,10.93
+4489,2025-02-19,8,Custom Mug,435,b5879949-00fd-4f46-8bdb-971e97d680c0,45,Other,VIP,UPI,False,Jewelry,4,128,5,0.0,822,4914,47.51
+2459,2025-02-03,7,Personalized T-shirt,361,dbe9173e-791d-4f8b-add8-e4b7260a143f,36,Male,Returning,Debit Card,True,Accessories,1,148,3,1.8,307,4315,58.24
+6555,2025-03-28,1,Custom Phone Case,153,0360cc5d-a2d1-425b-9336-66d1da174640,42,Other,New,UPI,False,Jewelry,2,101,5,9.52,776,1082,72.17
+1821,2025-01-08,3,Custom Mug,362,59c1e61e-4df7-47f3-917e-f8f60f994047,42,Other,Returning,Debit Card,True,Mugs,2,70,3,2.18,729,3049,61.92
+4322,2025-01-16,9,Custom Mug,480,13726949-4a73-4983-9c40-42a10e56c197,65,Female,Returning,Debit Card,True,Accessories,4,86,10,7.3,690,3684,92.76
+7853,2025-03-19,5,Custom Mug,366,10c099c6-75ed-4782-820f-2189ea3b00ed,21,Male,VIP,Cash on Delivery,True,T-shirts,5,97,5,7.67,803,3199,62.63
+2431,2025-03-18,5,Photo Album,109,c5c3a13c-8666-4e13-8f05-b296db93a70f,43,Other,VIP,Cash on Delivery,True,Jewelry,5,122,5,5.46,196,3119,89.03
+1144,2025-03-01,4,Personalized T-shirt,407,54296ac6-5953-4ad7-8276-7e7693b4e3b6,58,Other,New,Credit Card,False,Jewelry,3,55,3,3.43,348,3642,52.25
+4415,2025-01-04,5,Custom Phone Case,105,b4c06901-e064-4a0f-b56e-fa9506c4e854,38,Female,Returning,Cash on Delivery,True,T-shirts,4,46,7,6.6,154,4907,34.7
+3547,2025-03-30,10,Engraved Jewelry,309,b48c51c4-7e38-4fd8-9406-467cc10c6753,53,Female,New,Credit Card,False,Jewelry,5,101,2,5.06,307,4649,90.83
+9462,2025-03-30,5,Photo Album,462,c8f78a27-2484-4fb3-97c2-2f01b3c54a4f,43,Female,VIP,Cash on Delivery,False,Mugs,1,70,5,9.52,683,906,14.07
+9596,2025-03-02,4,Engraved Jewelry,297,642e3f48-766f-44a5-a0c4-11c5f48c6d00,58,Female,VIP,Debit Card,True,Accessories,2,120,4,5.56,781,4779,15.68
+4182,2025-01-23,9,Custom Mug,335,606e278e-21fa-4aaa-b446-9596b5591b5a,63,Female,VIP,Cash on Delivery,True,Accessories,3,87,3,2.8,268,2553,7.17
+7091,2025-04-02,7,Personalized T-shirt,360,f2b0c40a-ecb4-48a8-984e-a22f0805e6e8,37,Male,New,UPI,True,Accessories,1,117,2,0.71,443,2163,8.33
+8493,2025-02-04,9,Custom Phone Case,386,96a4f1f1-f0af-4a79-bf55-6fcdc661262b,30,Female,Returning,UPI,False,Accessories,1,77,7,3.62,942,2656,34.32
+6000,2025-03-18,4,Personalized T-shirt,324,c1087c25-cb35-4e9e-939b-9d02580ceed2,29,Female,Returning,Debit Card,True,T-shirts,4,85,9,1.82,760,2441,12.91
+9685,2025-01-24,10,Custom Phone Case,286,2e2fff3f-86f6-4f4a-811d-2986341ee7ee,33,Other,VIP,UPI,True,T-shirts,1,121,4,2.66,532,2437,55.08
+5410,2025-03-29,2,Photo Album,323,284c2640-da2c-4062-a310-799a059e8906,32,Male,New,Credit Card,False,Jewelry,5,41,10,6.97,719,3649,77.86
+1480,2025-01-05,3,Personalized T-shirt,296,6ff0873c-61d9-4f0b-b213-d19d2d2d284f,46,Other,Returning,Credit Card,True,Mugs,1,118,4,6.45,290,2426,32.37
+4709,2025-02-05,10,Custom Phone Case,269,1ea5d21a-ec26-4a94-9277-74411be1e2fd,23,Female,New,Cash on Delivery,False,Accessories,2,106,2,0.53,361,2455,71.68
+2740,2025-01-12,4,Engraved Jewelry,297,e9bbc585-1ff2-4aac-ad7d-450949a21088,48,Female,VIP,Credit Card,True,Jewelry,4,50,6,2.6,951,4947,70.56
+6600,2025-01-27,4,Photo Album,211,f2ded1b0-081a-44c0-bfcb-6aea3155e043,54,Male,Returning,UPI,True,Accessories,1,103,4,9.29,450,4599,19.66
+8045,2025-01-22,9,Custom Mug,340,d3775871-eda6-43c4-9875-7faa73c3928b,52,Other,VIP,Credit Card,True,Accessories,1,65,4,3.43,550,3585,74.52
+7497,2025-03-19,7,Engraved Jewelry,365,8ac0becf-e5b8-47dc-ab1d-15861f16d8b8,64,Other,Returning,Cash on Delivery,True,Jewelry,5,43,3,8.48,147,1432,20.56
+1434,2025-02-08,4,Personalized T-shirt,479,ea45aa16-c449-4830-a1ea-53ece018a9fb,45,Other,VIP,UPI,False,T-shirts,1,49,10,3.2,780,2427,83.15
+8858,2025-02-28,5,Engraved Jewelry,461,2d9025a4-c253-4119-8a28-2363c43f357c,45,Female,New,Cash on Delivery,True,Mugs,3,83,8,4.74,693,4962,89.54
+3875,2025-03-21,10,Custom Mug,467,bfdd837b-81d0-4b02-8050-62248e4e781f,55,Male,VIP,UPI,False,Jewelry,3,94,9,8.28,205,3564,14.17
+8595,2025-01-17,1,Custom Mug,191,1f213399-49ce-4b73-b2ca-178f3b4244a2,62,Male,VIP,Cash on Delivery,True,Accessories,3,147,4,6.3,775,4111,49.34
+9808,2025-03-10,4,Custom Mug,110,056ebaf0-b75b-43dc-b2ef-39958941d2d0,36,Other,New,Credit Card,False,Mugs,1,82,9,7.77,295,3488,93.09
+1630,2025-03-19,1,Photo Album,391,41f2a540-4e0e-4dcd-8f38-c6818fc5af46,35,Male,Returning,Credit Card,True,Jewelry,5,125,7,1.7,421,3101,8.83
+8303,2025-04-22,2,Personalized T-shirt,159,5098105d-b3e2-4666-9fdc-96aad3a2ca1b,61,Female,VIP,Cash on Delivery,True,T-shirts,2,87,6,7.63,194,1946,56.38
+1836,2025-01-12,1,Custom Phone Case,281,9e3dc041-451c-4af1-8afa-8379492aead8,33,Other,New,Cash on Delivery,False,T-shirts,5,84,9,3.59,398,4767,34.3
+5985,2025-03-24,5,Custom Mug,150,d6793f23-7316-4750-81b8-0f913b7e6ffe,19,Male,Returning,Credit Card,False,Accessories,5,141,6,9.5,923,1953,26.92
+7632,2025-03-08,9,Engraved Jewelry,459,4855edab-ced1-47c2-9831-a375e04bdb19,55,Female,New,Credit Card,True,T-shirts,2,112,7,8.64,227,2578,73.47
+3088,2025-02-02,2,Custom Phone Case,477,24585c7f-ce79-44d0-8ed9-d07bac08351b,55,Other,Returning,Debit Card,True,Accessories,1,57,9,5.66,999,3635,17.68
+3389,2025-01-28,8,Personalized T-shirt,302,cb164880-6d19-4f1f-b7d9-e6800547375e,62,Female,New,UPI,True,Mugs,5,84,7,6.34,373,4842,2.15
+7227,2025-02-13,5,Photo Album,433,61f1f09a-6c54-4022-a264-2fb268636d9a,36,Male,Returning,UPI,True,Mugs,5,111,8,4.3,137,4499,36.52
+6073,2025-02-17,7,Photo Album,480,0151aeee-fa84-470c-ad55-93d8d783808c,19,Female,Returning,UPI,False,Accessories,1,45,3,6.07,404,2603,42.6
+5372,2025-02-25,7,Photo Album,118,83ee1325-318e-4c02-90cc-4f3f163b0383,44,Other,New,UPI,False,Mugs,5,38,4,1.02,723,3958,41.85
+9627,2025-03-18,2,Custom Mug,215,5b794b60-0285-4790-a2d1-5137a7372d60,36,Female,New,UPI,True,Mugs,1,74,4,2.28,902,566,17.11
+5857,2025-04-04,6,Custom Mug,431,83346b9b-5d61-4ddd-863a-6fcebce75d93,58,Female,New,Cash on Delivery,True,Mugs,4,106,4,4.74,220,2237,12.71
+7001,2025-03-07,4,Photo Album,372,33ad005c-f3b7-45f2-932e-3931710ffe69,30,Other,New,Cash on Delivery,False,Mugs,2,144,5,7.15,329,3914,10.59
+2266,2025-01-06,3,Photo Album,330,105048fd-b3c3-410f-96be-0b4d328d7b95,28,Female,Returning,Cash on Delivery,True,T-shirts,1,89,4,0.76,823,2095,40.33
+7293,2025-03-22,1,Custom Phone Case,215,41894445-0cfe-4742-b844-699be7298859,43,Other,New,UPI,False,Accessories,3,127,4,3.72,193,4041,95.13
+1768,2025-01-24,1,Custom Mug,175,8d9662ab-b733-4c35-b139-ac4e78021cba,37,Other,VIP,UPI,True,Accessories,1,50,7,4.04,126,3307,15.43
+3437,2025-01-10,9,Photo Album,129,334e6c29-a388-4c6c-83f8-f3b0336094f4,53,Male,VIP,UPI,True,Mugs,5,62,7,1.99,115,2993,17.91
+5268,2025-02-27,6,Personalized T-shirt,101,1358614a-a156-4d4e-bf04-0730ad221a7f,29,Male,VIP,Credit Card,False,T-shirts,5,42,10,1.82,829,905,35.69
+8325,2025-04-08,9,Custom Mug,155,2e88ebcd-4a40-4f1d-be76-896934ed55ee,63,Male,Returning,Debit Card,True,T-shirts,2,56,2,3.74,258,3039,25.68
+3421,2025-03-01,7,Custom Phone Case,119,b59fec46-511c-42bc-af01-cb554f9eafd3,62,Female,Returning,Credit Card,False,Accessories,1,36,4,1.27,976,3834,90.98
+4861,2025-04-10,10,Personalized T-shirt,319,7a02310b-b849-4709-9f80-8e4310b05bc7,32,Male,VIP,UPI,True,Accessories,4,51,6,1.79,557,2746,18.71
+4769,2025-01-02,6,Custom Mug,102,1129ed11-62b3-4fc7-9a17-de113cef568a,65,Other,Returning,Credit Card,True,Mugs,4,91,8,7.6,151,611,51.44
+9847,2025-03-17,1,Custom Phone Case,455,4a3a1dd0-040d-40f6-9912-87e37cb89b41,37,Male,New,Debit Card,True,Jewelry,3,127,6,5.88,177,1434,19.12
+8994,2025-03-08,7,Custom Mug,328,851c13ab-5849-48e8-bd78-4539520588d0,25,Other,New,Debit Card,False,T-shirts,1,110,9,7.95,840,3553,21.71
+2769,2025-02-19,9,Engraved Jewelry,376,1ebd44da-b498-4f86-b2ca-490cb14713bf,61,Female,VIP,Cash on Delivery,True,Jewelry,3,105,6,9.83,594,3128,98.86
+5702,2025-01-26,9,Engraved Jewelry,267,283feb4a-74c3-4b19-aa0d-8598f2139ca0,52,Male,Returning,UPI,False,Accessories,5,67,7,6.3,658,1113,41.75
+3332,2025-03-21,2,Custom Phone Case,432,beec5cd9-7c23-439a-8a13-3e5d3fd88ca7,47,Female,Returning,UPI,True,Mugs,4,99,3,7.92,876,3859,51.85
+4958,2025-01-20,2,Engraved Jewelry,430,89fa2e6c-1212-45ae-abec-f99ada90e510,28,Female,Returning,Cash on Delivery,True,T-shirts,1,98,7,4.57,830,562,36.57
+3002,2025-01-26,3,Custom Mug,330,d0643d60-d4d9-4e6f-a7bf-c5a79336d2db,49,Male,Returning,Cash on Delivery,False,Jewelry,5,144,6,2.33,167,4658,47.89
+5748,2025-02-05,9,Photo Album,483,000206d2-092c-4f1a-956f-a18be820f9cc,28,Female,Returning,UPI,False,Mugs,3,114,4,2.05,305,4674,77.53
+5143,2025-03-07,3,Personalized T-shirt,114,81f14f08-62e1-4479-abc6-43f22ddc28ea,57,Female,VIP,Credit Card,True,Jewelry,3,40,5,6.0,796,1693,58.23
+9717,2025-01-16,2,Photo Album,366,75cb2d53-321a-4e7d-85c1-18ef152b4c69,65,Female,New,Credit Card,False,Mugs,4,87,7,8.0,684,562,12.1
+4138,2025-01-22,4,Custom Phone Case,251,12fe1752-edcf-48ce-814a-6d1147845055,46,Female,Returning,UPI,True,Accessories,2,66,2,2.25,741,4066,93.12
+9440,2025-02-20,3,Custom Mug,421,c1a5eaea-e434-4a0a-8548-e9ab97786f93,51,Female,VIP,Cash on Delivery,True,Jewelry,4,144,6,5.16,497,4041,94.6
+3035,2025-03-20,9,Photo Album,358,1982d1cb-eea0-4036-b0f4-6e32fce1d6e0,60,Other,VIP,Cash on Delivery,True,Mugs,5,67,3,2.52,445,1510,14.33
+1963,2025-02-03,1,Personalized T-shirt,228,8c7f77bc-7f90-48f9-8a7a-a2a5c086d0d8,18,Female,VIP,Cash on Delivery,True,Accessories,4,104,10,9.71,564,3961,65.95
+6286,2025-02-04,9,Custom Mug,467,fc4d278f-8166-439b-b49c-b21692a1c49d,31,Other,VIP,Cash on Delivery,True,Jewelry,3,61,3,1.11,462,4035,60.51
+2593,2025-02-26,5,Engraved Jewelry,288,a1efe717-6db4-4684-a780-c2f604da7823,36,Other,New,Credit Card,False,Mugs,3,67,2,9.09,975,4924,25.2
+7071,2025-03-01,6,Engraved Jewelry,214,99f12bf1-ac0f-45c3-ac82-618fed681895,63,Male,New,Cash on Delivery,True,T-shirts,3,137,8,3.02,581,2277,73.3
+8587,2025-03-01,2,Custom Mug,318,647dbed2-7c5b-4ec1-a848-33cd9901ed44,19,Male,New,UPI,False,Jewelry,1,111,9,3.88,797,1119,19.7
+7488,2025-02-18,1,Photo Album,186,70e62576-6aaf-4df8-b503-cadfbe9474c8,22,Other,VIP,Credit Card,True,Mugs,4,101,6,0.25,872,855,25.94
+9152,2025-02-05,1,Custom Phone Case,315,12a096cb-77f8-4c41-ba01-d104e02146d6,34,Female,VIP,Cash on Delivery,False,Jewelry,2,62,6,4.41,458,2756,33.58
+4491,2025-03-14,10,Photo Album,242,af53f245-1d18-43e7-bcb1-6002531b8c08,55,Female,New,Cash on Delivery,True,Jewelry,5,134,6,4.36,997,3121,7.1
+3267,2025-04-06,9,Photo Album,419,5bfff53d-2702-4b88-b0c8-bd5065d745b9,45,Male,VIP,Debit Card,False,Jewelry,5,69,7,4.51,663,3865,46.89
+8983,2025-04-19,8,Personalized T-shirt,113,c105a03c-62bb-4356-8bfe-ea85377c0e8e,23,Female,VIP,UPI,False,Jewelry,3,115,9,9.92,370,3213,69.86
+9693,2025-04-13,6,Engraved Jewelry,175,ce37d822-d69a-45c3-8d19-ad3fbfd37c88,61,Female,VIP,Debit Card,False,Accessories,3,120,3,1.06,263,3562,89.46
+8111,2025-02-01,6,Personalized T-shirt,444,e4f0b2d0-f036-463c-8810-316f189e917d,51,Male,New,Cash on Delivery,False,Jewelry,5,59,7,2.87,915,2433,35.82
+9719,2025-03-19,4,Engraved Jewelry,413,b79de032-de26-4807-8b87-345a262f2a1f,63,Female,New,Credit Card,False,T-shirts,4,101,8,2.07,353,808,75.16
+9683,2025-01-01,6,Photo Album,447,7c5c187d-b12a-4365-9bee-a8775846e07c,38,Other,VIP,UPI,False,Accessories,1,86,6,7.5,579,1588,4.04
+7933,2025-02-17,9,Photo Album,496,32b9b3f3-32c6-4335-b737-cf9b329765ed,65,Other,VIP,Credit Card,False,Jewelry,5,45,5,8.12,501,3489,36.77
+2425,2025-01-01,2,Custom Mug,324,940f5fd1-644c-47ff-ba26-abba33e4fe15,34,Female,New,UPI,False,Accessories,4,55,7,1.62,660,3932,42.07
+9947,2025-04-06,4,Personalized T-shirt,269,3a3ad75f-491f-467a-89d2-b92944d3de9c,54,Female,New,UPI,False,Mugs,3,65,3,6.38,579,3218,72.14
+5534,2025-03-17,9,Photo Album,352,762b28a7-9a62-4bf2-99ea-f68f224b3f5e,65,Other,New,Debit Card,False,Mugs,5,121,10,6.48,515,3281,7.22
+8134,2025-04-23,6,Photo Album,213,4a866f03-75e6-4822-9b04-f5158620f4d5,35,Female,New,Credit Card,False,Accessories,4,101,8,9.62,263,4192,69.71
+9021,2025-04-23,2,Custom Mug,147,e261ed9c-9ff9-4765-93d1-bd5f1ca6347f,24,Other,New,Cash on Delivery,False,Jewelry,1,49,8,7.27,616,2148,43.49
+7319,2025-01-10,8,Custom Phone Case,235,84b1e85a-88d2-4731-9a54-9c8a7feb9d98,30,Male,VIP,Debit Card,False,Accessories,1,71,10,8.83,419,4371,40.79
+3326,2025-01-08,4,Engraved Jewelry,178,6742fae8-31dd-4db7-8b13-eddb19145467,42,Male,New,UPI,True,Mugs,1,56,2,4.21,304,1240,72.64
+5587,2025-01-07,1,Custom Mug,401,e2fcb88f-48d7-4283-bc2a-0c4c7ba0156c,46,Female,VIP,Debit Card,True,Accessories,3,43,2,4.95,495,3321,81.98
+1058,2025-03-31,9,Custom Mug,460,f11a825e-eba3-4c68-97de-8b036016761f,26,Other,New,Cash on Delivery,True,Jewelry,1,131,3,5.21,818,4226,74.4
+6351,2025-04-06,5,Custom Mug,451,4f849659-e37a-4332-a6b8-4641daf35116,31,Other,Returning,Credit Card,True,Jewelry,3,109,5,9.0,357,1240,34.32
+6513,2025-01-24,9,Custom Mug,238,421e1524-a6a9-43b7-9b7c-2419eb25682d,42,Other,New,UPI,False,Accessories,5,87,9,7.61,125,3497,70.2
+9505,2025-03-09,1,Personalized T-shirt,474,cd8ae026-4a81-4f70-a669-3b210ae877ca,41,Male,New,UPI,False,Mugs,4,43,10,5.91,544,3237,4.66
+1558,2025-03-26,4,Custom Mug,348,7ac5c7ca-5911-4209-8a0a-3fd1c6319514,40,Female,Returning,Cash on Delivery,True,Jewelry,5,133,4,2.54,194,1613,80.99
+6127,2025-01-11,1,Photo Album,315,4ed118b5-3b20-4e18-a1fd-7862cf1be84a,60,Male,VIP,UPI,True,Mugs,3,138,4,7.16,141,4590,73.85
+3259,2025-02-14,4,Custom Phone Case,464,71275a74-c658-4de9-a706-9880bd0597ab,54,Other,Returning,UPI,False,Accessories,2,134,5,8.32,419,3512,72.67
+6355,2025-01-06,6,Engraved Jewelry,182,0da592e6-f760-4138-9753-4fbeed9dc69b,30,Other,VIP,UPI,False,Accessories,3,45,6,9.23,772,2172,15.79
+3882,2025-01-11,2,Photo Album,471,c9431756-c7fa-4f46-9109-348797fc84b6,29,Female,Returning,Cash on Delivery,True,Jewelry,2,84,8,5.22,131,1462,40.06
+2157,2025-03-25,7,Custom Phone Case,275,0f9eb230-2e47-4cfd-a566-5c7a3746fa1f,32,Male,New,UPI,True,T-shirts,2,66,10,8.41,185,3892,32.38
+4161,2025-01-13,10,Engraved Jewelry,413,8aeec6c8-8e09-45d2-bee5-9094c8f942bf,46,Female,New,Debit Card,True,Accessories,2,47,9,1.32,309,3597,60.77
+6614,2025-03-02,4,Photo Album,480,62cb6199-1b3e-4796-9c1e-c366c28b7584,35,Other,VIP,Credit Card,True,Jewelry,4,102,8,9.15,921,3432,9.79
+9950,2025-01-30,5,Custom Mug,391,b8cfbf31-76fa-4772-b6ac-5afab39f0237,24,Other,Returning,Cash on Delivery,True,Accessories,2,79,4,1.59,596,3047,60.38
+6684,2025-04-19,2,Personalized T-shirt,386,e75d101f-7983-4d0e-b318-59d49ad325b0,42,Male,New,Cash on Delivery,False,Accessories,4,129,7,1.8,697,613,30.16
+5639,2025-03-30,1,Personalized T-shirt,117,20d9e060-adff-48f8-ba0c-81926d074c39,37,Male,VIP,Credit Card,False,Mugs,4,34,5,2.09,515,4201,60.28
+5620,2025-01-15,3,Personalized T-shirt,181,42694a37-b05f-4440-aba9-d763c14c6dbf,24,Male,Returning,UPI,True,Mugs,5,49,2,9.8,396,4653,13.34
+1883,2025-03-14,7,Custom Mug,422,c8afc104-9967-495c-9691-1de8b209cda7,49,Female,Returning,Credit Card,False,T-shirts,2,95,2,2.22,180,4384,53.68
+7984,2025-03-13,5,Photo Album,382,a4fae823-f784-4099-ae4b-e0cec5f5589f,31,Female,Returning,UPI,False,Accessories,3,106,4,0.72,312,627,13.16
+8456,2025-04-11,10,Custom Mug,488,9e915f17-9234-48e2-8837-c8622b746fd2,26,Other,Returning,Debit Card,True,T-shirts,2,93,8,4.27,843,1770,42.15
+9403,2025-01-15,9,Engraved Jewelry,305,f18cdf84-f4de-4df8-ab58-57b63b4e2302,42,Male,Returning,Debit Card,True,Jewelry,3,88,8,5.09,658,2287,64.13
+5543,2025-04-15,4,Custom Phone Case,482,4ce1347a-63e0-4549-9a9d-ca332a2ebb00,39,Male,New,Cash on Delivery,False,Jewelry,4,46,5,5.75,928,4953,94.51
+6039,2025-04-12,3,Engraved Jewelry,490,de4162b4-24ae-48c2-82b1-041550826875,49,Other,Returning,Credit Card,False,Accessories,4,146,10,5.31,574,2933,0.43
+6997,2025-01-17,8,Engraved Jewelry,116,08b2a98b-36f3-421f-b2d0-a9291b7eb9f4,51,Other,Returning,Debit Card,True,Mugs,2,126,9,0.66,710,3693,82.67
+4563,2025-03-02,2,Engraved Jewelry,146,e43d70a1-9c28-48a7-ad6c-531f02a8f1ea,57,Female,New,UPI,True,T-shirts,2,86,10,3.47,843,2714,67.14
+9601,2025-02-27,7,Personalized T-shirt,178,0cf37fc6-cb3a-4c55-83f0-bd85f937f982,31,Male,VIP,Cash on Delivery,False,Accessories,3,126,5,4.18,840,2657,46.11
+7998,2025-01-09,2,Photo Album,259,0a1f2382-1053-41e3-8d52-baf3636f9cc5,33,Other,VIP,UPI,False,Accessories,4,111,2,6.96,297,704,28.15
+6903,2025-03-14,6,Custom Mug,189,b35f0a4f-4252-4982-9d77-b0c780019adc,64,Female,VIP,Cash on Delivery,False,Jewelry,3,82,10,8.1,596,3445,23.31
+4804,2025-02-10,6,Photo Album,263,3fc331bc-0a08-47da-a9af-d76505c82ef1,38,Other,New,Cash on Delivery,False,Accessories,3,73,3,7.2,805,3798,16.52
+5048,2025-02-14,8,Photo Album,197,2a93d89f-f70c-4c01-a9e2-0c48d72c1ff4,42,Female,New,UPI,False,T-shirts,5,40,9,9.27,256,1894,10.63
+3451,2025-02-20,6,Custom Phone Case,378,74afb29c-ac29-4edd-b096-afcb6bdf9522,48,Female,VIP,UPI,True,Jewelry,3,101,10,6.23,630,624,4.21
+9780,2025-04-15,5,Engraved Jewelry,250,226ecb8f-e414-4604-b92f-d8251e3338e8,42,Female,Returning,Credit Card,True,Accessories,4,91,6,9.69,690,1903,90.63
+5201,2025-04-17,4,Engraved Jewelry,195,ec545319-2d54-4ca8-aeb4-b039aafbd0a6,46,Other,Returning,Cash on Delivery,True,Jewelry,2,49,10,5.02,865,4906,95.98
+6042,2025-01-21,2,Engraved Jewelry,241,64b754c6-0bec-4825-bf86-b86241b46d6a,45,Other,Returning,Cash on Delivery,True,T-shirts,3,121,8,6.63,232,3795,46.3
+4124,2025-03-07,3,Personalized T-shirt,424,b2ab78d5-ea83-4511-bc72-38fcf937d470,48,Male,VIP,Debit Card,False,T-shirts,4,117,2,9.85,184,3955,90.3
+2234,2025-03-27,8,Custom Mug,233,fbd71096-988e-4487-bedf-34183304d845,46,Other,New,UPI,False,Jewelry,4,124,7,6.45,957,4848,71.88
+6769,2025-03-23,5,Personalized T-shirt,120,a553c673-42c4-42ee-991b-f5bdddfb3fad,36,Female,New,Debit Card,False,T-shirts,5,65,3,1.83,172,2907,19.34
+3682,2025-03-02,8,Custom Mug,348,0b53adb5-4f44-46f0-b94b-4a1c7c855550,41,Other,New,UPI,True,T-shirts,5,145,4,8.02,842,2331,82.56
+7649,2025-01-12,7,Custom Phone Case,149,eb7bcb40-4a64-40d5-a298-22b888cbabdf,47,Other,New,Debit Card,True,T-shirts,3,130,2,7.43,847,4053,88.44
+7321,2025-03-13,2,Photo Album,323,e059939a-5c09-4b10-9bf8-c7d47d30ba7d,42,Male,New,Debit Card,False,T-shirts,3,106,9,6.22,665,4749,21.1
+9370,2025-03-31,8,Custom Mug,216,ba247e9a-c30b-4f65-bc9d-cc9476fd8b4b,37,Female,VIP,Cash on Delivery,False,Jewelry,5,103,5,6.15,844,2315,63.02
+6105,2025-01-27,9,Photo Album,464,ff35eda9-6396-4bf0-9f13-d6000ce8d61c,23,Other,VIP,Credit Card,True,Accessories,2,52,5,3.96,145,2540,72.03
+3297,2025-04-12,5,Custom Phone Case,377,6240b274-4176-4fd3-9bef-4f3a77ec8242,20,Female,VIP,UPI,True,Mugs,4,54,3,6.47,755,1926,12.27
+8596,2025-04-21,5,Engraved Jewelry,457,327a19a1-fd37-4156-b336-ec4f323e5968,51,Male,New,Debit Card,True,Jewelry,3,80,7,0.48,399,1040,57.73
+8193,2025-03-17,2,Photo Album,170,0d2317e5-64b3-4022-90b7-64c6f556ad19,49,Female,Returning,UPI,False,Accessories,3,74,6,1.17,688,4125,29.28
+3693,2025-02-22,9,Custom Mug,122,baa12acd-c03c-4d13-9c3d-4ff0346329ce,35,Other,VIP,Debit Card,False,Mugs,4,133,9,9.07,649,4720,53.13
+5077,2025-03-04,2,Photo Album,174,42156e0b-e0d8-4cac-a417-ea602c7a7f2a,24,Female,VIP,Cash on Delivery,True,Jewelry,4,101,6,5.78,475,2950,10.59
+3365,2025-03-28,5,Engraved Jewelry,422,862f2ca9-e880-4df1-8f91-b6b27d63f1b3,28,Male,VIP,Cash on Delivery,False,T-shirts,2,148,9,7.47,654,2509,45.42
+4331,2025-04-17,6,Custom Mug,412,ecfb5d6d-1219-4ee5-87d6-231f72bd6c62,24,Male,New,Cash on Delivery,True,T-shirts,3,73,4,4.06,782,4042,72.1
+9168,2025-01-09,7,Engraved Jewelry,137,284f5888-dd26-4414-94d0-933f0dce4034,49,Male,New,Credit Card,False,Accessories,5,118,10,7.39,179,4833,54.76
+6160,2025-02-28,9,Engraved Jewelry,254,24780dac-0fd0-42c1-be95-6b3f363a6e99,27,Male,VIP,Credit Card,True,Mugs,3,100,2,1.26,419,2322,23.39
+3626,2025-02-10,8,Engraved Jewelry,345,b03ff0b7-5d3d-415b-a170-906207172521,36,Male,VIP,Cash on Delivery,True,Jewelry,2,103,2,6.33,867,2692,70.02
+2519,2025-04-06,9,Personalized T-shirt,384,6f07d511-5a71-4da0-8351-34d419fa0683,47,Female,New,Debit Card,False,T-shirts,4,131,7,8.16,620,4568,94.81
+3198,2025-01-18,6,Personalized T-shirt,161,89088f1b-93d1-40c0-b8c8-ae902c97340f,18,Male,VIP,Cash on Delivery,False,T-shirts,3,46,10,5.17,547,3161,77.6
+7890,2025-04-06,1,Custom Mug,439,456b140b-5f45-45c6-9085-416444c3b7ec,42,Other,Returning,Debit Card,False,Accessories,2,97,9,9.52,121,4807,4.41
+3197,2025-02-08,9,Custom Mug,146,96b6846f-fec6-420a-a7b9-7634ed38e604,48,Male,New,Credit Card,True,Jewelry,1,61,10,7.48,422,2059,99.89
+5183,2025-01-06,3,Custom Phone Case,158,00a800d1-03f8-4d8c-8c54-f354c53eae95,27,Male,Returning,UPI,True,Accessories,5,56,4,2.4,704,1362,78.83
+7590,2025-03-01,6,Custom Mug,436,d4b0970f-bdd5-41d0-9ecd-a94d082d0c65,45,Other,New,Credit Card,True,T-shirts,4,112,10,7.02,296,1498,65.59
+6499,2025-01-20,9,Engraved Jewelry,458,be71d913-34d6-4bb0-857d-2d926b48addb,29,Other,Returning,Cash on Delivery,True,Mugs,4,109,3,0.52,573,2810,13.88
+3565,2025-03-01,9,Custom Phone Case,401,6c1a1eee-3dc7-46e1-a5fc-f58166f48754,32,Female,VIP,Cash on Delivery,True,Mugs,1,108,3,6.47,601,2735,36.82
+2168,2025-02-18,5,Custom Phone Case,385,0b90d9ef-0c53-4804-8990-48b2ff141c8d,56,Male,New,Cash on Delivery,False,T-shirts,2,41,4,3.63,879,4579,33.88
+4247,2025-04-14,1,Photo Album,441,a07ff5bb-84a8-4c17-bc29-47d7f89ad0fe,24,Female,New,Cash on Delivery,False,T-shirts,4,98,6,8.05,708,3171,0.05
+7260,2025-01-29,3,Custom Phone Case,267,836867c4-3480-40a0-b635-4e9c33d884b2,18,Other,Returning,UPI,True,T-shirts,2,93,2,5.65,654,2351,7.79
+3837,2025-03-25,5,Custom Mug,401,58c7a9c1-47b0-41eb-bd10-8f51d9ea766d,23,Other,Returning,Debit Card,True,Mugs,4,84,4,0.6,593,2935,51.53
+8565,2025-03-25,7,Custom Phone Case,465,40251796-fe96-496e-ac1c-f0bdf8697acc,56,Female,New,Credit Card,True,T-shirts,1,122,4,4.72,267,2984,10.49
+5918,2025-04-19,5,Photo Album,151,b6997ef0-0fe5-49df-8751-1f448bd1cb14,49,Female,New,Cash on Delivery,False,Mugs,1,87,2,0.24,977,3253,63.93
+9615,2025-02-20,4,Custom Phone Case,386,90aab8eb-2e3b-485b-a6da-5b53f03a240a,38,Other,Returning,Cash on Delivery,True,T-shirts,1,90,2,2.94,570,1763,97.14
+1196,2025-04-02,8,Custom Mug,467,0ecffe6c-51ef-440c-abc9-96344df7d415,43,Other,New,UPI,True,Accessories,4,133,10,8.88,603,4317,99.51
+2372,2025-01-14,1,Custom Mug,417,dc6637be-485d-4dcd-9e27-d462f91254e0,32,Male,VIP,Debit Card,True,Mugs,1,37,9,1.18,493,1367,99.77
+9918,2025-02-09,10,Custom Phone Case,426,aaee0901-d52b-4138-8907-90faed67dc24,25,Male,Returning,Cash on Delivery,True,T-shirts,4,60,9,9.21,891,4571,73.52
+5684,2025-03-04,3,Custom Mug,456,79b92d77-8674-4cae-b799-dcaf43dc72d9,34,Female,Returning,Cash on Delivery,False,Jewelry,2,58,6,6.26,128,3474,10.96
+1964,2025-03-19,8,Custom Mug,431,d503a334-ee73-4fc4-ad3f-9588bf06ef1d,37,Male,New,Credit Card,False,Accessories,1,131,8,4.67,885,4117,14.37
+2779,2025-03-02,5,Custom Mug,190,86dc24b2-6b8a-4a36-9f4a-9337440295ad,63,Female,VIP,Cash on Delivery,False,Mugs,3,145,3,9.64,386,4415,46.44
+9760,2025-03-16,4,Custom Phone Case,342,ab7a7cf6-bd6e-4540-b949-fe3f99ef72b1,34,Male,New,Credit Card,False,Jewelry,5,128,9,9.39,153,4308,10.1
+1264,2025-02-10,9,Custom Mug,146,bb94b6b3-f068-41b4-a405-334b41cdda78,35,Male,Returning,Debit Card,True,Accessories,5,116,10,8.65,445,3403,47.51
+4771,2025-03-10,7,Photo Album,171,08092157-a0e0-4aec-b7b1-7c6861b1674f,59,Other,Returning,Credit Card,True,Accessories,4,39,8,8.68,413,2720,8.09
+7464,2025-03-15,2,Engraved Jewelry,490,5d3a7a26-4b11-41fa-befc-9f1ba9b3c61a,62,Male,VIP,UPI,True,Jewelry,1,33,3,2.63,674,3665,10.9
+3507,2025-04-03,1,Engraved Jewelry,380,6dbfc5ea-c5be-4059-ba4b-dca0764675b3,58,Male,VIP,Debit Card,True,Accessories,3,86,6,6.93,379,2804,69.92
+4148,2025-03-02,6,Custom Phone Case,410,755ccc6a-5a51-46d7-9dda-956c921a3e3a,30,Other,VIP,Credit Card,False,Mugs,1,32,5,4.54,528,2454,35.99
+8980,2025-01-03,7,Photo Album,329,5e56c354-a274-4f06-995b-bc94ceeb6156,29,Other,Returning,Debit Card,False,Accessories,4,137,10,6.23,486,3917,54.76
+4776,2025-01-12,5,Personalized T-shirt,160,7b2d5869-ba5f-4cbb-a882-30a4655d30aa,36,Male,New,Cash on Delivery,True,T-shirts,5,83,8,8.57,831,4628,15.59
+8974,2025-04-04,3,Custom Mug,114,42ca531b-5b6b-40f0-b038-e25a8d05cb04,53,Other,VIP,UPI,True,Accessories,4,91,5,4.7,194,4071,73.67
+9813,2025-01-19,8,Personalized T-shirt,479,8bf90c6f-e27b-4beb-9ae9-ac33c27e0ca9,56,Female,Returning,Debit Card,True,Jewelry,1,140,8,9.17,200,3558,60.35
+4866,2025-02-01,1,Engraved Jewelry,258,6a259b3e-bd2f-4729-bd47-232cea4d41b4,59,Male,Returning,UPI,False,Mugs,3,110,8,7.95,138,2297,51.99
+3761,2025-03-03,5,Photo Album,145,cb68d2a7-fb59-4eee-8587-5606be3f29a8,56,Female,New,Debit Card,True,Mugs,5,142,5,5.02,966,620,38.69
+6791,2025-04-02,7,Photo Album,368,e7bd913e-eaf4-4019-be0d-0732a1b474e5,55,Female,VIP,Credit Card,False,Mugs,2,79,8,8.84,494,702,87.79
+2633,2025-02-15,6,Custom Phone Case,491,6fbd3fb2-025b-412a-ac7e-191ebd9d44a2,23,Other,VIP,Credit Card,False,Mugs,3,105,5,3.16,762,4431,77.23
+1778,2025-02-21,3,Engraved Jewelry,153,b200eaef-9978-4ceb-b53a-a4338f841be5,63,Female,VIP,UPI,False,Jewelry,4,138,5,4.39,714,1396,84.71
+4907,2025-02-12,10,Personalized T-shirt,295,b4da2081-5bc7-46fb-b9c6-6712849edb7f,55,Male,Returning,Credit Card,False,Jewelry,2,147,6,8.19,870,560,1.78
+3507,2025-02-26,2,Custom Mug,419,6484e1fe-9208-40b2-8791-fde099ec9d1b,43,Male,VIP,Credit Card,False,Accessories,3,46,4,4.32,523,2975,42.34
+4530,2025-03-20,1,Custom Mug,288,a8f1d39d-7538-42ff-8250-228c9fcac68a,54,Other,VIP,Cash on Delivery,True,Accessories,1,72,2,5.79,391,4343,4.44

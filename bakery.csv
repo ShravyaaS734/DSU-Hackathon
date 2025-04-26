@@ -1,0 +1,1001 @@
+Product Name,Category,Ingredients,Quantity Sold,Price,Cost per Unit,Total Revenue,Discount Applied,Customer Segment,Order Date,Expiration Date,Shelf Life (Days),Customer Age,Customer Gender,Payment Method,Order Type,Wastage Quantity,Review Rating,Packaging Type,When the Product Was Bought
+Chocolate Cake,Cakes,"Cocoa, Baking Powder, Sugar",1,229,137.4,229,False,Family,2025-04-18,2025-04-21,3,20,Male,UPI,Bulk,2,1.3,Paper Box,2025-04-18
+Vanilla Cupcake,Cupcakes,"Sugar, Baking Powder, Butter",3,170,102.0,510,True,Individual,2025-04-13,2025-04-19,6,38,Other,Cash,Single,1,4.9,Plastic Wrap,2025-04-13
+Muffin,Pastries,"Baking Powder, Butter, Cocoa",2,290,174.0,580,True,Individual,2025-04-24,2025-04-27,3,53,Other,Debit Card,Bulk,0,1.2,Cloth Bag,2025-04-24
+Cheese Pastry,Baked Goods,"Eggs, Butter, Baking Powder",2,150,90.0,300,True,Business,2025-04-14,2025-04-18,4,19,Female,Debit Card,Bulk,0,3.0,Cloth Bag,2025-04-14
+Sourdough,Cakes,"Eggs, Butter, Sugar",3,103,61.8,309,False,Individual,2025-04-14,2025-04-18,4,31,Male,UPI,Bulk,2,1.1,Paper Box,2025-04-14
+Sourdough,Baked Goods,"Flour, Sugar, Baking Powder",2,131,78.6,262,True,Business,2025-04-14,2025-04-19,5,27,Male,UPI,Single,0,2.7,Paper Box,2025-04-14
+Fruit Tart,Cupcakes,"Sugar, Butter, Cocoa",2,126,75.6,252,False,Individual,2025-04-14,2025-04-18,4,35,Other,Cash,Bulk,1,2.5,Paper Box,2025-04-14
+Croissant,Baked Goods,"Flour, Baking Powder, Butter",1,250,150.0,250,True,Individual,2025-04-14,2025-04-17,3,35,Other,Debit Card,Single,0,3.3,Plastic Wrap,2025-04-14
+Croissant,Pastries,"Sugar, Butter, Flour",3,239,143.4,717,True,Individual,2025-04-13,2025-04-18,5,53,Male,Debit Card,Single,0,2.3,Cloth Bag,2025-04-13
+Fruit Tart,Cakes,"Milk, Butter, Baking Powder",3,285,171.0,855,True,Individual,2025-04-12,2025-04-17,5,32,Female,Debit Card,Bulk,0,2.6,Paper Box,2025-04-12
+Sourdough,Baked Goods,"Butter, Eggs, Baking Powder",3,292,175.2,876,True,Business,2025-04-12,2025-04-18,6,21,Other,Cash,Single,0,4.7,Plastic Wrap,2025-04-12
+Sourdough,Baked Goods,"Milk, Eggs, Baking Powder",1,165,99.0,165,False,Family,2025-04-14,2025-04-18,4,36,Female,Credit Card,Bulk,1,1.8,Cloth Bag,2025-04-14
+Muffin,Cupcakes,"Flour, Baking Powder, Milk",1,256,153.6,256,True,Business,2025-04-16,2025-04-22,6,53,Male,Credit Card,Bulk,2,2.9,Paper Box,2025-04-16
+Chocolate Cake,Tarts,"Milk, Sugar, Cocoa",3,239,143.4,717,False,Family,2025-04-17,2025-04-23,6,54,Other,UPI,Bulk,0,3.8,Cloth Bag,2025-04-17
+Sourdough,Cakes,"Milk, Sugar, Eggs",2,60,36.0,120,True,Business,2025-04-12,2025-04-16,4,25,Other,Credit Card,Single,0,3.5,Plastic Wrap,2025-04-12
+Chocolate Cake,Cupcakes,"Milk, Butter, Baking Powder",2,219,131.4,438,True,Family,2025-04-23,2025-04-26,3,54,Male,Debit Card,Single,1,1.1,Cloth Bag,2025-04-23
+Muffin,Baked Goods,"Cocoa, Baking Powder, Eggs",1,144,86.4,144,True,Individual,2025-04-11,2025-04-16,5,23,Female,Cash,Single,2,2.8,Cloth Bag,2025-04-11
+Muffin,Pastries,"Milk, Baking Powder, Sugar",3,155,93.0,465,False,Family,2025-04-11,2025-04-16,5,40,Male,Credit Card,Single,0,2.4,Paper Box,2025-04-11
+Fruit Tart,Baked Goods,"Flour, Eggs, Milk",1,207,124.2,207,True,Business,2025-04-21,2025-04-26,5,26,Male,Credit Card,Single,1,2.2,Plastic Wrap,2025-04-21
+Muffin,Cakes,"Butter, Baking Powder, Cocoa",2,60,36.0,120,True,Family,2025-04-22,2025-04-27,5,52,Male,Credit Card,Bulk,1,3.9,Paper Box,2025-04-22
+Croissant,Cakes,"Cocoa, Baking Powder, Flour",1,155,93.0,155,False,Individual,2025-04-20,2025-04-23,3,54,Female,Cash,Bulk,1,4.1,Cloth Bag,2025-04-20
+Sourdough,Cakes,"Sugar, Eggs, Baking Powder",3,119,71.4,357,False,Family,2025-04-24,2025-04-27,3,33,Other,Cash,Single,0,1.7,Cloth Bag,2025-04-24
+Sourdough,Tarts,"Sugar, Flour, Cocoa",2,185,111.0,370,False,Family,2025-04-12,2025-04-17,5,37,Male,Debit Card,Bulk,0,3.6,Plastic Wrap,2025-04-12
+Brownie,Tarts,"Sugar, Baking Powder, Milk",1,246,147.6,246,True,Business,2025-04-13,2025-04-19,6,52,Other,UPI,Bulk,2,4.1,Cloth Bag,2025-04-13
+Fruit Tart,Baked Goods,"Butter, Sugar, Baking Powder",3,230,138.0,690,False,Individual,2025-04-16,2025-04-22,6,33,Other,Credit Card,Bulk,0,3.7,Plastic Wrap,2025-04-16
+Cheese Pastry,Pastries,"Baking Powder, Milk, Butter",1,62,37.2,62,False,Business,2025-04-19,2025-04-22,3,28,Other,Cash,Bulk,1,1.8,Plastic Wrap,2025-04-19
+Sourdough,Cakes,"Cocoa, Eggs, Milk",1,285,171.0,285,True,Business,2025-04-15,2025-04-20,5,36,Other,Cash,Bulk,2,2.7,Paper Box,2025-04-15
+Fruit Tart,Pastries,"Cocoa, Milk, Baking Powder",1,147,88.2,147,False,Family,2025-04-21,2025-04-26,5,22,Other,Credit Card,Single,0,1.2,Plastic Wrap,2025-04-21
+Brownie,Cakes,"Cocoa, Baking Powder, Butter",1,232,139.2,232,False,Family,2025-04-22,2025-04-27,5,41,Other,Cash,Single,2,3.6,Cloth Bag,2025-04-22
+Vanilla Cupcake,Tarts,"Cocoa, Baking Powder, Eggs",3,217,130.2,651,True,Individual,2025-04-22,2025-04-27,5,59,Male,UPI,Bulk,1,2.2,Plastic Wrap,2025-04-22
+Vanilla Cupcake,Baked Goods,"Baking Powder, Sugar, Butter",2,296,177.6,592,True,Individual,2025-04-10,2025-04-14,4,40,Other,Cash,Bulk,1,3.3,Cloth Bag,2025-04-10
+Sourdough,Cupcakes,"Cocoa, Milk, Baking Powder",3,104,62.4,312,False,Business,2025-04-12,2025-04-16,4,40,Female,Credit Card,Single,1,4.1,Paper Box,2025-04-12
+Fruit Tart,Cakes,"Eggs, Cocoa, Baking Powder",1,283,169.8,283,False,Business,2025-04-24,2025-04-27,3,21,Male,Credit Card,Bulk,2,4.4,Paper Box,2025-04-24
+Brownie,Tarts,"Sugar, Eggs, Cocoa",3,53,31.8,159,True,Business,2025-04-22,2025-04-28,6,47,Other,Credit Card,Bulk,1,1.6,Paper Box,2025-04-22
+Cheese Pastry,Cupcakes,"Eggs, Butter, Cocoa",1,237,142.2,237,True,Business,2025-04-17,2025-04-21,4,38,Other,UPI,Single,2,2.3,Cloth Bag,2025-04-17
+Brownie,Baked Goods,"Flour, Eggs, Milk",1,100,60.0,100,True,Business,2025-04-18,2025-04-24,6,35,Female,Debit Card,Single,1,2.0,Paper Box,2025-04-18
+Croissant,Baked Goods,"Sugar, Flour, Butter",2,88,52.8,176,False,Business,2025-04-15,2025-04-20,5,25,Other,Cash,Single,1,3.8,Cloth Bag,2025-04-15
+Vanilla Cupcake,Baked Goods,"Flour, Eggs, Cocoa",1,242,145.2,242,False,Business,2025-04-21,2025-04-24,3,60,Female,Credit Card,Single,2,3.3,Plastic Wrap,2025-04-21
+Sourdough,Cupcakes,"Baking Powder, Milk, Cocoa",2,194,116.4,388,True,Business,2025-04-10,2025-04-13,3,56,Female,UPI,Bulk,1,3.5,Paper Box,2025-04-10
+Sourdough,Cupcakes,"Baking Powder, Sugar, Milk",1,182,109.2,182,True,Business,2025-04-13,2025-04-18,5,38,Other,Cash,Bulk,0,2.5,Cloth Bag,2025-04-13
+Chocolate Cake,Pastries,"Milk, Eggs, Baking Powder",3,62,37.2,186,True,Business,2025-04-14,2025-04-18,4,39,Female,UPI,Bulk,2,1.5,Cloth Bag,2025-04-14
+Cheese Pastry,Pastries,"Milk, Flour, Eggs",1,226,135.6,226,False,Family,2025-04-19,2025-04-25,6,59,Female,UPI,Bulk,2,1.1,Cloth Bag,2025-04-19
+Vanilla Cupcake,Cupcakes,"Eggs, Milk, Butter",3,75,45.0,225,True,Business,2025-04-23,2025-04-26,3,44,Male,UPI,Bulk,1,1.6,Paper Box,2025-04-23
+Cheese Pastry,Baked Goods,"Milk, Butter, Flour",1,143,85.8,143,False,Family,2025-04-21,2025-04-27,6,56,Female,Debit Card,Single,1,1.5,Plastic Wrap,2025-04-21
+Vanilla Cupcake,Cakes,"Eggs, Milk, Flour",3,175,105.0,525,True,Family,2025-04-14,2025-04-18,4,50,Other,Credit Card,Single,1,4.0,Plastic Wrap,2025-04-14
+Fruit Tart,Pastries,"Eggs, Sugar, Baking Powder",1,272,163.2,272,True,Business,2025-04-10,2025-04-15,5,49,Female,Credit Card,Bulk,2,2.1,Cloth Bag,2025-04-10
+Brownie,Cakes,"Sugar, Eggs, Cocoa",3,277,166.2,831,False,Business,2025-04-14,2025-04-19,5,53,Male,Cash,Single,1,3.9,Paper Box,2025-04-14
+Chocolate Cake,Baked Goods,"Milk, Baking Powder, Eggs",2,67,40.2,134,False,Family,2025-04-22,2025-04-25,3,32,Female,Cash,Single,2,4.6,Cloth Bag,2025-04-22
+Muffin,Pastries,"Butter, Milk, Cocoa",3,65,39.0,195,False,Individual,2025-04-16,2025-04-21,5,32,Other,Cash,Bulk,1,1.9,Paper Box,2025-04-16
+Brownie,Cakes,"Flour, Butter, Baking Powder",1,150,90.0,150,False,Family,2025-04-12,2025-04-17,5,29,Other,Debit Card,Single,2,2.1,Plastic Wrap,2025-04-12
+Vanilla Cupcake,Baked Goods,"Butter, Flour, Eggs",1,130,78.0,130,False,Family,2025-04-11,2025-04-15,4,34,Female,Cash,Bulk,2,2.5,Paper Box,2025-04-11
+Brownie,Pastries,"Baking Powder, Milk, Eggs",1,137,82.2,137,False,Individual,2025-04-17,2025-04-23,6,29,Female,UPI,Single,1,4.0,Cloth Bag,2025-04-17
+Fruit Tart,Pastries,"Milk, Sugar, Butter",1,266,159.6,266,False,Business,2025-04-24,2025-04-29,5,53,Female,UPI,Single,1,1.3,Paper Box,2025-04-24
+Cheese Pastry,Baked Goods,"Baking Powder, Milk, Eggs",2,175,105.0,350,True,Business,2025-04-13,2025-04-17,4,19,Other,UPI,Single,2,3.8,Plastic Wrap,2025-04-13
+Muffin,Cakes,"Butter, Milk, Flour",2,139,83.4,278,True,Individual,2025-04-14,2025-04-17,3,36,Other,Credit Card,Bulk,0,2.9,Paper Box,2025-04-14
+Vanilla Cupcake,Cakes,"Milk, Cocoa, Flour",3,72,43.2,216,False,Family,2025-04-19,2025-04-25,6,39,Male,Cash,Bulk,1,1.5,Plastic Wrap,2025-04-19
+Cheese Pastry,Tarts,"Butter, Baking Powder, Milk",1,160,96.0,160,True,Individual,2025-04-21,2025-04-27,6,18,Female,Cash,Single,0,3.8,Plastic Wrap,2025-04-21
+Muffin,Pastries,"Sugar, Cocoa, Eggs",1,259,155.4,259,False,Individual,2025-04-14,2025-04-17,3,46,Female,UPI,Bulk,1,4.6,Plastic Wrap,2025-04-14
+Muffin,Cakes,"Eggs, Milk, Butter",3,112,67.2,336,False,Family,2025-04-23,2025-04-29,6,33,Female,UPI,Single,1,1.5,Paper Box,2025-04-23
+Croissant,Pastries,"Eggs, Baking Powder, Milk",2,181,108.6,362,False,Family,2025-04-16,2025-04-19,3,36,Other,UPI,Single,2,1.5,Cloth Bag,2025-04-16
+Chocolate Cake,Tarts,"Butter, Baking Powder, Cocoa",1,85,51.0,85,False,Business,2025-04-24,2025-04-30,6,35,Female,Cash,Single,1,3.6,Plastic Wrap,2025-04-24
+Sourdough,Baked Goods,"Cocoa, Butter, Baking Powder",2,177,106.2,354,False,Family,2025-04-21,2025-04-27,6,58,Female,Credit Card,Single,0,1.1,Cloth Bag,2025-04-21
+Brownie,Tarts,"Baking Powder, Milk, Flour",3,265,159.0,795,True,Family,2025-04-22,2025-04-26,4,38,Male,Credit Card,Bulk,0,1.3,Cloth Bag,2025-04-22
+Muffin,Pastries,"Eggs, Flour, Butter",2,155,93.0,310,True,Business,2025-04-23,2025-04-29,6,39,Male,Cash,Single,2,3.0,Plastic Wrap,2025-04-23
+Chocolate Cake,Baked Goods,"Eggs, Butter, Milk",3,165,99.0,495,True,Business,2025-04-22,2025-04-25,3,22,Other,Debit Card,Single,2,4.2,Plastic Wrap,2025-04-22
+Sourdough,Cupcakes,"Baking Powder, Eggs, Flour",3,122,73.2,366,True,Family,2025-04-14,2025-04-20,6,20,Female,Credit Card,Bulk,1,1.8,Plastic Wrap,2025-04-14
+Chocolate Cake,Baked Goods,"Sugar, Cocoa, Eggs",2,160,96.0,320,False,Family,2025-04-11,2025-04-16,5,43,Other,Credit Card,Single,0,3.9,Plastic Wrap,2025-04-11
+Fruit Tart,Pastries,"Baking Powder, Sugar, Eggs",1,215,129.0,215,False,Family,2025-04-20,2025-04-23,3,45,Male,Cash,Bulk,2,4.2,Paper Box,2025-04-20
+Brownie,Baked Goods,"Flour, Eggs, Baking Powder",1,173,103.8,173,False,Individual,2025-04-22,2025-04-27,5,26,Other,Debit Card,Bulk,2,4.7,Cloth Bag,2025-04-22
+Sourdough,Cakes,"Cocoa, Flour, Butter",3,265,159.0,795,True,Individual,2025-04-11,2025-04-16,5,23,Other,UPI,Single,0,4.1,Plastic Wrap,2025-04-11
+Croissant,Baked Goods,"Baking Powder, Eggs, Milk",3,263,157.8,789,True,Business,2025-04-15,2025-04-21,6,23,Female,Cash,Bulk,2,4.3,Paper Box,2025-04-15
+Brownie,Cakes,"Cocoa, Butter, Sugar",1,154,92.4,154,False,Individual,2025-04-20,2025-04-25,5,32,Male,Debit Card,Bulk,2,2.0,Paper Box,2025-04-20
+Croissant,Pastries,"Sugar, Cocoa, Flour",2,114,68.4,228,False,Business,2025-04-16,2025-04-22,6,26,Other,Credit Card,Bulk,0,1.7,Paper Box,2025-04-16
+Fruit Tart,Pastries,"Sugar, Eggs, Baking Powder",2,228,136.8,456,False,Individual,2025-04-20,2025-04-25,5,52,Male,Debit Card,Single,1,1.9,Cloth Bag,2025-04-20
+Fruit Tart,Cakes,"Cocoa, Eggs, Butter",3,261,156.6,783,True,Business,2025-04-24,2025-04-27,3,26,Male,UPI,Single,1,4.8,Cloth Bag,2025-04-24
+Cheese Pastry,Pastries,"Milk, Baking Powder, Butter",3,185,111.0,555,False,Individual,2025-04-23,2025-04-27,4,37,Other,Credit Card,Bulk,0,4.9,Cloth Bag,2025-04-23
+Fruit Tart,Cakes,"Baking Powder, Flour, Milk",2,157,94.2,314,False,Business,2025-04-17,2025-04-20,3,48,Female,Cash,Single,2,4.1,Paper Box,2025-04-17
+Fruit Tart,Baked Goods,"Eggs, Butter, Sugar",1,249,149.4,249,True,Family,2025-04-11,2025-04-15,4,29,Female,UPI,Bulk,2,3.9,Paper Box,2025-04-11
+Croissant,Cakes,"Eggs, Milk, Flour",3,202,121.2,606,False,Family,2025-04-14,2025-04-20,6,34,Male,Credit Card,Bulk,0,2.2,Plastic Wrap,2025-04-14
+Vanilla Cupcake,Cupcakes,"Butter, Eggs, Milk",1,207,124.2,207,False,Family,2025-04-22,2025-04-26,4,34,Other,UPI,Bulk,1,4.5,Cloth Bag,2025-04-22
+Chocolate Cake,Cakes,"Baking Powder, Butter, Cocoa",1,217,130.2,217,False,Individual,2025-04-20,2025-04-24,4,51,Female,Debit Card,Bulk,2,2.3,Paper Box,2025-04-20
+Croissant,Baked Goods,"Flour, Eggs, Cocoa",1,278,166.8,278,False,Business,2025-04-14,2025-04-17,3,26,Female,Cash,Single,1,4.0,Paper Box,2025-04-14
+Vanilla Cupcake,Cakes,"Cocoa, Flour, Milk",2,289,173.4,578,False,Family,2025-04-11,2025-04-17,6,47,Other,Credit Card,Bulk,0,4.9,Paper Box,2025-04-11
+Vanilla Cupcake,Cakes,"Butter, Cocoa, Flour",2,81,48.6,162,False,Family,2025-04-12,2025-04-15,3,26,Male,Credit Card,Bulk,0,3.3,Plastic Wrap,2025-04-12
+Cheese Pastry,Pastries,"Milk, Baking Powder, Butter",3,120,72.0,360,False,Family,2025-04-19,2025-04-25,6,19,Other,Cash,Bulk,1,2.6,Cloth Bag,2025-04-19
+Cheese Pastry,Cakes,"Milk, Baking Powder, Eggs",1,273,163.8,273,True,Business,2025-04-13,2025-04-17,4,53,Other,UPI,Single,0,2.7,Cloth Bag,2025-04-13
+Brownie,Cakes,"Sugar, Eggs, Flour",1,295,177.0,295,True,Family,2025-04-22,2025-04-25,3,39,Female,Debit Card,Bulk,0,4.1,Plastic Wrap,2025-04-22
+Vanilla Cupcake,Cakes,"Sugar, Milk, Butter",1,244,146.4,244,True,Individual,2025-04-17,2025-04-23,6,47,Male,Debit Card,Bulk,2,1.5,Plastic Wrap,2025-04-17
+Vanilla Cupcake,Cakes,"Eggs, Cocoa, Sugar",2,173,103.8,346,False,Individual,2025-04-19,2025-04-24,5,59,Male,Cash,Bulk,0,1.8,Plastic Wrap,2025-04-19
+Sourdough,Tarts,"Butter, Sugar, Flour",2,91,54.6,182,True,Family,2025-04-12,2025-04-17,5,42,Other,Cash,Bulk,1,1.3,Paper Box,2025-04-12
+Brownie,Baked Goods,"Butter, Eggs, Milk",3,214,128.4,642,True,Business,2025-04-16,2025-04-19,3,18,Male,Debit Card,Single,0,1.4,Plastic Wrap,2025-04-16
+Croissant,Cakes,"Flour, Baking Powder, Butter",3,190,114.0,570,True,Individual,2025-04-17,2025-04-22,5,30,Other,Debit Card,Bulk,0,3.5,Paper Box,2025-04-17
+Fruit Tart,Pastries,"Butter, Flour, Eggs",1,84,50.4,84,False,Individual,2025-04-18,2025-04-24,6,41,Female,Credit Card,Bulk,2,4.8,Plastic Wrap,2025-04-18
+Vanilla Cupcake,Pastries,"Flour, Butter, Milk",2,64,38.4,128,False,Individual,2025-04-14,2025-04-18,4,50,Other,Cash,Bulk,0,3.0,Cloth Bag,2025-04-14
+Chocolate Cake,Pastries,"Sugar, Milk, Flour",1,78,46.8,78,True,Individual,2025-04-21,2025-04-26,5,37,Female,Cash,Single,2,4.3,Plastic Wrap,2025-04-21
+Croissant,Cakes,"Milk, Butter, Cocoa",1,218,130.8,218,True,Business,2025-04-11,2025-04-16,5,56,Male,Credit Card,Bulk,2,2.9,Paper Box,2025-04-11
+Fruit Tart,Baked Goods,"Butter, Milk, Sugar",1,143,85.8,143,False,Business,2025-04-15,2025-04-19,4,28,Female,UPI,Bulk,1,2.9,Paper Box,2025-04-15
+Fruit Tart,Pastries,"Milk, Cocoa, Eggs",3,261,156.6,783,True,Family,2025-04-23,2025-04-26,3,44,Female,Cash,Bulk,0,1.8,Cloth Bag,2025-04-23
+Brownie,Cakes,"Flour, Sugar, Milk",3,262,157.2,786,True,Family,2025-04-20,2025-04-23,3,35,Male,Cash,Bulk,1,4.2,Paper Box,2025-04-20
+Vanilla Cupcake,Cupcakes,"Eggs, Flour, Butter",1,109,65.4,109,True,Business,2025-04-22,2025-04-27,5,48,Male,Cash,Bulk,1,3.9,Paper Box,2025-04-22
+Fruit Tart,Cakes,"Flour, Cocoa, Sugar",2,267,160.2,534,True,Business,2025-04-10,2025-04-14,4,53,Other,Debit Card,Single,0,4.0,Cloth Bag,2025-04-10
+Cheese Pastry,Tarts,"Butter, Milk, Flour",2,197,118.2,394,False,Family,2025-04-12,2025-04-15,3,56,Male,Credit Card,Bulk,0,1.7,Paper Box,2025-04-12
+Chocolate Cake,Tarts,"Sugar, Flour, Milk",1,206,123.6,206,True,Business,2025-04-24,2025-04-30,6,18,Other,Credit Card,Single,0,3.8,Paper Box,2025-04-24
+Fruit Tart,Baked Goods,"Sugar, Milk, Baking Powder",1,268,160.8,268,True,Individual,2025-04-11,2025-04-16,5,21,Other,Cash,Bulk,0,3.2,Cloth Bag,2025-04-11
+Brownie,Tarts,"Milk, Cocoa, Butter",3,262,157.2,786,False,Business,2025-04-16,2025-04-20,4,18,Female,Credit Card,Single,0,4.6,Paper Box,2025-04-16
+Brownie,Baked Goods,"Butter, Sugar, Baking Powder",2,138,82.8,276,False,Family,2025-04-14,2025-04-18,4,44,Other,Cash,Bulk,2,1.5,Plastic Wrap,2025-04-14
+Fruit Tart,Baked Goods,"Flour, Butter, Baking Powder",2,215,129.0,430,False,Family,2025-04-15,2025-04-21,6,30,Male,UPI,Bulk,0,4.7,Paper Box,2025-04-15
+Fruit Tart,Pastries,"Sugar, Baking Powder, Cocoa",3,147,88.2,441,True,Family,2025-04-20,2025-04-23,3,31,Male,UPI,Bulk,0,3.3,Plastic Wrap,2025-04-20
+Fruit Tart,Pastries,"Sugar, Milk, Flour",1,132,79.2,132,False,Business,2025-04-10,2025-04-15,5,32,Other,UPI,Bulk,0,1.9,Plastic Wrap,2025-04-10
+Brownie,Pastries,"Milk, Sugar, Flour",3,105,63.0,315,False,Business,2025-04-20,2025-04-23,3,30,Other,Cash,Single,0,4.3,Cloth Bag,2025-04-20
+Croissant,Baked Goods,"Butter, Eggs, Milk",3,248,148.8,744,False,Business,2025-04-11,2025-04-14,3,50,Female,Credit Card,Single,2,3.9,Plastic Wrap,2025-04-11
+Vanilla Cupcake,Baked Goods,"Baking Powder, Cocoa, Flour",1,114,68.4,114,False,Business,2025-04-14,2025-04-18,4,36,Other,Cash,Single,0,4.7,Plastic Wrap,2025-04-14
+Chocolate Cake,Cakes,"Baking Powder, Cocoa, Butter",1,277,166.2,277,False,Individual,2025-04-10,2025-04-16,6,49,Male,UPI,Single,0,3.6,Paper Box,2025-04-10
+Croissant,Cupcakes,"Sugar, Butter, Eggs",3,65,39.0,195,False,Family,2025-04-10,2025-04-15,5,40,Female,Debit Card,Bulk,2,1.9,Paper Box,2025-04-10
+Fruit Tart,Cakes,"Butter, Flour, Eggs",2,267,160.2,534,False,Family,2025-04-17,2025-04-22,5,45,Other,Credit Card,Single,2,4.6,Paper Box,2025-04-17
+Sourdough,Baked Goods,"Butter, Cocoa, Baking Powder",2,64,38.4,128,True,Individual,2025-04-21,2025-04-25,4,27,Other,UPI,Single,1,1.5,Cloth Bag,2025-04-21
+Brownie,Cakes,"Cocoa, Sugar, Butter",3,258,154.8,774,True,Business,2025-04-24,2025-04-27,3,41,Other,Credit Card,Single,0,2.0,Paper Box,2025-04-24
+Muffin,Baked Goods,"Milk, Baking Powder, Eggs",2,213,127.8,426,False,Individual,2025-04-13,2025-04-17,4,60,Female,Debit Card,Single,0,2.5,Plastic Wrap,2025-04-13
+Croissant,Pastries,"Eggs, Milk, Baking Powder",1,261,156.6,261,False,Business,2025-04-20,2025-04-24,4,25,Male,Credit Card,Bulk,0,4.6,Plastic Wrap,2025-04-20
+Muffin,Cakes,"Eggs, Flour, Milk",2,247,148.2,494,False,Individual,2025-04-20,2025-04-25,5,35,Other,Credit Card,Single,0,4.6,Paper Box,2025-04-20
+Croissant,Pastries,"Butter, Milk, Baking Powder",2,164,98.4,328,True,Family,2025-04-21,2025-04-26,5,54,Other,Debit Card,Bulk,2,3.7,Cloth Bag,2025-04-21
+Chocolate Cake,Pastries,"Baking Powder, Flour, Eggs",2,228,136.8,456,False,Business,2025-04-23,2025-04-26,3,43,Male,Credit Card,Bulk,2,4.6,Plastic Wrap,2025-04-23
+Croissant,Baked Goods,"Butter, Cocoa, Baking Powder",1,246,147.6,246,False,Family,2025-04-23,2025-04-26,3,55,Other,UPI,Bulk,0,4.0,Cloth Bag,2025-04-23
+Chocolate Cake,Cakes,"Cocoa, Milk, Sugar",3,127,76.2,381,True,Family,2025-04-22,2025-04-25,3,29,Other,UPI,Single,0,2.3,Paper Box,2025-04-22
+Sourdough,Pastries,"Cocoa, Flour, Milk",2,72,43.2,144,False,Family,2025-04-22,2025-04-25,3,31,Male,UPI,Single,2,3.8,Cloth Bag,2025-04-22
+Fruit Tart,Cakes,"Eggs, Milk, Butter",3,273,163.8,819,False,Family,2025-04-14,2025-04-17,3,59,Other,UPI,Bulk,2,3.6,Plastic Wrap,2025-04-14
+Vanilla Cupcake,Cakes,"Flour, Baking Powder, Eggs",2,55,33.0,110,False,Individual,2025-04-16,2025-04-19,3,52,Female,Debit Card,Single,0,3.4,Plastic Wrap,2025-04-16
+Chocolate Cake,Tarts,"Eggs, Sugar, Baking Powder",3,275,165.0,825,False,Business,2025-04-23,2025-04-26,3,19,Male,Credit Card,Bulk,0,2.3,Cloth Bag,2025-04-23
+Muffin,Tarts,"Cocoa, Milk, Baking Powder",1,50,30.0,50,True,Family,2025-04-22,2025-04-26,4,18,Other,Debit Card,Single,2,4.3,Plastic Wrap,2025-04-22
+Brownie,Cupcakes,"Eggs, Milk, Baking Powder",3,153,91.8,459,True,Individual,2025-04-16,2025-04-19,3,37,Other,Debit Card,Bulk,2,2.0,Plastic Wrap,2025-04-16
+Chocolate Cake,Tarts,"Cocoa, Flour, Sugar",2,152,91.2,304,True,Family,2025-04-18,2025-04-21,3,35,Other,Credit Card,Bulk,0,4.7,Plastic Wrap,2025-04-18
+Vanilla Cupcake,Cakes,"Eggs, Milk, Butter",3,100,60.0,300,False,Family,2025-04-13,2025-04-18,5,45,Other,Cash,Bulk,1,1.2,Plastic Wrap,2025-04-13
+Vanilla Cupcake,Cakes,"Flour, Cocoa, Butter",2,272,163.2,544,False,Business,2025-04-12,2025-04-16,4,44,Female,Debit Card,Bulk,1,1.4,Cloth Bag,2025-04-12
+Sourdough,Pastries,"Butter, Eggs, Milk",3,57,34.2,171,False,Family,2025-04-12,2025-04-16,4,37,Male,Credit Card,Bulk,1,1.1,Plastic Wrap,2025-04-12
+Croissant,Tarts,"Cocoa, Flour, Baking Powder",3,79,47.4,237,False,Family,2025-04-12,2025-04-18,6,21,Other,UPI,Single,2,2.7,Paper Box,2025-04-12
+Croissant,Cakes,"Butter, Eggs, Flour",1,131,78.6,131,True,Business,2025-04-12,2025-04-17,5,58,Male,UPI,Bulk,0,3.9,Cloth Bag,2025-04-12
+Chocolate Cake,Pastries,"Cocoa, Milk, Eggs",2,147,88.2,294,True,Family,2025-04-24,2025-04-27,3,53,Male,Cash,Single,1,1.3,Plastic Wrap,2025-04-24
+Vanilla Cupcake,Tarts,"Sugar, Flour, Butter",1,85,51.0,85,False,Individual,2025-04-23,2025-04-29,6,19,Male,Debit Card,Single,1,2.0,Paper Box,2025-04-23
+Fruit Tart,Tarts,"Butter, Sugar, Milk",2,174,104.4,348,True,Business,2025-04-13,2025-04-17,4,37,Other,UPI,Single,0,1.7,Paper Box,2025-04-13
+Vanilla Cupcake,Pastries,"Eggs, Flour, Sugar",1,62,37.2,62,True,Business,2025-04-15,2025-04-18,3,36,Female,Cash,Bulk,2,4.1,Plastic Wrap,2025-04-15
+Fruit Tart,Pastries,"Sugar, Milk, Cocoa",3,265,159.0,795,True,Family,2025-04-18,2025-04-21,3,38,Other,Cash,Single,1,2.5,Plastic Wrap,2025-04-18
+Chocolate Cake,Cakes,"Flour, Cocoa, Milk",1,266,159.6,266,False,Business,2025-04-19,2025-04-25,6,23,Male,UPI,Single,1,3.7,Cloth Bag,2025-04-19
+Sourdough,Pastries,"Milk, Sugar, Cocoa",2,224,134.4,448,True,Individual,2025-04-17,2025-04-20,3,52,Female,UPI,Bulk,1,2.9,Paper Box,2025-04-17
+Chocolate Cake,Cakes,"Flour, Cocoa, Eggs",2,59,35.4,118,False,Business,2025-04-16,2025-04-22,6,42,Male,Debit Card,Single,0,4.9,Paper Box,2025-04-16
+Brownie,Pastries,"Butter, Milk, Sugar",2,210,126.0,420,True,Individual,2025-04-20,2025-04-24,4,27,Female,Credit Card,Bulk,2,3.9,Cloth Bag,2025-04-20
+Chocolate Cake,Baked Goods,"Sugar, Butter, Milk",3,158,94.8,474,False,Business,2025-04-10,2025-04-13,3,32,Female,Credit Card,Single,2,2.5,Paper Box,2025-04-10
+Chocolate Cake,Pastries,"Cocoa, Flour, Sugar",2,177,106.2,354,False,Individual,2025-04-20,2025-04-25,5,34,Female,Cash,Single,1,3.7,Paper Box,2025-04-20
+Sourdough,Baked Goods,"Flour, Milk, Sugar",2,274,164.4,548,True,Business,2025-04-10,2025-04-16,6,31,Female,Debit Card,Single,2,4.7,Plastic Wrap,2025-04-10
+Cheese Pastry,Tarts,"Cocoa, Flour, Milk",2,257,154.2,514,True,Family,2025-04-10,2025-04-13,3,34,Male,Cash,Single,0,4.9,Paper Box,2025-04-10
+Brownie,Cupcakes,"Sugar, Eggs, Baking Powder",2,258,154.8,516,False,Individual,2025-04-13,2025-04-18,5,27,Other,Credit Card,Single,2,4.7,Cloth Bag,2025-04-13
+Cheese Pastry,Cakes,"Butter, Sugar, Milk",3,100,60.0,300,False,Family,2025-04-14,2025-04-19,5,34,Male,Cash,Bulk,2,3.1,Plastic Wrap,2025-04-14
+Cheese Pastry,Baked Goods,"Flour, Baking Powder, Milk",2,162,97.2,324,True,Individual,2025-04-20,2025-04-23,3,50,Female,Cash,Bulk,2,3.5,Plastic Wrap,2025-04-20
+Brownie,Tarts,"Butter, Sugar, Milk",1,134,80.4,134,False,Business,2025-04-24,2025-04-30,6,24,Other,Cash,Single,0,3.9,Paper Box,2025-04-24
+Brownie,Baked Goods,"Flour, Sugar, Baking Powder",1,193,115.8,193,True,Individual,2025-04-21,2025-04-26,5,39,Male,Cash,Single,1,4.4,Cloth Bag,2025-04-21
+Cheese Pastry,Baked Goods,"Sugar, Butter, Flour",2,274,164.4,548,True,Family,2025-04-24,2025-04-27,3,32,Male,Cash,Bulk,2,2.1,Plastic Wrap,2025-04-24
+Croissant,Pastries,"Flour, Butter, Baking Powder",2,84,50.4,168,False,Family,2025-04-24,2025-04-29,5,39,Other,Debit Card,Bulk,2,3.5,Plastic Wrap,2025-04-24
+Chocolate Cake,Baked Goods,"Cocoa, Milk, Eggs",2,147,88.2,294,False,Individual,2025-04-21,2025-04-24,3,21,Male,UPI,Bulk,1,2.1,Cloth Bag,2025-04-21
+Cheese Pastry,Pastries,"Sugar, Cocoa, Eggs",3,278,166.8,834,False,Individual,2025-04-14,2025-04-19,5,56,Male,Cash,Bulk,1,1.1,Plastic Wrap,2025-04-14
+Cheese Pastry,Pastries,"Cocoa, Sugar, Baking Powder",2,103,61.8,206,False,Individual,2025-04-14,2025-04-18,4,34,Female,Credit Card,Single,1,2.9,Plastic Wrap,2025-04-14
+Cheese Pastry,Baked Goods,"Sugar, Eggs, Baking Powder",3,122,73.2,366,False,Individual,2025-04-10,2025-04-15,5,37,Male,Debit Card,Bulk,1,3.5,Plastic Wrap,2025-04-10
+Fruit Tart,Baked Goods,"Eggs, Sugar, Baking Powder",2,219,131.4,438,False,Individual,2025-04-12,2025-04-15,3,25,Other,Cash,Bulk,1,4.8,Plastic Wrap,2025-04-12
+Chocolate Cake,Baked Goods,"Baking Powder, Eggs, Flour",1,183,109.8,183,False,Business,2025-04-13,2025-04-16,3,31,Other,UPI,Single,2,3.3,Cloth Bag,2025-04-13
+Croissant,Cakes,"Butter, Milk, Eggs",1,85,51.0,85,True,Family,2025-04-19,2025-04-24,5,25,Other,Credit Card,Single,2,2.2,Paper Box,2025-04-19
+Fruit Tart,Baked Goods,"Butter, Flour, Milk",1,283,169.8,283,True,Business,2025-04-17,2025-04-23,6,52,Male,Debit Card,Bulk,2,1.5,Cloth Bag,2025-04-17
+Muffin,Cakes,"Eggs, Sugar, Milk",2,177,106.2,354,False,Individual,2025-04-15,2025-04-18,3,36,Other,UPI,Bulk,2,4.0,Cloth Bag,2025-04-15
+Sourdough,Pastries,"Flour, Butter, Baking Powder",3,183,109.8,549,True,Business,2025-04-10,2025-04-15,5,37,Other,UPI,Single,1,1.2,Paper Box,2025-04-10
+Brownie,Cakes,"Cocoa, Flour, Sugar",2,189,113.4,378,True,Family,2025-04-22,2025-04-26,4,29,Female,Debit Card,Bulk,2,3.2,Cloth Bag,2025-04-22
+Sourdough,Tarts,"Flour, Baking Powder, Cocoa",1,288,172.8,288,True,Business,2025-04-13,2025-04-16,3,44,Male,Credit Card,Bulk,2,4.6,Cloth Bag,2025-04-13
+Brownie,Pastries,"Baking Powder, Eggs, Butter",1,237,142.2,237,True,Family,2025-04-10,2025-04-13,3,59,Male,UPI,Bulk,1,2.1,Paper Box,2025-04-10
+Croissant,Pastries,"Milk, Flour, Eggs",1,203,121.8,203,False,Individual,2025-04-17,2025-04-22,5,23,Male,Cash,Bulk,2,4.9,Cloth Bag,2025-04-17
+Fruit Tart,Tarts,"Sugar, Flour, Butter",3,213,127.8,639,True,Individual,2025-04-20,2025-04-26,6,26,Female,Cash,Bulk,2,2.2,Plastic Wrap,2025-04-20
+Fruit Tart,Baked Goods,"Eggs, Cocoa, Milk",2,271,162.6,542,False,Individual,2025-04-10,2025-04-13,3,26,Other,Debit Card,Single,2,3.8,Cloth Bag,2025-04-10
+Croissant,Pastries,"Cocoa, Milk, Sugar",1,205,123.0,205,True,Family,2025-04-14,2025-04-19,5,50,Female,Credit Card,Single,1,3.3,Plastic Wrap,2025-04-14
+Fruit Tart,Baked Goods,"Eggs, Flour, Baking Powder",1,193,115.8,193,False,Business,2025-04-17,2025-04-21,4,33,Female,Cash,Single,2,3.4,Plastic Wrap,2025-04-17
+Cheese Pastry,Cakes,"Eggs, Butter, Flour",1,129,77.4,129,True,Business,2025-04-21,2025-04-25,4,20,Other,UPI,Single,0,4.4,Plastic Wrap,2025-04-21
+Sourdough,Cupcakes,"Eggs, Cocoa, Sugar",1,143,85.8,143,False,Family,2025-04-17,2025-04-21,4,58,Male,UPI,Bulk,0,1.2,Plastic Wrap,2025-04-17
+Vanilla Cupcake,Cakes,"Butter, Baking Powder, Cocoa",2,189,113.4,378,False,Business,2025-04-16,2025-04-22,6,53,Other,Debit Card,Single,2,4.5,Paper Box,2025-04-16
+Brownie,Pastries,"Baking Powder, Milk, Cocoa",2,68,40.8,136,True,Business,2025-04-11,2025-04-16,5,29,Other,UPI,Single,2,2.0,Cloth Bag,2025-04-11
+Muffin,Cupcakes,"Cocoa, Baking Powder, Butter",2,54,32.4,108,False,Individual,2025-04-17,2025-04-22,5,27,Other,Debit Card,Bulk,0,2.1,Cloth Bag,2025-04-17
+Croissant,Cakes,"Baking Powder, Milk, Eggs",3,65,39.0,195,False,Family,2025-04-12,2025-04-15,3,60,Female,Cash,Single,2,2.4,Plastic Wrap,2025-04-12
+Fruit Tart,Baked Goods,"Sugar, Baking Powder, Eggs",2,167,100.2,334,True,Business,2025-04-20,2025-04-24,4,29,Female,Debit Card,Bulk,1,3.5,Plastic Wrap,2025-04-20
+Fruit Tart,Tarts,"Butter, Cocoa, Flour",2,68,40.8,136,False,Family,2025-04-19,2025-04-24,5,29,Female,UPI,Bulk,2,3.3,Cloth Bag,2025-04-19
+Sourdough,Pastries,"Cocoa, Sugar, Milk",2,56,33.6,112,True,Family,2025-04-21,2025-04-25,4,59,Other,Credit Card,Bulk,0,1.9,Plastic Wrap,2025-04-21
+Sourdough,Pastries,"Baking Powder, Butter, Milk",3,129,77.4,387,False,Business,2025-04-21,2025-04-26,5,42,Female,Credit Card,Bulk,1,1.8,Paper Box,2025-04-21
+Croissant,Baked Goods,"Cocoa, Eggs, Baking Powder",2,152,91.2,304,False,Business,2025-04-16,2025-04-21,5,27,Male,Credit Card,Bulk,0,3.5,Paper Box,2025-04-16
+Croissant,Pastries,"Sugar, Flour, Cocoa",1,173,103.8,173,True,Family,2025-04-18,2025-04-24,6,37,Male,Credit Card,Bulk,2,1.7,Plastic Wrap,2025-04-18
+Muffin,Cupcakes,"Sugar, Milk, Flour",3,207,124.2,621,False,Business,2025-04-12,2025-04-17,5,28,Other,Credit Card,Single,2,3.4,Plastic Wrap,2025-04-12
+Sourdough,Cupcakes,"Butter, Baking Powder, Milk",1,55,33.0,55,True,Family,2025-04-19,2025-04-23,4,55,Female,Cash,Single,2,1.5,Plastic Wrap,2025-04-19
+Sourdough,Pastries,"Cocoa, Flour, Butter",3,79,47.4,237,True,Business,2025-04-22,2025-04-28,6,46,Female,Cash,Single,0,2.1,Cloth Bag,2025-04-22
+Fruit Tart,Tarts,"Baking Powder, Flour, Sugar",2,74,44.4,148,False,Family,2025-04-14,2025-04-20,6,42,Other,Cash,Bulk,0,1.9,Cloth Bag,2025-04-14
+Croissant,Cupcakes,"Cocoa, Eggs, Flour",1,56,33.6,56,False,Family,2025-04-21,2025-04-25,4,29,Other,Debit Card,Bulk,0,4.5,Cloth Bag,2025-04-21
+Chocolate Cake,Cupcakes,"Cocoa, Sugar, Flour",2,168,100.8,336,False,Family,2025-04-16,2025-04-22,6,20,Male,Credit Card,Bulk,2,4.1,Cloth Bag,2025-04-16
+Croissant,Cakes,"Sugar, Baking Powder, Milk",3,125,75.0,375,True,Individual,2025-04-11,2025-04-15,4,45,Other,UPI,Single,2,2.5,Paper Box,2025-04-11
+Sourdough,Pastries,"Sugar, Eggs, Milk",1,169,101.4,169,False,Business,2025-04-13,2025-04-16,3,42,Other,UPI,Single,2,1.4,Plastic Wrap,2025-04-13
+Sourdough,Cakes,"Sugar, Flour, Baking Powder",2,144,86.4,288,False,Business,2025-04-11,2025-04-17,6,55,Other,UPI,Bulk,0,1.5,Paper Box,2025-04-11
+Fruit Tart,Pastries,"Cocoa, Eggs, Milk",3,231,138.6,693,True,Individual,2025-04-19,2025-04-24,5,57,Male,Cash,Single,0,1.1,Paper Box,2025-04-19
+Chocolate Cake,Pastries,"Milk, Flour, Baking Powder",3,75,45.0,225,True,Individual,2025-04-12,2025-04-16,4,57,Female,UPI,Single,0,2.0,Plastic Wrap,2025-04-12
+Cheese Pastry,Cakes,"Sugar, Cocoa, Flour",1,219,131.4,219,False,Individual,2025-04-22,2025-04-26,4,21,Male,Debit Card,Single,2,2.0,Plastic Wrap,2025-04-22
+Fruit Tart,Cakes,"Milk, Flour, Eggs",1,88,52.8,88,False,Individual,2025-04-17,2025-04-22,5,55,Male,Debit Card,Single,0,3.4,Paper Box,2025-04-17
+Chocolate Cake,Pastries,"Milk, Eggs, Butter",1,241,144.6,241,True,Family,2025-04-20,2025-04-24,4,39,Female,Debit Card,Single,0,1.1,Cloth Bag,2025-04-20
+Fruit Tart,Baked Goods,"Eggs, Baking Powder, Butter",3,193,115.8,579,False,Individual,2025-04-19,2025-04-22,3,23,Female,Debit Card,Single,2,3.7,Plastic Wrap,2025-04-19
+Chocolate Cake,Pastries,"Milk, Butter, Eggs",2,177,106.2,354,False,Business,2025-04-13,2025-04-16,3,25,Female,Cash,Bulk,1,1.1,Paper Box,2025-04-13
+Vanilla Cupcake,Pastries,"Baking Powder, Eggs, Sugar",2,259,155.4,518,True,Individual,2025-04-12,2025-04-15,3,26,Male,UPI,Bulk,0,2.8,Plastic Wrap,2025-04-12
+Chocolate Cake,Pastries,"Butter, Eggs, Milk",1,173,103.8,173,False,Family,2025-04-12,2025-04-17,5,42,Male,UPI,Bulk,2,1.1,Paper Box,2025-04-12
+Croissant,Cakes,"Sugar, Flour, Cocoa",3,62,37.2,186,True,Individual,2025-04-22,2025-04-27,5,20,Male,Debit Card,Bulk,0,3.4,Cloth Bag,2025-04-22
+Chocolate Cake,Baked Goods,"Flour, Baking Powder, Cocoa",3,283,169.8,849,True,Business,2025-04-21,2025-04-25,4,41,Male,Debit Card,Bulk,0,4.2,Cloth Bag,2025-04-21
+Fruit Tart,Cakes,"Milk, Sugar, Flour",2,232,139.2,464,False,Family,2025-04-12,2025-04-18,6,34,Female,UPI,Single,2,4.6,Paper Box,2025-04-12
+Muffin,Cupcakes,"Sugar, Cocoa, Milk",1,293,175.8,293,False,Family,2025-04-23,2025-04-26,3,39,Female,Cash,Bulk,2,4.4,Cloth Bag,2025-04-23
+Brownie,Cakes,"Baking Powder, Flour, Milk",1,110,66.0,110,True,Family,2025-04-15,2025-04-20,5,30,Female,Credit Card,Bulk,0,2.1,Plastic Wrap,2025-04-15
+Cheese Pastry,Cakes,"Sugar, Butter, Milk",1,260,156.0,260,True,Family,2025-04-10,2025-04-16,6,31,Male,Cash,Bulk,2,2.9,Cloth Bag,2025-04-10
+Chocolate Cake,Baked Goods,"Baking Powder, Flour, Milk",3,217,130.2,651,False,Business,2025-04-23,2025-04-27,4,24,Other,Credit Card,Bulk,0,3.5,Plastic Wrap,2025-04-23
+Sourdough,Baked Goods,"Baking Powder, Butter, Cocoa",2,262,157.2,524,True,Business,2025-04-16,2025-04-20,4,29,Male,Debit Card,Single,0,4.0,Cloth Bag,2025-04-16
+Muffin,Cupcakes,"Butter, Baking Powder, Eggs",1,220,132.0,220,True,Family,2025-04-21,2025-04-27,6,30,Other,Credit Card,Single,2,3.5,Plastic Wrap,2025-04-21
+Cheese Pastry,Pastries,"Milk, Sugar, Cocoa",2,156,93.6,312,False,Family,2025-04-22,2025-04-27,5,38,Male,Credit Card,Bulk,2,3.8,Paper Box,2025-04-22
+Muffin,Baked Goods,"Milk, Eggs, Baking Powder",3,251,150.6,753,True,Family,2025-04-18,2025-04-23,5,40,Male,Credit Card,Bulk,0,2.0,Paper Box,2025-04-18
+Cheese Pastry,Cakes,"Baking Powder, Butter, Cocoa",2,96,57.6,192,False,Family,2025-04-19,2025-04-22,3,26,Female,Cash,Bulk,1,2.0,Cloth Bag,2025-04-19
+Croissant,Baked Goods,"Flour, Milk, Baking Powder",1,121,72.6,121,True,Family,2025-04-17,2025-04-20,3,47,Female,Cash,Single,0,2.8,Plastic Wrap,2025-04-17
+Vanilla Cupcake,Cupcakes,"Cocoa, Flour, Butter",1,200,120.0,200,False,Individual,2025-04-18,2025-04-24,6,34,Female,Cash,Bulk,2,4.3,Cloth Bag,2025-04-18
+Vanilla Cupcake,Cakes,"Sugar, Cocoa, Butter",1,296,177.6,296,False,Business,2025-04-16,2025-04-19,3,18,Other,Cash,Bulk,1,2.9,Plastic Wrap,2025-04-16
+Sourdough,Cupcakes,"Sugar, Butter, Eggs",2,200,120.0,400,True,Family,2025-04-11,2025-04-15,4,50,Other,Cash,Single,1,2.6,Cloth Bag,2025-04-11
+Croissant,Pastries,"Cocoa, Milk, Baking Powder",2,102,61.2,204,True,Individual,2025-04-23,2025-04-28,5,30,Other,Credit Card,Single,1,2.8,Paper Box,2025-04-23
+Vanilla Cupcake,Baked Goods,"Baking Powder, Flour, Milk",3,126,75.6,378,True,Individual,2025-04-18,2025-04-23,5,51,Male,Cash,Single,1,2.8,Cloth Bag,2025-04-18
+Muffin,Pastries,"Flour, Eggs, Milk",3,210,126.0,630,False,Family,2025-04-22,2025-04-27,5,26,Female,UPI,Bulk,1,4.2,Cloth Bag,2025-04-22
+Vanilla Cupcake,Cakes,"Butter, Cocoa, Sugar",2,56,33.6,112,False,Family,2025-04-22,2025-04-26,4,27,Male,Cash,Single,0,1.9,Plastic Wrap,2025-04-22
+Muffin,Baked Goods,"Butter, Baking Powder, Milk",2,125,75.0,250,True,Business,2025-04-11,2025-04-15,4,42,Male,UPI,Bulk,1,2.0,Plastic Wrap,2025-04-11
+Fruit Tart,Baked Goods,"Baking Powder, Cocoa, Flour",1,80,48.0,80,False,Individual,2025-04-10,2025-04-13,3,22,Male,Debit Card,Single,1,3.1,Paper Box,2025-04-10
+Fruit Tart,Baked Goods,"Eggs, Flour, Milk",2,283,169.8,566,True,Family,2025-04-22,2025-04-25,3,34,Other,Credit Card,Bulk,2,4.6,Plastic Wrap,2025-04-22
+Cheese Pastry,Tarts,"Flour, Milk, Baking Powder",2,73,43.8,146,True,Family,2025-04-18,2025-04-22,4,42,Female,Debit Card,Single,1,3.4,Plastic Wrap,2025-04-18
+Sourdough,Tarts,"Baking Powder, Cocoa, Sugar",2,199,119.4,398,True,Family,2025-04-19,2025-04-23,4,56,Female,Cash,Single,0,1.7,Paper Box,2025-04-19
+Muffin,Cakes,"Flour, Cocoa, Milk",2,270,162.0,540,False,Individual,2025-04-14,2025-04-18,4,42,Other,Credit Card,Single,1,2.7,Cloth Bag,2025-04-14
+Muffin,Baked Goods,"Eggs, Baking Powder, Flour",1,175,105.0,175,False,Individual,2025-04-14,2025-04-18,4,26,Female,Credit Card,Bulk,1,2.4,Plastic Wrap,2025-04-14
+Croissant,Baked Goods,"Eggs, Flour, Baking Powder",3,135,81.0,405,False,Individual,2025-04-21,2025-04-25,4,52,Other,Debit Card,Bulk,1,3.2,Paper Box,2025-04-21
+Muffin,Pastries,"Butter, Eggs, Baking Powder",1,112,67.2,112,True,Individual,2025-04-14,2025-04-18,4,22,Other,Debit Card,Bulk,0,3.8,Plastic Wrap,2025-04-14
+Brownie,Baked Goods,"Cocoa, Eggs, Baking Powder",1,222,133.2,222,False,Business,2025-04-17,2025-04-22,5,24,Female,UPI,Bulk,2,3.1,Cloth Bag,2025-04-17
+Croissant,Cakes,"Eggs, Cocoa, Butter",1,233,139.8,233,False,Business,2025-04-18,2025-04-21,3,55,Female,Credit Card,Single,0,2.6,Cloth Bag,2025-04-18
+Chocolate Cake,Baked Goods,"Eggs, Sugar, Cocoa",1,223,133.8,223,True,Individual,2025-04-13,2025-04-19,6,36,Male,UPI,Bulk,1,2.6,Paper Box,2025-04-13
+Cheese Pastry,Cakes,"Milk, Sugar, Cocoa",3,255,153.0,765,False,Family,2025-04-16,2025-04-21,5,38,Male,Cash,Single,2,2.9,Cloth Bag,2025-04-16
+Croissant,Tarts,"Butter, Milk, Eggs",2,59,35.4,118,True,Family,2025-04-22,2025-04-25,3,60,Male,Debit Card,Bulk,1,3.8,Cloth Bag,2025-04-22
+Cheese Pastry,Cakes,"Eggs, Baking Powder, Flour",2,214,128.4,428,True,Business,2025-04-12,2025-04-16,4,47,Other,Cash,Single,1,1.5,Paper Box,2025-04-12
+Muffin,Baked Goods,"Baking Powder, Sugar, Butter",1,143,85.8,143,True,Family,2025-04-12,2025-04-18,6,20,Other,UPI,Single,0,1.8,Cloth Bag,2025-04-12
+Cheese Pastry,Baked Goods,"Milk, Cocoa, Eggs",1,268,160.8,268,True,Individual,2025-04-11,2025-04-14,3,50,Male,Debit Card,Bulk,2,1.7,Paper Box,2025-04-11
+Vanilla Cupcake,Baked Goods,"Eggs, Baking Powder, Cocoa",3,110,66.0,330,False,Family,2025-04-13,2025-04-19,6,37,Other,Cash,Bulk,2,2.5,Plastic Wrap,2025-04-13
+Muffin,Baked Goods,"Cocoa, Baking Powder, Eggs",2,107,64.2,214,False,Individual,2025-04-23,2025-04-26,3,23,Male,Credit Card,Single,1,4.7,Paper Box,2025-04-23
+Fruit Tart,Cakes,"Cocoa, Baking Powder, Sugar",3,121,72.6,363,True,Individual,2025-04-11,2025-04-14,3,22,Male,Credit Card,Bulk,2,4.4,Plastic Wrap,2025-04-11
+Fruit Tart,Cakes,"Cocoa, Milk, Flour",1,291,174.6,291,True,Family,2025-04-17,2025-04-21,4,38,Female,Credit Card,Bulk,0,3.6,Plastic Wrap,2025-04-17
+Chocolate Cake,Baked Goods,"Eggs, Flour, Cocoa",3,111,66.6,333,False,Individual,2025-04-13,2025-04-17,4,58,Other,Debit Card,Single,1,4.7,Paper Box,2025-04-13
+Sourdough,Pastries,"Baking Powder, Butter, Milk",1,243,145.8,243,True,Business,2025-04-18,2025-04-23,5,55,Female,Credit Card,Bulk,0,2.1,Paper Box,2025-04-18
+Brownie,Baked Goods,"Milk, Sugar, Baking Powder",3,287,172.2,861,True,Family,2025-04-13,2025-04-19,6,39,Other,Cash,Single,0,2.5,Plastic Wrap,2025-04-13
+Cheese Pastry,Cakes,"Milk, Baking Powder, Flour",1,290,174.0,290,False,Family,2025-04-11,2025-04-15,4,22,Female,Cash,Single,1,3.7,Cloth Bag,2025-04-11
+Cheese Pastry,Pastries,"Baking Powder, Sugar, Butter",1,295,177.0,295,False,Individual,2025-04-10,2025-04-14,4,58,Other,Debit Card,Bulk,1,1.8,Paper Box,2025-04-10
+Cheese Pastry,Cakes,"Milk, Flour, Sugar",2,94,56.4,188,False,Business,2025-04-21,2025-04-27,6,59,Other,Credit Card,Single,2,4.5,Plastic Wrap,2025-04-21
+Fruit Tart,Baked Goods,"Baking Powder, Cocoa, Butter",3,121,72.6,363,True,Family,2025-04-22,2025-04-28,6,20,Female,Credit Card,Single,0,3.9,Paper Box,2025-04-22
+Cheese Pastry,Pastries,"Butter, Cocoa, Eggs",3,257,154.2,771,True,Individual,2025-04-18,2025-04-21,3,36,Female,Cash,Single,1,2.3,Cloth Bag,2025-04-18
+Chocolate Cake,Baked Goods,"Cocoa, Eggs, Flour",2,283,169.8,566,True,Business,2025-04-24,2025-04-30,6,56,Male,Debit Card,Bulk,1,3.3,Cloth Bag,2025-04-24
+Chocolate Cake,Baked Goods,"Flour, Cocoa, Butter",1,151,90.6,151,True,Business,2025-04-22,2025-04-26,4,40,Female,Cash,Single,2,3.0,Cloth Bag,2025-04-22
+Brownie,Pastries,"Cocoa, Milk, Flour",1,298,178.8,298,True,Family,2025-04-21,2025-04-24,3,43,Female,Cash,Bulk,0,2.9,Plastic Wrap,2025-04-21
+Croissant,Cakes,"Flour, Eggs, Baking Powder",1,65,39.0,65,True,Business,2025-04-13,2025-04-18,5,57,Female,UPI,Single,1,5.0,Paper Box,2025-04-13
+Fruit Tart,Pastries,"Flour, Eggs, Milk",2,92,55.2,184,False,Individual,2025-04-24,2025-04-30,6,53,Female,Credit Card,Single,2,4.5,Cloth Bag,2025-04-24
+Brownie,Pastries,"Flour, Cocoa, Milk",1,258,154.8,258,True,Family,2025-04-19,2025-04-22,3,60,Female,Debit Card,Single,0,1.5,Paper Box,2025-04-19
+Muffin,Cakes,"Eggs, Milk, Cocoa",2,162,97.2,324,False,Family,2025-04-23,2025-04-27,4,37,Female,UPI,Single,1,2.3,Paper Box,2025-04-23
+Croissant,Tarts,"Sugar, Eggs, Butter",2,179,107.4,358,False,Business,2025-04-24,2025-04-27,3,40,Male,Credit Card,Single,0,5.0,Plastic Wrap,2025-04-24
+Brownie,Tarts,"Butter, Flour, Eggs",3,164,98.4,492,False,Individual,2025-04-19,2025-04-23,4,21,Other,Credit Card,Bulk,1,4.6,Paper Box,2025-04-19
+Vanilla Cupcake,Baked Goods,"Eggs, Flour, Butter",3,118,70.8,354,False,Business,2025-04-22,2025-04-27,5,28,Male,Cash,Bulk,1,2.1,Plastic Wrap,2025-04-22
+Brownie,Pastries,"Cocoa, Eggs, Butter",1,152,91.2,152,True,Business,2025-04-15,2025-04-19,4,56,Male,Debit Card,Bulk,0,1.4,Plastic Wrap,2025-04-15
+Cheese Pastry,Baked Goods,"Milk, Baking Powder, Flour",3,219,131.4,657,False,Individual,2025-04-22,2025-04-25,3,53,Other,Debit Card,Bulk,1,2.7,Cloth Bag,2025-04-22
+Chocolate Cake,Pastries,"Milk, Sugar, Baking Powder",2,276,165.6,552,False,Business,2025-04-10,2025-04-14,4,39,Other,Credit Card,Single,0,4.6,Plastic Wrap,2025-04-10
+Croissant,Tarts,"Cocoa, Flour, Butter",3,173,103.8,519,False,Business,2025-04-19,2025-04-23,4,58,Male,Credit Card,Single,0,3.9,Cloth Bag,2025-04-19
+Cheese Pastry,Baked Goods,"Milk, Cocoa, Eggs",1,157,94.2,157,False,Family,2025-04-13,2025-04-19,6,41,Other,Debit Card,Bulk,0,1.7,Plastic Wrap,2025-04-13
+Cheese Pastry,Baked Goods,"Cocoa, Milk, Baking Powder",1,174,104.4,174,True,Individual,2025-04-10,2025-04-13,3,35,Other,UPI,Single,1,4.6,Cloth Bag,2025-04-10
+Fruit Tart,Pastries,"Milk, Eggs, Flour",3,79,47.4,237,False,Family,2025-04-20,2025-04-23,3,43,Female,Debit Card,Bulk,0,4.2,Cloth Bag,2025-04-20
+Chocolate Cake,Baked Goods,"Cocoa, Flour, Sugar",1,172,103.2,172,False,Family,2025-04-24,2025-04-27,3,31,Female,Credit Card,Bulk,1,4.5,Paper Box,2025-04-24
+Cheese Pastry,Pastries,"Baking Powder, Eggs, Flour",2,210,126.0,420,False,Family,2025-04-17,2025-04-23,6,33,Other,Debit Card,Single,1,4.5,Plastic Wrap,2025-04-17
+Muffin,Baked Goods,"Flour, Cocoa, Baking Powder",1,292,175.2,292,False,Individual,2025-04-12,2025-04-15,3,60,Other,UPI,Single,2,2.6,Plastic Wrap,2025-04-12
+Cheese Pastry,Pastries,"Baking Powder, Butter, Flour",3,100,60.0,300,False,Family,2025-04-18,2025-04-21,3,51,Other,Debit Card,Bulk,1,2.7,Plastic Wrap,2025-04-18
+Muffin,Tarts,"Baking Powder, Cocoa, Flour",1,271,162.6,271,False,Business,2025-04-19,2025-04-23,4,37,Male,Credit Card,Bulk,2,3.2,Plastic Wrap,2025-04-19
+Croissant,Cakes,"Milk, Butter, Eggs",3,284,170.4,852,False,Business,2025-04-18,2025-04-24,6,40,Other,UPI,Single,0,3.2,Paper Box,2025-04-18
+Brownie,Pastries,"Flour, Sugar, Butter",1,56,33.6,56,True,Family,2025-04-11,2025-04-15,4,36,Other,UPI,Single,0,4.9,Plastic Wrap,2025-04-11
+Brownie,Cakes,"Cocoa, Butter, Flour",3,163,97.8,489,True,Business,2025-04-14,2025-04-18,4,34,Other,Cash,Bulk,2,1.4,Cloth Bag,2025-04-14
+Fruit Tart,Pastries,"Flour, Butter, Milk",3,207,124.2,621,False,Individual,2025-04-24,2025-04-28,4,30,Male,UPI,Bulk,2,1.1,Plastic Wrap,2025-04-24
+Cheese Pastry,Cakes,"Flour, Sugar, Milk",2,195,117.0,390,False,Individual,2025-04-16,2025-04-22,6,55,Female,Credit Card,Single,1,1.8,Plastic Wrap,2025-04-16
+Vanilla Cupcake,Cakes,"Milk, Baking Powder, Cocoa",2,233,139.8,466,True,Business,2025-04-15,2025-04-21,6,48,Other,Debit Card,Single,2,2.0,Plastic Wrap,2025-04-15
+Croissant,Pastries,"Sugar, Eggs, Baking Powder",2,235,141.0,470,False,Family,2025-04-12,2025-04-17,5,40,Female,Debit Card,Single,1,1.7,Paper Box,2025-04-12
+Croissant,Pastries,"Milk, Butter, Baking Powder",3,271,162.6,813,True,Individual,2025-04-20,2025-04-25,5,23,Female,UPI,Bulk,1,4.1,Plastic Wrap,2025-04-20
+Brownie,Tarts,"Butter, Flour, Baking Powder",2,286,171.6,572,False,Business,2025-04-20,2025-04-24,4,58,Other,Credit Card,Single,0,3.0,Plastic Wrap,2025-04-20
+Sourdough,Pastries,"Butter, Milk, Cocoa",3,228,136.8,684,True,Business,2025-04-23,2025-04-29,6,25,Other,Cash,Single,0,3.5,Paper Box,2025-04-23
+Vanilla Cupcake,Cakes,"Eggs, Milk, Flour",3,189,113.4,567,True,Family,2025-04-13,2025-04-17,4,55,Other,UPI,Single,0,1.3,Paper Box,2025-04-13
+Sourdough,Cakes,"Milk, Butter, Flour",3,99,59.4,297,True,Individual,2025-04-10,2025-04-16,6,54,Other,Cash,Single,0,3.8,Paper Box,2025-04-10
+Croissant,Baked Goods,"Flour, Eggs, Butter",1,152,91.2,152,False,Business,2025-04-22,2025-04-28,6,19,Other,Cash,Single,0,4.7,Paper Box,2025-04-22
+Fruit Tart,Tarts,"Eggs, Butter, Milk",3,145,87.0,435,False,Family,2025-04-14,2025-04-17,3,26,Other,Credit Card,Single,2,3.6,Plastic Wrap,2025-04-14
+Chocolate Cake,Pastries,"Cocoa, Flour, Milk",1,153,91.8,153,True,Individual,2025-04-24,2025-04-28,4,52,Male,Debit Card,Bulk,2,3.5,Plastic Wrap,2025-04-24
+Fruit Tart,Tarts,"Eggs, Flour, Cocoa",3,180,108.0,540,True,Individual,2025-04-21,2025-04-25,4,56,Female,Credit Card,Single,1,1.3,Cloth Bag,2025-04-21
+Fruit Tart,Pastries,"Baking Powder, Eggs, Cocoa",2,296,177.6,592,True,Individual,2025-04-17,2025-04-20,3,23,Other,Credit Card,Bulk,1,4.8,Cloth Bag,2025-04-17
+Cheese Pastry,Cakes,"Cocoa, Flour, Milk",3,125,75.0,375,True,Business,2025-04-22,2025-04-26,4,56,Other,Debit Card,Single,1,2.1,Paper Box,2025-04-22
+Brownie,Baked Goods,"Sugar, Flour, Butter",1,234,140.4,234,False,Family,2025-04-11,2025-04-16,5,45,Other,Credit Card,Single,0,1.7,Plastic Wrap,2025-04-11
+Chocolate Cake,Pastries,"Flour, Butter, Sugar",2,290,174.0,580,False,Individual,2025-04-23,2025-04-27,4,31,Male,UPI,Single,1,3.2,Cloth Bag,2025-04-23
+Brownie,Tarts,"Cocoa, Flour, Eggs",1,283,169.8,283,False,Family,2025-04-17,2025-04-20,3,27,Male,Cash,Bulk,1,4.0,Plastic Wrap,2025-04-17
+Croissant,Cupcakes,"Flour, Cocoa, Eggs",2,116,69.6,232,True,Family,2025-04-20,2025-04-23,3,29,Male,Cash,Bulk,0,4.8,Plastic Wrap,2025-04-20
+Cheese Pastry,Pastries,"Flour, Milk, Cocoa",3,287,172.2,861,True,Family,2025-04-23,2025-04-26,3,25,Male,Cash,Single,2,4.8,Cloth Bag,2025-04-23
+Cheese Pastry,Pastries,"Baking Powder, Eggs, Flour",1,158,94.8,158,True,Family,2025-04-13,2025-04-17,4,24,Female,Cash,Single,2,2.1,Cloth Bag,2025-04-13
+Chocolate Cake,Cupcakes,"Milk, Baking Powder, Butter",1,101,60.6,101,True,Family,2025-04-21,2025-04-25,4,24,Female,Credit Card,Bulk,0,1.7,Plastic Wrap,2025-04-21
+Croissant,Cakes,"Baking Powder, Eggs, Flour",2,217,130.2,434,False,Individual,2025-04-13,2025-04-16,3,31,Other,Debit Card,Single,0,3.8,Plastic Wrap,2025-04-13
+Croissant,Cupcakes,"Cocoa, Sugar, Milk",1,103,61.8,103,False,Individual,2025-04-14,2025-04-20,6,46,Other,UPI,Single,2,1.8,Cloth Bag,2025-04-14
+Vanilla Cupcake,Cupcakes,"Sugar, Eggs, Milk",1,105,63.0,105,True,Individual,2025-04-24,2025-04-30,6,54,Female,Debit Card,Single,2,4.8,Plastic Wrap,2025-04-24
+Sourdough,Tarts,"Baking Powder, Butter, Milk",1,202,121.2,202,False,Family,2025-04-21,2025-04-25,4,24,Male,Cash,Bulk,0,3.6,Plastic Wrap,2025-04-21
+Croissant,Baked Goods,"Sugar, Flour, Eggs",1,167,100.2,167,False,Individual,2025-04-23,2025-04-26,3,52,Other,Debit Card,Single,0,1.9,Plastic Wrap,2025-04-23
+Sourdough,Baked Goods,"Butter, Baking Powder, Milk",2,130,78.0,260,True,Business,2025-04-22,2025-04-26,4,60,Other,Cash,Bulk,1,2.2,Cloth Bag,2025-04-22
+Chocolate Cake,Baked Goods,"Baking Powder, Cocoa, Flour",2,255,153.0,510,False,Individual,2025-04-13,2025-04-17,4,28,Female,UPI,Single,1,3.4,Cloth Bag,2025-04-13
+Muffin,Pastries,"Flour, Eggs, Milk",1,70,42.0,70,True,Family,2025-04-17,2025-04-23,6,19,Other,Credit Card,Single,0,2.8,Paper Box,2025-04-17
+Vanilla Cupcake,Cupcakes,"Sugar, Milk, Cocoa",1,214,128.4,214,False,Individual,2025-04-19,2025-04-23,4,29,Male,Credit Card,Single,0,1.5,Cloth Bag,2025-04-19
+Chocolate Cake,Cakes,"Butter, Eggs, Baking Powder",1,75,45.0,75,False,Business,2025-04-12,2025-04-17,5,19,Male,UPI,Single,2,1.3,Plastic Wrap,2025-04-12
+Vanilla Cupcake,Baked Goods,"Butter, Eggs, Cocoa",1,272,163.2,272,True,Individual,2025-04-11,2025-04-14,3,58,Male,UPI,Bulk,1,1.0,Plastic Wrap,2025-04-11
+Brownie,Baked Goods,"Baking Powder, Eggs, Flour",3,204,122.4,612,True,Business,2025-04-11,2025-04-15,4,45,Other,Debit Card,Bulk,0,5.0,Cloth Bag,2025-04-11
+Brownie,Baked Goods,"Milk, Baking Powder, Butter",1,131,78.6,131,True,Business,2025-04-17,2025-04-23,6,53,Male,Cash,Single,1,1.6,Plastic Wrap,2025-04-17
+Fruit Tart,Cakes,"Butter, Eggs, Sugar",3,132,79.2,396,False,Business,2025-04-18,2025-04-22,4,49,Female,UPI,Single,2,2.0,Paper Box,2025-04-18
+Fruit Tart,Baked Goods,"Baking Powder, Milk, Sugar",3,217,130.2,651,False,Family,2025-04-19,2025-04-23,4,24,Other,Credit Card,Bulk,2,3.9,Cloth Bag,2025-04-19
+Brownie,Cupcakes,"Eggs, Cocoa, Flour",2,215,129.0,430,False,Family,2025-04-10,2025-04-14,4,25,Female,Debit Card,Single,1,1.9,Cloth Bag,2025-04-10
+Vanilla Cupcake,Pastries,"Cocoa, Baking Powder, Milk",3,163,97.8,489,False,Business,2025-04-19,2025-04-25,6,31,Male,Debit Card,Single,2,2.8,Paper Box,2025-04-19
+Fruit Tart,Cakes,"Eggs, Cocoa, Baking Powder",1,249,149.4,249,False,Family,2025-04-21,2025-04-26,5,53,Female,Debit Card,Single,1,1.5,Cloth Bag,2025-04-21
+Cheese Pastry,Pastries,"Butter, Eggs, Sugar",2,286,171.6,572,True,Family,2025-04-16,2025-04-20,4,45,Male,Debit Card,Bulk,0,3.6,Cloth Bag,2025-04-16
+Brownie,Baked Goods,"Sugar, Cocoa, Butter",3,268,160.8,804,False,Business,2025-04-21,2025-04-27,6,55,Female,Credit Card,Bulk,2,3.2,Plastic Wrap,2025-04-21
+Brownie,Pastries,"Baking Powder, Milk, Cocoa",3,52,31.2,156,False,Family,2025-04-18,2025-04-21,3,46,Male,Credit Card,Single,2,4.2,Paper Box,2025-04-18
+Cheese Pastry,Tarts,"Eggs, Flour, Baking Powder",3,268,160.8,804,False,Business,2025-04-18,2025-04-21,3,31,Female,Debit Card,Bulk,2,3.5,Cloth Bag,2025-04-18
+Cheese Pastry,Tarts,"Milk, Cocoa, Butter",3,137,82.2,411,False,Individual,2025-04-23,2025-04-29,6,38,Female,Cash,Single,2,4.6,Plastic Wrap,2025-04-23
+Chocolate Cake,Cakes,"Flour, Sugar, Butter",2,82,49.2,164,True,Family,2025-04-22,2025-04-26,4,55,Male,UPI,Bulk,1,3.6,Plastic Wrap,2025-04-22
+Brownie,Baked Goods,"Flour, Baking Powder, Sugar",3,204,122.4,612,False,Business,2025-04-21,2025-04-25,4,35,Female,Credit Card,Bulk,2,3.3,Paper Box,2025-04-21
+Chocolate Cake,Pastries,"Sugar, Butter, Milk",3,209,125.4,627,True,Family,2025-04-22,2025-04-26,4,37,Female,Cash,Single,1,1.5,Plastic Wrap,2025-04-22
+Chocolate Cake,Cakes,"Cocoa, Eggs, Flour",2,103,61.8,206,False,Family,2025-04-21,2025-04-24,3,60,Female,Credit Card,Bulk,1,4.6,Cloth Bag,2025-04-21
+Muffin,Cakes,"Eggs, Milk, Baking Powder",3,237,142.2,711,True,Individual,2025-04-23,2025-04-26,3,42,Other,Cash,Single,1,2.7,Paper Box,2025-04-23
+Fruit Tart,Pastries,"Sugar, Butter, Cocoa",1,211,126.6,211,False,Individual,2025-04-16,2025-04-22,6,57,Male,Debit Card,Single,0,3.9,Cloth Bag,2025-04-16
+Muffin,Tarts,"Baking Powder, Flour, Eggs",3,125,75.0,375,True,Business,2025-04-20,2025-04-25,5,21,Female,UPI,Single,1,2.4,Plastic Wrap,2025-04-20
+Cheese Pastry,Cakes,"Butter, Flour, Cocoa",2,164,98.4,328,False,Business,2025-04-21,2025-04-26,5,34,Male,Debit Card,Bulk,1,1.5,Plastic Wrap,2025-04-21
+Fruit Tart,Tarts,"Sugar, Cocoa, Eggs",2,261,156.6,522,True,Individual,2025-04-17,2025-04-23,6,39,Other,UPI,Single,0,1.7,Plastic Wrap,2025-04-17
+Cheese Pastry,Cakes,"Sugar, Cocoa, Milk",3,124,74.4,372,True,Individual,2025-04-24,2025-04-28,4,49,Male,UPI,Bulk,0,2.0,Plastic Wrap,2025-04-24
+Cheese Pastry,Pastries,"Milk, Sugar, Butter",1,170,102.0,170,False,Individual,2025-04-24,2025-04-30,6,41,Other,UPI,Bulk,0,4.1,Cloth Bag,2025-04-24
+Vanilla Cupcake,Pastries,"Flour, Cocoa, Baking Powder",3,117,70.2,351,False,Family,2025-04-14,2025-04-18,4,30,Other,Debit Card,Bulk,2,1.6,Paper Box,2025-04-14
+Sourdough,Pastries,"Butter, Eggs, Sugar",1,277,166.2,277,True,Individual,2025-04-21,2025-04-26,5,50,Female,UPI,Bulk,2,2.3,Paper Box,2025-04-21
+Fruit Tart,Cupcakes,"Butter, Eggs, Baking Powder",2,129,77.4,258,True,Individual,2025-04-10,2025-04-16,6,38,Other,Credit Card,Single,1,4.0,Paper Box,2025-04-10
+Fruit Tart,Cakes,"Cocoa, Flour, Baking Powder",3,262,157.2,786,False,Family,2025-04-22,2025-04-25,3,49,Male,Credit Card,Single,0,3.2,Plastic Wrap,2025-04-22
+Fruit Tart,Baked Goods,"Flour, Cocoa, Milk",2,220,132.0,440,False,Business,2025-04-10,2025-04-13,3,50,Male,Credit Card,Single,0,3.6,Cloth Bag,2025-04-10
+Vanilla Cupcake,Cakes,"Flour, Baking Powder, Butter",3,67,40.2,201,False,Individual,2025-04-16,2025-04-21,5,24,Other,UPI,Bulk,1,4.2,Plastic Wrap,2025-04-16
+Muffin,Tarts,"Eggs, Baking Powder, Cocoa",1,144,86.4,144,True,Family,2025-04-23,2025-04-29,6,41,Male,Debit Card,Bulk,2,4.1,Plastic Wrap,2025-04-23
+Chocolate Cake,Cakes,"Flour, Cocoa, Butter",3,263,157.8,789,True,Individual,2025-04-12,2025-04-15,3,37,Female,UPI,Single,1,1.6,Paper Box,2025-04-12
+Vanilla Cupcake,Baked Goods,"Baking Powder, Milk, Flour",1,274,164.4,274,False,Business,2025-04-16,2025-04-22,6,47,Male,Cash,Bulk,2,3.4,Cloth Bag,2025-04-16
+Brownie,Baked Goods,"Eggs, Butter, Sugar",3,50,30.0,150,False,Individual,2025-04-14,2025-04-19,5,26,Female,Debit Card,Single,2,3.4,Paper Box,2025-04-14
+Croissant,Cakes,"Milk, Baking Powder, Eggs",3,250,150.0,750,False,Individual,2025-04-17,2025-04-21,4,49,Female,Credit Card,Bulk,0,4.3,Plastic Wrap,2025-04-17
+Fruit Tart,Cupcakes,"Eggs, Sugar, Baking Powder",2,180,108.0,360,False,Business,2025-04-11,2025-04-15,4,59,Other,Cash,Single,2,4.8,Cloth Bag,2025-04-11
+Croissant,Tarts,"Sugar, Eggs, Flour",3,266,159.6,798,True,Business,2025-04-20,2025-04-26,6,30,Female,UPI,Single,1,2.0,Plastic Wrap,2025-04-20
+Brownie,Cakes,"Butter, Sugar, Eggs",2,120,72.0,240,False,Family,2025-04-10,2025-04-16,6,28,Male,Credit Card,Single,1,4.0,Plastic Wrap,2025-04-10
+Cheese Pastry,Pastries,"Cocoa, Eggs, Baking Powder",3,112,67.2,336,False,Family,2025-04-24,2025-04-27,3,48,Female,UPI,Single,0,1.9,Cloth Bag,2025-04-24
+Fruit Tart,Baked Goods,"Flour, Sugar, Milk",2,57,34.2,114,False,Business,2025-04-20,2025-04-26,6,33,Female,Cash,Bulk,0,4.4,Plastic Wrap,2025-04-20
+Muffin,Cakes,"Cocoa, Flour, Baking Powder",2,106,63.6,212,True,Family,2025-04-12,2025-04-15,3,36,Female,Debit Card,Bulk,2,3.8,Cloth Bag,2025-04-12
+Cheese Pastry,Baked Goods,"Cocoa, Baking Powder, Milk",1,257,154.2,257,False,Family,2025-04-19,2025-04-25,6,28,Male,Credit Card,Bulk,1,3.9,Cloth Bag,2025-04-19
+Muffin,Cakes,"Sugar, Baking Powder, Flour",2,131,78.6,262,False,Family,2025-04-16,2025-04-21,5,49,Other,Cash,Bulk,0,1.4,Paper Box,2025-04-16
+Muffin,Cakes,"Eggs, Baking Powder, Milk",3,274,164.4,822,True,Family,2025-04-21,2025-04-26,5,44,Male,Debit Card,Single,2,1.5,Plastic Wrap,2025-04-21
+Chocolate Cake,Pastries,"Flour, Baking Powder, Cocoa",3,284,170.4,852,False,Family,2025-04-18,2025-04-24,6,41,Other,Debit Card,Bulk,1,2.2,Plastic Wrap,2025-04-18
+Cheese Pastry,Pastries,"Milk, Butter, Cocoa",3,117,70.2,351,False,Individual,2025-04-16,2025-04-21,5,35,Male,Credit Card,Bulk,1,2.7,Paper Box,2025-04-16
+Muffin,Tarts,"Eggs, Sugar, Baking Powder",1,156,93.6,156,False,Business,2025-04-18,2025-04-24,6,59,Male,Debit Card,Bulk,0,5.0,Paper Box,2025-04-18
+Croissant,Tarts,"Cocoa, Butter, Eggs",1,119,71.4,119,False,Individual,2025-04-11,2025-04-15,4,29,Other,UPI,Bulk,2,3.7,Paper Box,2025-04-11
+Croissant,Baked Goods,"Sugar, Flour, Baking Powder",2,284,170.4,568,True,Business,2025-04-12,2025-04-16,4,46,Other,Credit Card,Single,1,2.1,Plastic Wrap,2025-04-12
+Cheese Pastry,Tarts,"Milk, Sugar, Baking Powder",3,50,30.0,150,False,Individual,2025-04-13,2025-04-17,4,38,Female,Credit Card,Single,0,1.6,Paper Box,2025-04-13
+Cheese Pastry,Cakes,"Eggs, Flour, Butter",1,162,97.2,162,False,Individual,2025-04-17,2025-04-20,3,50,Female,Debit Card,Bulk,0,2.3,Paper Box,2025-04-17
+Sourdough,Baked Goods,"Cocoa, Baking Powder, Butter",2,293,175.8,586,False,Individual,2025-04-13,2025-04-19,6,40,Male,UPI,Bulk,1,1.8,Plastic Wrap,2025-04-13
+Cheese Pastry,Baked Goods,"Milk, Butter, Eggs",3,149,89.4,447,True,Business,2025-04-16,2025-04-21,5,48,Male,Credit Card,Single,0,4.7,Cloth Bag,2025-04-16
+Croissant,Tarts,"Eggs, Flour, Sugar",3,212,127.2,636,False,Business,2025-04-22,2025-04-27,5,31,Other,UPI,Single,0,2.8,Cloth Bag,2025-04-22
+Vanilla Cupcake,Cupcakes,"Cocoa, Eggs, Sugar",1,80,48.0,80,True,Family,2025-04-10,2025-04-13,3,48,Male,Cash,Bulk,1,4.2,Plastic Wrap,2025-04-10
+Sourdough,Cakes,"Baking Powder, Butter, Milk",1,219,131.4,219,True,Individual,2025-04-12,2025-04-18,6,51,Other,UPI,Single,1,2.5,Plastic Wrap,2025-04-12
+Cheese Pastry,Baked Goods,"Milk, Cocoa, Sugar",1,182,109.2,182,True,Family,2025-04-10,2025-04-16,6,27,Other,Cash,Bulk,1,1.7,Cloth Bag,2025-04-10
+Fruit Tart,Cupcakes,"Butter, Flour, Baking Powder",2,223,133.8,446,True,Business,2025-04-19,2025-04-23,4,38,Other,Credit Card,Single,2,2.8,Paper Box,2025-04-19
+Sourdough,Cakes,"Sugar, Flour, Milk",1,178,106.8,178,True,Individual,2025-04-11,2025-04-14,3,40,Female,UPI,Bulk,0,5.0,Paper Box,2025-04-11
+Croissant,Pastries,"Flour, Milk, Cocoa",3,185,111.0,555,True,Business,2025-04-21,2025-04-25,4,40,Other,Cash,Bulk,1,3.2,Cloth Bag,2025-04-21
+Brownie,Cupcakes,"Butter, Sugar, Milk",1,143,85.8,143,True,Business,2025-04-21,2025-04-26,5,27,Male,Cash,Single,1,3.0,Paper Box,2025-04-21
+Muffin,Baked Goods,"Butter, Baking Powder, Cocoa",3,241,144.6,723,True,Individual,2025-04-17,2025-04-21,4,23,Female,UPI,Bulk,1,2.5,Plastic Wrap,2025-04-17
+Brownie,Tarts,"Eggs, Butter, Sugar",1,232,139.2,232,False,Family,2025-04-22,2025-04-25,3,51,Female,Debit Card,Bulk,1,3.1,Cloth Bag,2025-04-22
+Brownie,Baked Goods,"Eggs, Butter, Cocoa",3,212,127.2,636,False,Family,2025-04-24,2025-04-29,5,32,Male,Credit Card,Bulk,1,3.8,Cloth Bag,2025-04-24
+Brownie,Cakes,"Baking Powder, Sugar, Milk",3,76,45.6,228,True,Business,2025-04-21,2025-04-26,5,33,Other,Credit Card,Single,1,1.6,Plastic Wrap,2025-04-21
+Chocolate Cake,Pastries,"Butter, Sugar, Baking Powder",2,150,90.0,300,False,Individual,2025-04-17,2025-04-21,4,35,Other,Debit Card,Bulk,2,3.5,Plastic Wrap,2025-04-17
+Vanilla Cupcake,Pastries,"Cocoa, Sugar, Butter",1,288,172.8,288,False,Family,2025-04-21,2025-04-24,3,22,Male,Debit Card,Bulk,0,2.4,Cloth Bag,2025-04-21
+Fruit Tart,Tarts,"Flour, Eggs, Sugar",2,66,39.6,132,False,Individual,2025-04-15,2025-04-21,6,49,Male,Credit Card,Single,0,4.3,Plastic Wrap,2025-04-15
+Sourdough,Tarts,"Butter, Sugar, Milk",3,291,174.6,873,True,Business,2025-04-13,2025-04-19,6,19,Female,UPI,Single,2,3.8,Paper Box,2025-04-13
+Fruit Tart,Cakes,"Butter, Baking Powder, Milk",2,88,52.8,176,False,Family,2025-04-19,2025-04-22,3,35,Female,Credit Card,Bulk,2,2.9,Plastic Wrap,2025-04-19
+Muffin,Baked Goods,"Eggs, Milk, Sugar",1,237,142.2,237,False,Business,2025-04-22,2025-04-25,3,18,Male,UPI,Single,1,1.5,Paper Box,2025-04-22
+Sourdough,Pastries,"Baking Powder, Eggs, Butter",3,208,124.8,624,False,Family,2025-04-14,2025-04-20,6,59,Female,Debit Card,Bulk,1,1.7,Plastic Wrap,2025-04-14
+Sourdough,Cakes,"Sugar, Eggs, Milk",3,130,78.0,390,True,Business,2025-04-24,2025-04-27,3,35,Male,Debit Card,Bulk,1,3.4,Paper Box,2025-04-24
+Vanilla Cupcake,Tarts,"Flour, Baking Powder, Butter",1,132,79.2,132,True,Family,2025-04-11,2025-04-17,6,40,Other,UPI,Bulk,0,4.3,Plastic Wrap,2025-04-11
+Sourdough,Baked Goods,"Flour, Eggs, Butter",2,94,56.4,188,True,Family,2025-04-11,2025-04-15,4,31,Female,UPI,Single,2,3.0,Plastic Wrap,2025-04-11
+Brownie,Pastries,"Sugar, Cocoa, Eggs",3,276,165.6,828,True,Family,2025-04-18,2025-04-22,4,19,Male,UPI,Single,1,2.5,Cloth Bag,2025-04-18
+Brownie,Cupcakes,"Cocoa, Baking Powder, Flour",1,270,162.0,270,False,Individual,2025-04-16,2025-04-19,3,30,Female,Credit Card,Bulk,1,2.7,Plastic Wrap,2025-04-16
+Vanilla Cupcake,Baked Goods,"Baking Powder, Eggs, Flour",2,151,90.6,302,False,Business,2025-04-16,2025-04-21,5,44,Female,Cash,Bulk,0,1.1,Cloth Bag,2025-04-16
+Chocolate Cake,Cupcakes,"Milk, Baking Powder, Butter",3,296,177.6,888,False,Business,2025-04-17,2025-04-22,5,39,Other,Cash,Single,1,1.9,Paper Box,2025-04-17
+Brownie,Tarts,"Cocoa, Eggs, Flour",2,276,165.6,552,False,Family,2025-04-22,2025-04-25,3,58,Male,Cash,Bulk,1,4.9,Cloth Bag,2025-04-22
+Vanilla Cupcake,Pastries,"Cocoa, Flour, Eggs",2,109,65.4,218,False,Family,2025-04-14,2025-04-19,5,30,Male,Debit Card,Bulk,0,2.6,Cloth Bag,2025-04-14
+Croissant,Baked Goods,"Sugar, Flour, Butter",2,172,103.2,344,False,Individual,2025-04-22,2025-04-27,5,32,Male,Credit Card,Bulk,1,4.2,Plastic Wrap,2025-04-22
+Cheese Pastry,Cakes,"Eggs, Cocoa, Flour",2,165,99.0,330,True,Individual,2025-04-20,2025-04-26,6,26,Female,Debit Card,Bulk,1,4.4,Cloth Bag,2025-04-20
+Cheese Pastry,Baked Goods,"Milk, Flour, Sugar",1,262,157.2,262,True,Individual,2025-04-15,2025-04-19,4,24,Other,Debit Card,Single,1,1.9,Plastic Wrap,2025-04-15
+Vanilla Cupcake,Pastries,"Butter, Eggs, Cocoa",2,150,90.0,300,True,Individual,2025-04-21,2025-04-25,4,32,Male,Debit Card,Single,0,2.0,Cloth Bag,2025-04-21
+Muffin,Cakes,"Baking Powder, Cocoa, Eggs",1,79,47.4,79,False,Business,2025-04-11,2025-04-15,4,36,Other,UPI,Single,1,2.0,Plastic Wrap,2025-04-11
+Muffin,Baked Goods,"Flour, Baking Powder, Cocoa",2,155,93.0,310,True,Individual,2025-04-16,2025-04-19,3,47,Male,Debit Card,Single,0,3.4,Plastic Wrap,2025-04-16
+Croissant,Baked Goods,"Milk, Sugar, Flour",2,298,178.8,596,True,Family,2025-04-10,2025-04-15,5,45,Other,UPI,Bulk,0,1.4,Paper Box,2025-04-10
+Muffin,Cakes,"Sugar, Baking Powder, Cocoa",3,300,180.0,900,True,Family,2025-04-13,2025-04-16,3,19,Other,UPI,Bulk,0,4.3,Plastic Wrap,2025-04-13
+Cheese Pastry,Baked Goods,"Eggs, Sugar, Cocoa",2,253,151.8,506,False,Business,2025-04-18,2025-04-23,5,35,Male,Credit Card,Single,2,4.9,Paper Box,2025-04-18
+Chocolate Cake,Pastries,"Eggs, Butter, Baking Powder",3,272,163.2,816,True,Family,2025-04-24,2025-04-28,4,20,Other,Debit Card,Single,1,3.9,Paper Box,2025-04-24
+Brownie,Baked Goods,"Butter, Milk, Baking Powder",2,203,121.8,406,False,Family,2025-04-20,2025-04-26,6,19,Male,Credit Card,Bulk,0,3.6,Cloth Bag,2025-04-20
+Croissant,Baked Goods,"Cocoa, Sugar, Milk",2,278,166.8,556,True,Family,2025-04-18,2025-04-23,5,50,Female,Credit Card,Single,1,3.5,Cloth Bag,2025-04-18
+Vanilla Cupcake,Pastries,"Eggs, Cocoa, Baking Powder",1,223,133.8,223,True,Individual,2025-04-13,2025-04-18,5,28,Female,UPI,Single,1,3.0,Paper Box,2025-04-13
+Fruit Tart,Tarts,"Eggs, Flour, Sugar",2,136,81.6,272,True,Family,2025-04-18,2025-04-24,6,35,Other,Credit Card,Single,1,4.2,Cloth Bag,2025-04-18
+Vanilla Cupcake,Baked Goods,"Baking Powder, Eggs, Butter",1,169,101.4,169,True,Individual,2025-04-18,2025-04-22,4,21,Other,Debit Card,Bulk,2,1.6,Cloth Bag,2025-04-18
+Croissant,Baked Goods,"Butter, Cocoa, Sugar",2,144,86.4,288,True,Family,2025-04-10,2025-04-15,5,18,Other,UPI,Single,0,3.9,Cloth Bag,2025-04-10
+Fruit Tart,Baked Goods,"Sugar, Butter, Flour",2,86,51.6,172,False,Family,2025-04-21,2025-04-26,5,33,Other,Debit Card,Bulk,0,3.2,Cloth Bag,2025-04-21
+Croissant,Pastries,"Sugar, Baking Powder, Flour",3,99,59.4,297,True,Individual,2025-04-14,2025-04-17,3,37,Male,Cash,Single,2,2.6,Plastic Wrap,2025-04-14
+Cheese Pastry,Pastries,"Milk, Flour, Baking Powder",2,233,139.8,466,False,Business,2025-04-12,2025-04-17,5,41,Male,Credit Card,Single,2,5.0,Paper Box,2025-04-12
+Vanilla Cupcake,Cakes,"Cocoa, Flour, Milk",1,202,121.2,202,False,Business,2025-04-21,2025-04-25,4,31,Female,Debit Card,Bulk,0,4.1,Paper Box,2025-04-21
+Chocolate Cake,Pastries,"Sugar, Eggs, Butter",3,152,91.2,456,True,Individual,2025-04-21,2025-04-25,4,37,Female,Cash,Bulk,1,1.6,Paper Box,2025-04-21
+Sourdough,Cakes,"Eggs, Cocoa, Sugar",1,294,176.4,294,False,Business,2025-04-21,2025-04-25,4,32,Male,UPI,Bulk,1,2.1,Paper Box,2025-04-21
+Sourdough,Cakes,"Baking Powder, Butter, Milk",3,297,178.2,891,True,Business,2025-04-23,2025-04-28,5,42,Other,Credit Card,Bulk,2,1.1,Plastic Wrap,2025-04-23
+Vanilla Cupcake,Cakes,"Sugar, Flour, Butter",2,127,76.2,254,False,Individual,2025-04-22,2025-04-28,6,51,Male,Debit Card,Bulk,0,4.1,Cloth Bag,2025-04-22
+Vanilla Cupcake,Baked Goods,"Milk, Cocoa, Butter",3,241,144.6,723,False,Individual,2025-04-21,2025-04-27,6,25,Other,Credit Card,Single,0,1.9,Cloth Bag,2025-04-21
+Croissant,Baked Goods,"Sugar, Flour, Cocoa",3,122,73.2,366,False,Business,2025-04-16,2025-04-21,5,38,Other,UPI,Single,0,2.2,Plastic Wrap,2025-04-16
+Muffin,Cupcakes,"Eggs, Butter, Baking Powder",1,216,129.6,216,False,Individual,2025-04-22,2025-04-25,3,36,Other,UPI,Single,2,2.6,Cloth Bag,2025-04-22
+Fruit Tart,Cupcakes,"Butter, Sugar, Eggs",3,276,165.6,828,False,Family,2025-04-10,2025-04-16,6,43,Male,Debit Card,Single,2,3.4,Cloth Bag,2025-04-10
+Sourdough,Pastries,"Cocoa, Butter, Eggs",2,253,151.8,506,True,Business,2025-04-10,2025-04-15,5,47,Male,Debit Card,Single,0,3.1,Cloth Bag,2025-04-10
+Fruit Tart,Pastries,"Cocoa, Eggs, Sugar",3,170,102.0,510,False,Business,2025-04-15,2025-04-19,4,55,Other,Credit Card,Bulk,0,3.9,Cloth Bag,2025-04-15
+Sourdough,Baked Goods,"Baking Powder, Flour, Milk",2,157,94.2,314,False,Business,2025-04-20,2025-04-26,6,27,Other,Cash,Bulk,1,5.0,Paper Box,2025-04-20
+Brownie,Pastries,"Sugar, Cocoa, Butter",1,192,115.2,192,False,Individual,2025-04-24,2025-04-30,6,59,Male,Debit Card,Single,1,3.3,Plastic Wrap,2025-04-24
+Croissant,Tarts,"Cocoa, Flour, Butter",1,100,60.0,100,False,Individual,2025-04-14,2025-04-18,4,22,Male,Cash,Single,0,1.6,Paper Box,2025-04-14
+Fruit Tart,Tarts,"Flour, Sugar, Cocoa",1,221,132.6,221,False,Business,2025-04-12,2025-04-15,3,60,Female,Credit Card,Bulk,2,1.5,Cloth Bag,2025-04-12
+Cheese Pastry,Cakes,"Cocoa, Eggs, Flour",3,66,39.6,198,False,Business,2025-04-19,2025-04-24,5,36,Male,Credit Card,Single,1,3.2,Paper Box,2025-04-19
+Chocolate Cake,Baked Goods,"Milk, Butter, Eggs",3,75,45.0,225,True,Business,2025-04-20,2025-04-24,4,56,Other,UPI,Bulk,0,2.7,Plastic Wrap,2025-04-20
+Vanilla Cupcake,Cakes,"Flour, Sugar, Milk",3,250,150.0,750,True,Family,2025-04-23,2025-04-29,6,59,Other,UPI,Single,1,1.0,Paper Box,2025-04-23
+Cheese Pastry,Cakes,"Sugar, Butter, Eggs",1,290,174.0,290,False,Business,2025-04-24,2025-04-29,5,50,Female,Credit Card,Bulk,1,2.4,Plastic Wrap,2025-04-24
+Cheese Pastry,Pastries,"Flour, Sugar, Cocoa",1,262,157.2,262,False,Business,2025-04-24,2025-04-27,3,27,Male,Debit Card,Bulk,0,4.1,Plastic Wrap,2025-04-24
+Chocolate Cake,Cupcakes,"Eggs, Sugar, Baking Powder",3,130,78.0,390,False,Business,2025-04-21,2025-04-24,3,46,Female,UPI,Bulk,0,4.3,Plastic Wrap,2025-04-21
+Cheese Pastry,Baked Goods,"Cocoa, Baking Powder, Eggs",3,114,68.4,342,False,Individual,2025-04-17,2025-04-21,4,46,Male,Cash,Bulk,1,3.4,Plastic Wrap,2025-04-17
+Muffin,Cupcakes,"Eggs, Milk, Cocoa",1,144,86.4,144,True,Business,2025-04-17,2025-04-21,4,43,Female,Credit Card,Single,1,4.6,Cloth Bag,2025-04-17
+Vanilla Cupcake,Pastries,"Flour, Baking Powder, Milk",2,116,69.6,232,True,Business,2025-04-24,2025-04-29,5,37,Female,Cash,Bulk,0,2.5,Cloth Bag,2025-04-24
+Cheese Pastry,Cupcakes,"Cocoa, Baking Powder, Eggs",1,287,172.2,287,True,Business,2025-04-18,2025-04-21,3,51,Female,Credit Card,Single,2,2.0,Cloth Bag,2025-04-18
+Cheese Pastry,Tarts,"Flour, Sugar, Milk",2,155,93.0,310,True,Business,2025-04-23,2025-04-29,6,50,Female,Cash,Single,2,2.9,Plastic Wrap,2025-04-23
+Sourdough,Pastries,"Cocoa, Eggs, Butter",3,299,179.4,897,True,Individual,2025-04-15,2025-04-20,5,45,Other,Credit Card,Bulk,2,1.3,Paper Box,2025-04-15
+Sourdough,Baked Goods,"Flour, Eggs, Milk",3,78,46.8,234,True,Family,2025-04-18,2025-04-23,5,24,Female,UPI,Single,2,4.5,Plastic Wrap,2025-04-18
+Croissant,Cakes,"Eggs, Butter, Baking Powder",2,52,31.2,104,False,Individual,2025-04-15,2025-04-20,5,50,Other,Credit Card,Single,1,4.4,Paper Box,2025-04-15
+Fruit Tart,Baked Goods,"Sugar, Butter, Milk",3,265,159.0,795,False,Individual,2025-04-16,2025-04-21,5,31,Male,Cash,Bulk,1,1.4,Cloth Bag,2025-04-16
+Sourdough,Cupcakes,"Flour, Eggs, Baking Powder",1,159,95.4,159,True,Family,2025-04-15,2025-04-20,5,40,Other,Cash,Single,0,2.4,Cloth Bag,2025-04-15
+Brownie,Baked Goods,"Sugar, Baking Powder, Eggs",1,212,127.2,212,True,Business,2025-04-12,2025-04-17,5,56,Other,UPI,Single,0,3.8,Paper Box,2025-04-12
+Cheese Pastry,Cupcakes,"Cocoa, Baking Powder, Butter",1,221,132.6,221,False,Family,2025-04-13,2025-04-18,5,49,Male,UPI,Bulk,2,1.0,Cloth Bag,2025-04-13
+Chocolate Cake,Pastries,"Butter, Eggs, Cocoa",3,267,160.2,801,True,Family,2025-04-21,2025-04-25,4,49,Male,Credit Card,Single,2,2.5,Paper Box,2025-04-21
+Chocolate Cake,Pastries,"Sugar, Eggs, Flour",2,286,171.6,572,True,Business,2025-04-12,2025-04-17,5,29,Male,UPI,Bulk,2,1.3,Paper Box,2025-04-12
+Chocolate Cake,Cakes,"Baking Powder, Cocoa, Butter",3,174,104.4,522,True,Family,2025-04-19,2025-04-22,3,20,Male,Debit Card,Bulk,0,1.5,Plastic Wrap,2025-04-19
+Muffin,Baked Goods,"Cocoa, Milk, Baking Powder",3,276,165.6,828,True,Individual,2025-04-15,2025-04-19,4,36,Male,Credit Card,Single,1,1.7,Plastic Wrap,2025-04-15
+Cheese Pastry,Cakes,"Milk, Eggs, Cocoa",1,53,31.8,53,True,Business,2025-04-13,2025-04-18,5,59,Other,Debit Card,Single,0,3.5,Plastic Wrap,2025-04-13
+Vanilla Cupcake,Cakes,"Milk, Butter, Cocoa",2,243,145.8,486,False,Family,2025-04-20,2025-04-26,6,18,Female,UPI,Single,2,2.5,Plastic Wrap,2025-04-20
+Fruit Tart,Baked Goods,"Sugar, Butter, Cocoa",2,263,157.8,526,False,Individual,2025-04-11,2025-04-14,3,24,Male,Debit Card,Single,2,4.0,Plastic Wrap,2025-04-11
+Vanilla Cupcake,Cakes,"Milk, Baking Powder, Eggs",2,64,38.4,128,False,Family,2025-04-12,2025-04-16,4,23,Female,Cash,Bulk,1,3.8,Cloth Bag,2025-04-12
+Chocolate Cake,Baked Goods,"Eggs, Cocoa, Flour",3,64,38.4,192,False,Business,2025-04-16,2025-04-21,5,19,Female,UPI,Single,2,3.4,Plastic Wrap,2025-04-16
+Brownie,Pastries,"Butter, Cocoa, Flour",1,207,124.2,207,False,Business,2025-04-22,2025-04-26,4,57,Other,Credit Card,Bulk,1,2.2,Cloth Bag,2025-04-22
+Brownie,Cakes,"Eggs, Milk, Butter",2,132,79.2,264,True,Business,2025-04-14,2025-04-19,5,19,Male,Debit Card,Single,2,1.5,Cloth Bag,2025-04-14
+Cheese Pastry,Cupcakes,"Flour, Milk, Cocoa",3,86,51.6,258,True,Business,2025-04-23,2025-04-29,6,24,Other,Debit Card,Bulk,2,1.4,Plastic Wrap,2025-04-23
+Chocolate Cake,Pastries,"Baking Powder, Milk, Eggs",1,194,116.4,194,True,Business,2025-04-19,2025-04-23,4,28,Other,Credit Card,Bulk,1,2.3,Plastic Wrap,2025-04-19
+Brownie,Cakes,"Baking Powder, Flour, Cocoa",2,200,120.0,400,False,Individual,2025-04-22,2025-04-27,5,46,Other,UPI,Bulk,2,3.1,Cloth Bag,2025-04-22
+Cheese Pastry,Baked Goods,"Flour, Baking Powder, Cocoa",1,116,69.6,116,True,Family,2025-04-17,2025-04-23,6,29,Male,Credit Card,Single,1,2.7,Cloth Bag,2025-04-17
+Vanilla Cupcake,Cakes,"Eggs, Sugar, Baking Powder",3,284,170.4,852,True,Individual,2025-04-13,2025-04-16,3,20,Female,Debit Card,Bulk,1,1.1,Plastic Wrap,2025-04-13
+Sourdough,Baked Goods,"Flour, Cocoa, Milk",1,133,79.8,133,True,Individual,2025-04-22,2025-04-25,3,36,Female,UPI,Bulk,0,4.5,Paper Box,2025-04-22
+Croissant,Baked Goods,"Cocoa, Milk, Baking Powder",2,237,142.2,474,False,Individual,2025-04-21,2025-04-24,3,20,Other,Credit Card,Single,2,2.9,Plastic Wrap,2025-04-21
+Chocolate Cake,Pastries,"Flour, Butter, Baking Powder",3,73,43.8,219,True,Individual,2025-04-12,2025-04-15,3,22,Male,UPI,Bulk,1,1.4,Plastic Wrap,2025-04-12
+Muffin,Baked Goods,"Eggs, Milk, Flour",2,234,140.4,468,True,Individual,2025-04-17,2025-04-23,6,52,Other,Debit Card,Bulk,0,4.4,Plastic Wrap,2025-04-17
+Chocolate Cake,Pastries,"Butter, Baking Powder, Milk",1,178,106.8,178,True,Business,2025-04-18,2025-04-22,4,20,Male,Debit Card,Bulk,0,1.6,Plastic Wrap,2025-04-18
+Cheese Pastry,Cakes,"Butter, Eggs, Baking Powder",2,117,70.2,234,True,Individual,2025-04-24,2025-04-28,4,53,Female,Debit Card,Single,1,1.8,Paper Box,2025-04-24
+Croissant,Cakes,"Sugar, Milk, Cocoa",2,272,163.2,544,False,Individual,2025-04-10,2025-04-13,3,57,Male,Debit Card,Bulk,0,3.6,Paper Box,2025-04-10
+Brownie,Cupcakes,"Eggs, Baking Powder, Milk",1,95,57.0,95,True,Business,2025-04-22,2025-04-27,5,56,Other,Cash,Bulk,1,2.6,Paper Box,2025-04-22
+Muffin,Tarts,"Sugar, Eggs, Baking Powder",2,142,85.2,284,False,Family,2025-04-11,2025-04-15,4,26,Other,UPI,Bulk,2,1.8,Paper Box,2025-04-11
+Cheese Pastry,Pastries,"Eggs, Baking Powder, Flour",2,262,157.2,524,True,Family,2025-04-11,2025-04-17,6,24,Other,Debit Card,Single,1,2.8,Cloth Bag,2025-04-11
+Croissant,Cakes,"Flour, Butter, Sugar",1,105,63.0,105,False,Business,2025-04-14,2025-04-18,4,47,Other,Cash,Bulk,0,2.1,Cloth Bag,2025-04-14
+Croissant,Cakes,"Baking Powder, Butter, Flour",3,253,151.8,759,False,Family,2025-04-23,2025-04-29,6,25,Other,Debit Card,Single,1,2.7,Paper Box,2025-04-23
+Vanilla Cupcake,Cupcakes,"Eggs, Butter, Cocoa",1,174,104.4,174,False,Individual,2025-04-16,2025-04-19,3,49,Other,Credit Card,Single,1,2.6,Plastic Wrap,2025-04-16
+Brownie,Baked Goods,"Flour, Butter, Milk",3,292,175.2,876,False,Family,2025-04-24,2025-04-30,6,46,Female,Credit Card,Bulk,0,3.9,Cloth Bag,2025-04-24
+Sourdough,Pastries,"Baking Powder, Eggs, Sugar",3,235,141.0,705,True,Family,2025-04-22,2025-04-25,3,25,Female,Cash,Single,1,2.6,Plastic Wrap,2025-04-22
+Muffin,Pastries,"Baking Powder, Eggs, Butter",1,267,160.2,267,False,Family,2025-04-14,2025-04-19,5,55,Male,Cash,Single,2,3.3,Plastic Wrap,2025-04-14
+Cheese Pastry,Cakes,"Eggs, Cocoa, Milk",2,257,154.2,514,True,Individual,2025-04-19,2025-04-22,3,45,Female,Credit Card,Single,2,2.1,Cloth Bag,2025-04-19
+Croissant,Tarts,"Flour, Milk, Eggs",2,194,116.4,388,True,Family,2025-04-11,2025-04-16,5,24,Other,Cash,Single,0,4.4,Cloth Bag,2025-04-11
+Muffin,Tarts,"Milk, Baking Powder, Flour",2,228,136.8,456,True,Family,2025-04-13,2025-04-16,3,51,Male,Debit Card,Single,0,2.0,Cloth Bag,2025-04-13
+Sourdough,Pastries,"Baking Powder, Eggs, Milk",2,170,102.0,340,True,Family,2025-04-23,2025-04-26,3,27,Male,Cash,Single,2,4.1,Plastic Wrap,2025-04-23
+Muffin,Tarts,"Baking Powder, Cocoa, Butter",2,294,176.4,588,True,Individual,2025-04-13,2025-04-16,3,23,Male,Debit Card,Single,1,1.0,Paper Box,2025-04-13
+Muffin,Cupcakes,"Eggs, Sugar, Butter",2,144,86.4,288,False,Business,2025-04-21,2025-04-25,4,51,Other,Cash,Bulk,2,1.4,Cloth Bag,2025-04-21
+Croissant,Pastries,"Sugar, Eggs, Flour",1,157,94.2,157,True,Business,2025-04-24,2025-04-29,5,56,Female,Credit Card,Single,1,3.5,Plastic Wrap,2025-04-24
+Chocolate Cake,Tarts,"Eggs, Sugar, Flour",1,244,146.4,244,False,Family,2025-04-17,2025-04-20,3,47,Female,Credit Card,Single,2,3.4,Plastic Wrap,2025-04-17
+Muffin,Cupcakes,"Sugar, Milk, Baking Powder",3,277,166.2,831,True,Individual,2025-04-17,2025-04-20,3,44,Other,Cash,Bulk,1,1.3,Plastic Wrap,2025-04-17
+Fruit Tart,Baked Goods,"Flour, Sugar, Eggs",3,169,101.4,507,False,Business,2025-04-21,2025-04-27,6,42,Other,UPI,Bulk,2,1.9,Paper Box,2025-04-21
+Vanilla Cupcake,Cupcakes,"Butter, Flour, Sugar",3,177,106.2,531,True,Family,2025-04-18,2025-04-24,6,57,Male,Debit Card,Single,0,4.2,Plastic Wrap,2025-04-18
+Chocolate Cake,Cupcakes,"Baking Powder, Milk, Butter",2,63,37.8,126,True,Individual,2025-04-15,2025-04-21,6,29,Female,Cash,Bulk,0,2.3,Paper Box,2025-04-15
+Fruit Tart,Tarts,"Eggs, Sugar, Flour",3,142,85.2,426,True,Individual,2025-04-16,2025-04-22,6,24,Female,Cash,Bulk,2,2.6,Plastic Wrap,2025-04-16
+Vanilla Cupcake,Cakes,"Eggs, Butter, Baking Powder",3,119,71.4,357,True,Business,2025-04-23,2025-04-27,4,56,Other,Debit Card,Single,1,1.1,Cloth Bag,2025-04-23
+Croissant,Baked Goods,"Butter, Milk, Cocoa",1,236,141.6,236,True,Individual,2025-04-16,2025-04-21,5,40,Male,UPI,Bulk,0,3.5,Paper Box,2025-04-16
+Fruit Tart,Tarts,"Butter, Milk, Sugar",1,116,69.6,116,True,Individual,2025-04-13,2025-04-18,5,39,Female,Debit Card,Bulk,1,1.9,Plastic Wrap,2025-04-13
+Muffin,Pastries,"Sugar, Flour, Butter",3,91,54.6,273,True,Family,2025-04-10,2025-04-16,6,39,Other,Cash,Single,2,2.1,Cloth Bag,2025-04-10
+Fruit Tart,Cakes,"Milk, Baking Powder, Cocoa",2,186,111.6,372,False,Family,2025-04-11,2025-04-16,5,57,Female,Cash,Bulk,0,3.6,Cloth Bag,2025-04-11
+Brownie,Pastries,"Flour, Butter, Sugar",1,67,40.2,67,True,Family,2025-04-22,2025-04-27,5,24,Female,UPI,Single,1,3.1,Paper Box,2025-04-22
+Vanilla Cupcake,Cakes,"Milk, Flour, Cocoa",3,207,124.2,621,True,Family,2025-04-24,2025-04-30,6,19,Other,Credit Card,Bulk,2,4.6,Paper Box,2025-04-24
+Vanilla Cupcake,Pastries,"Baking Powder, Flour, Butter",2,173,103.8,346,False,Individual,2025-04-20,2025-04-26,6,27,Male,UPI,Bulk,0,3.4,Paper Box,2025-04-20
+Croissant,Cakes,"Cocoa, Butter, Sugar",1,111,66.6,111,False,Individual,2025-04-21,2025-04-25,4,28,Male,Debit Card,Single,0,2.0,Paper Box,2025-04-21
+Vanilla Cupcake,Cakes,"Flour, Milk, Sugar",3,72,43.2,216,True,Family,2025-04-16,2025-04-22,6,41,Other,UPI,Bulk,2,4.2,Plastic Wrap,2025-04-16
+Chocolate Cake,Baked Goods,"Eggs, Butter, Milk",2,179,107.4,358,True,Individual,2025-04-22,2025-04-27,5,55,Female,Credit Card,Single,0,2.4,Plastic Wrap,2025-04-22
+Muffin,Cupcakes,"Eggs, Cocoa, Flour",2,253,151.8,506,True,Family,2025-04-19,2025-04-24,5,30,Male,UPI,Bulk,2,2.7,Plastic Wrap,2025-04-19
+Chocolate Cake,Baked Goods,"Milk, Sugar, Flour",3,280,168.0,840,False,Family,2025-04-18,2025-04-24,6,34,Male,UPI,Bulk,1,1.6,Paper Box,2025-04-18
+Croissant,Baked Goods,"Butter, Cocoa, Eggs",2,130,78.0,260,False,Family,2025-04-20,2025-04-23,3,35,Female,Credit Card,Single,2,2.7,Plastic Wrap,2025-04-20
+Chocolate Cake,Cakes,"Eggs, Flour, Butter",2,174,104.4,348,False,Family,2025-04-17,2025-04-21,4,36,Male,Credit Card,Bulk,1,2.7,Cloth Bag,2025-04-17
+Cheese Pastry,Baked Goods,"Baking Powder, Cocoa, Milk",3,108,64.8,324,True,Individual,2025-04-23,2025-04-27,4,25,Male,Debit Card,Single,2,3.3,Plastic Wrap,2025-04-23
+Cheese Pastry,Baked Goods,"Sugar, Butter, Eggs",3,70,42.0,210,False,Family,2025-04-16,2025-04-20,4,42,Female,UPI,Bulk,2,1.4,Paper Box,2025-04-16
+Sourdough,Cakes,"Eggs, Flour, Butter",1,259,155.4,259,True,Family,2025-04-14,2025-04-18,4,46,Other,Debit Card,Single,1,3.1,Plastic Wrap,2025-04-14
+Brownie,Cakes,"Flour, Sugar, Milk",1,297,178.2,297,False,Business,2025-04-13,2025-04-18,5,47,Male,UPI,Bulk,1,4.5,Paper Box,2025-04-13
+Muffin,Cupcakes,"Eggs, Butter, Baking Powder",1,167,100.2,167,True,Individual,2025-04-17,2025-04-23,6,41,Other,UPI,Single,1,1.9,Plastic Wrap,2025-04-17
+Fruit Tart,Cupcakes,"Flour, Eggs, Milk",3,294,176.4,882,False,Family,2025-04-15,2025-04-20,5,28,Male,UPI,Single,1,1.1,Paper Box,2025-04-15
+Croissant,Baked Goods,"Flour, Milk, Butter",2,60,36.0,120,False,Individual,2025-04-19,2025-04-22,3,41,Male,Debit Card,Bulk,0,2.8,Paper Box,2025-04-19
+Muffin,Cakes,"Milk, Sugar, Cocoa",1,210,126.0,210,False,Family,2025-04-13,2025-04-16,3,24,Female,Debit Card,Single,0,1.5,Plastic Wrap,2025-04-13
+Muffin,Cakes,"Cocoa, Milk, Flour",1,89,53.4,89,False,Family,2025-04-14,2025-04-17,3,54,Other,Credit Card,Bulk,2,1.6,Paper Box,2025-04-14
+Sourdough,Tarts,"Butter, Milk, Sugar",2,54,32.4,108,True,Family,2025-04-13,2025-04-18,5,58,Male,Credit Card,Bulk,0,1.7,Plastic Wrap,2025-04-13
+Muffin,Cakes,"Baking Powder, Cocoa, Eggs",2,147,88.2,294,True,Business,2025-04-10,2025-04-14,4,39,Male,Credit Card,Bulk,0,4.9,Cloth Bag,2025-04-10
+Muffin,Cakes,"Cocoa, Eggs, Flour",2,216,129.6,432,False,Family,2025-04-21,2025-04-25,4,59,Male,Credit Card,Single,1,1.1,Cloth Bag,2025-04-21
+Vanilla Cupcake,Baked Goods,"Eggs, Butter, Cocoa",1,153,91.8,153,False,Family,2025-04-16,2025-04-20,4,46,Female,Cash,Single,0,2.2,Paper Box,2025-04-16
+Croissant,Baked Goods,"Sugar, Milk, Flour",3,285,171.0,855,True,Family,2025-04-23,2025-04-26,3,27,Female,Debit Card,Bulk,1,1.5,Cloth Bag,2025-04-23
+Cheese Pastry,Baked Goods,"Butter, Milk, Flour",3,152,91.2,456,True,Family,2025-04-23,2025-04-28,5,55,Female,Debit Card,Bulk,2,4.9,Paper Box,2025-04-23
+Vanilla Cupcake,Cakes,"Flour, Eggs, Cocoa",3,231,138.6,693,False,Business,2025-04-10,2025-04-15,5,53,Female,Credit Card,Single,2,3.4,Cloth Bag,2025-04-10
+Chocolate Cake,Pastries,"Eggs, Baking Powder, Butter",3,210,126.0,630,True,Family,2025-04-11,2025-04-17,6,33,Other,Credit Card,Bulk,2,5.0,Paper Box,2025-04-11
+Sourdough,Cakes,"Sugar, Baking Powder, Flour",3,196,117.6,588,False,Family,2025-04-12,2025-04-17,5,42,Male,Cash,Bulk,1,3.6,Plastic Wrap,2025-04-12
+Chocolate Cake,Pastries,"Sugar, Butter, Flour",2,185,111.0,370,True,Family,2025-04-14,2025-04-17,3,22,Female,Debit Card,Single,2,4.9,Cloth Bag,2025-04-14
+Brownie,Tarts,"Milk, Eggs, Cocoa",3,183,109.8,549,False,Family,2025-04-23,2025-04-27,4,51,Other,Credit Card,Single,1,1.0,Plastic Wrap,2025-04-23
+Sourdough,Baked Goods,"Sugar, Flour, Baking Powder",1,157,94.2,157,False,Business,2025-04-12,2025-04-17,5,41,Male,Debit Card,Bulk,1,3.5,Cloth Bag,2025-04-12
+Sourdough,Pastries,"Flour, Baking Powder, Sugar",2,203,121.8,406,True,Family,2025-04-18,2025-04-24,6,27,Other,Debit Card,Bulk,1,1.9,Cloth Bag,2025-04-18
+Muffin,Pastries,"Sugar, Milk, Baking Powder",1,282,169.2,282,True,Family,2025-04-18,2025-04-23,5,29,Male,UPI,Bulk,0,1.4,Cloth Bag,2025-04-18
+Sourdough,Tarts,"Flour, Baking Powder, Milk",2,183,109.8,366,False,Family,2025-04-24,2025-04-30,6,29,Female,UPI,Bulk,1,1.4,Plastic Wrap,2025-04-24
+Cheese Pastry,Tarts,"Milk, Baking Powder, Sugar",1,273,163.8,273,True,Individual,2025-04-12,2025-04-15,3,18,Other,UPI,Bulk,0,4.1,Paper Box,2025-04-12
+Vanilla Cupcake,Tarts,"Flour, Cocoa, Baking Powder",1,132,79.2,132,False,Business,2025-04-21,2025-04-25,4,43,Female,UPI,Bulk,1,1.5,Plastic Wrap,2025-04-21
+Brownie,Cakes,"Flour, Milk, Butter",3,265,159.0,795,True,Business,2025-04-21,2025-04-25,4,48,Other,Debit Card,Single,0,2.8,Cloth Bag,2025-04-21
+Chocolate Cake,Cupcakes,"Milk, Eggs, Butter",2,294,176.4,588,False,Business,2025-04-10,2025-04-15,5,36,Other,UPI,Bulk,2,3.1,Cloth Bag,2025-04-10
+Vanilla Cupcake,Tarts,"Sugar, Eggs, Butter",1,102,61.2,102,False,Individual,2025-04-14,2025-04-18,4,42,Male,Cash,Bulk,2,2.3,Paper Box,2025-04-14
+Fruit Tart,Cakes,"Cocoa, Eggs, Milk",2,55,33.0,110,True,Individual,2025-04-11,2025-04-16,5,26,Male,UPI,Single,0,4.8,Plastic Wrap,2025-04-11
+Brownie,Cakes,"Cocoa, Baking Powder, Sugar",2,284,170.4,568,False,Family,2025-04-20,2025-04-26,6,58,Other,UPI,Single,1,2.4,Paper Box,2025-04-20
+Sourdough,Baked Goods,"Baking Powder, Milk, Butter",3,164,98.4,492,False,Business,2025-04-24,2025-04-27,3,23,Female,Cash,Bulk,0,1.9,Paper Box,2025-04-24
+Sourdough,Baked Goods,"Butter, Baking Powder, Cocoa",1,146,87.6,146,False,Individual,2025-04-18,2025-04-21,3,57,Male,UPI,Single,2,4.7,Paper Box,2025-04-18
+Brownie,Tarts,"Eggs, Sugar, Baking Powder",2,161,96.6,322,False,Family,2025-04-19,2025-04-25,6,38,Male,Credit Card,Bulk,1,1.9,Paper Box,2025-04-19
+Brownie,Pastries,"Eggs, Cocoa, Baking Powder",2,121,72.6,242,True,Family,2025-04-15,2025-04-21,6,54,Female,UPI,Bulk,2,1.1,Cloth Bag,2025-04-15
+Muffin,Baked Goods,"Butter, Baking Powder, Sugar",2,273,163.8,546,True,Individual,2025-04-13,2025-04-19,6,51,Male,Debit Card,Bulk,2,3.8,Plastic Wrap,2025-04-13
+Croissant,Cupcakes,"Flour, Milk, Cocoa",2,106,63.6,212,False,Family,2025-04-23,2025-04-26,3,19,Male,Debit Card,Bulk,1,2.4,Cloth Bag,2025-04-23
+Fruit Tart,Cakes,"Milk, Cocoa, Eggs",3,94,56.4,282,True,Individual,2025-04-17,2025-04-20,3,39,Female,Debit Card,Bulk,2,1.2,Paper Box,2025-04-17
+Croissant,Baked Goods,"Flour, Baking Powder, Butter",3,83,49.8,249,False,Individual,2025-04-14,2025-04-20,6,19,Female,Credit Card,Bulk,2,2.7,Plastic Wrap,2025-04-14
+Sourdough,Pastries,"Butter, Eggs, Flour",2,96,57.6,192,True,Business,2025-04-19,2025-04-23,4,33,Other,Debit Card,Single,0,2.3,Cloth Bag,2025-04-19
+Muffin,Baked Goods,"Sugar, Cocoa, Baking Powder",2,181,108.6,362,True,Individual,2025-04-24,2025-04-29,5,18,Other,Debit Card,Single,1,2.4,Plastic Wrap,2025-04-24
+Vanilla Cupcake,Baked Goods,"Cocoa, Butter, Milk",3,257,154.2,771,False,Business,2025-04-17,2025-04-23,6,36,Female,UPI,Bulk,1,3.6,Paper Box,2025-04-17
+Chocolate Cake,Pastries,"Baking Powder, Flour, Butter",1,95,57.0,95,False,Individual,2025-04-18,2025-04-21,3,50,Male,Cash,Single,2,2.4,Cloth Bag,2025-04-18
+Muffin,Pastries,"Flour, Baking Powder, Eggs",2,79,47.4,158,True,Individual,2025-04-23,2025-04-29,6,31,Other,Debit Card,Bulk,0,1.8,Paper Box,2025-04-23
+Fruit Tart,Pastries,"Cocoa, Butter, Baking Powder",3,51,30.6,153,True,Family,2025-04-18,2025-04-22,4,51,Female,Cash,Single,0,3.9,Plastic Wrap,2025-04-18
+Cheese Pastry,Baked Goods,"Flour, Cocoa, Eggs",1,109,65.4,109,False,Family,2025-04-12,2025-04-16,4,45,Other,Debit Card,Single,1,2.5,Cloth Bag,2025-04-12
+Cheese Pastry,Cakes,"Flour, Butter, Sugar",1,157,94.2,157,True,Business,2025-04-17,2025-04-21,4,54,Other,Debit Card,Single,0,3.1,Cloth Bag,2025-04-17
+Muffin,Tarts,"Eggs, Cocoa, Milk",2,160,96.0,320,False,Individual,2025-04-19,2025-04-22,3,52,Male,UPI,Single,1,2.3,Paper Box,2025-04-19
+Chocolate Cake,Cakes,"Sugar, Baking Powder, Eggs",2,54,32.4,108,True,Business,2025-04-15,2025-04-21,6,60,Female,Debit Card,Single,2,3.9,Plastic Wrap,2025-04-15
+Cheese Pastry,Cakes,"Eggs, Sugar, Cocoa",1,101,60.6,101,False,Business,2025-04-13,2025-04-17,4,23,Other,UPI,Bulk,0,2.9,Plastic Wrap,2025-04-13
+Sourdough,Cakes,"Cocoa, Milk, Flour",1,221,132.6,221,False,Business,2025-04-13,2025-04-17,4,31,Female,Debit Card,Bulk,1,1.3,Plastic Wrap,2025-04-13
+Chocolate Cake,Baked Goods,"Baking Powder, Eggs, Flour",3,156,93.6,468,False,Family,2025-04-11,2025-04-16,5,60,Female,Cash,Single,2,4.9,Paper Box,2025-04-11
+Croissant,Cakes,"Milk, Eggs, Sugar",2,227,136.2,454,False,Individual,2025-04-11,2025-04-15,4,59,Other,Cash,Single,2,3.7,Paper Box,2025-04-11
+Fruit Tart,Pastries,"Eggs, Milk, Baking Powder",2,148,88.8,296,False,Business,2025-04-21,2025-04-25,4,35,Female,Cash,Single,1,1.7,Cloth Bag,2025-04-21
+Vanilla Cupcake,Baked Goods,"Milk, Baking Powder, Butter",3,260,156.0,780,False,Business,2025-04-12,2025-04-15,3,19,Female,Credit Card,Bulk,2,3.0,Cloth Bag,2025-04-12
+Fruit Tart,Tarts,"Eggs, Sugar, Milk",2,136,81.6,272,False,Business,2025-04-13,2025-04-18,5,39,Male,UPI,Single,0,2.7,Paper Box,2025-04-13
+Chocolate Cake,Cakes,"Flour, Cocoa, Butter",3,73,43.8,219,True,Business,2025-04-17,2025-04-22,5,59,Male,Cash,Bulk,1,4.7,Cloth Bag,2025-04-17
+Muffin,Tarts,"Eggs, Milk, Sugar",3,181,108.6,543,True,Family,2025-04-13,2025-04-19,6,28,Other,UPI,Bulk,2,2.7,Cloth Bag,2025-04-13
+Chocolate Cake,Cakes,"Milk, Flour, Baking Powder",2,177,106.2,354,True,Individual,2025-04-19,2025-04-23,4,32,Male,UPI,Bulk,0,4.0,Cloth Bag,2025-04-19
+Brownie,Tarts,"Sugar, Baking Powder, Butter",3,95,57.0,285,False,Business,2025-04-10,2025-04-13,3,56,Female,Cash,Bulk,2,3.5,Cloth Bag,2025-04-10
+Muffin,Pastries,"Flour, Baking Powder, Eggs",1,283,169.8,283,False,Family,2025-04-10,2025-04-16,6,49,Male,UPI,Bulk,0,3.2,Cloth Bag,2025-04-10
+Brownie,Baked Goods,"Sugar, Baking Powder, Butter",1,90,54.0,90,True,Family,2025-04-10,2025-04-15,5,57,Male,Debit Card,Single,0,3.6,Cloth Bag,2025-04-10
+Brownie,Baked Goods,"Baking Powder, Cocoa, Sugar",3,57,34.2,171,False,Business,2025-04-18,2025-04-24,6,53,Other,Credit Card,Bulk,1,4.9,Paper Box,2025-04-18
+Chocolate Cake,Baked Goods,"Flour, Cocoa, Baking Powder",1,196,117.6,196,False,Business,2025-04-17,2025-04-23,6,43,Female,Credit Card,Single,2,1.6,Paper Box,2025-04-17
+Muffin,Cupcakes,"Eggs, Flour, Baking Powder",1,183,109.8,183,True,Individual,2025-04-20,2025-04-23,3,21,Other,Cash,Single,0,2.1,Plastic Wrap,2025-04-20
+Cheese Pastry,Baked Goods,"Flour, Eggs, Cocoa",3,91,54.6,273,True,Family,2025-04-24,2025-04-29,5,35,Male,UPI,Single,2,3.3,Paper Box,2025-04-24
+Muffin,Cakes,"Butter, Flour, Sugar",2,148,88.8,296,True,Individual,2025-04-24,2025-04-30,6,54,Female,Debit Card,Single,0,4.4,Cloth Bag,2025-04-24
+Cheese Pastry,Baked Goods,"Sugar, Cocoa, Butter",3,219,131.4,657,False,Family,2025-04-15,2025-04-20,5,24,Female,Credit Card,Bulk,1,4.5,Paper Box,2025-04-15
+Sourdough,Cakes,"Flour, Milk, Sugar",1,84,50.4,84,False,Individual,2025-04-22,2025-04-26,4,30,Male,UPI,Single,1,3.7,Plastic Wrap,2025-04-22
+Vanilla Cupcake,Cakes,"Flour, Eggs, Cocoa",1,195,117.0,195,True,Family,2025-04-12,2025-04-15,3,29,Other,Credit Card,Single,1,1.6,Paper Box,2025-04-12
+Chocolate Cake,Cakes,"Milk, Baking Powder, Sugar",2,178,106.8,356,False,Individual,2025-04-20,2025-04-25,5,60,Female,Credit Card,Single,2,1.1,Plastic Wrap,2025-04-20
+Sourdough,Tarts,"Butter, Baking Powder, Milk",1,253,151.8,253,True,Individual,2025-04-17,2025-04-20,3,29,Female,UPI,Bulk,0,1.2,Paper Box,2025-04-17
+Croissant,Cakes,"Cocoa, Eggs, Butter",2,276,165.6,552,True,Individual,2025-04-18,2025-04-22,4,32,Other,Credit Card,Single,0,3.8,Paper Box,2025-04-18
+Fruit Tart,Cakes,"Butter, Eggs, Milk",1,271,162.6,271,True,Business,2025-04-24,2025-04-28,4,53,Female,Debit Card,Single,0,4.0,Cloth Bag,2025-04-24
+Muffin,Cupcakes,"Eggs, Sugar, Baking Powder",2,60,36.0,120,False,Family,2025-04-20,2025-04-25,5,56,Male,UPI,Single,1,1.7,Paper Box,2025-04-20
+Vanilla Cupcake,Pastries,"Flour, Sugar, Butter",2,98,58.8,196,False,Individual,2025-04-24,2025-04-27,3,42,Male,Debit Card,Bulk,0,3.6,Cloth Bag,2025-04-24
+Chocolate Cake,Baked Goods,"Cocoa, Eggs, Sugar",1,86,51.6,86,False,Individual,2025-04-15,2025-04-21,6,60,Female,UPI,Single,0,4.9,Plastic Wrap,2025-04-15
+Vanilla Cupcake,Pastries,"Flour, Cocoa, Butter",2,131,78.6,262,True,Business,2025-04-20,2025-04-26,6,44,Other,Debit Card,Bulk,1,3.2,Cloth Bag,2025-04-20
+Vanilla Cupcake,Baked Goods,"Cocoa, Sugar, Baking Powder",3,144,86.4,432,False,Family,2025-04-14,2025-04-17,3,33,Male,Credit Card,Bulk,2,2.3,Cloth Bag,2025-04-14
+Fruit Tart,Pastries,"Baking Powder, Eggs, Milk",3,299,179.4,897,False,Family,2025-04-21,2025-04-25,4,19,Male,Credit Card,Bulk,0,3.4,Paper Box,2025-04-21
+Muffin,Cupcakes,"Butter, Sugar, Flour",1,222,133.2,222,False,Individual,2025-04-14,2025-04-19,5,59,Female,Credit Card,Bulk,0,1.5,Plastic Wrap,2025-04-14
+Cheese Pastry,Baked Goods,"Butter, Flour, Baking Powder",2,116,69.6,232,True,Individual,2025-04-23,2025-04-28,5,18,Other,Debit Card,Bulk,0,2.4,Paper Box,2025-04-23
+Brownie,Cakes,"Milk, Baking Powder, Flour",3,200,120.0,600,True,Business,2025-04-10,2025-04-14,4,35,Other,UPI,Single,1,3.7,Paper Box,2025-04-10
+Chocolate Cake,Baked Goods,"Milk, Sugar, Flour",3,205,123.0,615,False,Family,2025-04-13,2025-04-18,5,29,Male,Credit Card,Bulk,0,3.7,Plastic Wrap,2025-04-13
+Croissant,Tarts,"Eggs, Butter, Milk",1,228,136.8,228,False,Family,2025-04-24,2025-04-29,5,41,Other,UPI,Single,0,2.5,Paper Box,2025-04-24
+Muffin,Pastries,"Milk, Eggs, Butter",2,186,111.6,372,False,Business,2025-04-19,2025-04-23,4,36,Female,Debit Card,Bulk,0,3.2,Cloth Bag,2025-04-19
+Chocolate Cake,Cupcakes,"Baking Powder, Sugar, Butter",3,226,135.6,678,False,Individual,2025-04-13,2025-04-19,6,28,Female,Cash,Single,1,2.5,Plastic Wrap,2025-04-13
+Sourdough,Cupcakes,"Cocoa, Eggs, Sugar",3,190,114.0,570,False,Business,2025-04-17,2025-04-20,3,26,Male,UPI,Single,2,2.7,Cloth Bag,2025-04-17
+Fruit Tart,Pastries,"Sugar, Baking Powder, Flour",1,170,102.0,170,False,Family,2025-04-18,2025-04-23,5,34,Other,Debit Card,Single,2,1.8,Plastic Wrap,2025-04-18
+Croissant,Cakes,"Sugar, Milk, Butter",1,70,42.0,70,True,Business,2025-04-18,2025-04-21,3,41,Female,UPI,Single,2,2.9,Cloth Bag,2025-04-18
+Vanilla Cupcake,Cupcakes,"Cocoa, Eggs, Baking Powder",1,185,111.0,185,False,Business,2025-04-19,2025-04-24,5,27,Other,Credit Card,Single,0,4.3,Plastic Wrap,2025-04-19
+Vanilla Cupcake,Baked Goods,"Sugar, Cocoa, Flour",3,199,119.4,597,False,Business,2025-04-18,2025-04-24,6,25,Male,UPI,Bulk,2,4.4,Cloth Bag,2025-04-18
+Chocolate Cake,Baked Goods,"Sugar, Milk, Butter",2,131,78.6,262,False,Business,2025-04-22,2025-04-26,4,59,Male,Credit Card,Bulk,2,1.2,Cloth Bag,2025-04-22
+Fruit Tart,Baked Goods,"Milk, Cocoa, Baking Powder",3,190,114.0,570,True,Business,2025-04-18,2025-04-23,5,37,Other,Cash,Single,1,2.2,Plastic Wrap,2025-04-18
+Chocolate Cake,Pastries,"Cocoa, Baking Powder, Milk",2,283,169.8,566,False,Family,2025-04-17,2025-04-20,3,44,Male,Cash,Single,1,1.7,Cloth Bag,2025-04-17
+Vanilla Cupcake,Pastries,"Sugar, Eggs, Baking Powder",3,250,150.0,750,False,Family,2025-04-17,2025-04-21,4,51,Other,Cash,Bulk,2,3.2,Cloth Bag,2025-04-17
+Chocolate Cake,Baked Goods,"Butter, Flour, Cocoa",1,288,172.8,288,False,Business,2025-04-19,2025-04-24,5,41,Male,UPI,Bulk,1,4.1,Paper Box,2025-04-19
+Brownie,Tarts,"Baking Powder, Eggs, Flour",1,58,34.8,58,False,Individual,2025-04-21,2025-04-26,5,18,Male,Debit Card,Single,0,3.1,Cloth Bag,2025-04-21
+Croissant,Cakes,"Sugar, Eggs, Cocoa",3,224,134.4,672,False,Individual,2025-04-13,2025-04-17,4,41,Male,Debit Card,Bulk,1,4.1,Plastic Wrap,2025-04-13
+Cheese Pastry,Cakes,"Eggs, Cocoa, Flour",2,133,79.8,266,True,Business,2025-04-17,2025-04-20,3,27,Female,UPI,Bulk,2,3.3,Plastic Wrap,2025-04-17
+Cheese Pastry,Tarts,"Cocoa, Eggs, Milk",3,254,152.4,762,True,Business,2025-04-11,2025-04-15,4,54,Female,Cash,Single,1,4.6,Paper Box,2025-04-11
+Muffin,Pastries,"Eggs, Flour, Baking Powder",3,123,73.8,369,False,Business,2025-04-10,2025-04-16,6,35,Male,Cash,Bulk,1,3.2,Plastic Wrap,2025-04-10
+Cheese Pastry,Baked Goods,"Eggs, Sugar, Cocoa",2,138,82.8,276,True,Family,2025-04-13,2025-04-17,4,29,Other,UPI,Single,0,2.9,Plastic Wrap,2025-04-13
+Brownie,Pastries,"Baking Powder, Milk, Cocoa",2,281,168.6,562,True,Business,2025-04-15,2025-04-21,6,58,Female,Debit Card,Single,2,2.6,Cloth Bag,2025-04-15
+Muffin,Tarts,"Cocoa, Milk, Flour",1,136,81.6,136,True,Business,2025-04-16,2025-04-20,4,57,Male,UPI,Bulk,0,1.4,Cloth Bag,2025-04-16
+Chocolate Cake,Cakes,"Flour, Eggs, Butter",2,66,39.6,132,False,Family,2025-04-17,2025-04-23,6,22,Other,Credit Card,Bulk,2,1.8,Cloth Bag,2025-04-17
+Muffin,Cakes,"Baking Powder, Cocoa, Sugar",3,136,81.6,408,False,Individual,2025-04-10,2025-04-15,5,26,Male,UPI,Single,0,4.6,Cloth Bag,2025-04-10
+Vanilla Cupcake,Baked Goods,"Baking Powder, Milk, Eggs",3,80,48.0,240,False,Family,2025-04-14,2025-04-17,3,38,Male,Cash,Single,2,4.6,Plastic Wrap,2025-04-14
+Fruit Tart,Pastries,"Milk, Eggs, Butter",3,287,172.2,861,True,Family,2025-04-15,2025-04-18,3,34,Female,Debit Card,Bulk,2,1.6,Plastic Wrap,2025-04-15
+Cheese Pastry,Tarts,"Milk, Baking Powder, Sugar",1,74,44.4,74,False,Family,2025-04-21,2025-04-27,6,21,Female,Credit Card,Single,0,3.6,Cloth Bag,2025-04-21
+Croissant,Baked Goods,"Milk, Baking Powder, Eggs",1,257,154.2,257,True,Individual,2025-04-19,2025-04-23,4,33,Female,Credit Card,Bulk,0,1.8,Paper Box,2025-04-19
+Fruit Tart,Tarts,"Eggs, Sugar, Flour",1,136,81.6,136,False,Family,2025-04-16,2025-04-20,4,40,Male,UPI,Single,1,4.8,Paper Box,2025-04-16
+Brownie,Pastries,"Eggs, Cocoa, Baking Powder",1,261,156.6,261,False,Business,2025-04-23,2025-04-26,3,49,Other,UPI,Bulk,1,4.0,Cloth Bag,2025-04-23
+Brownie,Tarts,"Baking Powder, Eggs, Sugar",1,174,104.4,174,True,Family,2025-04-11,2025-04-17,6,18,Other,Debit Card,Single,2,2.4,Cloth Bag,2025-04-11
+Brownie,Pastries,"Sugar, Butter, Milk",1,193,115.8,193,True,Individual,2025-04-17,2025-04-21,4,57,Other,Cash,Single,0,3.2,Plastic Wrap,2025-04-17
+Sourdough,Tarts,"Milk, Eggs, Flour",1,174,104.4,174,False,Individual,2025-04-21,2025-04-26,5,31,Other,UPI,Single,2,1.9,Plastic Wrap,2025-04-21
+Cheese Pastry,Tarts,"Flour, Eggs, Sugar",3,251,150.6,753,True,Business,2025-04-15,2025-04-18,3,31,Other,Credit Card,Bulk,2,4.9,Plastic Wrap,2025-04-15
+Croissant,Baked Goods,"Baking Powder, Milk, Eggs",1,225,135.0,225,True,Family,2025-04-17,2025-04-22,5,45,Other,Credit Card,Single,2,4.0,Paper Box,2025-04-17
+Croissant,Baked Goods,"Milk, Cocoa, Flour",3,146,87.6,438,False,Individual,2025-04-23,2025-04-28,5,42,Female,Credit Card,Single,1,2.5,Plastic Wrap,2025-04-23
+Fruit Tart,Cakes,"Butter, Eggs, Milk",2,136,81.6,272,False,Business,2025-04-14,2025-04-20,6,19,Other,Debit Card,Single,1,2.7,Cloth Bag,2025-04-14
+Brownie,Pastries,"Eggs, Cocoa, Milk",2,126,75.6,252,True,Individual,2025-04-20,2025-04-26,6,45,Other,Cash,Bulk,0,4.9,Cloth Bag,2025-04-20
+Chocolate Cake,Cupcakes,"Cocoa, Flour, Baking Powder",3,198,118.8,594,True,Individual,2025-04-21,2025-04-24,3,31,Female,Credit Card,Bulk,0,1.9,Paper Box,2025-04-21
+Vanilla Cupcake,Tarts,"Butter, Cocoa, Milk",1,292,175.2,292,True,Business,2025-04-22,2025-04-27,5,18,Male,UPI,Single,0,4.5,Cloth Bag,2025-04-22
+Muffin,Baked Goods,"Butter, Flour, Baking Powder",2,254,152.4,508,True,Individual,2025-04-23,2025-04-27,4,55,Female,Debit Card,Single,0,2.9,Cloth Bag,2025-04-23
+Vanilla Cupcake,Pastries,"Milk, Baking Powder, Flour",1,211,126.6,211,True,Family,2025-04-14,2025-04-20,6,45,Female,Debit Card,Single,1,2.7,Paper Box,2025-04-14
+Croissant,Baked Goods,"Sugar, Eggs, Butter",2,247,148.2,494,True,Business,2025-04-22,2025-04-26,4,50,Male,Debit Card,Bulk,2,4.3,Paper Box,2025-04-22
+Croissant,Baked Goods,"Milk, Flour, Eggs",2,87,52.2,174,False,Family,2025-04-14,2025-04-19,5,31,Male,Cash,Single,2,3.2,Cloth Bag,2025-04-14
+Sourdough,Pastries,"Butter, Milk, Flour",2,71,42.6,142,False,Individual,2025-04-23,2025-04-29,6,26,Male,UPI,Single,1,1.5,Cloth Bag,2025-04-23
+Vanilla Cupcake,Baked Goods,"Baking Powder, Eggs, Sugar",1,228,136.8,228,False,Individual,2025-04-23,2025-04-28,5,39,Male,Cash,Single,2,2.9,Cloth Bag,2025-04-23
+Cheese Pastry,Tarts,"Eggs, Baking Powder, Flour",3,77,46.2,231,True,Business,2025-04-24,2025-04-30,6,44,Male,Debit Card,Single,2,1.5,Plastic Wrap,2025-04-24
+Vanilla Cupcake,Cakes,"Sugar, Baking Powder, Flour",2,156,93.6,312,True,Family,2025-04-24,2025-04-27,3,36,Other,Credit Card,Single,1,1.8,Paper Box,2025-04-24
+Sourdough,Cakes,"Sugar, Eggs, Butter",3,194,116.4,582,True,Business,2025-04-24,2025-04-28,4,49,Male,Cash,Single,2,3.1,Plastic Wrap,2025-04-24
+Muffin,Baked Goods,"Sugar, Butter, Baking Powder",2,248,148.8,496,True,Business,2025-04-15,2025-04-21,6,39,Other,UPI,Bulk,2,1.6,Cloth Bag,2025-04-15
+Brownie,Baked Goods,"Cocoa, Sugar, Flour",2,128,76.8,256,True,Family,2025-04-19,2025-04-23,4,24,Other,Debit Card,Bulk,0,4.3,Cloth Bag,2025-04-19
+Muffin,Tarts,"Flour, Eggs, Baking Powder",2,260,156.0,520,False,Business,2025-04-13,2025-04-19,6,48,Female,Cash,Bulk,2,4.2,Cloth Bag,2025-04-13
+Brownie,Tarts,"Butter, Eggs, Baking Powder",3,68,40.8,204,False,Individual,2025-04-13,2025-04-17,4,41,Male,Credit Card,Bulk,2,4.4,Plastic Wrap,2025-04-13
+Cheese Pastry,Cupcakes,"Baking Powder, Flour, Milk",3,96,57.6,288,True,Business,2025-04-15,2025-04-20,5,27,Male,UPI,Bulk,2,3.8,Cloth Bag,2025-04-15
+Cheese Pastry,Pastries,"Eggs, Butter, Baking Powder",1,297,178.2,297,True,Family,2025-04-12,2025-04-16,4,51,Male,Debit Card,Bulk,0,3.9,Paper Box,2025-04-12
+Fruit Tart,Baked Goods,"Eggs, Cocoa, Sugar",2,295,177.0,590,True,Family,2025-04-17,2025-04-23,6,52,Male,Debit Card,Single,2,3.2,Plastic Wrap,2025-04-17
+Brownie,Tarts,"Cocoa, Baking Powder, Sugar",2,263,157.8,526,True,Business,2025-04-23,2025-04-26,3,50,Other,Cash,Single,0,1.1,Cloth Bag,2025-04-23
+Sourdough,Baked Goods,"Sugar, Cocoa, Flour",3,61,36.6,183,False,Business,2025-04-12,2025-04-17,5,37,Male,Debit Card,Bulk,0,4.7,Cloth Bag,2025-04-12
+Muffin,Cakes,"Sugar, Milk, Cocoa",2,250,150.0,500,True,Individual,2025-04-10,2025-04-15,5,26,Female,Cash,Bulk,1,4.7,Plastic Wrap,2025-04-10
+Muffin,Cupcakes,"Butter, Sugar, Eggs",1,184,110.4,184,True,Individual,2025-04-19,2025-04-22,3,59,Other,Debit Card,Single,0,1.8,Paper Box,2025-04-19
+Brownie,Pastries,"Baking Powder, Cocoa, Sugar",2,292,175.2,584,True,Individual,2025-04-21,2025-04-26,5,47,Other,UPI,Single,1,3.4,Plastic Wrap,2025-04-21
+Vanilla Cupcake,Cakes,"Butter, Flour, Baking Powder",3,89,53.4,267,True,Family,2025-04-20,2025-04-23,3,60,Other,Cash,Bulk,1,5.0,Paper Box,2025-04-20
+Fruit Tart,Cakes,"Baking Powder, Flour, Eggs",2,274,164.4,548,True,Individual,2025-04-23,2025-04-29,6,30,Male,Credit Card,Single,1,3.9,Cloth Bag,2025-04-23
+Croissant,Pastries,"Flour, Butter, Baking Powder",3,179,107.4,537,False,Family,2025-04-12,2025-04-18,6,24,Female,UPI,Bulk,2,1.7,Paper Box,2025-04-12
+Cheese Pastry,Pastries,"Butter, Baking Powder, Milk",2,67,40.2,134,True,Family,2025-04-20,2025-04-24,4,47,Female,Debit Card,Single,1,1.3,Cloth Bag,2025-04-20
+Brownie,Cakes,"Flour, Sugar, Baking Powder",1,178,106.8,178,False,Business,2025-04-12,2025-04-15,3,21,Other,UPI,Single,0,2.8,Cloth Bag,2025-04-12
+Vanilla Cupcake,Cakes,"Flour, Butter, Milk",2,110,66.0,220,False,Family,2025-04-10,2025-04-15,5,56,Male,Credit Card,Bulk,1,1.0,Plastic Wrap,2025-04-10
+Muffin,Baked Goods,"Butter, Baking Powder, Flour",1,278,166.8,278,False,Individual,2025-04-22,2025-04-27,5,18,Other,Debit Card,Bulk,2,1.9,Paper Box,2025-04-22
+Fruit Tart,Pastries,"Milk, Flour, Cocoa",3,80,48.0,240,False,Individual,2025-04-15,2025-04-21,6,45,Male,UPI,Single,2,2.1,Paper Box,2025-04-15
+Cheese Pastry,Baked Goods,"Butter, Milk, Sugar",1,77,46.2,77,True,Family,2025-04-21,2025-04-26,5,58,Male,Cash,Bulk,0,2.1,Paper Box,2025-04-21
+Cheese Pastry,Cakes,"Butter, Cocoa, Baking Powder",1,227,136.2,227,True,Business,2025-04-17,2025-04-23,6,41,Other,Cash,Bulk,1,4.7,Plastic Wrap,2025-04-17
+Brownie,Cakes,"Milk, Flour, Eggs",3,238,142.8,714,False,Business,2025-04-19,2025-04-22,3,36,Male,Debit Card,Single,1,3.0,Cloth Bag,2025-04-19
+Vanilla Cupcake,Cakes,"Eggs, Sugar, Flour",2,276,165.6,552,True,Family,2025-04-12,2025-04-16,4,49,Female,UPI,Bulk,0,2.8,Plastic Wrap,2025-04-12
+Cheese Pastry,Tarts,"Sugar, Baking Powder, Cocoa",2,125,75.0,250,True,Family,2025-04-11,2025-04-14,3,32,Male,Credit Card,Bulk,2,3.4,Paper Box,2025-04-11
+Muffin,Cakes,"Baking Powder, Milk, Sugar",2,91,54.6,182,True,Business,2025-04-11,2025-04-15,4,29,Female,Debit Card,Single,0,1.4,Cloth Bag,2025-04-11
+Brownie,Cakes,"Sugar, Butter, Milk",3,235,141.0,705,False,Individual,2025-04-17,2025-04-20,3,24,Male,Debit Card,Single,2,2.1,Plastic Wrap,2025-04-17
+Brownie,Cakes,"Eggs, Cocoa, Baking Powder",2,174,104.4,348,False,Family,2025-04-20,2025-04-24,4,20,Other,Credit Card,Bulk,2,3.1,Cloth Bag,2025-04-20
+Chocolate Cake,Baked Goods,"Sugar, Baking Powder, Eggs",1,250,150.0,250,False,Business,2025-04-10,2025-04-16,6,53,Female,Cash,Bulk,1,4.1,Plastic Wrap,2025-04-10
+Muffin,Baked Goods,"Baking Powder, Milk, Sugar",2,238,142.8,476,False,Business,2025-04-21,2025-04-25,4,27,Male,Cash,Single,0,1.0,Paper Box,2025-04-21
+Chocolate Cake,Baked Goods,"Cocoa, Eggs, Milk",3,76,45.6,228,True,Family,2025-04-21,2025-04-26,5,33,Male,UPI,Bulk,0,3.0,Cloth Bag,2025-04-21
+Brownie,Cupcakes,"Eggs, Sugar, Baking Powder",3,112,67.2,336,True,Business,2025-04-12,2025-04-17,5,30,Male,Cash,Bulk,0,1.2,Plastic Wrap,2025-04-12
+Fruit Tart,Pastries,"Sugar, Flour, Eggs",1,263,157.8,263,True,Individual,2025-04-24,2025-04-28,4,25,Other,UPI,Bulk,1,3.0,Cloth Bag,2025-04-24
+Croissant,Pastries,"Baking Powder, Sugar, Milk",3,70,42.0,210,True,Family,2025-04-21,2025-04-24,3,45,Female,Debit Card,Bulk,1,2.7,Plastic Wrap,2025-04-21
+Fruit Tart,Tarts,"Butter, Baking Powder, Cocoa",2,173,103.8,346,True,Family,2025-04-11,2025-04-17,6,46,Female,Debit Card,Single,2,4.2,Paper Box,2025-04-11
+Cheese Pastry,Cupcakes,"Butter, Milk, Flour",2,86,51.6,172,False,Business,2025-04-19,2025-04-25,6,38,Male,UPI,Bulk,1,3.4,Plastic Wrap,2025-04-19
+Brownie,Cakes,"Eggs, Sugar, Butter",3,174,104.4,522,False,Business,2025-04-17,2025-04-21,4,26,Female,Debit Card,Bulk,0,4.5,Plastic Wrap,2025-04-17
+Fruit Tart,Pastries,"Flour, Sugar, Cocoa",2,70,42.0,140,True,Individual,2025-04-11,2025-04-17,6,40,Male,Credit Card,Bulk,0,2.8,Cloth Bag,2025-04-11
+Cheese Pastry,Pastries,"Flour, Sugar, Milk",1,69,41.4,69,True,Family,2025-04-22,2025-04-27,5,27,Male,Credit Card,Single,0,3.3,Plastic Wrap,2025-04-22
+Chocolate Cake,Baked Goods,"Baking Powder, Milk, Sugar",2,176,105.6,352,False,Business,2025-04-17,2025-04-20,3,34,Male,Credit Card,Single,2,4.7,Paper Box,2025-04-17
+Fruit Tart,Cakes,"Milk, Eggs, Baking Powder",1,276,165.6,276,True,Individual,2025-04-23,2025-04-27,4,21,Male,Cash,Bulk,0,1.8,Paper Box,2025-04-23
+Muffin,Cupcakes,"Milk, Flour, Eggs",3,121,72.6,363,True,Business,2025-04-14,2025-04-19,5,27,Female,Cash,Single,2,4.9,Plastic Wrap,2025-04-14
+Chocolate Cake,Cupcakes,"Flour, Butter, Eggs",3,133,79.8,399,True,Individual,2025-04-15,2025-04-19,4,35,Male,Debit Card,Bulk,2,4.4,Cloth Bag,2025-04-15
+Sourdough,Cupcakes,"Eggs, Flour, Cocoa",1,296,177.6,296,False,Business,2025-04-14,2025-04-18,4,43,Other,UPI,Single,2,4.3,Cloth Bag,2025-04-14
+Vanilla Cupcake,Cakes,"Cocoa, Butter, Eggs",1,56,33.6,56,False,Business,2025-04-12,2025-04-17,5,57,Other,Credit Card,Bulk,0,2.5,Paper Box,2025-04-12
+Sourdough,Pastries,"Cocoa, Eggs, Flour",3,88,52.8,264,False,Business,2025-04-17,2025-04-21,4,56,Other,UPI,Single,1,3.6,Plastic Wrap,2025-04-17
+Muffin,Pastries,"Milk, Cocoa, Eggs",1,86,51.6,86,False,Individual,2025-04-19,2025-04-22,3,50,Other,Debit Card,Single,2,4.9,Cloth Bag,2025-04-19
+Cheese Pastry,Pastries,"Baking Powder, Eggs, Flour",3,243,145.8,729,True,Business,2025-04-17,2025-04-20,3,35,Other,UPI,Single,1,1.9,Plastic Wrap,2025-04-17
+Chocolate Cake,Baked Goods,"Cocoa, Sugar, Milk",1,89,53.4,89,True,Family,2025-04-17,2025-04-20,3,35,Male,Credit Card,Single,2,4.5,Paper Box,2025-04-17
+Croissant,Cakes,"Milk, Flour, Butter",1,210,126.0,210,True,Business,2025-04-15,2025-04-21,6,54,Female,Cash,Single,2,1.7,Plastic Wrap,2025-04-15
+Brownie,Pastries,"Butter, Cocoa, Milk",2,289,173.4,578,False,Family,2025-04-19,2025-04-23,4,39,Other,Credit Card,Bulk,1,1.7,Plastic Wrap,2025-04-19
+Sourdough,Pastries,"Milk, Sugar, Butter",1,239,143.4,239,True,Family,2025-04-18,2025-04-24,6,60,Female,UPI,Single,1,3.2,Paper Box,2025-04-18
+Croissant,Tarts,"Cocoa, Butter, Milk",1,185,111.0,185,False,Business,2025-04-23,2025-04-26,3,28,Female,Credit Card,Bulk,0,3.7,Paper Box,2025-04-23
+Vanilla Cupcake,Baked Goods,"Sugar, Flour, Eggs",3,267,160.2,801,False,Individual,2025-04-24,2025-04-30,6,18,Female,Cash,Single,2,2.9,Paper Box,2025-04-24
+Sourdough,Baked Goods,"Flour, Baking Powder, Butter",2,248,148.8,496,True,Individual,2025-04-24,2025-04-29,5,42,Other,Credit Card,Single,0,1.1,Cloth Bag,2025-04-24
+Cheese Pastry,Pastries,"Baking Powder, Sugar, Eggs",3,90,54.0,270,False,Family,2025-04-21,2025-04-24,3,39,Male,Debit Card,Bulk,0,2.6,Cloth Bag,2025-04-21
+Chocolate Cake,Cakes,"Flour, Sugar, Eggs",3,239,143.4,717,True,Family,2025-04-14,2025-04-18,4,46,Male,Credit Card,Single,1,2.1,Cloth Bag,2025-04-14
+Muffin,Cakes,"Baking Powder, Eggs, Cocoa",1,201,120.6,201,True,Family,2025-04-17,2025-04-22,5,28,Other,UPI,Bulk,0,3.4,Paper Box,2025-04-17
+Chocolate Cake,Pastries,"Cocoa, Sugar, Flour",2,61,36.6,122,False,Individual,2025-04-18,2025-04-22,4,52,Female,Cash,Bulk,0,3.6,Cloth Bag,2025-04-18
+Croissant,Baked Goods,"Butter, Sugar, Milk",2,71,42.6,142,False,Business,2025-04-12,2025-04-18,6,52,Other,Debit Card,Single,1,4.6,Plastic Wrap,2025-04-12
+Croissant,Pastries,"Eggs, Cocoa, Butter",3,188,112.8,564,True,Individual,2025-04-10,2025-04-16,6,57,Other,Credit Card,Bulk,1,2.3,Plastic Wrap,2025-04-10
+Sourdough,Cupcakes,"Milk, Cocoa, Eggs",3,173,103.8,519,False,Individual,2025-04-18,2025-04-23,5,58,Male,Cash,Bulk,1,3.2,Cloth Bag,2025-04-18
+Chocolate Cake,Cakes,"Baking Powder, Eggs, Milk",2,81,48.6,162,True,Family,2025-04-24,2025-04-27,3,21,Other,Debit Card,Single,0,2.6,Plastic Wrap,2025-04-24
+Fruit Tart,Pastries,"Baking Powder, Flour, Eggs",1,94,56.4,94,False,Family,2025-04-12,2025-04-18,6,32,Male,Cash,Single,1,4.8,Paper Box,2025-04-12
+Chocolate Cake,Pastries,"Baking Powder, Flour, Eggs",1,72,43.2,72,True,Family,2025-04-22,2025-04-25,3,51,Female,Debit Card,Bulk,1,1.4,Cloth Bag,2025-04-22
+Croissant,Pastries,"Baking Powder, Butter, Milk",1,248,148.8,248,True,Family,2025-04-18,2025-04-22,4,57,Female,Credit Card,Bulk,0,3.5,Cloth Bag,2025-04-18
+Fruit Tart,Cakes,"Butter, Flour, Eggs",3,187,112.2,561,False,Individual,2025-04-18,2025-04-21,3,57,Other,Cash,Bulk,1,3.8,Plastic Wrap,2025-04-18
+Chocolate Cake,Cupcakes,"Eggs, Sugar, Baking Powder",2,258,154.8,516,True,Individual,2025-04-23,2025-04-27,4,25,Male,UPI,Bulk,1,1.4,Plastic Wrap,2025-04-23
+Sourdough,Pastries,"Cocoa, Eggs, Baking Powder",1,273,163.8,273,True,Business,2025-04-19,2025-04-25,6,19,Female,UPI,Bulk,2,2.2,Paper Box,2025-04-19
+Chocolate Cake,Tarts,"Cocoa, Butter, Sugar",3,293,175.8,879,False,Individual,2025-04-23,2025-04-27,4,21,Other,Credit Card,Single,2,3.2,Cloth Bag,2025-04-23
+Muffin,Baked Goods,"Flour, Sugar, Baking Powder",2,198,118.8,396,True,Individual,2025-04-16,2025-04-21,5,41,Other,Credit Card,Bulk,0,4.3,Cloth Bag,2025-04-16
+Cheese Pastry,Baked Goods,"Butter, Baking Powder, Eggs",1,107,64.2,107,True,Individual,2025-04-19,2025-04-23,4,45,Male,Debit Card,Single,0,2.8,Cloth Bag,2025-04-19
+Muffin,Baked Goods,"Flour, Eggs, Baking Powder",1,90,54.0,90,False,Business,2025-04-22,2025-04-28,6,21,Other,Cash,Bulk,2,1.6,Paper Box,2025-04-22
+Sourdough,Cupcakes,"Baking Powder, Flour, Eggs",3,128,76.8,384,False,Business,2025-04-11,2025-04-17,6,52,Female,Cash,Single,1,4.1,Cloth Bag,2025-04-11
+Cheese Pastry,Cakes,"Milk, Flour, Cocoa",3,240,144.0,720,True,Individual,2025-04-18,2025-04-21,3,36,Female,Cash,Bulk,1,4.4,Paper Box,2025-04-18
+Brownie,Pastries,"Butter, Flour, Sugar",3,205,123.0,615,True,Business,2025-04-14,2025-04-18,4,24,Female,Debit Card,Single,2,3.4,Plastic Wrap,2025-04-14
+Croissant,Baked Goods,"Butter, Eggs, Baking Powder",1,50,30.0,50,True,Business,2025-04-11,2025-04-17,6,29,Other,Cash,Single,2,3.8,Paper Box,2025-04-11
+Fruit Tart,Cakes,"Eggs, Cocoa, Milk",3,224,134.4,672,True,Individual,2025-04-10,2025-04-15,5,37,Other,Credit Card,Bulk,2,3.9,Cloth Bag,2025-04-10
+Sourdough,Baked Goods,"Sugar, Eggs, Butter",2,148,88.8,296,False,Family,2025-04-22,2025-04-28,6,43,Male,Debit Card,Single,0,1.4,Plastic Wrap,2025-04-22
+Cheese Pastry,Pastries,"Milk, Cocoa, Butter",3,120,72.0,360,True,Business,2025-04-12,2025-04-17,5,27,Other,Debit Card,Single,1,2.1,Cloth Bag,2025-04-12
+Muffin,Pastries,"Flour, Butter, Milk",3,52,31.2,156,False,Individual,2025-04-13,2025-04-19,6,39,Other,Debit Card,Single,2,1.0,Paper Box,2025-04-13
+Brownie,Pastries,"Cocoa, Baking Powder, Sugar",2,159,95.4,318,True,Individual,2025-04-12,2025-04-16,4,42,Female,UPI,Bulk,1,3.2,Plastic Wrap,2025-04-12
+Vanilla Cupcake,Pastries,"Eggs, Baking Powder, Cocoa",1,298,178.8,298,True,Business,2025-04-11,2025-04-17,6,38,Other,Debit Card,Single,2,4.9,Paper Box,2025-04-11
+Muffin,Pastries,"Cocoa, Milk, Eggs",3,199,119.4,597,False,Family,2025-04-15,2025-04-18,3,49,Other,Debit Card,Single,0,4.8,Paper Box,2025-04-15
+Cheese Pastry,Baked Goods,"Flour, Baking Powder, Eggs",1,99,59.4,99,True,Business,2025-04-20,2025-04-25,5,39,Other,UPI,Bulk,1,1.4,Paper Box,2025-04-20
+Sourdough,Tarts,"Sugar, Eggs, Butter",2,253,151.8,506,False,Family,2025-04-12,2025-04-17,5,22,Other,Credit Card,Bulk,1,4.0,Plastic Wrap,2025-04-12
+Brownie,Cakes,"Eggs, Sugar, Baking Powder",3,252,151.2,756,True,Business,2025-04-13,2025-04-16,3,26,Other,Cash,Single,0,1.1,Plastic Wrap,2025-04-13
+Brownie,Baked Goods,"Milk, Butter, Sugar",3,285,171.0,855,False,Family,2025-04-19,2025-04-25,6,37,Male,Debit Card,Bulk,2,2.1,Plastic Wrap,2025-04-19
+Chocolate Cake,Cupcakes,"Cocoa, Baking Powder, Flour",3,255,153.0,765,True,Individual,2025-04-15,2025-04-21,6,18,Other,Credit Card,Single,0,3.1,Paper Box,2025-04-15
+Brownie,Baked Goods,"Milk, Butter, Flour",2,173,103.8,346,True,Individual,2025-04-21,2025-04-24,3,57,Other,Debit Card,Bulk,1,2.7,Plastic Wrap,2025-04-21
+Vanilla Cupcake,Tarts,"Milk, Eggs, Baking Powder",3,114,68.4,342,True,Family,2025-04-20,2025-04-24,4,42,Female,Debit Card,Single,0,4.6,Paper Box,2025-04-20
+Vanilla Cupcake,Baked Goods,"Butter, Sugar, Cocoa",1,126,75.6,126,False,Business,2025-04-16,2025-04-21,5,49,Female,Cash,Single,2,3.9,Cloth Bag,2025-04-16
+Muffin,Baked Goods,"Milk, Sugar, Baking Powder",3,291,174.6,873,True,Individual,2025-04-21,2025-04-25,4,43,Female,Credit Card,Bulk,1,3.5,Paper Box,2025-04-21
+Muffin,Baked Goods,"Milk, Sugar, Baking Powder",2,122,73.2,244,False,Family,2025-04-15,2025-04-21,6,28,Female,Credit Card,Bulk,2,1.2,Paper Box,2025-04-15
+Fruit Tart,Cupcakes,"Sugar, Eggs, Cocoa",1,64,38.4,64,False,Individual,2025-04-14,2025-04-19,5,39,Male,UPI,Single,1,2.1,Plastic Wrap,2025-04-14
+Sourdough,Cakes,"Sugar, Eggs, Cocoa",2,249,149.4,498,True,Family,2025-04-10,2025-04-15,5,21,Other,Debit Card,Bulk,1,4.0,Paper Box,2025-04-10
+Cheese Pastry,Pastries,"Sugar, Butter, Baking Powder",3,84,50.4,252,False,Business,2025-04-17,2025-04-22,5,20,Female,Debit Card,Bulk,1,3.3,Paper Box,2025-04-17
+Sourdough,Pastries,"Milk, Baking Powder, Cocoa",2,213,127.8,426,False,Business,2025-04-11,2025-04-14,3,18,Male,Credit Card,Single,2,4.5,Plastic Wrap,2025-04-11
+Muffin,Pastries,"Sugar, Butter, Baking Powder",3,207,124.2,621,True,Individual,2025-04-16,2025-04-19,3,19,Female,Cash,Single,0,4.3,Paper Box,2025-04-16
+Fruit Tart,Baked Goods,"Cocoa, Sugar, Flour",2,70,42.0,140,False,Family,2025-04-16,2025-04-19,3,53,Male,UPI,Single,2,3.1,Paper Box,2025-04-16
+Fruit Tart,Cupcakes,"Flour, Sugar, Baking Powder",3,294,176.4,882,False,Individual,2025-04-12,2025-04-16,4,50,Female,Debit Card,Single,2,3.0,Paper Box,2025-04-12
+Chocolate Cake,Cupcakes,"Butter, Sugar, Milk",2,127,76.2,254,False,Family,2025-04-13,2025-04-17,4,32,Female,Cash,Bulk,2,3.4,Paper Box,2025-04-13
+Brownie,Pastries,"Milk, Sugar, Flour",1,121,72.6,121,True,Business,2025-04-12,2025-04-18,6,33,Male,Credit Card,Single,1,4.0,Plastic Wrap,2025-04-12
+Vanilla Cupcake,Cakes,"Butter, Milk, Sugar",3,105,63.0,315,False,Family,2025-04-16,2025-04-22,6,27,Male,Credit Card,Bulk,1,2.3,Plastic Wrap,2025-04-16
+Vanilla Cupcake,Baked Goods,"Sugar, Baking Powder, Flour",2,260,156.0,520,True,Business,2025-04-15,2025-04-21,6,59,Other,Cash,Bulk,0,4.6,Cloth Bag,2025-04-15
+Brownie,Baked Goods,"Milk, Butter, Cocoa",2,173,103.8,346,True,Individual,2025-04-19,2025-04-24,5,38,Other,Cash,Single,2,3.7,Plastic Wrap,2025-04-19
+Croissant,Baked Goods,"Eggs, Cocoa, Milk",3,129,77.4,387,False,Individual,2025-04-10,2025-04-13,3,39,Female,UPI,Bulk,1,4.4,Paper Box,2025-04-10
+Chocolate Cake,Baked Goods,"Butter, Sugar, Baking Powder",2,120,72.0,240,True,Family,2025-04-13,2025-04-19,6,27,Male,Debit Card,Bulk,2,1.7,Paper Box,2025-04-13
+Fruit Tart,Baked Goods,"Milk, Baking Powder, Cocoa",1,125,75.0,125,True,Business,2025-04-23,2025-04-29,6,38,Male,Debit Card,Single,2,3.8,Cloth Bag,2025-04-23
+Fruit Tart,Cakes,"Eggs, Flour, Baking Powder",2,160,96.0,320,True,Individual,2025-04-13,2025-04-18,5,29,Male,Debit Card,Single,0,3.1,Paper Box,2025-04-13
+Croissant,Pastries,"Milk, Eggs, Cocoa",2,145,87.0,290,False,Individual,2025-04-21,2025-04-25,4,27,Male,Cash,Single,2,2.6,Paper Box,2025-04-21
+Sourdough,Cupcakes,"Eggs, Cocoa, Milk",3,227,136.2,681,True,Individual,2025-04-11,2025-04-14,3,54,Other,Credit Card,Single,1,2.6,Paper Box,2025-04-11
+Croissant,Baked Goods,"Milk, Baking Powder, Cocoa",3,165,99.0,495,True,Individual,2025-04-18,2025-04-23,5,60,Female,Cash,Single,1,1.8,Paper Box,2025-04-18
+Vanilla Cupcake,Cakes,"Milk, Flour, Baking Powder",1,79,47.4,79,True,Family,2025-04-12,2025-04-17,5,41,Other,Cash,Single,0,2.2,Cloth Bag,2025-04-12
+Brownie,Cakes,"Cocoa, Butter, Flour",2,265,159.0,530,True,Individual,2025-04-19,2025-04-22,3,54,Female,Debit Card,Single,1,3.4,Paper Box,2025-04-19
+Vanilla Cupcake,Baked Goods,"Baking Powder, Cocoa, Butter",2,56,33.6,112,True,Individual,2025-04-15,2025-04-20,5,53,Other,Debit Card,Bulk,1,2.4,Plastic Wrap,2025-04-15
+Muffin,Cakes,"Baking Powder, Butter, Cocoa",3,238,142.8,714,True,Individual,2025-04-18,2025-04-24,6,31,Female,Credit Card,Single,0,3.7,Paper Box,2025-04-18
+Croissant,Cupcakes,"Butter, Flour, Eggs",3,99,59.4,297,False,Individual,2025-04-15,2025-04-19,4,29,Other,Debit Card,Bulk,0,4.7,Cloth Bag,2025-04-15
+Muffin,Baked Goods,"Eggs, Milk, Baking Powder",3,96,57.6,288,True,Family,2025-04-18,2025-04-23,5,21,Female,Cash,Bulk,1,4.8,Cloth Bag,2025-04-18
+Muffin,Cakes,"Milk, Eggs, Cocoa",3,61,36.6,183,True,Family,2025-04-16,2025-04-20,4,26,Other,Debit Card,Single,1,1.2,Paper Box,2025-04-16
+Muffin,Tarts,"Eggs, Milk, Cocoa",3,109,65.4,327,False,Family,2025-04-19,2025-04-23,4,54,Female,Debit Card,Bulk,1,3.7,Plastic Wrap,2025-04-19
+Muffin,Pastries,"Sugar, Milk, Eggs",2,80,48.0,160,True,Business,2025-04-19,2025-04-25,6,45,Male,Cash,Bulk,0,2.5,Cloth Bag,2025-04-19
+Cheese Pastry,Cakes,"Butter, Baking Powder, Sugar",3,176,105.6,528,True,Business,2025-04-22,2025-04-28,6,46,Other,UPI,Single,1,2.0,Plastic Wrap,2025-04-22
+Cheese Pastry,Pastries,"Eggs, Sugar, Baking Powder",3,124,74.4,372,False,Business,2025-04-18,2025-04-24,6,42,Other,Cash,Single,2,3.5,Paper Box,2025-04-18
+Chocolate Cake,Pastries,"Eggs, Flour, Sugar",3,64,38.4,192,False,Individual,2025-04-11,2025-04-17,6,22,Female,Credit Card,Single,2,1.7,Cloth Bag,2025-04-11
+Chocolate Cake,Pastries,"Flour, Butter, Sugar",2,280,168.0,560,True,Business,2025-04-20,2025-04-25,5,39,Other,Cash,Bulk,1,2.9,Cloth Bag,2025-04-20
+Croissant,Cakes,"Sugar, Milk, Eggs",1,190,114.0,190,True,Business,2025-04-15,2025-04-20,5,29,Male,UPI,Single,0,2.4,Paper Box,2025-04-15
+Muffin,Pastries,"Milk, Butter, Eggs",1,232,139.2,232,False,Family,2025-04-12,2025-04-18,6,31,Other,Debit Card,Bulk,0,2.3,Cloth Bag,2025-04-12
+Croissant,Baked Goods,"Baking Powder, Milk, Sugar",1,122,73.2,122,True,Family,2025-04-24,2025-04-28,4,24,Male,Debit Card,Single,0,3.9,Cloth Bag,2025-04-24
+Brownie,Baked Goods,"Milk, Eggs, Butter",2,225,135.0,450,True,Business,2025-04-16,2025-04-22,6,25,Male,Debit Card,Single,1,1.9,Plastic Wrap,2025-04-16
+Sourdough,Baked Goods,"Flour, Milk, Sugar",1,224,134.4,224,False,Family,2025-04-23,2025-04-29,6,53,Female,Cash,Single,2,2.0,Cloth Bag,2025-04-23
+Cheese Pastry,Cupcakes,"Baking Powder, Milk, Flour",1,162,97.2,162,False,Family,2025-04-16,2025-04-19,3,42,Other,Credit Card,Single,0,1.3,Paper Box,2025-04-16
+Croissant,Pastries,"Baking Powder, Flour, Eggs",1,279,167.4,279,False,Business,2025-04-15,2025-04-19,4,54,Female,UPI,Single,0,3.4,Plastic Wrap,2025-04-15
+Muffin,Cakes,"Sugar, Baking Powder, Cocoa",2,97,58.2,194,True,Individual,2025-04-22,2025-04-27,5,39,Female,Cash,Bulk,0,3.0,Cloth Bag,2025-04-22
+Croissant,Pastries,"Butter, Flour, Eggs",1,131,78.6,131,True,Family,2025-04-17,2025-04-23,6,48,Male,Credit Card,Single,2,1.3,Plastic Wrap,2025-04-17
+Chocolate Cake,Pastries,"Sugar, Baking Powder, Milk",2,172,103.2,344,True,Individual,2025-04-13,2025-04-19,6,36,Other,Debit Card,Bulk,1,1.8,Paper Box,2025-04-13
+Croissant,Cakes,"Flour, Milk, Baking Powder",2,190,114.0,380,True,Individual,2025-04-11,2025-04-17,6,28,Male,Debit Card,Single,1,2.1,Plastic Wrap,2025-04-11
+Sourdough,Baked Goods,"Cocoa, Sugar, Flour",2,104,62.4,208,True,Individual,2025-04-10,2025-04-14,4,39,Female,Credit Card,Bulk,1,4.2,Paper Box,2025-04-10
+Muffin,Tarts,"Baking Powder, Eggs, Cocoa",2,66,39.6,132,True,Family,2025-04-12,2025-04-18,6,25,Female,Debit Card,Single,1,3.0,Paper Box,2025-04-12
+Fruit Tart,Baked Goods,"Butter, Baking Powder, Sugar",3,81,48.6,243,False,Family,2025-04-21,2025-04-24,3,30,Other,UPI,Bulk,0,2.1,Plastic Wrap,2025-04-21
+Fruit Tart,Baked Goods,"Flour, Eggs, Butter",1,223,133.8,223,False,Individual,2025-04-12,2025-04-15,3,28,Female,Credit Card,Single,0,3.2,Plastic Wrap,2025-04-12
+Cheese Pastry,Baked Goods,"Cocoa, Sugar, Flour",2,140,84.0,280,True,Business,2025-04-11,2025-04-15,4,37,Other,Credit Card,Bulk,2,1.8,Paper Box,2025-04-11
+Vanilla Cupcake,Pastries,"Butter, Flour, Baking Powder",2,184,110.4,368,False,Individual,2025-04-15,2025-04-20,5,41,Male,Cash,Bulk,1,3.5,Plastic Wrap,2025-04-15
+Chocolate Cake,Cupcakes,"Eggs, Butter, Milk",3,235,141.0,705,True,Family,2025-04-11,2025-04-16,5,51,Female,Credit Card,Single,0,3.1,Paper Box,2025-04-11
+Cheese Pastry,Cupcakes,"Sugar, Eggs, Cocoa",1,173,103.8,173,False,Individual,2025-04-16,2025-04-20,4,28,Female,Credit Card,Bulk,1,2.6,Paper Box,2025-04-16
+Sourdough,Baked Goods,"Milk, Flour, Baking Powder",1,99,59.4,99,True,Family,2025-04-22,2025-04-28,6,35,Female,Debit Card,Bulk,0,3.7,Cloth Bag,2025-04-22
+Chocolate Cake,Pastries,"Milk, Butter, Baking Powder",1,65,39.0,65,False,Individual,2025-04-17,2025-04-20,3,31,Male,Debit Card,Bulk,0,2.9,Cloth Bag,2025-04-17
+Brownie,Tarts,"Milk, Baking Powder, Sugar",3,175,105.0,525,True,Business,2025-04-22,2025-04-26,4,23,Other,UPI,Single,2,4.1,Plastic Wrap,2025-04-22
+Sourdough,Pastries,"Cocoa, Sugar, Eggs",2,264,158.4,528,True,Business,2025-04-20,2025-04-25,5,46,Other,UPI,Bulk,2,3.8,Plastic Wrap,2025-04-20
+Brownie,Tarts,"Butter, Cocoa, Milk",1,231,138.6,231,True,Family,2025-04-22,2025-04-26,4,22,Male,UPI,Single,0,2.5,Paper Box,2025-04-22
+Fruit Tart,Cupcakes,"Sugar, Cocoa, Eggs",2,256,153.6,512,True,Family,2025-04-14,2025-04-20,6,38,Female,Debit Card,Single,1,2.9,Paper Box,2025-04-14
+Muffin,Pastries,"Flour, Baking Powder, Eggs",2,233,139.8,466,False,Individual,2025-04-19,2025-04-23,4,41,Male,Debit Card,Single,1,1.7,Plastic Wrap,2025-04-19
+Chocolate Cake,Cakes,"Sugar, Baking Powder, Flour",1,124,74.4,124,True,Business,2025-04-10,2025-04-15,5,42,Male,Credit Card,Single,2,3.9,Cloth Bag,2025-04-10
+Cheese Pastry,Baked Goods,"Flour, Baking Powder, Sugar",2,261,156.6,522,True,Individual,2025-04-24,2025-04-30,6,26,Other,Debit Card,Bulk,2,1.6,Paper Box,2025-04-24
+Vanilla Cupcake,Cakes,"Sugar, Baking Powder, Milk",3,84,50.4,252,False,Business,2025-04-23,2025-04-29,6,55,Male,Credit Card,Single,2,4.7,Cloth Bag,2025-04-23
+Croissant,Cakes,"Baking Powder, Sugar, Milk",3,278,166.8,834,True,Family,2025-04-21,2025-04-27,6,30,Other,Credit Card,Bulk,2,3.1,Cloth Bag,2025-04-21
+Croissant,Cupcakes,"Baking Powder, Butter, Cocoa",3,241,144.6,723,False,Individual,2025-04-17,2025-04-20,3,19,Other,Debit Card,Bulk,0,1.1,Paper Box,2025-04-17
+Vanilla Cupcake,Cakes,"Sugar, Baking Powder, Cocoa",1,64,38.4,64,True,Family,2025-04-10,2025-04-16,6,48,Other,Debit Card,Single,0,3.0,Plastic Wrap,2025-04-10
+Brownie,Tarts,"Eggs, Milk, Sugar",1,225,135.0,225,True,Family,2025-04-20,2025-04-26,6,38,Female,UPI,Single,1,4.2,Paper Box,2025-04-20
+Fruit Tart,Pastries,"Eggs, Milk, Cocoa",3,263,157.8,789,False,Business,2025-04-15,2025-04-19,4,60,Male,Debit Card,Bulk,1,1.8,Plastic Wrap,2025-04-15
+Sourdough,Pastries,"Milk, Baking Powder, Sugar",3,235,141.0,705,False,Family,2025-04-20,2025-04-24,4,37,Male,Credit Card,Bulk,1,4.6,Plastic Wrap,2025-04-20
+Muffin,Cupcakes,"Cocoa, Eggs, Milk",2,147,88.2,294,False,Business,2025-04-19,2025-04-25,6,29,Male,Cash,Single,0,3.0,Plastic Wrap,2025-04-19
+Brownie,Tarts,"Cocoa, Baking Powder, Eggs",1,244,146.4,244,False,Family,2025-04-20,2025-04-24,4,30,Male,Credit Card,Single,0,1.1,Paper Box,2025-04-20
+Muffin,Cakes,"Eggs, Butter, Baking Powder",2,233,139.8,466,False,Business,2025-04-22,2025-04-27,5,55,Other,Debit Card,Bulk,2,2.4,Plastic Wrap,2025-04-22
+Vanilla Cupcake,Baked Goods,"Cocoa, Sugar, Flour",1,171,102.6,171,False,Business,2025-04-22,2025-04-27,5,29,Male,Credit Card,Bulk,1,2.3,Cloth Bag,2025-04-22
+Muffin,Baked Goods,"Butter, Eggs, Cocoa",2,177,106.2,354,False,Family,2025-04-16,2025-04-21,5,55,Female,Debit Card,Bulk,2,1.9,Plastic Wrap,2025-04-16
+Chocolate Cake,Tarts,"Milk, Sugar, Baking Powder",2,58,34.8,116,False,Business,2025-04-23,2025-04-28,5,38,Female,Debit Card,Single,0,4.4,Paper Box,2025-04-23
+Chocolate Cake,Pastries,"Butter, Eggs, Cocoa",2,200,120.0,400,False,Individual,2025-04-18,2025-04-24,6,40,Male,Debit Card,Single,1,2.3,Plastic Wrap,2025-04-18
+Vanilla Cupcake,Baked Goods,"Flour, Butter, Sugar",1,178,106.8,178,False,Individual,2025-04-22,2025-04-25,3,49,Other,UPI,Single,1,1.6,Paper Box,2025-04-22
+Brownie,Cakes,"Eggs, Baking Powder, Cocoa",3,262,157.2,786,True,Business,2025-04-12,2025-04-17,5,56,Female,UPI,Single,2,3.7,Cloth Bag,2025-04-12
+Brownie,Tarts,"Eggs, Sugar, Butter",1,92,55.2,92,True,Family,2025-04-16,2025-04-19,3,35,Male,Cash,Single,1,2.1,Plastic Wrap,2025-04-16
+Sourdough,Pastries,"Butter, Sugar, Baking Powder",2,293,175.8,586,True,Individual,2025-04-10,2025-04-15,5,31,Other,UPI,Single,0,3.6,Plastic Wrap,2025-04-10
+Sourdough,Cupcakes,"Eggs, Cocoa, Milk",1,207,124.2,207,True,Family,2025-04-16,2025-04-19,3,33,Female,Credit Card,Bulk,2,2.3,Paper Box,2025-04-16
+Vanilla Cupcake,Cupcakes,"Sugar, Eggs, Baking Powder",3,94,56.4,282,False,Family,2025-04-22,2025-04-27,5,21,Female,Cash,Single,0,1.5,Cloth Bag,2025-04-22
+Fruit Tart,Baked Goods,"Cocoa, Sugar, Eggs",2,221,132.6,442,True,Business,2025-04-15,2025-04-18,3,47,Other,UPI,Single,1,2.2,Cloth Bag,2025-04-15
+Muffin,Baked Goods,"Sugar, Butter, Flour",1,103,61.8,103,True,Family,2025-04-24,2025-04-30,6,25,Male,Cash,Single,2,4.0,Paper Box,2025-04-24
+Sourdough,Baked Goods,"Sugar, Baking Powder, Cocoa",1,180,108.0,180,False,Individual,2025-04-18,2025-04-23,5,57,Female,Credit Card,Single,2,4.9,Plastic Wrap,2025-04-18
+Chocolate Cake,Cakes,"Baking Powder, Eggs, Flour",1,160,96.0,160,False,Individual,2025-04-23,2025-04-29,6,49,Female,Debit Card,Bulk,2,3.2,Cloth Bag,2025-04-23
+Chocolate Cake,Baked Goods,"Eggs, Baking Powder, Flour",2,172,103.2,344,False,Family,2025-04-20,2025-04-24,4,46,Other,Credit Card,Single,2,3.8,Plastic Wrap,2025-04-20
+Cheese Pastry,Cakes,"Baking Powder, Milk, Cocoa",3,258,154.8,774,True,Individual,2025-04-21,2025-04-26,5,21,Male,Credit Card,Bulk,2,2.1,Plastic Wrap,2025-04-21
+Brownie,Cakes,"Baking Powder, Cocoa, Eggs",3,177,106.2,531,False,Family,2025-04-22,2025-04-27,5,37,Female,UPI,Bulk,1,1.2,Cloth Bag,2025-04-22
+Croissant,Tarts,"Milk, Cocoa, Baking Powder",1,72,43.2,72,False,Family,2025-04-22,2025-04-28,6,22,Male,Cash,Single,0,3.0,Plastic Wrap,2025-04-22
+Chocolate Cake,Cupcakes,"Baking Powder, Flour, Butter",2,53,31.8,106,True,Individual,2025-04-23,2025-04-28,5,53,Other,UPI,Single,1,4.2,Paper Box,2025-04-23
+Brownie,Pastries,"Eggs, Milk, Butter",2,74,44.4,148,False,Individual,2025-04-23,2025-04-29,6,57,Female,Debit Card,Bulk,1,1.3,Paper Box,2025-04-23
+Brownie,Baked Goods,"Eggs, Flour, Milk",1,104,62.4,104,True,Individual,2025-04-11,2025-04-16,5,41,Other,UPI,Bulk,2,4.6,Plastic Wrap,2025-04-11
+Brownie,Baked Goods,"Baking Powder, Sugar, Cocoa",1,181,108.6,181,False,Family,2025-04-24,2025-04-28,4,41,Other,Debit Card,Bulk,2,4.5,Plastic Wrap,2025-04-24
+Muffin,Pastries,"Flour, Baking Powder, Sugar",1,193,115.8,193,True,Business,2025-04-21,2025-04-26,5,23,Other,Debit Card,Single,2,1.8,Paper Box,2025-04-21
+Chocolate Cake,Cupcakes,"Flour, Sugar, Milk",2,106,63.6,212,True,Family,2025-04-24,2025-04-27,3,39,Male,Debit Card,Bulk,1,3.8,Cloth Bag,2025-04-24
+Brownie,Tarts,"Sugar, Eggs, Cocoa",1,252,151.2,252,True,Business,2025-04-18,2025-04-21,3,55,Male,Debit Card,Single,1,2.3,Plastic Wrap,2025-04-18
+Muffin,Tarts,"Cocoa, Flour, Sugar",2,132,79.2,264,True,Individual,2025-04-24,2025-04-28,4,27,Female,Credit Card,Bulk,1,4.0,Plastic Wrap,2025-04-24
+Fruit Tart,Pastries,"Flour, Baking Powder, Sugar",2,91,54.6,182,True,Individual,2025-04-23,2025-04-28,5,40,Male,Debit Card,Single,0,2.8,Cloth Bag,2025-04-23
+Fruit Tart,Baked Goods,"Butter, Cocoa, Milk",3,258,154.8,774,True,Family,2025-04-18,2025-04-21,3,19,Female,Debit Card,Bulk,1,3.4,Cloth Bag,2025-04-18
+Croissant,Tarts,"Milk, Sugar, Butter",2,93,55.8,186,True,Family,2025-04-10,2025-04-13,3,55,Female,Cash,Bulk,0,1.6,Cloth Bag,2025-04-10
+Sourdough,Cakes,"Flour, Cocoa, Milk",2,139,83.4,278,False,Family,2025-04-10,2025-04-15,5,20,Female,UPI,Single,1,3.9,Cloth Bag,2025-04-10
+Sourdough,Cakes,"Sugar, Milk, Flour",1,195,117.0,195,True,Family,2025-04-17,2025-04-22,5,22,Female,UPI,Bulk,2,3.8,Paper Box,2025-04-17
+Croissant,Cakes,"Sugar, Milk, Eggs",1,157,94.2,157,False,Individual,2025-04-17,2025-04-23,6,59,Male,Credit Card,Single,0,1.2,Cloth Bag,2025-04-17
+Sourdough,Pastries,"Cocoa, Milk, Butter",2,193,115.8,386,False,Individual,2025-04-24,2025-04-30,6,22,Other,Credit Card,Single,2,1.3,Paper Box,2025-04-24
+Croissant,Pastries,"Butter, Cocoa, Baking Powder",1,198,118.8,198,False,Family,2025-04-12,2025-04-15,3,34,Male,UPI,Single,1,3.1,Cloth Bag,2025-04-12
+Sourdough,Cakes,"Eggs, Flour, Milk",3,138,82.8,414,True,Family,2025-04-13,2025-04-18,5,24,Other,UPI,Single,1,2.7,Cloth Bag,2025-04-13
+Croissant,Tarts,"Cocoa, Sugar, Butter",1,130,78.0,130,False,Family,2025-04-10,2025-04-14,4,59,Male,Cash,Single,2,2.8,Plastic Wrap,2025-04-10
+Vanilla Cupcake,Cakes,"Cocoa, Butter, Sugar",3,113,67.8,339,True,Business,2025-04-20,2025-04-23,3,35,Female,Cash,Single,0,1.9,Paper Box,2025-04-20
+Brownie,Cakes,"Eggs, Milk, Sugar",1,96,57.6,96,True,Business,2025-04-15,2025-04-21,6,22,Female,Credit Card,Single,0,1.6,Paper Box,2025-04-15
+Sourdough,Baked Goods,"Baking Powder, Eggs, Butter",1,190,114.0,190,True,Business,2025-04-17,2025-04-23,6,22,Male,Cash,Bulk,2,3.6,Plastic Wrap,2025-04-17
+Croissant,Cakes,"Cocoa, Eggs, Milk",1,230,138.0,230,False,Family,2025-04-14,2025-04-19,5,50,Female,Credit Card,Single,2,3.5,Cloth Bag,2025-04-14
+Chocolate Cake,Cakes,"Milk, Baking Powder, Flour",2,177,106.2,354,False,Family,2025-04-15,2025-04-18,3,26,Female,Debit Card,Bulk,0,1.1,Plastic Wrap,2025-04-15
+Fruit Tart,Tarts,"Baking Powder, Milk, Sugar",3,140,84.0,420,True,Individual,2025-04-15,2025-04-21,6,53,Female,Cash,Single,1,2.2,Paper Box,2025-04-15
+Croissant,Cakes,"Sugar, Cocoa, Butter",2,219,131.4,438,True,Family,2025-04-19,2025-04-22,3,25,Female,Debit Card,Single,2,3.1,Paper Box,2025-04-19
+Vanilla Cupcake,Pastries,"Sugar, Flour, Butter",2,154,92.4,308,True,Business,2025-04-11,2025-04-14,3,52,Female,Cash,Bulk,2,5.0,Cloth Bag,2025-04-11
+Fruit Tart,Tarts,"Cocoa, Baking Powder, Flour",2,151,90.6,302,True,Individual,2025-04-23,2025-04-29,6,46,Female,Debit Card,Bulk,1,1.1,Plastic Wrap,2025-04-23
+Vanilla Cupcake,Tarts,"Eggs, Butter, Baking Powder",3,185,111.0,555,True,Family,2025-04-24,2025-04-27,3,38,Female,Cash,Single,0,3.9,Cloth Bag,2025-04-24
+Cheese Pastry,Cupcakes,"Sugar, Milk, Baking Powder",1,65,39.0,65,True,Individual,2025-04-18,2025-04-24,6,44,Other,Cash,Bulk,1,1.6,Plastic Wrap,2025-04-18
+Sourdough,Cupcakes,"Sugar, Baking Powder, Flour",1,265,159.0,265,False,Individual,2025-04-20,2025-04-23,3,19,Male,Debit Card,Single,1,1.9,Paper Box,2025-04-20
+Fruit Tart,Tarts,"Butter, Flour, Baking Powder",1,124,74.4,124,True,Individual,2025-04-19,2025-04-23,4,41,Female,Cash,Bulk,2,4.8,Cloth Bag,2025-04-19
+Croissant,Pastries,"Milk, Eggs, Baking Powder",1,143,85.8,143,False,Family,2025-04-11,2025-04-15,4,55,Male,Debit Card,Single,1,4.1,Paper Box,2025-04-11
+Brownie,Baked Goods,"Milk, Baking Powder, Butter",3,254,152.4,762,False,Family,2025-04-15,2025-04-19,4,32,Female,UPI,Bulk,0,2.4,Cloth Bag,2025-04-15
+Chocolate Cake,Cupcakes,"Flour, Milk, Eggs",1,291,174.6,291,True,Individual,2025-04-21,2025-04-24,3,22,Female,UPI,Bulk,2,4.6,Paper Box,2025-04-21
+Fruit Tart,Pastries,"Eggs, Baking Powder, Flour",3,100,60.0,300,True,Family,2025-04-17,2025-04-20,3,60,Male,UPI,Bulk,1,2.3,Cloth Bag,2025-04-17
+Brownie,Baked Goods,"Butter, Milk, Eggs",2,192,115.2,384,True,Individual,2025-04-10,2025-04-16,6,48,Female,Credit Card,Bulk,0,1.7,Paper Box,2025-04-10
+Sourdough,Cupcakes,"Milk, Cocoa, Eggs",1,63,37.8,63,False,Business,2025-04-10,2025-04-13,3,32,Male,Debit Card,Single,0,1.5,Plastic Wrap,2025-04-10
+Sourdough,Cakes,"Cocoa, Baking Powder, Flour",3,172,103.2,516,False,Business,2025-04-17,2025-04-21,4,28,Other,Debit Card,Bulk,2,3.6,Paper Box,2025-04-17
+Croissant,Cupcakes,"Eggs, Sugar, Butter",3,131,78.6,393,False,Business,2025-04-18,2025-04-21,3,50,Female,Credit Card,Single,0,4.0,Paper Box,2025-04-18
+Brownie,Tarts,"Eggs, Milk, Sugar",1,125,75.0,125,True,Family,2025-04-14,2025-04-20,6,40,Other,Credit Card,Single,1,3.3,Paper Box,2025-04-14
+Cheese Pastry,Cakes,"Baking Powder, Cocoa, Butter",3,128,76.8,384,True,Business,2025-04-17,2025-04-20,3,18,Female,Credit Card,Bulk,0,4.9,Paper Box,2025-04-17
+Muffin,Pastries,"Flour, Eggs, Milk",2,76,45.6,152,False,Business,2025-04-12,2025-04-17,5,41,Female,UPI,Single,0,4.2,Plastic Wrap,2025-04-12
+Muffin,Pastries,"Flour, Cocoa, Milk",3,293,175.8,879,False,Family,2025-04-23,2025-04-28,5,41,Female,Debit Card,Bulk,2,4.6,Paper Box,2025-04-23
+Brownie,Cakes,"Cocoa, Baking Powder, Butter",2,226,135.6,452,True,Individual,2025-04-17,2025-04-20,3,21,Female,Cash,Single,0,4.3,Cloth Bag,2025-04-17
+Fruit Tart,Cupcakes,"Eggs, Cocoa, Flour",3,280,168.0,840,False,Family,2025-04-23,2025-04-26,3,59,Other,Debit Card,Bulk,0,2.6,Plastic Wrap,2025-04-23
+Brownie,Cupcakes,"Cocoa, Eggs, Flour",1,268,160.8,268,False,Individual,2025-04-19,2025-04-24,5,38,Other,Credit Card,Bulk,2,1.3,Plastic Wrap,2025-04-19
+Fruit Tart,Pastries,"Baking Powder, Butter, Milk",1,104,62.4,104,False,Individual,2025-04-12,2025-04-16,4,31,Female,Debit Card,Single,0,1.8,Plastic Wrap,2025-04-12
+Cheese Pastry,Cupcakes,"Sugar, Milk, Eggs",3,155,93.0,465,False,Family,2025-04-22,2025-04-27,5,50,Male,UPI,Single,0,3.6,Paper Box,2025-04-22
+Croissant,Cupcakes,"Butter, Sugar, Baking Powder",1,257,154.2,257,False,Business,2025-04-20,2025-04-26,6,26,Female,Credit Card,Bulk,0,4.6,Plastic Wrap,2025-04-20
+Cheese Pastry,Cakes,"Butter, Eggs, Sugar",2,179,107.4,358,True,Individual,2025-04-23,2025-04-29,6,52,Other,UPI,Single,2,4.4,Paper Box,2025-04-23
+Vanilla Cupcake,Tarts,"Butter, Flour, Milk",2,263,157.8,526,False,Family,2025-04-19,2025-04-22,3,19,Female,Cash,Bulk,1,1.7,Plastic Wrap,2025-04-19
+Chocolate Cake,Tarts,"Milk, Cocoa, Eggs",1,295,177.0,295,False,Business,2025-04-14,2025-04-18,4,19,Male,UPI,Bulk,1,2.6,Cloth Bag,2025-04-14
+Brownie,Pastries,"Cocoa, Eggs, Baking Powder",1,242,145.2,242,True,Individual,2025-04-18,2025-04-22,4,56,Female,Debit Card,Single,0,1.0,Cloth Bag,2025-04-18
+Muffin,Cakes,"Cocoa, Sugar, Flour",2,133,79.8,266,False,Business,2025-04-22,2025-04-25,3,48,Other,UPI,Single,2,3.0,Paper Box,2025-04-22
+Chocolate Cake,Baked Goods,"Baking Powder, Butter, Sugar",3,136,81.6,408,False,Family,2025-04-22,2025-04-26,4,60,Other,UPI,Bulk,1,3.8,Paper Box,2025-04-22
+Brownie,Cupcakes,"Butter, Flour, Eggs",2,79,47.4,158,True,Family,2025-04-16,2025-04-19,3,19,Male,Debit Card,Bulk,2,2.6,Paper Box,2025-04-16
+Fruit Tart,Cupcakes,"Baking Powder, Eggs, Milk",3,171,102.6,513,True,Family,2025-04-14,2025-04-20,6,58,Female,Credit Card,Bulk,1,2.3,Cloth Bag,2025-04-14
+Fruit Tart,Baked Goods,"Flour, Milk, Cocoa",1,283,169.8,283,True,Business,2025-04-22,2025-04-27,5,39,Other,UPI,Single,2,4.8,Plastic Wrap,2025-04-22
+Vanilla Cupcake,Baked Goods,"Milk, Eggs, Butter",3,54,32.4,162,False,Family,2025-04-17,2025-04-20,3,28,Female,Cash,Single,0,4.3,Paper Box,2025-04-17
+Muffin,Baked Goods,"Eggs, Sugar, Cocoa",1,63,37.8,63,False,Business,2025-04-13,2025-04-16,3,31,Other,Credit Card,Bulk,0,1.9,Cloth Bag,2025-04-13
+Croissant,Baked Goods,"Eggs, Sugar, Butter",3,170,102.0,510,False,Business,2025-04-11,2025-04-17,6,18,Female,Debit Card,Single,2,2.7,Plastic Wrap,2025-04-11
+Sourdough,Cupcakes,"Baking Powder, Butter, Flour",2,175,105.0,350,False,Business,2025-04-15,2025-04-18,3,58,Other,Cash,Single,1,2.0,Plastic Wrap,2025-04-15
+Brownie,Tarts,"Baking Powder, Sugar, Flour",1,299,179.4,299,False,Business,2025-04-15,2025-04-19,4,43,Other,Debit Card,Bulk,1,1.1,Cloth Bag,2025-04-15
+Fruit Tart,Cupcakes,"Eggs, Cocoa, Sugar",2,236,141.6,472,False,Individual,2025-04-12,2025-04-15,3,36,Female,UPI,Bulk,1,1.7,Paper Box,2025-04-12
+Chocolate Cake,Cakes,"Eggs, Baking Powder, Cocoa",3,89,53.4,267,False,Business,2025-04-20,2025-04-23,3,28,Male,Debit Card,Bulk,1,1.3,Paper Box,2025-04-20
+Brownie,Cakes,"Baking Powder, Cocoa, Butter",3,292,175.2,876,False,Individual,2025-04-18,2025-04-22,4,55,Other,Credit Card,Bulk,0,2.0,Cloth Bag,2025-04-18
+Cheese Pastry,Cupcakes,"Sugar, Flour, Butter",3,113,67.8,339,False,Family,2025-04-22,2025-04-25,3,34,Female,Cash,Bulk,0,1.5,Cloth Bag,2025-04-22
+Vanilla Cupcake,Tarts,"Butter, Sugar, Flour",1,191,114.6,191,False,Family,2025-04-22,2025-04-26,4,27,Other,Credit Card,Single,2,2.5,Cloth Bag,2025-04-22
+Sourdough,Baked Goods,"Butter, Sugar, Flour",3,152,91.2,456,False,Family,2025-04-24,2025-04-30,6,28,Male,UPI,Bulk,2,2.7,Plastic Wrap,2025-04-24
+Chocolate Cake,Baked Goods,"Butter, Flour, Eggs",1,93,55.8,93,False,Family,2025-04-18,2025-04-22,4,41,Other,UPI,Bulk,2,1.4,Cloth Bag,2025-04-18
+Cheese Pastry,Cakes,"Milk, Baking Powder, Eggs",3,121,72.6,363,False,Business,2025-04-15,2025-04-20,5,41,Female,Credit Card,Bulk,1,3.6,Cloth Bag,2025-04-15
+Muffin,Baked Goods,"Butter, Eggs, Cocoa",2,165,99.0,330,True,Individual,2025-04-21,2025-04-24,3,55,Other,Credit Card,Single,1,2.9,Plastic Wrap,2025-04-21
+Croissant,Cakes,"Baking Powder, Butter, Cocoa",2,169,101.4,338,False,Business,2025-04-16,2025-04-20,4,37,Male,Credit Card,Bulk,1,1.4,Plastic Wrap,2025-04-16
+Cheese Pastry,Baked Goods,"Sugar, Milk, Baking Powder",1,213,127.8,213,False,Individual,2025-04-19,2025-04-23,4,47,Male,Credit Card,Single,2,2.0,Plastic Wrap,2025-04-19
+Chocolate Cake,Cakes,"Baking Powder, Cocoa, Butter",1,235,141.0,235,False,Individual,2025-04-16,2025-04-21,5,42,Male,UPI,Single,0,2.4,Plastic Wrap,2025-04-16
+Sourdough,Pastries,"Sugar, Eggs, Butter",1,141,84.6,141,True,Business,2025-04-14,2025-04-20,6,23,Female,Credit Card,Bulk,0,4.3,Plastic Wrap,2025-04-14
+Chocolate Cake,Baked Goods,"Cocoa, Eggs, Flour",1,279,167.4,279,False,Business,2025-04-16,2025-04-19,3,47,Female,Credit Card,Single,0,3.1,Cloth Bag,2025-04-16
+Sourdough,Pastries,"Sugar, Flour, Eggs",1,79,47.4,79,False,Individual,2025-04-15,2025-04-19,4,59,Female,Cash,Bulk,2,3.9,Paper Box,2025-04-15
+Brownie,Cakes,"Baking Powder, Flour, Butter",2,234,140.4,468,False,Individual,2025-04-20,2025-04-26,6,58,Female,UPI,Single,1,3.4,Plastic Wrap,2025-04-20
+Muffin,Pastries,"Flour, Baking Powder, Cocoa",2,53,31.8,106,True,Business,2025-04-17,2025-04-21,4,28,Other,Credit Card,Single,0,4.4,Paper Box,2025-04-17
+Croissant,Pastries,"Sugar, Eggs, Baking Powder",2,88,52.8,176,False,Individual,2025-04-20,2025-04-24,4,37,Other,UPI,Bulk,0,4.6,Plastic Wrap,2025-04-20
+Brownie,Tarts,"Milk, Eggs, Cocoa",1,279,167.4,279,True,Business,2025-04-19,2025-04-22,3,25,Female,Debit Card,Single,2,1.7,Plastic Wrap,2025-04-19
+Fruit Tart,Cakes,"Eggs, Flour, Baking Powder",2,216,129.6,432,True,Individual,2025-04-16,2025-04-20,4,59,Other,Credit Card,Bulk,1,2.2,Cloth Bag,2025-04-16
+Muffin,Cakes,"Cocoa, Eggs, Baking Powder",2,101,60.6,202,False,Individual,2025-04-13,2025-04-19,6,25,Female,Credit Card,Single,2,3.7,Plastic Wrap,2025-04-13
+Brownie,Cupcakes,"Sugar, Milk, Butter",2,219,131.4,438,False,Business,2025-04-10,2025-04-13,3,28,Other,Debit Card,Bulk,1,4.7,Cloth Bag,2025-04-10
+Cheese Pastry,Cupcakes,"Baking Powder, Eggs, Sugar",1,274,164.4,274,False,Family,2025-04-12,2025-04-17,5,59,Other,UPI,Bulk,1,3.9,Paper Box,2025-04-12
+Vanilla Cupcake,Baked Goods,"Cocoa, Sugar, Butter",3,58,34.8,174,False,Business,2025-04-23,2025-04-28,5,31,Other,Cash,Single,1,1.1,Paper Box,2025-04-23
+Muffin,Baked Goods,"Flour, Milk, Sugar",2,123,73.8,246,False,Business,2025-04-12,2025-04-15,3,22,Male,UPI,Single,1,2.5,Cloth Bag,2025-04-12
+Fruit Tart,Baked Goods,"Milk, Eggs, Baking Powder",1,187,112.2,187,True,Family,2025-04-16,2025-04-20,4,56,Other,Cash,Bulk,2,2.9,Plastic Wrap,2025-04-16
+Fruit Tart,Cakes,"Butter, Cocoa, Eggs",1,187,112.2,187,False,Business,2025-04-14,2025-04-18,4,31,Female,Credit Card,Single,0,1.2,Plastic Wrap,2025-04-14
+Fruit Tart,Cakes,"Flour, Milk, Sugar",2,270,162.0,540,True,Individual,2025-04-16,2025-04-22,6,42,Other,Cash,Single,2,2.0,Paper Box,2025-04-16
+Croissant,Cupcakes,"Baking Powder, Milk, Flour",2,212,127.2,424,False,Family,2025-04-23,2025-04-29,6,35,Other,Cash,Single,2,2.0,Cloth Bag,2025-04-23
+Brownie,Pastries,"Sugar, Flour, Milk",2,165,99.0,330,True,Family,2025-04-13,2025-04-17,4,21,Female,Debit Card,Bulk,1,3.8,Cloth Bag,2025-04-13
+Sourdough,Cupcakes,"Eggs, Sugar, Baking Powder",1,249,149.4,249,False,Business,2025-04-14,2025-04-18,4,48,Male,UPI,Single,2,2.6,Plastic Wrap,2025-04-14
+Vanilla Cupcake,Tarts,"Butter, Baking Powder, Sugar",3,224,134.4,672,True,Individual,2025-04-18,2025-04-23,5,55,Male,UPI,Single,2,1.6,Paper Box,2025-04-18
+Muffin,Pastries,"Milk, Eggs, Butter",3,132,79.2,396,True,Individual,2025-04-20,2025-04-23,3,58,Female,UPI,Single,1,4.2,Paper Box,2025-04-20
+Muffin,Cupcakes,"Cocoa, Sugar, Flour",2,221,132.6,442,True,Business,2025-04-10,2025-04-16,6,55,Other,UPI,Single,1,1.2,Paper Box,2025-04-10
+Croissant,Cakes,"Butter, Sugar, Baking Powder",3,291,174.6,873,False,Individual,2025-04-12,2025-04-15,3,37,Male,Credit Card,Single,2,2.7,Paper Box,2025-04-12
+Muffin,Cakes,"Sugar, Milk, Butter",3,264,158.4,792,True,Business,2025-04-24,2025-04-30,6,50,Male,UPI,Single,2,3.2,Cloth Bag,2025-04-24
+Brownie,Cupcakes,"Milk, Cocoa, Sugar",2,59,35.4,118,True,Business,2025-04-22,2025-04-28,6,49,Female,Credit Card,Single,2,3.9,Plastic Wrap,2025-04-22
+Croissant,Cupcakes,"Eggs, Flour, Butter",2,224,134.4,448,False,Individual,2025-04-13,2025-04-16,3,44,Male,Credit Card,Bulk,1,2.9,Paper Box,2025-04-13
+Croissant,Pastries,"Sugar, Butter, Milk",3,88,52.8,264,True,Business,2025-04-18,2025-04-21,3,45,Female,Debit Card,Bulk,1,1.6,Paper Box,2025-04-18
+Muffin,Pastries,"Baking Powder, Flour, Sugar",3,115,69.0,345,False,Individual,2025-04-12,2025-04-16,4,43,Other,Debit Card,Single,2,4.6,Plastic Wrap,2025-04-12
+Muffin,Baked Goods,"Baking Powder, Milk, Sugar",1,227,136.2,227,False,Individual,2025-04-14,2025-04-19,5,33,Male,Credit Card,Bulk,0,4.3,Plastic Wrap,2025-04-14
+Croissant,Baked Goods,"Milk, Flour, Eggs",3,110,66.0,330,False,Individual,2025-04-21,2025-04-25,4,26,Female,Credit Card,Single,1,3.5,Plastic Wrap,2025-04-21
+Brownie,Pastries,"Butter, Eggs, Sugar",1,105,63.0,105,True,Individual,2025-04-14,2025-04-17,3,41,Other,Cash,Bulk,1,4.7,Cloth Bag,2025-04-14
+Cheese Pastry,Cakes,"Flour, Cocoa, Sugar",2,198,118.8,396,True,Family,2025-04-18,2025-04-22,4,30,Female,Debit Card,Bulk,2,1.6,Cloth Bag,2025-04-18
+Fruit Tart,Cakes,"Baking Powder, Milk, Flour",3,137,82.2,411,True,Business,2025-04-14,2025-04-19,5,21,Female,Credit Card,Bulk,1,2.6,Cloth Bag,2025-04-14
+Croissant,Cakes,"Cocoa, Butter, Sugar",3,222,133.2,666,True,Business,2025-04-20,2025-04-25,5,44,Other,Credit Card,Bulk,0,4.5,Plastic Wrap,2025-04-20
+Brownie,Cupcakes,"Cocoa, Milk, Baking Powder",1,130,78.0,130,True,Individual,2025-04-18,2025-04-23,5,48,Male,Debit Card,Bulk,1,3.0,Paper Box,2025-04-18
+Croissant,Pastries,"Cocoa, Sugar, Flour",3,187,112.2,561,False,Individual,2025-04-16,2025-04-19,3,40,Male,Cash,Bulk,0,1.6,Plastic Wrap,2025-04-16
+Cheese Pastry,Cakes,"Eggs, Butter, Sugar",1,189,113.4,189,False,Individual,2025-04-22,2025-04-27,5,54,Male,Credit Card,Single,0,1.3,Paper Box,2025-04-22
+Chocolate Cake,Baked Goods,"Milk, Cocoa, Butter",2,112,67.2,224,True,Business,2025-04-19,2025-04-25,6,25,Female,Debit Card,Bulk,2,1.2,Cloth Bag,2025-04-19
+Cheese Pastry,Pastries,"Flour, Butter, Sugar",2,238,142.8,476,True,Individual,2025-04-15,2025-04-21,6,35,Male,UPI,Single,0,3.1,Plastic Wrap,2025-04-15
+Cheese Pastry,Tarts,"Milk, Butter, Baking Powder",1,257,154.2,257,True,Family,2025-04-10,2025-04-13,3,38,Male,Cash,Bulk,2,5.0,Paper Box,2025-04-10
+Muffin,Tarts,"Milk, Cocoa, Sugar",1,116,69.6,116,True,Family,2025-04-11,2025-04-14,3,24,Other,Cash,Bulk,2,3.8,Paper Box,2025-04-11
+Croissant,Cakes,"Baking Powder, Flour, Cocoa",2,299,179.4,598,True,Family,2025-04-22,2025-04-27,5,25,Male,Cash,Single,2,4.0,Plastic Wrap,2025-04-22
+Vanilla Cupcake,Pastries,"Baking Powder, Butter, Cocoa",1,236,141.6,236,True,Individual,2025-04-13,2025-04-18,5,34,Male,Debit Card,Single,2,3.6,Cloth Bag,2025-04-13
+Croissant,Baked Goods,"Cocoa, Sugar, Butter",1,170,102.0,170,True,Business,2025-04-15,2025-04-21,6,56,Female,Debit Card,Single,1,2.5,Cloth Bag,2025-04-15
+Croissant,Cakes,"Milk, Baking Powder, Butter",3,259,155.4,777,False,Individual,2025-04-19,2025-04-25,6,20,Male,Debit Card,Single,1,3.1,Cloth Bag,2025-04-19
+Fruit Tart,Cakes,"Baking Powder, Flour, Eggs",1,113,67.8,113,False,Business,2025-04-21,2025-04-24,3,22,Female,Credit Card,Single,0,4.2,Cloth Bag,2025-04-21
+Chocolate Cake,Baked Goods,"Milk, Butter, Sugar",2,158,94.8,316,False,Family,2025-04-14,2025-04-17,3,29,Female,Cash,Bulk,2,4.1,Paper Box,2025-04-14
+Fruit Tart,Pastries,"Sugar, Butter, Eggs",2,166,99.6,332,True,Individual,2025-04-10,2025-04-16,6,33,Male,Cash,Single,1,4.5,Cloth Bag,2025-04-10
+Sourdough,Pastries,"Baking Powder, Sugar, Flour",1,60,36.0,60,True,Individual,2025-04-18,2025-04-24,6,54,Female,Cash,Bulk,0,1.2,Paper Box,2025-04-18
+Chocolate Cake,Baked Goods,"Baking Powder, Flour, Milk",2,145,87.0,290,True,Individual,2025-04-13,2025-04-18,5,22,Other,UPI,Bulk,2,4.1,Plastic Wrap,2025-04-13
+Chocolate Cake,Baked Goods,"Milk, Sugar, Butter",2,84,50.4,168,False,Individual,2025-04-24,2025-04-29,5,39,Male,Debit Card,Bulk,2,3.0,Cloth Bag,2025-04-24
+Chocolate Cake,Tarts,"Baking Powder, Flour, Butter",3,201,120.6,603,True,Business,2025-04-15,2025-04-21,6,31,Other,UPI,Bulk,0,4.8,Paper Box,2025-04-15
+Cheese Pastry,Pastries,"Flour, Baking Powder, Butter",3,260,156.0,780,False,Family,2025-04-17,2025-04-22,5,23,Other,Debit Card,Single,1,3.1,Cloth Bag,2025-04-17
+Croissant,Cakes,"Sugar, Flour, Cocoa",2,93,55.8,186,False,Individual,2025-04-14,2025-04-17,3,60,Female,Credit Card,Bulk,0,4.4,Cloth Bag,2025-04-14
+Muffin,Tarts,"Cocoa, Flour, Butter",1,85,51.0,85,False,Family,2025-04-18,2025-04-23,5,34,Male,Cash,Single,0,4.4,Plastic Wrap,2025-04-18
+Brownie,Cakes,"Butter, Sugar, Milk",2,235,141.0,470,True,Family,2025-04-19,2025-04-23,4,44,Male,Credit Card,Single,0,4.2,Paper Box,2025-04-19
+Brownie,Tarts,"Cocoa, Flour, Milk",1,138,82.8,138,True,Family,2025-04-13,2025-04-17,4,26,Female,Cash,Single,1,1.8,Cloth Bag,2025-04-13
+Muffin,Baked Goods,"Butter, Eggs, Baking Powder",2,117,70.2,234,True,Individual,2025-04-13,2025-04-19,6,46,Female,Cash,Single,0,2.2,Plastic Wrap,2025-04-13
+Chocolate Cake,Baked Goods,"Milk, Sugar, Eggs",1,124,74.4,124,False,Individual,2025-04-23,2025-04-27,4,53,Male,Credit Card,Single,1,2.3,Plastic Wrap,2025-04-23
+Muffin,Cakes,"Baking Powder, Milk, Eggs",2,260,156.0,520,False,Business,2025-04-23,2025-04-27,4,33,Female,Cash,Bulk,1,2.6,Cloth Bag,2025-04-23
+Sourdough,Pastries,"Eggs, Flour, Milk",1,300,180.0,300,False,Family,2025-04-10,2025-04-13,3,39,Female,Credit Card,Bulk,2,4.4,Cloth Bag,2025-04-10
+Cheese Pastry,Cakes,"Butter, Baking Powder, Sugar",3,244,146.4,732,True,Individual,2025-04-21,2025-04-24,3,28,Other,Debit Card,Bulk,0,3.9,Cloth Bag,2025-04-21
+Fruit Tart,Baked Goods,"Flour, Cocoa, Sugar",3,286,171.6,858,True,Individual,2025-04-13,2025-04-19,6,18,Female,Cash,Bulk,1,2.3,Cloth Bag,2025-04-13
+Brownie,Cakes,"Baking Powder, Cocoa, Butter",3,211,126.6,633,True,Individual,2025-04-15,2025-04-21,6,33,Male,Cash,Single,1,3.4,Plastic Wrap,2025-04-15
+Vanilla Cupcake,Cakes,"Cocoa, Milk, Flour",3,62,37.2,186,False,Family,2025-04-10,2025-04-15,5,57,Female,Debit Card,Single,2,4.3,Paper Box,2025-04-10
+Muffin,Cupcakes,"Butter, Flour, Eggs",2,120,72.0,240,True,Business,2025-04-10,2025-04-16,6,40,Female,Debit Card,Bulk,2,4.6,Paper Box,2025-04-10
+Croissant,Cakes,"Baking Powder, Sugar, Butter",3,115,69.0,345,True,Family,2025-04-10,2025-04-13,3,52,Male,Credit Card,Single,1,3.0,Paper Box,2025-04-10
+Vanilla Cupcake,Cakes,"Butter, Cocoa, Flour",1,82,49.2,82,False,Individual,2025-04-15,2025-04-20,5,51,Female,Credit Card,Single,2,1.6,Cloth Bag,2025-04-15
+Chocolate Cake,Pastries,"Baking Powder, Flour, Butter",2,91,54.6,182,False,Business,2025-04-18,2025-04-22,4,34,Other,Debit Card,Single,2,1.1,Cloth Bag,2025-04-18
+Vanilla Cupcake,Baked Goods,"Milk, Butter, Sugar",3,157,94.2,471,True,Family,2025-04-22,2025-04-25,3,50,Female,Credit Card,Bulk,2,4.1,Plastic Wrap,2025-04-22
+Sourdough,Baked Goods,"Baking Powder, Cocoa, Milk",1,190,114.0,190,False,Family,2025-04-11,2025-04-14,3,18,Female,Debit Card,Bulk,0,2.7,Plastic Wrap,2025-04-11
+Cheese Pastry,Pastries,"Cocoa, Sugar, Milk",1,241,144.6,241,False,Family,2025-04-17,2025-04-23,6,25,Female,UPI,Single,1,1.2,Paper Box,2025-04-17
+Chocolate Cake,Pastries,"Cocoa, Flour, Butter",1,77,46.2,77,False,Individual,2025-04-24,2025-04-28,4,46,Female,UPI,Single,0,2.2,Paper Box,2025-04-24
+Vanilla Cupcake,Baked Goods,"Milk, Flour, Sugar",1,165,99.0,165,False,Business,2025-04-23,2025-04-26,3,34,Other,UPI,Single,0,2.9,Paper Box,2025-04-23
+Cheese Pastry,Cakes,"Sugar, Milk, Cocoa",1,124,74.4,124,True,Family,2025-04-21,2025-04-25,4,37,Male,Debit Card,Single,0,3.0,Cloth Bag,2025-04-21
+Croissant,Cakes,"Milk, Sugar, Eggs",3,191,114.6,573,False,Family,2025-04-22,2025-04-25,3,19,Other,Debit Card,Single,2,1.4,Paper Box,2025-04-22
+Fruit Tart,Cakes,"Flour, Cocoa, Butter",3,186,111.6,558,True,Individual,2025-04-14,2025-04-20,6,58,Female,Cash,Single,1,1.0,Cloth Bag,2025-04-14
+Cheese Pastry,Baked Goods,"Butter, Flour, Eggs",3,288,172.8,864,False,Business,2025-04-11,2025-04-15,4,44,Male,Cash,Bulk,2,1.3,Cloth Bag,2025-04-11
+Croissant,Cupcakes,"Flour, Milk, Butter",2,211,126.6,422,True,Family,2025-04-20,2025-04-26,6,28,Other,Cash,Single,0,4.3,Plastic Wrap,2025-04-20
+Vanilla Cupcake,Pastries,"Milk, Baking Powder, Butter",2,224,134.4,448,True,Individual,2025-04-14,2025-04-20,6,56,Male,Debit Card,Bulk,2,2.6,Plastic Wrap,2025-04-14
+Vanilla Cupcake,Cupcakes,"Flour, Milk, Butter",2,136,81.6,272,False,Individual,2025-04-24,2025-04-27,3,27,Female,Cash,Bulk,0,1.1,Cloth Bag,2025-04-24
+Fruit Tart,Cakes,"Milk, Butter, Baking Powder",3,65,39.0,195,False,Individual,2025-04-23,2025-04-29,6,60,Other,Cash,Bulk,0,3.8,Plastic Wrap,2025-04-23
+Vanilla Cupcake,Pastries,"Butter, Milk, Sugar",3,113,67.8,339,False,Business,2025-04-21,2025-04-24,3,52,Other,Debit Card,Single,1,3.4,Paper Box,2025-04-21
+Cheese Pastry,Cakes,"Cocoa, Butter, Flour",1,280,168.0,280,True,Individual,2025-04-15,2025-04-21,6,32,Female,Debit Card,Single,0,3.1,Paper Box,2025-04-15
+Chocolate Cake,Cakes,"Flour, Cocoa, Eggs",1,253,151.8,253,False,Individual,2025-04-13,2025-04-19,6,22,Male,Credit Card,Bulk,1,3.5,Cloth Bag,2025-04-13
+Sourdough,Cakes,"Butter, Milk, Baking Powder",3,57,34.2,171,False,Business,2025-04-23,2025-04-28,5,34,Male,Credit Card,Bulk,1,1.7,Paper Box,2025-04-23
+Chocolate Cake,Baked Goods,"Baking Powder, Sugar, Cocoa",2,136,81.6,272,False,Family,2025-04-24,2025-04-30,6,46,Female,Cash,Bulk,2,4.2,Plastic Wrap,2025-04-24
+Brownie,Baked Goods,"Milk, Cocoa, Flour",3,128,76.8,384,True,Business,2025-04-17,2025-04-22,5,21,Male,Credit Card,Bulk,1,1.0,Paper Box,2025-04-17
+Croissant,Baked Goods,"Milk, Butter, Flour",2,104,62.4,208,True,Individual,2025-04-22,2025-04-26,4,45,Male,UPI,Bulk,0,2.7,Cloth Bag,2025-04-22
+Vanilla Cupcake,Tarts,"Eggs, Flour, Milk",1,68,40.8,68,False,Business,2025-04-19,2025-04-25,6,48,Male,Debit Card,Bulk,1,4.4,Plastic Wrap,2025-04-19
+Muffin,Cakes,"Sugar, Flour, Cocoa",1,147,88.2,147,True,Business,2025-04-12,2025-04-16,4,29,Other,Cash,Single,1,2.1,Paper Box,2025-04-12
+Vanilla Cupcake,Tarts,"Baking Powder, Cocoa, Flour",1,259,155.4,259,True,Family,2025-04-24,2025-04-29,5,23,Other,UPI,Single,0,3.6,Paper Box,2025-04-24
+Fruit Tart,Baked Goods,"Butter, Baking Powder, Eggs",3,190,114.0,570,True,Individual,2025-04-13,2025-04-19,6,37,Male,Cash,Bulk,0,3.6,Paper Box,2025-04-13
+Brownie,Pastries,"Sugar, Milk, Flour",1,248,148.8,248,False,Individual,2025-04-12,2025-04-16,4,32,Other,Credit Card,Single,0,4.8,Plastic Wrap,2025-04-12
+Sourdough,Cakes,"Butter, Sugar, Flour",2,58,34.8,116,True,Family,2025-04-16,2025-04-21,5,38,Male,Cash,Single,0,4.2,Plastic Wrap,2025-04-16
+Croissant,Baked Goods,"Butter, Sugar, Flour",2,107,64.2,214,True,Family,2025-04-15,2025-04-20,5,35,Other,Credit Card,Single,1,3.4,Plastic Wrap,2025-04-15
+Croissant,Tarts,"Cocoa, Flour, Eggs",2,127,76.2,254,True,Family,2025-04-22,2025-04-25,3,48,Male,Debit Card,Single,0,4.8,Cloth Bag,2025-04-22
+Vanilla Cupcake,Cakes,"Flour, Cocoa, Baking Powder",1,147,88.2,147,True,Family,2025-04-21,2025-04-27,6,60,Female,Credit Card,Single,0,4.8,Plastic Wrap,2025-04-21
+Sourdough,Cakes,"Eggs, Sugar, Milk",3,129,77.4,387,False,Business,2025-04-17,2025-04-21,4,43,Female,Debit Card,Bulk,1,2.2,Paper Box,2025-04-17
+Chocolate Cake,Baked Goods,"Baking Powder, Sugar, Eggs",1,119,71.4,119,True,Business,2025-04-22,2025-04-25,3,49,Male,Debit Card,Single,2,1.9,Plastic Wrap,2025-04-22
+Muffin,Baked Goods,"Flour, Butter, Sugar",3,164,98.4,492,True,Individual,2025-04-14,2025-04-18,4,45,Female,Cash,Single,2,4.1,Cloth Bag,2025-04-14
+Cheese Pastry,Pastries,"Cocoa, Milk, Flour",2,142,85.2,284,False,Individual,2025-04-24,2025-04-28,4,52,Male,Credit Card,Bulk,2,4.9,Paper Box,2025-04-24
+Fruit Tart,Pastries,"Milk, Cocoa, Butter",3,126,75.6,378,False,Family,2025-04-22,2025-04-25,3,23,Female,Debit Card,Bulk,1,3.3,Cloth Bag,2025-04-22
+Muffin,Baked Goods,"Butter, Milk, Flour",2,261,156.6,522,False,Individual,2025-04-23,2025-04-29,6,38,Other,Credit Card,Bulk,2,3.5,Plastic Wrap,2025-04-23
+Croissant,Baked Goods,"Eggs, Sugar, Milk",1,249,149.4,249,True,Family,2025-04-19,2025-04-24,5,33,Male,UPI,Single,1,1.5,Cloth Bag,2025-04-19
+Brownie,Cupcakes,"Sugar, Cocoa, Flour",2,110,66.0,220,True,Business,2025-04-19,2025-04-22,3,28,Female,UPI,Single,0,2.2,Paper Box,2025-04-19
+Croissant,Cakes,"Flour, Cocoa, Butter",1,131,78.6,131,True,Family,2025-04-24,2025-04-27,3,38,Male,Cash,Single,0,1.2,Plastic Wrap,2025-04-24
+Croissant,Pastries,"Sugar, Flour, Milk",2,214,128.4,428,True,Individual,2025-04-22,2025-04-28,6,35,Male,Credit Card,Single,0,4.3,Paper Box,2025-04-22
