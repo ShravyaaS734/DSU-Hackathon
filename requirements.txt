@@ -1,0 +1,8 @@
+flask
+pandas
+matplotlib
+streamlit
+sqlite3
+profit
+numpy
+werkzeug.security
