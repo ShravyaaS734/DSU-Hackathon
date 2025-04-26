@@ -10,3 +10,4 @@ streamlit
 requests
 google-generativeai
 python-dateutil
+seaborn
